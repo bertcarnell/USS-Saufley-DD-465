@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="dataroot">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="source" minOccurs="1" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="source">
+        <xsd:complexType>
+            <xsd:all>
+                <xsd:element name="name" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+                <xsd:element name="type" minOccurs="1" maxOccurs="1" type="_sourcetype"/>
+                <xsd:element name="date" minOccurs="1" maxOccurs="1" type="xsd:int"/>
+                <xsd:element name="url" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+                <xsd:element name="directory" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+                <xsd:element name="images" minOccurs="1" type="_images"/>
+            </xsd:all>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:simpleType name="_sourcetype">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="War Diary"/>
+            <xsd:enumeration value="After Action"/>
+            <xsd:enumeration value="War History"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:complexType name="_images">
+      <xsd:sequence>
+        <xsd:element name="image" minOccurs="1" maxOccurs="unbounded" type="_image"/>
+      </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="_image">
+      <xsd:all>
+        <xsd:element name="file" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+        <xsd:element name="items" minOccurs="0" maxOccurs="1" type="_items"/>
+      </xsd:all>
+    </xsd:complexType>
+    <xsd:complexType name="_items">
+      <xsd:sequence>
+        <xsd:element name="item" minOccurs="1" maxOccurs="unbounded" type="_item"/>
+      </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="_item">
+      <xsd:sequence>
+        <xsd:element name="date" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+        <xsd:element name="description" minOccurs="0" maxOccurs="1" type="xsd:string"/>
+        <xsd:element name="posit" minOccurs="0" maxOccurs="unbounded" type="_posit"/>
+      </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="_posit">
+      <xsd:attribute name="time" type="_time" use="required"/>
+      <xsd:attribute name="lat" type="_latitude" use="required"/>
+      <xsd:attribute name="lon" type="_longitude" use="required"/>
+    </xsd:complexType>
+    <xsd:simpleType  name="_time">
+      <xsd:restriction base="xsd:string">
+        <xsd:pattern value="\s*|([0-9][0-9][0-9][0-9])"/>
+      </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:simpleType name="_latitude">
+      <xsd:restriction base="xsd:string">
+        <xsd:pattern value="\s*|([0-9][0-9]-[0-9][0-9]-[0-9][0-9][ ][NS])"/>
+      </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:simpleType name="_longitude">
+      <xsd:restriction base="xsd:string">
+        <xsd:pattern value="\s*|([0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9][ ][EW])"/>
+      </xsd:restriction>
+    </xsd:simpleType>
+</xsd:schema>
