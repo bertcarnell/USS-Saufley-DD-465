@@ -625,7 +625,7 @@ my_kml_layer_sfc_LINESTRING <- function(
 ## Output KML Layers
 
 ```{r plot-kml, echo=FALSE, message=FALSE}
-include_series <- c(1, 37, 38, 39, 41)
+include_series <- c(1, 14, 37, 38, 39, 40, 41)
 
 # need to put the include_series in date order
 first_dates <- do.call("c", lapply(include_series, function(z) latlon[[z]]$date[1]))
