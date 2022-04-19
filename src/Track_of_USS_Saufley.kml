@@ -1,0 +1,81 @@
+<kml xmlns:xsd="https://schemas.opengis.net/kml/2.2.0/ogckml22.xsd" xmlns:xmlns="https://www.opengis.net/kml/2.2/" version="1.0">
+	<Document>
+		<name>WWII Track of the USS Saufley DD-465</name>
+		<visibility>1</visibility>
+		<open>1</open>
+		<atom:author>Rob Carnell</atom:author>
+		<atom:link href="https://github.com/bertcarnell/USS-Saufely-DD-465"/>
+		<description>The track of the USS Saufley DD-465 based on War Diaries, Action Reports, and the ship's history.</description>
+		<TimeSpan>
+			<begin>1942-01-01T00:00:00Z</begin>
+			<end>1945-12-31T23:59:59Z</end>
+		</TimeSpan>
+		
+		<!--- Add dummy locations to get the timeline set to the range -->
+		<Folder>
+			<name>Misc</name>
+			<open>0</open>
+			<Placemark>
+				<name>start</name>
+				<visibility>0</visibility>
+				<open>0</open>
+				<TimeSpan>
+					<begin>1942-01-01T00:00:00Z</begin>
+					<end>1942-01-01T00:01:00Z</end>
+				</TimeSpan>
+				<description>Start</description>
+				<Point>
+					<extrude>0</extrude>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>176.35000,-22.45000,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>end</name>
+				<visibility>0</visibility>
+				<open>0</open>
+				<TimeSpan>
+					<begin>1945-12-31T23:58:59Z</begin>
+					<end>1945-12-31T23:59:59Z</end>
+				</TimeSpan>
+				<description>end</description>
+				<Point>
+					<extrude>0</extrude>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>120.0,30.3,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+
+		<NetworkLink>
+			<name>1942 Track</name>
+			<TimeSpan>
+				<begin>1942-01-01T00:00:00Z</begin>
+				<end>1942-12-31T23:59:59Z</end>
+			</TimeSpan>
+			<Link>
+			  <href>kml/test1942.kml </href>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>1943 Track</name>
+			<TimeSpan>
+				<begin>1943-01-01T00:00:00Z</begin>
+				<end>1943-12-31T23:59:59Z</end>
+			</TimeSpan>
+			<Link>
+			  <href>kml/test1943.kml </href>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>1945 Track</name>
+			<TimeSpan>
+				<begin>1945-01-01T00:00:00Z</begin>
+				<end>1945-12-31T23:59:59Z</end>
+			</TimeSpan>
+			<Link>
+			  <href>kml/test1945.kml </href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
