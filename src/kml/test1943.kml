@@ -437,8 +437,10 @@
 <div align="center">4 January 1943</div>
 <div>Proceeding in company with U.S.S. HOLBROOK.  Course 090.
 Speed 16.</div>
-<div>0600 Changed course to 145.</div>
-<div>1315 Changed course to 143.</div>
+<ul>
+<li>0600 Changed course to 145.</li>
+<li>1315 Changed course to 143.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -459,8 +461,10 @@ Speed 16.</div>
 <div align="center">4 January 1943</div>
 <div>Proceeding in company with U.S.S. HOLBROOK.  Course 090.
 Speed 16.</div>
-<div>0600 Changed course to 145.</div>
-<div>1315 Changed course to 143.</div>
+<ul>
+<li>0600 Changed course to 145.</li>
+<li>1315 Changed course to 143.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -481,8 +485,10 @@ Speed 16.</div>
 <div align="center">4 January 1943</div>
 <div>Proceeding in company with U.S.S. HOLBROOK.  Course 090.
 Speed 16.</div>
-<div>0600 Changed course to 145.</div>
-<div>1315 Changed course to 143.</div>
+<ul>
+<li>0600 Changed course to 145.</li>
+<li>1315 Changed course to 143.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -503,12 +509,14 @@ Speed 16.</div>
 <div align="center">5 January 1943</div>
 <div>Proceeding in company with U.S.S. HOLBROOK, course 143.
 Speed 16.</div>
-<div>0528 Sunrise.</div>
-<div>0800 change course to 180.</div>
-<div>1235 Anchored in Espiritu Santos.  Task Unit 62.4.3 dissolved.
-Captain Peyton and Staff left the ship.</div>
-<div>1300 Reported to Task Force 67.</div>
-<div>Sunset.</div>
+<ul>
+<li>0528 Sunrise.</li>
+<li>0800 change course to 180.</li>
+<li>1235 Anchored in Espiritu Santos.  Task Unit 62.4.3 dissolved.
+Captain Peyton and Staff left the ship.</li>
+<li>1300 Reported to Task Force 67.</li>
+<li>Sunset.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -529,13 +537,15 @@ Captain Peyton and Staff left the ship.</div>
 <div align="center">12 January 1943</div>
 <div>Anchored in Espiritu Santos with ready duty - TASK CAST of
 Harbor Defense Plan No. 2.</div>
-<div>0600 Detached from TASK FORCE SIXTY-SEVEN.  Underway in compliance
+<ul>
+<li>0600 Detached from TASK FORCE SIXTY-SEVEN.  Underway in compliance
 with ComSoPac 110032 January.  To report to Task
-Force Eleven, Noumea, New Caledonia.</div>
-<div>0800 Course 199.  Speed 21.</div>
-<div>0853 Changed course to 167.</div>
-<div>1833 Sunset.</div>
-<div>2007 Changed course to 164.</div>
+Force Eleven, Noumea, New Caledonia.</li>
+<li>0800 Course 199.  Speed 21.</li>
+<li>0853 Changed course to 167.</li>
+<li>1833 Sunset.</li>
+<li>2007 Changed course to 164.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -556,13 +566,15 @@ Force Eleven, Noumea, New Caledonia.</div>
 <div align="center">12 January 1943</div>
 <div>Anchored in Espiritu Santos with ready duty - TASK CAST of
 Harbor Defense Plan No. 2.</div>
-<div>0600 Detached from TASK FORCE SIXTY-SEVEN.  Underway in compliance
+<ul>
+<li>0600 Detached from TASK FORCE SIXTY-SEVEN.  Underway in compliance
 with ComSoPac 110032 January.  To report to Task
-Force Eleven, Noumea, New Caledonia.</div>
-<div>0800 Course 199.  Speed 21.</div>
-<div>0853 Changed course to 167.</div>
-<div>1833 Sunset.</div>
-<div>2007 Changed course to 164.</div>
+Force Eleven, Noumea, New Caledonia.</li>
+<li>0800 Course 199.  Speed 21.</li>
+<li>0853 Changed course to 167.</li>
+<li>1833 Sunset.</li>
+<li>2007 Changed course to 164.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -582,20 +594,22 @@ Force Eleven, Noumea, New Caledonia.</div>
 
 <div align="center">21 January 1943</div>
 <div>Anchored in Noumea Harbor, New Caledonia.</div>
-<div>0510 Task Force ELEVEN consisting of SARATOGA (Commander
+<ul>
+<li>0510 Task Force ELEVEN consisting of SARATOGA (Commander
 Task Force ELEVEN - Rear Admiral D. C. Ramsey) SAN JUAN,
 SAUFLEY (Commander Destroyer Squadron SIX), CRAVEN, MAURY,
 MCCALL, less GRIDLEY, CASE, plus FANNING underway in
 accordance with ComSoPac operation 1-43 and ComTaskFor
-ELEVEN order 1-43.</div>
-<div>0837 Formed special disposition 11, course and axis 270 (T).</div>
-<div>0854 Fleet speed 15 knots.</div>
-<div>1000 Changed course and axis to 315 (T).</div>
-<div>1010 Carrier based planes conducted simulated torpedo plane
-attack on disposition.</div>
-<div>1204 Changed course and axis to 300 (T).</div>
-<div>1847 Sunset.</div>
-<div>2100 Changed course and axis to 335 (T).</div>
+ELEVEN order 1-43.</li>
+<li>0837 Formed special disposition 11, course and axis 270 (T).</li>
+<li>0854 Fleet speed 15 knots.</li>
+<li>1000 Changed course and axis to 315 (T).</li>
+<li>1010 Carrier based planes conducted simulated torpedo plane
+attack on disposition.</li>
+<li>1204 Changed course and axis to 300 (T).</li>
+<li>1847 Sunset.</li>
+<li>2100 Changed course and axis to 335 (T).</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -615,20 +629,22 @@ attack on disposition.</div>
 
 <div align="center">21 January 1943</div>
 <div>Anchored in Noumea Harbor, New Caledonia.</div>
-<div>0510 Task Force ELEVEN consisting of SARATOGA (Commander
+<ul>
+<li>0510 Task Force ELEVEN consisting of SARATOGA (Commander
 Task Force ELEVEN - Rear Admiral D. C. Ramsey) SAN JUAN,
 SAUFLEY (Commander Destroyer Squadron SIX), CRAVEN, MAURY,
 MCCALL, less GRIDLEY, CASE, plus FANNING underway in
 accordance with ComSoPac operation 1-43 and ComTaskFor
-ELEVEN order 1-43.</div>
-<div>0837 Formed special disposition 11, course and axis 270 (T).</div>
-<div>0854 Fleet speed 15 knots.</div>
-<div>1000 Changed course and axis to 315 (T).</div>
-<div>1010 Carrier based planes conducted simulated torpedo plane
-attack on disposition.</div>
-<div>1204 Changed course and axis to 300 (T).</div>
-<div>1847 Sunset.</div>
-<div>2100 Changed course and axis to 335 (T).</div>
+ELEVEN order 1-43.</li>
+<li>0837 Formed special disposition 11, course and axis 270 (T).</li>
+<li>0854 Fleet speed 15 knots.</li>
+<li>1000 Changed course and axis to 315 (T).</li>
+<li>1010 Carrier based planes conducted simulated torpedo plane
+attack on disposition.</li>
+<li>1204 Changed course and axis to 300 (T).</li>
+<li>1847 Sunset.</li>
+<li>2100 Changed course and axis to 335 (T).</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -649,19 +665,21 @@ attack on disposition.</div>
 <div align="center">22 January 1943</div>
 <div>Proceeding in company with Task Force ELEVEN on course and axis
 300 (T), speed 15 knots, in special cruising disposition 11.</div>
-<div>0500 Sunrise.</div>
-<div>0830 Carrier based planes conducted a simulated dive-bombing
-attack on disposition.</div>
-<div>1023 Conducted practice firing of 5" guns on smoke floats
-dropped by plane-floats simulating submarine periscope.</div>
-<div>1130 Conducted practice firing 20MM guns on sleeve target
-towed by carrier based plane.</div>
-<div>1203 Changed course and axis to 355 (T).</div>
-<div>1330 Conducted practice firing of 20MM and 40MM guns on
-sleeve target towed by carrier based plane.</div>
-<div>1337 Formed special cruising disposition 11.</div>
-<div>1850 Sunset.</div>
-<div>2100 Changed course and axis to 343 (T)</div>
+<ul>
+<li>0500 Sunrise.</li>
+<li>0830 Carrier based planes conducted a simulated dive-bombing
+attack on disposition.</li>
+<li>1023 Conducted practice firing of 5" guns on smoke floats
+dropped by plane-floats simulating submarine periscope.</li>
+<li>1130 Conducted practice firing 20MM guns on sleeve target
+towed by carrier based plane.</li>
+<li>1203 Changed course and axis to 355 (T).</li>
+<li>1330 Conducted practice firing of 20MM and 40MM guns on
+sleeve target towed by carrier based plane.</li>
+<li>1337 Formed special cruising disposition 11.</li>
+<li>1850 Sunset.</li>
+<li>2100 Changed course and axis to 343 (T)</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -682,19 +700,21 @@ sleeve target towed by carrier based plane.</div>
 <div align="center">22 January 1943</div>
 <div>Proceeding in company with Task Force ELEVEN on course and axis
 300 (T), speed 15 knots, in special cruising disposition 11.</div>
-<div>0500 Sunrise.</div>
-<div>0830 Carrier based planes conducted a simulated dive-bombing
-attack on disposition.</div>
-<div>1023 Conducted practice firing of 5" guns on smoke floats
-dropped by plane-floats simulating submarine periscope.</div>
-<div>1130 Conducted practice firing 20MM guns on sleeve target
-towed by carrier based plane.</div>
-<div>1203 Changed course and axis to 355 (T).</div>
-<div>1330 Conducted practice firing of 20MM and 40MM guns on
-sleeve target towed by carrier based plane.</div>
-<div>1337 Formed special cruising disposition 11.</div>
-<div>1850 Sunset.</div>
-<div>2100 Changed course and axis to 343 (T)</div>
+<ul>
+<li>0500 Sunrise.</li>
+<li>0830 Carrier based planes conducted a simulated dive-bombing
+attack on disposition.</li>
+<li>1023 Conducted practice firing of 5" guns on smoke floats
+dropped by plane-floats simulating submarine periscope.</li>
+<li>1130 Conducted practice firing 20MM guns on sleeve target
+towed by carrier based plane.</li>
+<li>1203 Changed course and axis to 355 (T).</li>
+<li>1330 Conducted practice firing of 20MM and 40MM guns on
+sleeve target towed by carrier based plane.</li>
+<li>1337 Formed special cruising disposition 11.</li>
+<li>1850 Sunset.</li>
+<li>2100 Changed course and axis to 343 (T)</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -715,19 +735,21 @@ sleeve target towed by carrier based plane.</div>
 <div align="center">22 January 1943</div>
 <div>Proceeding in company with Task Force ELEVEN on course and axis
 300 (T), speed 15 knots, in special cruising disposition 11.</div>
-<div>0500 Sunrise.</div>
-<div>0830 Carrier based planes conducted a simulated dive-bombing
-attack on disposition.</div>
-<div>1023 Conducted practice firing of 5" guns on smoke floats
-dropped by plane-floats simulating submarine periscope.</div>
-<div>1130 Conducted practice firing 20MM guns on sleeve target
-towed by carrier based plane.</div>
-<div>1203 Changed course and axis to 355 (T).</div>
-<div>1330 Conducted practice firing of 20MM and 40MM guns on
-sleeve target towed by carrier based plane.</div>
-<div>1337 Formed special cruising disposition 11.</div>
-<div>1850 Sunset.</div>
-<div>2100 Changed course and axis to 343 (T)</div>
+<ul>
+<li>0500 Sunrise.</li>
+<li>0830 Carrier based planes conducted a simulated dive-bombing
+attack on disposition.</li>
+<li>1023 Conducted practice firing of 5" guns on smoke floats
+dropped by plane-floats simulating submarine periscope.</li>
+<li>1130 Conducted practice firing 20MM guns on sleeve target
+towed by carrier based plane.</li>
+<li>1203 Changed course and axis to 355 (T).</li>
+<li>1330 Conducted practice firing of 20MM and 40MM guns on
+sleeve target towed by carrier based plane.</li>
+<li>1337 Formed special cruising disposition 11.</li>
+<li>1850 Sunset.</li>
+<li>2100 Changed course and axis to 343 (T)</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -748,16 +770,18 @@ sleeve target towed by carrier based plane.</div>
 <div align="center">23 January 1943</div>
 <div>Proceeding in company with Task Force 11 on course and axis
 343 (T), speed 22 knots, in special cruising disposition 11.</div>
-<div>0601 Sunrise.</div>
-<div>0630 U.S.S. CASE joined formation.  Formed special cruising
-disposition 11S.</div>
-<div>0639 Changed course and axis to 135 (T).</div>
-<div>0800 Changed speed to 20 knots.  Conducted exercises 1 DS
-and 5 B.</div>
-<div>1300 Conducted special exercise 17 - off-set firing.</div>
-<div>1412 Sighted friendly PBY bearing 337 (T), distance 10 miles.</div>
-<div>1813 Changed course and axis to 230 (T).</div>
-<div>1840 Sunset.</div>
+<ul>
+<li>0601 Sunrise.</li>
+<li>0630 U.S.S. CASE joined formation.  Formed special cruising
+disposition 11S.</li>
+<li>0639 Changed course and axis to 135 (T).</li>
+<li>0800 Changed speed to 20 knots.  Conducted exercises 1 DS
+and 5 B.</li>
+<li>1300 Conducted special exercise 17 - off-set firing.</li>
+<li>1412 Sighted friendly PBY bearing 337 (T), distance 10 miles.</li>
+<li>1813 Changed course and axis to 230 (T).</li>
+<li>1840 Sunset.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -778,16 +802,18 @@ and 5 B.</div>
 <div align="center">23 January 1943</div>
 <div>Proceeding in company with Task Force 11 on course and axis
 343 (T), speed 22 knots, in special cruising disposition 11.</div>
-<div>0601 Sunrise.</div>
-<div>0630 U.S.S. CASE joined formation.  Formed special cruising
-disposition 11S.</div>
-<div>0639 Changed course and axis to 135 (T).</div>
-<div>0800 Changed speed to 20 knots.  Conducted exercises 1 DS
-and 5 B.</div>
-<div>1300 Conducted special exercise 17 - off-set firing.</div>
-<div>1412 Sighted friendly PBY bearing 337 (T), distance 10 miles.</div>
-<div>1813 Changed course and axis to 230 (T).</div>
-<div>1840 Sunset.</div>
+<ul>
+<li>0601 Sunrise.</li>
+<li>0630 U.S.S. CASE joined formation.  Formed special cruising
+disposition 11S.</li>
+<li>0639 Changed course and axis to 135 (T).</li>
+<li>0800 Changed speed to 20 knots.  Conducted exercises 1 DS
+and 5 B.</li>
+<li>1300 Conducted special exercise 17 - off-set firing.</li>
+<li>1412 Sighted friendly PBY bearing 337 (T), distance 10 miles.</li>
+<li>1813 Changed course and axis to 230 (T).</li>
+<li>1840 Sunset.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -808,16 +834,18 @@ and 5 B.</div>
 <div align="center">23 January 1943</div>
 <div>Proceeding in company with Task Force 11 on course and axis
 343 (T), speed 22 knots, in special cruising disposition 11.</div>
-<div>0601 Sunrise.</div>
-<div>0630 U.S.S. CASE joined formation.  Formed special cruising
-disposition 11S.</div>
-<div>0639 Changed course and axis to 135 (T).</div>
-<div>0800 Changed speed to 20 knots.  Conducted exercises 1 DS
-and 5 B.</div>
-<div>1300 Conducted special exercise 17 - off-set firing.</div>
-<div>1412 Sighted friendly PBY bearing 337 (T), distance 10 miles.</div>
-<div>1813 Changed course and axis to 230 (T).</div>
-<div>1840 Sunset.</div>
+<ul>
+<li>0601 Sunrise.</li>
+<li>0630 U.S.S. CASE joined formation.  Formed special cruising
+disposition 11S.</li>
+<li>0639 Changed course and axis to 135 (T).</li>
+<li>0800 Changed speed to 20 knots.  Conducted exercises 1 DS
+and 5 B.</li>
+<li>1300 Conducted special exercise 17 - off-set firing.</li>
+<li>1412 Sighted friendly PBY bearing 337 (T), distance 10 miles.</li>
+<li>1813 Changed course and axis to 230 (T).</li>
+<li>1840 Sunset.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -838,17 +866,19 @@ and 5 B.</div>
 <div align="center">24 January 1943</div>
 <div>Proceeding with Task Force 11 on course and axis 230 (T),
 speed 20 knots, in special cruising dispositions 11S.</div>
-<div>0100 Changed course and axis to 338 (T).</div>
-<div>0547 Sunrise.</div>
-<div>0800 Conducted exercises 1D and 5B.</div>
-<div>1046 Changed course and axis to 015 (T).</div>
-<div>1609 Changed course and axis to 125 (T).</div>
-<div>1734 Changed course and axis to 150 (T).</div>
-<div>1751 Changed course and axis to 220 (T).</div>
-<div>1756 Changed course and axis to 310 (T).</div>
-<div>1823 Changed course to 150 (T).</div>
-<div>1846 Sunset.</div>
-<div>2030 Changed course and axis to 190 (T).</div>
+<ul>
+<li>0100 Changed course and axis to 338 (T).</li>
+<li>0547 Sunrise.</li>
+<li>0800 Conducted exercises 1D and 5B.</li>
+<li>1046 Changed course and axis to 015 (T).</li>
+<li>1609 Changed course and axis to 125 (T).</li>
+<li>1734 Changed course and axis to 150 (T).</li>
+<li>1751 Changed course and axis to 220 (T).</li>
+<li>1756 Changed course and axis to 310 (T).</li>
+<li>1823 Changed course to 150 (T).</li>
+<li>1846 Sunset.</li>
+<li>2030 Changed course and axis to 190 (T).</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -869,17 +899,19 @@ speed 20 knots, in special cruising dispositions 11S.</div>
 <div align="center">24 January 1943</div>
 <div>Proceeding with Task Force 11 on course and axis 230 (T),
 speed 20 knots, in special cruising dispositions 11S.</div>
-<div>0100 Changed course and axis to 338 (T).</div>
-<div>0547 Sunrise.</div>
-<div>0800 Conducted exercises 1D and 5B.</div>
-<div>1046 Changed course and axis to 015 (T).</div>
-<div>1609 Changed course and axis to 125 (T).</div>
-<div>1734 Changed course and axis to 150 (T).</div>
-<div>1751 Changed course and axis to 220 (T).</div>
-<div>1756 Changed course and axis to 310 (T).</div>
-<div>1823 Changed course to 150 (T).</div>
-<div>1846 Sunset.</div>
-<div>2030 Changed course and axis to 190 (T).</div>
+<ul>
+<li>0100 Changed course and axis to 338 (T).</li>
+<li>0547 Sunrise.</li>
+<li>0800 Conducted exercises 1D and 5B.</li>
+<li>1046 Changed course and axis to 015 (T).</li>
+<li>1609 Changed course and axis to 125 (T).</li>
+<li>1734 Changed course and axis to 150 (T).</li>
+<li>1751 Changed course and axis to 220 (T).</li>
+<li>1756 Changed course and axis to 310 (T).</li>
+<li>1823 Changed course to 150 (T).</li>
+<li>1846 Sunset.</li>
+<li>2030 Changed course and axis to 190 (T).</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -901,14 +933,16 @@ speed 20 knots, in special cruising dispositions 11S.</div>
 <div>Proceeding in company with Task Force ELEVEN on course and
 axis 190 (T), speed 20 knots, in special cruising disposition
 11S.</div>
-<div>0547 Sunrise.</div>
-<div>0902 Changed course and axis to 155 (T).</div>
-<div>1430 U.S.S. CRAVEN left formation; engineering casualty.</div>
-<div>1612 U.S.S. MAURY accompanied CRAVEN.</div>
-<div>1614 Formed special cruising disposition 11.</div>
-<div>1852 Sunset.</div>
-<div>1930 Changed course and axis to 127 (T).</div>
-<div>1942 CRAVEN and MAURY rejoined formation.</div>
+<ul>
+<li>0547 Sunrise.</li>
+<li>0902 Changed course and axis to 155 (T).</li>
+<li>1430 U.S.S. CRAVEN left formation; engineering casualty.</li>
+<li>1612 U.S.S. MAURY accompanied CRAVEN.</li>
+<li>1614 Formed special cruising disposition 11.</li>
+<li>1852 Sunset.</li>
+<li>1930 Changed course and axis to 127 (T).</li>
+<li>1942 CRAVEN and MAURY rejoined formation.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -930,14 +964,16 @@ axis 190 (T), speed 20 knots, in special cruising disposition
 <div>Proceeding in company with Task Force ELEVEN on course and
 axis 190 (T), speed 20 knots, in special cruising disposition
 11S.</div>
-<div>0547 Sunrise.</div>
-<div>0902 Changed course and axis to 155 (T).</div>
-<div>1430 U.S.S. CRAVEN left formation; engineering casualty.</div>
-<div>1612 U.S.S. MAURY accompanied CRAVEN.</div>
-<div>1614 Formed special cruising disposition 11.</div>
-<div>1852 Sunset.</div>
-<div>1930 Changed course and axis to 127 (T).</div>
-<div>1942 CRAVEN and MAURY rejoined formation.</div>
+<ul>
+<li>0547 Sunrise.</li>
+<li>0902 Changed course and axis to 155 (T).</li>
+<li>1430 U.S.S. CRAVEN left formation; engineering casualty.</li>
+<li>1612 U.S.S. MAURY accompanied CRAVEN.</li>
+<li>1614 Formed special cruising disposition 11.</li>
+<li>1852 Sunset.</li>
+<li>1930 Changed course and axis to 127 (T).</li>
+<li>1942 CRAVEN and MAURY rejoined formation.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -959,14 +995,16 @@ axis 190 (T), speed 20 knots, in special cruising disposition
 <div>Proceeding in company with Task Force ELEVEN on course and
 axis 190 (T), speed 20 knots, in special cruising disposition
 11S.</div>
-<div>0547 Sunrise.</div>
-<div>0902 Changed course and axis to 155 (T).</div>
-<div>1430 U.S.S. CRAVEN left formation; engineering casualty.</div>
-<div>1612 U.S.S. MAURY accompanied CRAVEN.</div>
-<div>1614 Formed special cruising disposition 11.</div>
-<div>1852 Sunset.</div>
-<div>1930 Changed course and axis to 127 (T).</div>
-<div>1942 CRAVEN and MAURY rejoined formation.</div>
+<ul>
+<li>0547 Sunrise.</li>
+<li>0902 Changed course and axis to 155 (T).</li>
+<li>1430 U.S.S. CRAVEN left formation; engineering casualty.</li>
+<li>1612 U.S.S. MAURY accompanied CRAVEN.</li>
+<li>1614 Formed special cruising disposition 11.</li>
+<li>1852 Sunset.</li>
+<li>1930 Changed course and axis to 127 (T).</li>
+<li>1942 CRAVEN and MAURY rejoined formation.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -986,20 +1024,22 @@ axis 190 (T), speed 20 knots, in special cruising disposition
 
 <div align="center">28 January 1943</div>
 <div>Anchored in Noumea Harbor, New Caledonia.</div>
-<div>0830 Task Force ELEVEN consisting of SARATOGA (Commander
+<ul>
+<li>0830 Task Force ELEVEN consisting of SARATOGA (Commander
 Task Force ELEVEN - Rear Admiral D. C. RAMSEY),
 SAN JUAN, SAUFLEY (Commander Destroyer Squadron SIX),
 MAURY, CASE, and MCCALL underway in accordance with
-Commander south Pacific Operation Order 4-43.</div>
-<div>1126 Course 085 (T), speed 15 knots</div>
-<div>1230 Formed oon cruising disposition 11, course and
-axis 270 (T), speed 20 knots.</div>
-<div>1430 Carrier based planes conducted a simulated coordinated
-dive-bombing and torpedo plane attack on disposition.</div>
-<div>1632 Changed front to 315 (T).</div>
-<div>1851 Sunset.</div>
-<div>1900 Changed front to 285 (T).</div>
-<div>2030 Changed front to 320 (T).</div>
+Commander south Pacific Operation Order 4-43.</li>
+<li>1126 Course 085 (T), speed 15 knots</li>
+<li>1230 Formed oon cruising disposition 11, course and
+axis 270 (T), speed 20 knots.</li>
+<li>1430 Carrier based planes conducted a simulated coordinated
+dive-bombing and torpedo plane attack on disposition.</li>
+<li>1632 Changed front to 315 (T).</li>
+<li>1851 Sunset.</li>
+<li>1900 Changed front to 285 (T).</li>
+<li>2030 Changed front to 320 (T).</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -1021,15 +1061,17 @@ dive-bombing and torpedo plane attack on disposition.</div>
 <div>Proceeding in company with Task Force ELEVEN on course and
 axis 315 (T), speed 20 knots, in special cruising disposition
 11.</div>
-<div>0100 Changed to zone time minus 12.</div>
-<div>0650 Sunrise.</div>
-<div>1100 Changed front to 295 (T).</div>
-<div>1300 Conducted practice firing 5" guns on smoke float targets
-simulating submarine periscopes.</div>
-<div>1400 Conducted practice firing 20MM and 40MM at sleeve
-target towed by carrier based plane.</div>
-<div>2002 Sunset.</div>
-<div>2100 Changed front to 240 (T).</div>
+<ul>
+<li>0100 Changed to zone time minus 12.</li>
+<li>0650 Sunrise.</li>
+<li>1100 Changed front to 295 (T).</li>
+<li>1300 Conducted practice firing 5" guns on smoke float targets
+simulating submarine periscopes.</li>
+<li>1400 Conducted practice firing 20MM and 40MM at sleeve
+target towed by carrier based plane.</li>
+<li>2002 Sunset.</li>
+<li>2100 Changed front to 240 (T).</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -1051,15 +1093,17 @@ target towed by carrier based plane.</div>
 <div>Proceeding in company with Task Force ELEVEN on course and
 axis 315 (T), speed 20 knots, in special cruising disposition
 11.</div>
-<div>0100 Changed to zone time minus 12.</div>
-<div>0650 Sunrise.</div>
-<div>1100 Changed front to 295 (T).</div>
-<div>1300 Conducted practice firing 5" guns on smoke float targets
-simulating submarine periscopes.</div>
-<div>1400 Conducted practice firing 20MM and 40MM at sleeve
-target towed by carrier based plane.</div>
-<div>2002 Sunset.</div>
-<div>2100 Changed front to 240 (T).</div>
+<ul>
+<li>0100 Changed to zone time minus 12.</li>
+<li>0650 Sunrise.</li>
+<li>1100 Changed front to 295 (T).</li>
+<li>1300 Conducted practice firing 5" guns on smoke float targets
+simulating submarine periscopes.</li>
+<li>1400 Conducted practice firing 20MM and 40MM at sleeve
+target towed by carrier based plane.</li>
+<li>2002 Sunset.</li>
+<li>2100 Changed front to 240 (T).</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -1081,15 +1125,17 @@ target towed by carrier based plane.</div>
 <div>Proceeding in company with Task Force ELEVEN on course and
 axis 315 (T), speed 20 knots, in special cruising disposition
 11.</div>
-<div>0100 Changed to zone time minus 12.</div>
-<div>0650 Sunrise.</div>
-<div>1100 Changed front to 295 (T).</div>
-<div>1300 Conducted practice firing 5" guns on smoke float targets
-simulating submarine periscopes.</div>
-<div>1400 Conducted practice firing 20MM and 40MM at sleeve
-target towed by carrier based plane.</div>
-<div>2002 Sunset.</div>
-<div>2100 Changed front to 240 (T).</div>
+<ul>
+<li>0100 Changed to zone time minus 12.</li>
+<li>0650 Sunrise.</li>
+<li>1100 Changed front to 295 (T).</li>
+<li>1300 Conducted practice firing 5" guns on smoke float targets
+simulating submarine periscopes.</li>
+<li>1400 Conducted practice firing 20MM and 40MM at sleeve
+target towed by carrier based plane.</li>
+<li>2002 Sunset.</li>
+<li>2100 Changed front to 240 (T).</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -1111,10 +1157,12 @@ target towed by carrier based plane.</div>
 <div>Proceeding in company with Task Force ELEVEN on course and
 axis 240 (T), speed 20 knots, in special cruising disposition
 11.</div>
-<div>0100 Changed front to 315 (T).</div>
-<div>0720 Sunrise.</div>
-<div>0820 Changed front to 090 (T).</div>
-<div>2010 Sunset.</div>
+<ul>
+<li>0100 Changed front to 315 (T).</li>
+<li>0720 Sunrise.</li>
+<li>0820 Changed front to 090 (T).</li>
+<li>2010 Sunset.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -1136,10 +1184,12 @@ axis 240 (T), speed 20 knots, in special cruising disposition
 <div>Proceeding in company with Task Force ELEVEN on course and
 axis 240 (T), speed 20 knots, in special cruising disposition
 11.</div>
-<div>0100 Changed front to 315 (T).</div>
-<div>0720 Sunrise.</div>
-<div>0820 Changed front to 090 (T).</div>
-<div>2010 Sunset.</div>
+<ul>
+<li>0100 Changed front to 315 (T).</li>
+<li>0720 Sunrise.</li>
+<li>0820 Changed front to 090 (T).</li>
+<li>2010 Sunset.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -1161,10 +1211,12 @@ axis 240 (T), speed 20 knots, in special cruising disposition
 <div>Proceeding in company with Task Force ELEVEN on course and
 axis 240 (T), speed 20 knots, in special cruising disposition
 11.</div>
-<div>0100 Changed front to 315 (T).</div>
-<div>0720 Sunrise.</div>
-<div>0820 Changed front to 090 (T).</div>
-<div>2010 Sunset.</div>
+<ul>
+<li>0100 Changed front to 315 (T).</li>
+<li>0720 Sunrise.</li>
+<li>0820 Changed front to 090 (T).</li>
+<li>2010 Sunset.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -1185,15 +1237,17 @@ axis 240 (T), speed 20 knots, in special cruising disposition
 <div align="center">31 January 1943</div>
 <div>Proceeding in company with Task Force ELEVEN on course and axis
 090 (T), speed 20 knots, in special cruising disposition 11.</div>
-<div>0200 Changed front to 110 (T).</div>
-<div>0700 Changed front to 045 (T).</div>
-<div>0710 Sunrise.</div>
-<div>1000 Carrier based planes conducted a simulated coordinated
-dive-bombing and torpedo attack on disposition.</div>
-<div>1255 Conducted practice firing 20MM, 40MM, and 5" guns
-on sleeve target towed by carrier based plane.</div>
-<div>1600 Changed front to 180 (T).</div>
-<div>2010 Sunset.</div>
+<ul>
+<li>0200 Changed front to 110 (T).</li>
+<li>0700 Changed front to 045 (T).</li>
+<li>0710 Sunrise.</li>
+<li>1000 Carrier based planes conducted a simulated coordinated
+dive-bombing and torpedo attack on disposition.</li>
+<li>1255 Conducted practice firing 20MM, 40MM, and 5" guns
+on sleeve target towed by carrier based plane.</li>
+<li>1600 Changed front to 180 (T).</li>
+<li>2010 Sunset.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -1214,15 +1268,17 @@ on sleeve target towed by carrier based plane.</div>
 <div align="center">31 January 1943</div>
 <div>Proceeding in company with Task Force ELEVEN on course and axis
 090 (T), speed 20 knots, in special cruising disposition 11.</div>
-<div>0200 Changed front to 110 (T).</div>
-<div>0700 Changed front to 045 (T).</div>
-<div>0710 Sunrise.</div>
-<div>1000 Carrier based planes conducted a simulated coordinated
-dive-bombing and torpedo attack on disposition.</div>
-<div>1255 Conducted practice firing 20MM, 40MM, and 5" guns
-on sleeve target towed by carrier based plane.</div>
-<div>1600 Changed front to 180 (T).</div>
-<div>2010 Sunset.</div>
+<ul>
+<li>0200 Changed front to 110 (T).</li>
+<li>0700 Changed front to 045 (T).</li>
+<li>0710 Sunrise.</li>
+<li>1000 Carrier based planes conducted a simulated coordinated
+dive-bombing and torpedo attack on disposition.</li>
+<li>1255 Conducted practice firing 20MM, 40MM, and 5" guns
+on sleeve target towed by carrier based plane.</li>
+<li>1600 Changed front to 180 (T).</li>
+<li>2010 Sunset.</li>
+</ul>
           ]]></description>
         <Point>
           <extrude>1</extrude>
@@ -1852,6 +1908,3256 @@ on sleeve target towed by carrier based plane.</div>
           <altitudeMode>clampToGround</altitudeMode>
           <coordinates>158.1,-18.2666666666667,0
  158.683333333333,-17.9166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>1943-02 Locations</name>
+      <Style id="pnt1">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt2">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt3">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt4">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt5">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt6">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt7">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt8">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt9">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt10">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt11">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt12">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt13">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt14">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt15">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt16">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt17">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt18">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt19">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt20">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt21">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt22">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt23">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt24">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt25">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt26">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt27">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt28">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt29">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt30">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt31">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt32">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt33">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt34">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt35">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt36">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt37">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt38">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt39">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt40">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt41">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt42">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt43">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt44">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt45">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt46">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt47">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>01 0800</name>
+        <styleUrl>#pnt1</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-01T08:00:00Z</begin>
+          <end>1943-02-01T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-01: 0800</h3>
+
+<div align="center">February 1, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN.  Task Force ELEVEN
+consisting of SARATOGA (Commander Task Force ELEVEN - Rear Admiral
+D. C. Ramsey), SAN JUAN, SAUFLEY (Commander Destroyer Squadron SIX),
+CASE, MAURY, and MC CALL.  On course and axis 015 (T), speed 20
+knots in special cruising disposition 11.  Operating in accordance
+with Commander South Pacific's Operation Order 4-43.</div>
+<ul>
+<li>0100 Changed front to 140 (T).</li>
+<li>0632 Sunrise.</li>
+<li>0830 U.S.S. CIMARRON and U.S.S. GRIDLEY joined formation. </li>
+<li>0900 Task Force commenced fueling operation, fueling course
+135 (T), speed 10 knots.</li>
+<li>1116 Sighted Task Force SIXTY-FOUR, WASHINGTON, INDIANA, NORTH
+CAROLINA, and three destroyers, bearing 316 (T), distance
+26,000 yards.</li>
+<li>1600 Task Force completed fueling.  Formed special cruising disposition
+11, on course and axis 315 (T), speed 20 knots.</li>
+<li>1936 Sunset.</li>
+<li>2000 Changed front to 340 (T).</li>
+<li>2200 Changed front to 305 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.41667,-18.85000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>01 1200</name>
+        <styleUrl>#pnt2</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-01T12:00:00Z</begin>
+          <end>1943-02-01T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-01: 1200</h3>
+
+<div align="center">February 1, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN.  Task Force ELEVEN
+consisting of SARATOGA (Commander Task Force ELEVEN - Rear Admiral
+D. C. Ramsey), SAN JUAN, SAUFLEY (Commander Destroyer Squadron SIX),
+CASE, MAURY, and MC CALL.  On course and axis 015 (T), speed 20
+knots in special cruising disposition 11.  Operating in accordance
+with Commander South Pacific's Operation Order 4-43.</div>
+<ul>
+<li>0100 Changed front to 140 (T).</li>
+<li>0632 Sunrise.</li>
+<li>0830 U.S.S. CIMARRON and U.S.S. GRIDLEY joined formation. </li>
+<li>0900 Task Force commenced fueling operation, fueling course
+135 (T), speed 10 knots.</li>
+<li>1116 Sighted Task Force SIXTY-FOUR, WASHINGTON, INDIANA, NORTH
+CAROLINA, and three destroyers, bearing 316 (T), distance
+26,000 yards.</li>
+<li>1600 Task Force completed fueling.  Formed special cruising disposition
+11, on course and axis 315 (T), speed 20 knots.</li>
+<li>1936 Sunset.</li>
+<li>2000 Changed front to 340 (T).</li>
+<li>2200 Changed front to 305 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.70000,-19.30000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>01 2000</name>
+        <styleUrl>#pnt3</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-01T20:00:00Z</begin>
+          <end>1943-02-01T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-01: 2000</h3>
+
+<div align="center">February 1, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN.  Task Force ELEVEN
+consisting of SARATOGA (Commander Task Force ELEVEN - Rear Admiral
+D. C. Ramsey), SAN JUAN, SAUFLEY (Commander Destroyer Squadron SIX),
+CASE, MAURY, and MC CALL.  On course and axis 015 (T), speed 20
+knots in special cruising disposition 11.  Operating in accordance
+with Commander South Pacific's Operation Order 4-43.</div>
+<ul>
+<li>0100 Changed front to 140 (T).</li>
+<li>0632 Sunrise.</li>
+<li>0830 U.S.S. CIMARRON and U.S.S. GRIDLEY joined formation. </li>
+<li>0900 Task Force commenced fueling operation, fueling course
+135 (T), speed 10 knots.</li>
+<li>1116 Sighted Task Force SIXTY-FOUR, WASHINGTON, INDIANA, NORTH
+CAROLINA, and three destroyers, bearing 316 (T), distance
+26,000 yards.</li>
+<li>1600 Task Force completed fueling.  Formed special cruising disposition
+11, on course and axis 315 (T), speed 20 knots.</li>
+<li>1936 Sunset.</li>
+<li>2000 Changed front to 340 (T).</li>
+<li>2200 Changed front to 305 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.60000,-19.65000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>02 0800</name>
+        <styleUrl>#pnt4</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-02T08:00:00Z</begin>
+          <end>1943-02-02T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-02: 0800</h3>
+
+<div align="center">February 2, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+305 (T), speed 20 knots, in special cruising disposition 11.</div>
+<ul>
+<li>0721 Sunrise.</li>
+<li>0921 Sighted U.S.S. CRAVEN bearing 295 (T), distance 26,000 yds.</li>
+<li>0945 U.S.S. CRAVEN joined formation.</li>
+<li>1035 Changed front to 055 (T).</li>
+<li>1100 Carrier based planes conducted a simulated attack on the
+disposition.</li>
+<li>1334 Sighted U.S.S. JENKINS bearing 035 (T), distance 24,000
+yards/</li>
+<li>1954 Sunset.</li>
+<li>2300 Changed front to 060 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.76667,-17.13333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>02 1200</name>
+        <styleUrl>#pnt5</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-02T12:00:00Z</begin>
+          <end>1943-02-02T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-02: 1200</h3>
+
+<div align="center">February 2, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+305 (T), speed 20 knots, in special cruising disposition 11.</div>
+<ul>
+<li>0721 Sunrise.</li>
+<li>0921 Sighted U.S.S. CRAVEN bearing 295 (T), distance 26,000 yds.</li>
+<li>0945 U.S.S. CRAVEN joined formation.</li>
+<li>1035 Changed front to 055 (T).</li>
+<li>1100 Carrier based planes conducted a simulated attack on the
+disposition.</li>
+<li>1334 Sighted U.S.S. JENKINS bearing 035 (T), distance 24,000
+yards/</li>
+<li>1954 Sunset.</li>
+<li>2300 Changed front to 060 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.50000,-16.25000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>02 2000</name>
+        <styleUrl>#pnt6</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-02T20:00:00Z</begin>
+          <end>1943-02-02T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-02: 2000</h3>
+
+<div align="center">February 2, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+305 (T), speed 20 knots, in special cruising disposition 11.</div>
+<ul>
+<li>0721 Sunrise.</li>
+<li>0921 Sighted U.S.S. CRAVEN bearing 295 (T), distance 26,000 yds.</li>
+<li>0945 U.S.S. CRAVEN joined formation.</li>
+<li>1035 Changed front to 055 (T).</li>
+<li>1100 Carrier based planes conducted a simulated attack on the
+disposition.</li>
+<li>1334 Sighted U.S.S. JENKINS bearing 035 (T), distance 24,000
+yards/</li>
+<li>1954 Sunset.</li>
+<li>2300 Changed front to 060 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.10000,-14.70000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03 0800</name>
+        <styleUrl>#pnt7</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-03T08:00:00Z</begin>
+          <end>1943-02-03T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-03: 0800</h3>
+
+<div align="center">February 3, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+060 (T), speed 20 knots, in special cruising disposition 11.</div>
+<ul>
+<li>0703 Sunrise.</li>
+<li>1130 Task Force SIXTY-FOUR joined formation.</li>
+<li>1430 Changed front to 135 (T).</li>
+<li>1618 Changed front to 110 (T).</li>
+<li>1937 Sunset.</li>
+<li>2132 Changed front to 262 (T), speed to 19 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.36667,-12.85000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03 1200</name>
+        <styleUrl>#pnt8</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-03T12:00:00Z</begin>
+          <end>1943-02-03T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-03: 1200</h3>
+
+<div align="center">February 3, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+060 (T), speed 20 knots, in special cruising disposition 11.</div>
+<ul>
+<li>0703 Sunrise.</li>
+<li>1130 Task Force SIXTY-FOUR joined formation.</li>
+<li>1430 Changed front to 135 (T).</li>
+<li>1618 Changed front to 110 (T).</li>
+<li>1937 Sunset.</li>
+<li>2132 Changed front to 262 (T), speed to 19 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.20000,-12.63333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03 2000</name>
+        <styleUrl>#pnt9</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-03T20:00:00Z</begin>
+          <end>1943-02-03T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-03: 2000</h3>
+
+<div align="center">February 3, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+060 (T), speed 20 knots, in special cruising disposition 11.</div>
+<ul>
+<li>0703 Sunrise.</li>
+<li>1130 Task Force SIXTY-FOUR joined formation.</li>
+<li>1430 Changed front to 135 (T).</li>
+<li>1618 Changed front to 110 (T).</li>
+<li>1937 Sunset.</li>
+<li>2132 Changed front to 262 (T), speed to 19 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.90000,-13.70000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 0800</name>
+        <styleUrl>#pnt10</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-04T08:00:00Z</begin>
+          <end>1943-02-04T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-04: 0800</h3>
+
+<div align="center">February 4, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 262 (T), speed 19 knots, in special cruising
+disposition 11.</div>
+<ul>
+<li>0700 Sunrise.</li>
+<li>0823 Changed front to 140 (T).</li>
+<li>1248 Changed front to 090 (T).</li>
+<li>1800 Changed front to 255 (T).</li>
+<li>1943 Sunset.</li>
+<li>2311 Changed front to 000 (T).</li>
+<li>2345 Changed front to 320 (T).</li>
+<li>2348 Changed speed to 20 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.95000,-14.61667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 1200</name>
+        <styleUrl>#pnt11</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-04T12:00:00Z</begin>
+          <end>1943-02-04T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-04: 1200</h3>
+
+<div align="center">February 4, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 262 (T), speed 19 knots, in special cruising
+disposition 11.</div>
+<ul>
+<li>0700 Sunrise.</li>
+<li>0823 Changed front to 140 (T).</li>
+<li>1248 Changed front to 090 (T).</li>
+<li>1800 Changed front to 255 (T).</li>
+<li>1943 Sunset.</li>
+<li>2311 Changed front to 000 (T).</li>
+<li>2345 Changed front to 320 (T).</li>
+<li>2348 Changed speed to 20 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.68333,-15.33333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 2000</name>
+        <styleUrl>#pnt12</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-04T20:00:00Z</begin>
+          <end>1943-02-04T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-04: 2000</h3>
+
+<div align="center">February 4, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 262 (T), speed 19 knots, in special cruising
+disposition 11.</div>
+<ul>
+<li>0700 Sunrise.</li>
+<li>0823 Changed front to 140 (T).</li>
+<li>1248 Changed front to 090 (T).</li>
+<li>1800 Changed front to 255 (T).</li>
+<li>1943 Sunset.</li>
+<li>2311 Changed front to 000 (T).</li>
+<li>2345 Changed front to 320 (T).</li>
+<li>2348 Changed speed to 20 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.75000,-15.80000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 0800</name>
+        <styleUrl>#pnt13</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-05T08:00:00Z</begin>
+          <end>1943-02-05T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-05: 0800</h3>
+
+<div align="center">February 5, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 320 (T), speed 20 knots, in carrier cruising
+disposition 1 L.</div>
+<ul>
+<li>0515 Changed front to 230 (T), speed to 25 knots.</li>
+<li>0628 Changed front to 140 (T).</li>
+<li>0703 Sunrise.</li>
+<li>0745 Changed front to 090 (T), speed to 19 knots.</li>
+<li>1014 Changed front to 055 (T).</li>
+<li>1800 Changed front to 130 (T).</li>
+<li>1934 Sunset.</li>
+<li>2400 Changed front to 300 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.63833,-14.76667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 1200</name>
+        <styleUrl>#pnt14</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-05T12:00:00Z</begin>
+          <end>1943-02-05T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-05: 1200</h3>
+
+<div align="center">February 5, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 320 (T), speed 20 knots, in carrier cruising
+disposition 1 L.</div>
+<ul>
+<li>0515 Changed front to 230 (T), speed to 25 knots.</li>
+<li>0628 Changed front to 140 (T).</li>
+<li>0703 Sunrise.</li>
+<li>0745 Changed front to 090 (T), speed to 19 knots.</li>
+<li>1014 Changed front to 055 (T).</li>
+<li>1800 Changed front to 130 (T).</li>
+<li>1934 Sunset.</li>
+<li>2400 Changed front to 300 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.73333,-14.61667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 2000</name>
+        <styleUrl>#pnt15</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-05T20:00:00Z</begin>
+          <end>1943-02-05T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-05: 2000</h3>
+
+<div align="center">February 5, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 320 (T), speed 20 knots, in carrier cruising
+disposition 1 L.</div>
+<ul>
+<li>0515 Changed front to 230 (T), speed to 25 knots.</li>
+<li>0628 Changed front to 140 (T).</li>
+<li>0703 Sunrise.</li>
+<li>0745 Changed front to 090 (T), speed to 19 knots.</li>
+<li>1014 Changed front to 055 (T).</li>
+<li>1800 Changed front to 130 (T).</li>
+<li>1934 Sunset.</li>
+<li>2400 Changed front to 300 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.38833,-15.91667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 0800</name>
+        <styleUrl>#pnt16</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-06T08:00:00Z</begin>
+          <end>1943-02-06T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-06: 0800</h3>
+
+<div align="center">February 6, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 300 (T), speed 19 knots, in carrier cruising
+disposition 1 L.</div>
+<ul>
+<li>0230 Changed front to 040 (T).</li>
+<li>0430 Changed front to 130 (T).</li>
+<li>0650 Sunrise.</li>
+<li>0700 U.S.S. CIMARRON and U.S.S. Gridley joined formation.</li>
+<li>0725 Task force commenced fueling operation, course and axis 130 (T),
+speed 10 knots.</li>
+<li>1932 Sunset.</li>
+<li>2217 Changed front to 290 (T), speed 18 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.43333,-15.91667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 1200</name>
+        <styleUrl>#pnt17</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-06T12:00:00Z</begin>
+          <end>1943-02-06T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-06: 1200</h3>
+
+<div align="center">February 6, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 300 (T), speed 19 knots, in carrier cruising
+disposition 1 L.</div>
+<ul>
+<li>0230 Changed front to 040 (T).</li>
+<li>0430 Changed front to 130 (T).</li>
+<li>0650 Sunrise.</li>
+<li>0700 U.S.S. CIMARRON and U.S.S. Gridley joined formation.</li>
+<li>0725 Task force commenced fueling operation, course and axis 130 (T),
+speed 10 knots.</li>
+<li>1932 Sunset.</li>
+<li>2217 Changed front to 290 (T), speed 18 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.13333,-16.35000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 2000</name>
+        <styleUrl>#pnt18</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-06T20:00:00Z</begin>
+          <end>1943-02-06T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-06: 2000</h3>
+
+<div align="center">February 6, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 300 (T), speed 19 knots, in carrier cruising
+disposition 1 L.</div>
+<ul>
+<li>0230 Changed front to 040 (T).</li>
+<li>0430 Changed front to 130 (T).</li>
+<li>0650 Sunrise.</li>
+<li>0700 U.S.S. CIMARRON and U.S.S. Gridley joined formation.</li>
+<li>0725 Task force commenced fueling operation, course and axis 130 (T),
+speed 10 knots.</li>
+<li>1932 Sunset.</li>
+<li>2217 Changed front to 290 (T), speed 18 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.85000,-17.35000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 0800</name>
+        <styleUrl>#pnt19</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-07T08:00:00Z</begin>
+          <end>1943-02-07T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-07: 0800</h3>
+
+<div align="center">February 7, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 290 (T), speed 18 knots, in carrier Cruising
+disposition 1 L.</div>
+<ul>
+<li>0655 Sunrise.</li>
+<li>1150 Task Force completed fueling operation.</li>
+<li>1205 U.S.S. CIMMARON and U.S.S. GRIDLEY left formation.</li>
+<li>1320 Changed speed to 20 knots.</li>
+<li>1947 Sunset.</li>
+<li>2200 Changed front to 300 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.35000,-16.58333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 1200</name>
+        <styleUrl>#pnt20</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-07T12:00:00Z</begin>
+          <end>1943-02-07T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-07: 1200</h3>
+
+<div align="center">February 7, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 290 (T), speed 18 knots, in carrier Cruising
+disposition 1 L.</div>
+<ul>
+<li>0655 Sunrise.</li>
+<li>1150 Task Force completed fueling operation.</li>
+<li>1205 U.S.S. CIMMARON and U.S.S. GRIDLEY left formation.</li>
+<li>1320 Changed speed to 20 knots.</li>
+<li>1947 Sunset.</li>
+<li>2200 Changed front to 300 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.88333,-16.15500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 2000</name>
+        <styleUrl>#pnt21</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-07T20:00:00Z</begin>
+          <end>1943-02-07T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-07: 2000</h3>
+
+<div align="center">February 7, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 290 (T), speed 18 knots, in carrier Cruising
+disposition 1 L.</div>
+<ul>
+<li>0655 Sunrise.</li>
+<li>1150 Task Force completed fueling operation.</li>
+<li>1205 U.S.S. CIMMARON and U.S.S. GRIDLEY left formation.</li>
+<li>1320 Changed speed to 20 knots.</li>
+<li>1947 Sunset.</li>
+<li>2200 Changed front to 300 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.23333,-16.70000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 0800</name>
+        <styleUrl>#pnt22</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-08T08:00:00Z</begin>
+          <end>1943-02-08T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-08: 0800</h3>
+
+<div align="center">February 8, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 300 (T), speed 20 knots, in carrier cruising
+disposition 1 L.</div>
+<ul>
+<li>0402 Changed front to 315 (T).</li>
+<li>0657 Sunrise.</li>
+<li>1025 Task Force SIXTY-FOUR left formation and maintained station
+12 miles distance from Task Force ELEVEN.</li>
+<li>1123 Changed front to 015 (T).</li>
+<li>1130 MAURY took station to act as relay between Task Force ELEVEN
+and Task Force SIATY-FOUR.</li>
+<li>1136 Changed speed to 18 knots.</li>
+<li>1430 Task Force SIXTEEN joined formation.  Formed carrier cruising
+disposition 2.</li>
+<li>1620 Changed front to 270 (T).</li>
+<li>1821 Changed front to 220 (T).</li>
+<li>2004 Sunset.</li>
+<li>2108 Changed front to 180 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.01667,-14.95500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 1200</name>
+        <styleUrl>#pnt23</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-08T12:00:00Z</begin>
+          <end>1943-02-08T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-08: 1200</h3>
+
+<div align="center">February 8, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 300 (T), speed 20 knots, in carrier cruising
+disposition 1 L.</div>
+<ul>
+<li>0402 Changed front to 315 (T).</li>
+<li>0657 Sunrise.</li>
+<li>1025 Task Force SIXTY-FOUR left formation and maintained station
+12 miles distance from Task Force ELEVEN.</li>
+<li>1123 Changed front to 015 (T).</li>
+<li>1130 MAURY took station to act as relay between Task Force ELEVEN
+and Task Force SIATY-FOUR.</li>
+<li>1136 Changed speed to 18 knots.</li>
+<li>1430 Task Force SIXTEEN joined formation.  Formed carrier cruising
+disposition 2.</li>
+<li>1620 Changed front to 270 (T).</li>
+<li>1821 Changed front to 220 (T).</li>
+<li>2004 Sunset.</li>
+<li>2108 Changed front to 180 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.56667,-14.35000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 2000</name>
+        <styleUrl>#pnt24</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-08T20:00:00Z</begin>
+          <end>1943-02-08T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-08: 2000</h3>
+
+<div align="center">February 8, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and Task Force SIXTY-
+FOUR on course and axis 300 (T), speed 20 knots, in carrier cruising
+disposition 1 L.</div>
+<ul>
+<li>0402 Changed front to 315 (T).</li>
+<li>0657 Sunrise.</li>
+<li>1025 Task Force SIXTY-FOUR left formation and maintained station
+12 miles distance from Task Force ELEVEN.</li>
+<li>1123 Changed front to 015 (T).</li>
+<li>1130 MAURY took station to act as relay between Task Force ELEVEN
+and Task Force SIATY-FOUR.</li>
+<li>1136 Changed speed to 18 knots.</li>
+<li>1430 Task Force SIXTEEN joined formation.  Formed carrier cruising
+disposition 2.</li>
+<li>1620 Changed front to 270 (T).</li>
+<li>1821 Changed front to 220 (T).</li>
+<li>2004 Sunset.</li>
+<li>2108 Changed front to 180 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.16667,-14.00000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 0800</name>
+        <styleUrl>#pnt25</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-09T08:00:00Z</begin>
+          <end>1943-02-09T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-09: 0800</h3>
+
+<div align="center">February 9, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and SIXTEEN on course and
+axis 180 (T), speed 18 knots, in carrier cruising disposition 2.</div>
+<ul>
+<li>0435 Changed front to 330 (T).</li>
+<li>0614 Changed front to 080 (T).</li>
+<li>0725 Sunrise.</li>
+<li>1600 Changed front to 135 (T).</li>
+<li>1723 Changed front to 180 (T).</li>
+<li>1830 Task Force SIXTEEN left formation.</li>
+<li>1953 Sunset.</li>
+<li>2100 Changed front to 170 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>157.65000,-14.36667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 1200</name>
+        <styleUrl>#pnt26</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-09T12:00:00Z</begin>
+          <end>1943-02-09T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-09: 1200</h3>
+
+<div align="center">February 9, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and SIXTEEN on course and
+axis 180 (T), speed 18 knots, in carrier cruising disposition 2.</div>
+<ul>
+<li>0435 Changed front to 330 (T).</li>
+<li>0614 Changed front to 080 (T).</li>
+<li>0725 Sunrise.</li>
+<li>1600 Changed front to 135 (T).</li>
+<li>1723 Changed front to 180 (T).</li>
+<li>1830 Task Force SIXTEEN left formation.</li>
+<li>1953 Sunset.</li>
+<li>2100 Changed front to 170 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.98333,-14.35000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 2000</name>
+        <styleUrl>#pnt27</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-09T20:00:00Z</begin>
+          <end>1943-02-09T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-09: 2000</h3>
+
+<div align="center">February 9, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN and SIXTEEN on course and
+axis 180 (T), speed 18 knots, in carrier cruising disposition 2.</div>
+<ul>
+<li>0435 Changed front to 330 (T).</li>
+<li>0614 Changed front to 080 (T).</li>
+<li>0725 Sunrise.</li>
+<li>1600 Changed front to 135 (T).</li>
+<li>1723 Changed front to 180 (T).</li>
+<li>1830 Task Force SIXTEEN left formation.</li>
+<li>1953 Sunset.</li>
+<li>2100 Changed front to 170 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>159.78333,-14.91667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 0800</name>
+        <styleUrl>#pnt28</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-10T08:00:00Z</begin>
+          <end>1943-02-10T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-10: 0800</h3>
+
+<div align="center">February 10, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+170 (T), speed 18 knots, in special cruising disposition 2.</div>
+<ul>
+<li>0215 Changed front to 066 (T).</li>
+<li>0654 Changed front to 120 (T).</li>
+<li>0700 U.S.S. CIMARRON and U.S.S. GRIDLEY joined formation.</li>
+<li>0710 Sunrise.</li>
+<li>0730 Commenced fueling operations on course and axis 250 (T),
+speed 10 knots.</li>
+<li>0910 Changed front to 125 (T).</li>
+<li>1420 Completed fueling.  U.S.S. CIMARRON and U.S.S. GRIDLEY
+left formation.</li>
+<li>1426 Changed front to 216 (T), speed 20 knots.</li>
+<li>1950 Sunset.</li>
+<li>2000 Changed front to 331 (T), speed 25 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.96667,-16.28333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 1200</name>
+        <styleUrl>#pnt29</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-10T12:00:00Z</begin>
+          <end>1943-02-10T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-10: 1200</h3>
+
+<div align="center">February 10, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+170 (T), speed 18 knots, in special cruising disposition 2.</div>
+<ul>
+<li>0215 Changed front to 066 (T).</li>
+<li>0654 Changed front to 120 (T).</li>
+<li>0700 U.S.S. CIMARRON and U.S.S. GRIDLEY joined formation.</li>
+<li>0710 Sunrise.</li>
+<li>0730 Commenced fueling operations on course and axis 250 (T),
+speed 10 knots.</li>
+<li>0910 Changed front to 125 (T).</li>
+<li>1420 Completed fueling.  U.S.S. CIMARRON and U.S.S. GRIDLEY
+left formation.</li>
+<li>1426 Changed front to 216 (T), speed 20 knots.</li>
+<li>1950 Sunset.</li>
+<li>2000 Changed front to 331 (T), speed 25 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.30000,-16.53333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 2000</name>
+        <styleUrl>#pnt30</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-10T20:00:00Z</begin>
+          <end>1943-02-10T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-10: 2000</h3>
+
+<div align="center">February 10, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+170 (T), speed 18 knots, in special cruising disposition 2.</div>
+<ul>
+<li>0215 Changed front to 066 (T).</li>
+<li>0654 Changed front to 120 (T).</li>
+<li>0700 U.S.S. CIMARRON and U.S.S. GRIDLEY joined formation.</li>
+<li>0710 Sunrise.</li>
+<li>0730 Commenced fueling operations on course and axis 250 (T),
+speed 10 knots.</li>
+<li>0910 Changed front to 125 (T).</li>
+<li>1420 Completed fueling.  U.S.S. CIMARRON and U.S.S. GRIDLEY
+left formation.</li>
+<li>1426 Changed front to 216 (T), speed 20 knots.</li>
+<li>1950 Sunset.</li>
+<li>2000 Changed front to 331 (T), speed 25 knots.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.85000,-18.13333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 0800</name>
+        <styleUrl>#pnt31</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-11T08:00:00Z</begin>
+          <end>1943-02-11T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-11: 0800</h3>
+
+<div align="center">February 11, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+331 (T), speed 25 knots, in special cruising disposition 2.</div>
+<ul>
+<li>0715 Sunrise.</li>
+<li>0955 Changed front to 047 (T).</li>
+<li>1054 Changed front to 094 (T), speed 20 knots.</li>
+<li>1820 Task Force SIXTY-SEVEN joined formation.</li>
+<li>1854 Changed front to 060 (T), speed 18 knots.</li>
+<li>1947 Sunset.</li>
+<ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>159.95000,-15.01667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 1200</name>
+        <styleUrl>#pnt32</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-11T12:00:00Z</begin>
+          <end>1943-02-11T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-11: 1200</h3>
+
+<div align="center">February 11, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+331 (T), speed 25 knots, in special cruising disposition 2.</div>
+<ul>
+<li>0715 Sunrise.</li>
+<li>0955 Changed front to 047 (T).</li>
+<li>1054 Changed front to 094 (T), speed 20 knots.</li>
+<li>1820 Task Force SIXTY-SEVEN joined formation.</li>
+<li>1854 Changed front to 060 (T), speed 18 knots.</li>
+<li>1947 Sunset.</li>
+<ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.03333,-14.56667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 2000</name>
+        <styleUrl>#pnt33</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-11T20:00:00Z</begin>
+          <end>1943-02-11T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-11: 2000</h3>
+
+<div align="center">February 11, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+331 (T), speed 25 knots, in special cruising disposition 2.</div>
+<ul>
+<li>0715 Sunrise.</li>
+<li>0955 Changed front to 047 (T).</li>
+<li>1054 Changed front to 094 (T), speed 20 knots.</li>
+<li>1820 Task Force SIXTY-SEVEN joined formation.</li>
+<li>1854 Changed front to 060 (T), speed 18 knots.</li>
+<li>1947 Sunset.</li>
+<ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.28333,-14.48333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 0800</name>
+        <styleUrl>#pnt34</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-12T08:00:00Z</begin>
+          <end>1943-02-12T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-12: 0800</h3>
+
+<div align="center">February 12, 1943</div>
+<div>Proceeding in company with Task Forces ELEVEN and SIXTY-SEVEN on
+course and axis 060 (T), speed 18 knots, in carrier cruising disposition
+1 L.</div>
+<ul>
+<li>0200 Changed front to 100 (T).</li>
+<li>0230 Changed front to 145 (T).</li>
+<li>0657 Sunrise.</li>
+<li>0700 U.S.S. PLATTE and U.S.S. ANDERSON joined formation.</li>
+<li>0730 Changed front to 140 (T).  Task Force SIXTY-SEVEN commenced
+fueling operations.</li>
+<li>0912 Changed front to 090 (T).</li>
+<li>1412 Changed front to 325 (T).</li>
+<li>1650 Changed front to 298 (T).</li>
+<li>1858 Changed front to 200 (T).  Task Force SIXTY-SEVEN left
+formation.</li>
+<li>1932 Sunset.</li>
+<li>2302 Changed front to 150 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.78333,-15.01667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 1200</name>
+        <styleUrl>#pnt35</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-12T12:00:00Z</begin>
+          <end>1943-02-12T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-12: 1200</h3>
+
+<div align="center">February 12, 1943</div>
+<div>Proceeding in company with Task Forces ELEVEN and SIXTY-SEVEN on
+course and axis 060 (T), speed 18 knots, in carrier cruising disposition
+1 L.</div>
+<ul>
+<li>0200 Changed front to 100 (T).</li>
+<li>0230 Changed front to 145 (T).</li>
+<li>0657 Sunrise.</li>
+<li>0700 U.S.S. PLATTE and U.S.S. ANDERSON joined formation.</li>
+<li>0730 Changed front to 140 (T).  Task Force SIXTY-SEVEN commenced
+fueling operations.</li>
+<li>0912 Changed front to 090 (T).</li>
+<li>1412 Changed front to 325 (T).</li>
+<li>1650 Changed front to 298 (T).</li>
+<li>1858 Changed front to 200 (T).  Task Force SIXTY-SEVEN left
+formation.</li>
+<li>1932 Sunset.</li>
+<li>2302 Changed front to 150 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.63333,-15.06667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 2000</name>
+        <styleUrl>#pnt36</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-12T20:00:00Z</begin>
+          <end>1943-02-12T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-12: 2000</h3>
+
+<div align="center">February 12, 1943</div>
+<div>Proceeding in company with Task Forces ELEVEN and SIXTY-SEVEN on
+course and axis 060 (T), speed 18 knots, in carrier cruising disposition
+1 L.</div>
+<ul>
+<li>0200 Changed front to 100 (T).</li>
+<li>0230 Changed front to 145 (T).</li>
+<li>0657 Sunrise.</li>
+<li>0700 U.S.S. PLATTE and U.S.S. ANDERSON joined formation.</li>
+<li>0730 Changed front to 140 (T).  Task Force SIXTY-SEVEN commenced
+fueling operations.</li>
+<li>0912 Changed front to 090 (T).</li>
+<li>1412 Changed front to 325 (T).</li>
+<li>1650 Changed front to 298 (T).</li>
+<li>1858 Changed front to 200 (T).  Task Force SIXTY-SEVEN left
+formation.</li>
+<li>1932 Sunset.</li>
+<li>2302 Changed front to 150 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.03333,-14.80000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 0800</name>
+        <styleUrl>#pnt37</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-13T08:00:00Z</begin>
+          <end>1943-02-13T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-13: 0800</h3>
+
+<div align="center">February 13, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+150 (T), speed 25 knots, in special cruising disposition 11.</div>
+<ul>
+<li>0653 Sunrise.</li>
+<li>1000 Conducted practice firing 20mm and 40mm guns on sleeve
+target.</li>
+<li>1230 U.S.S. GRAYSON joined formation.</li>
+<li>1245 Conducted practice firing 20mm, 40mm, and 5" guns on sleeve
+and smoke float targets.</li>
+<li>1420 Changed speed to 23 knots.</li>
+<li>1920 Changed front to 165 (T).</li>
+<li>1930 Sunset.  Changed front to 196 (T).</li>
+<li>2140 Changed front to 235 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.30000,-19.03333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 1200</name>
+        <styleUrl>#pnt38</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-13T12:00:00Z</begin>
+          <end>1943-02-13T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-13: 1200</h3>
+
+<div align="center">February 13, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+150 (T), speed 25 knots, in special cruising disposition 11.</div>
+<ul>
+<li>0653 Sunrise.</li>
+<li>1000 Conducted practice firing 20mm and 40mm guns on sleeve
+target.</li>
+<li>1230 U.S.S. GRAYSON joined formation.</li>
+<li>1245 Conducted practice firing 20mm, 40mm, and 5" guns on sleeve
+and smoke float targets.</li>
+<li>1420 Changed speed to 23 knots.</li>
+<li>1920 Changed front to 165 (T).</li>
+<li>1930 Sunset.  Changed front to 196 (T).</li>
+<li>2140 Changed front to 235 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.10000,-20.08333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 2000</name>
+        <styleUrl>#pnt39</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-13T20:00:00Z</begin>
+          <end>1943-02-13T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-13: 2000</h3>
+
+<div align="center">February 13, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+150 (T), speed 25 knots, in special cruising disposition 11.</div>
+<ul>
+<li>0653 Sunrise.</li>
+<li>1000 Conducted practice firing 20mm and 40mm guns on sleeve
+target.</li>
+<li>1230 U.S.S. GRAYSON joined formation.</li>
+<li>1245 Conducted practice firing 20mm, 40mm, and 5" guns on sleeve
+and smoke float targets.</li>
+<li>1420 Changed speed to 23 knots.</li>
+<li>1920 Changed front to 165 (T).</li>
+<li>1930 Sunset.  Changed front to 196 (T).</li>
+<li>2140 Changed front to 235 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>169.36667,-22.46667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14 0800</name>
+        <styleUrl>#pnt40</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-14T08:00:00Z</begin>
+          <end>1943-02-14T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-14: 0800</h3>
+
+<div align="center">February 14, 1943</div>
+<div>Proceeding in company with Task Force ELEVEN on course and axis
+235 (T), speed 23 knots, in special cruising disposition 11.</div>
+<ul>
+<li>0315 Changed front to 270 (T).</li>
+<li>0440 Changed front to 316 (T).</li>
+<li>0635 Sunrise.</li>
+<li>0827 Changed speed to 20 knots.</li>
+<li>1300 Anchored in Noumea Harbor, New Caledonia.  Changed to
+zone time minus 11.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.88333,-22.95000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15 2000</name>
+        <styleUrl>#pnt41</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-15T20:00:00Z</begin>
+          <end>1943-02-15T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-15: 2000</h3>
+
+<div align="center">February 15, 1943</div>
+<div>Anchored in Noumea Harbor, New Caledonia.</div>
+<ul>
+<li>1146 U.S.S. SAUFLEY (Commander Destroyer Squadron SIX), and
+U.S.S. MC CALL underway in accordance with Commander South
+Pacific's secret despatch 140533.</li>
+<li>1940 Sunset.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.76667,-22.60000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 0800</name>
+        <styleUrl>#pnt42</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-16T08:00:00Z</begin>
+          <end>1943-02-16T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-16: 0800</h3>
+
+<div align="center">February 16, 1943</div>
+<div>U.S.S. SAUFLEY and U.S.S. MC CALL operating in area west of New
+Caledonia in accordance with Commander South Pacific's secret
+despatch 140533.</div>
+<ul>
+<li>0646 Sunrise.</li>
+<li>1148 Anchored in Noumea Harbor, New Caledonia.</li>
+<li>1845 U.S.S. SAUFLEY (Commander Destroyer Squadron SIX), and
+U.S.S. MC CALL underway in accordance with Commander South
+Pacific's secret despatch 142300.</li>
+<li>1920 Sunset.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.80000,-22.36667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 2000</name>
+        <styleUrl>#pnt43</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-16T20:00:00Z</begin>
+          <end>1943-02-16T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-16: 2000</h3>
+
+<div align="center">February 16, 1943</div>
+<div>U.S.S. SAUFLEY and U.S.S. MC CALL operating in area west of New
+Caledonia in accordance with Commander South Pacific's secret
+despatch 140533.</div>
+<ul>
+<li>0646 Sunrise.</li>
+<li>1148 Anchored in Noumea Harbor, New Caledonia.</li>
+<li>1845 U.S.S. SAUFLEY (Commander Destroyer Squadron SIX), and
+U.S.S. MC CALL underway in accordance with Commander South
+Pacific's secret despatch 142300.</li>
+<li>1920 Sunset.</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.43333,-20.50000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 0800</name>
+        <styleUrl>#pnt44</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-17T08:00:00Z</begin>
+          <end>1943-02-17T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-17: 0800</h3>
+
+<div align="center">February 17, 1943</div>
+<div>U.S.S. SAUFLEY and U.S.S. MC CALL operating in area west of New
+Caledonia in accordance with Commander South Pacific's Secret
+Despatch 142300.</div>
+<ul>
+<li>0647 Sunrise.</li>
+<li>1035 Changed front to 095 (T).</li>
+<li>1513 Changed front to 110 (T).</li>
+<li>1922 Sunset.</li>
+<li>2310 Changed front to 285 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.90000,-22.06667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 2000</name>
+        <styleUrl>#pnt45</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-17T20:00:00Z</begin>
+          <end>1943-02-17T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-17: 2000</h3>
+
+<div align="center">February 17, 1943</div>
+<div>U.S.S. SAUFLEY and U.S.S. MC CALL operating in area west of New
+Caledonia in accordance with Commander South Pacific's Secret
+Despatch 142300.</div>
+<ul>
+<li>0647 Sunrise.</li>
+<li>1035 Changed front to 095 (T).</li>
+<li>1513 Changed front to 110 (T).</li>
+<li>1922 Sunset.</li>
+<li>2310 Changed front to 285 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.53333,-21.50000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 0800</name>
+        <styleUrl>#pnt46</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-19T08:00:00Z</begin>
+          <end>1943-02-19T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-19: 0800</h3>
+
+<div align="center">February 19, 1943</div>
+<div>U.S.S. SAUFLEY and U.S.S. MC CALL proceeding on course and axis
+324 (T), speed 16 knots, in accordance with Commander South Pacific's
+Secret Despatch 142300.</div>
+<ul>
+<li>0100 Changed front to 003 (T).</li>
+<li>0700 Changed speed to 25 knots.</li>
+<li>0709 Sunrise.</li>
+<li>1830 Changed front to 015 (T).</li>
+<li>1900 Changed to zone time minus 11.</li>
+<li>1943 Sunset.</li>
+<li>2255 Changed front to 315 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.11667,-16.96667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 1200</name>
+        <styleUrl>#pnt47</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-19T12:00:00Z</begin>
+          <end>1943-02-19T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-02-19: 1200</h3>
+
+<div align="center">February 19, 1943</div>
+<div>U.S.S. SAUFLEY and U.S.S. MC CALL proceeding on course and axis
+324 (T), speed 16 knots, in accordance with Commander South Pacific's
+Secret Despatch 142300.</div>
+<ul>
+<li>0100 Changed front to 003 (T).</li>
+<li>0700 Changed speed to 25 knots.</li>
+<li>0709 Sunrise.</li>
+<li>1830 Changed front to 015 (T).</li>
+<li>1900 Changed to zone time minus 11.</li>
+<li>1943 Sunset.</li>
+<li>2255 Changed front to 315 (T).</li>
+</ul>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.35000,-15.31667,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>1943-02 Routes</name>
+      <Style id="line1">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line2">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line3">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line4">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line5">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line6">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line7">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line8">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line9">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line10">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line11">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line12">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line13">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line14">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line15">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line16">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line17">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line18">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line19">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line20">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line21">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line22">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line23">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line24">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line25">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line26">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line27">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line28">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line29">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line30">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line31">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line32">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line33">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line34">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line35">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line36">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line37">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line38">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line39">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line40">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line41">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line42">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line43">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line44">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line45">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line46">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>01 0800</name>
+        <styleUrl>#line1</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-01T08:00:00Z</begin>
+          <end>1943-02-01T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.416666666667,-18.85,0
+ 161.7,-19.3,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>01 1200</name>
+        <styleUrl>#line2</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-01T12:00:00Z</begin>
+          <end>1943-02-01T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.7,-19.3,0
+ 161.6,-19.65,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>01 2000</name>
+        <styleUrl>#line3</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-01T20:00:00Z</begin>
+          <end>1943-02-01T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.6,-19.65,0
+ 158.766666666667,-17.1333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>02 0800</name>
+        <styleUrl>#line4</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-02T08:00:00Z</begin>
+          <end>1943-02-02T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.766666666667,-17.1333333333333,0
+ 158.5,-16.25,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>02 1200</name>
+        <styleUrl>#line5</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-02T12:00:00Z</begin>
+          <end>1943-02-02T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.5,-16.25,0
+ 160.1,-14.7,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>02 2000</name>
+        <styleUrl>#line6</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-02T20:00:00Z</begin>
+          <end>1943-02-02T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.1,-14.7,0
+ 163.366666666667,-12.85,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>03 0800</name>
+        <styleUrl>#line7</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-03T08:00:00Z</begin>
+          <end>1943-02-03T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.366666666667,-12.85,0
+ 163.2,-12.6333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>03 1200</name>
+        <styleUrl>#line8</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-03T12:00:00Z</begin>
+          <end>1943-02-03T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.2,-12.6333333333333,0
+ 164.9,-13.7,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>03 2000</name>
+        <styleUrl>#line9</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-03T20:00:00Z</begin>
+          <end>1943-02-03T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.9,-13.7,0
+ 161.95,-14.6166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>04 0800</name>
+        <styleUrl>#line10</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-04T08:00:00Z</begin>
+          <end>1943-02-04T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.95,-14.6166666666667,0
+ 162.683333333333,-15.3333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>04 1200</name>
+        <styleUrl>#line11</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-04T12:00:00Z</begin>
+          <end>1943-02-04T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.683333333333,-15.3333333333333,0
+ 163.75,-15.8,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>04 2000</name>
+        <styleUrl>#line12</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-04T20:00:00Z</begin>
+          <end>1943-02-04T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.75,-15.8,0
+ 162.638333333333,-14.7666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>05 0800</name>
+        <styleUrl>#line13</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-05T08:00:00Z</begin>
+          <end>1943-02-05T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.638333333333,-14.7666666666667,0
+ 163.733333333333,-14.6166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>05 1200</name>
+        <styleUrl>#line14</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-05T12:00:00Z</begin>
+          <end>1943-02-05T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.733333333333,-14.6166666666667,0
+ 165.388333333333,-15.9166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>05 2000</name>
+        <styleUrl>#line15</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-05T20:00:00Z</begin>
+          <end>1943-02-05T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.388333333333,-15.9166666666667,0
+ 165.433333333333,-15.9166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>06 0800</name>
+        <styleUrl>#line16</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-06T08:00:00Z</begin>
+          <end>1943-02-06T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.433333333333,-15.9166666666667,0
+ 166.133333333333,-16.35,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>06 1200</name>
+        <styleUrl>#line17</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-06T12:00:00Z</begin>
+          <end>1943-02-06T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.133333333333,-16.35,0
+ 166.85,-17.35,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>06 2000</name>
+        <styleUrl>#line18</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-06T20:00:00Z</begin>
+          <end>1943-02-06T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.85,-17.35,0
+ 164.35,-16.5833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>07 0800</name>
+        <styleUrl>#line19</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-07T08:00:00Z</begin>
+          <end>1943-02-07T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.35,-16.5833333333333,0
+ 163.883333333333,-16.155,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>07 1200</name>
+        <styleUrl>#line20</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-07T12:00:00Z</begin>
+          <end>1943-02-07T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.883333333333,-16.155,0
+ 162.233333333333,-16.7,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>07 2000</name>
+        <styleUrl>#line21</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-07T20:00:00Z</begin>
+          <end>1943-02-07T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.233333333333,-16.7,0
+ 162.016666666667,-14.955,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>08 0800</name>
+        <styleUrl>#line22</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-08T08:00:00Z</begin>
+          <end>1943-02-08T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.016666666667,-14.955,0
+ 158.566666666667,-14.35,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>08 1200</name>
+        <styleUrl>#line23</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-08T12:00:00Z</begin>
+          <end>1943-02-08T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.566666666667,-14.35,0
+ 158.166666666667,-14,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>08 2000</name>
+        <styleUrl>#line24</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-08T20:00:00Z</begin>
+          <end>1943-02-08T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.166666666667,-14,0
+ 157.65,-14.3666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>09 0800</name>
+        <styleUrl>#line25</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-09T08:00:00Z</begin>
+          <end>1943-02-09T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>157.65,-14.3666666666667,0
+ 158.983333333333,-14.35,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>09 1200</name>
+        <styleUrl>#line26</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-09T12:00:00Z</begin>
+          <end>1943-02-09T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.983333333333,-14.35,0
+ 159.783333333333,-14.9166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>09 2000</name>
+        <styleUrl>#line27</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-09T20:00:00Z</begin>
+          <end>1943-02-09T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>159.783333333333,-14.9166666666667,0
+ 161.966666666667,-16.2833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10 0800</name>
+        <styleUrl>#line28</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-10T08:00:00Z</begin>
+          <end>1943-02-10T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.966666666667,-16.2833333333333,0
+ 162.3,-16.5333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10 1200</name>
+        <styleUrl>#line29</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-10T12:00:00Z</begin>
+          <end>1943-02-10T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.3,-16.5333333333333,0
+ 161.85,-18.1333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10 2000</name>
+        <styleUrl>#line30</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-10T20:00:00Z</begin>
+          <end>1943-02-10T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.85,-18.1333333333333,0
+ 159.95,-15.0166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11 0800</name>
+        <styleUrl>#line31</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-11T08:00:00Z</begin>
+          <end>1943-02-11T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>159.95,-15.0166666666667,0
+ 160.033333333333,-14.5666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11 1200</name>
+        <styleUrl>#line32</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-11T12:00:00Z</begin>
+          <end>1943-02-11T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.033333333333,-14.5666666666667,0
+ 162.283333333333,-14.4833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11 2000</name>
+        <styleUrl>#line33</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-11T20:00:00Z</begin>
+          <end>1943-02-11T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.283333333333,-14.4833333333333,0
+ 164.783333333333,-15.0166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12 0800</name>
+        <styleUrl>#line34</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-12T08:00:00Z</begin>
+          <end>1943-02-12T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.783333333333,-15.0166666666667,0
+ 165.633333333333,-15.0666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12 1200</name>
+        <styleUrl>#line35</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-12T12:00:00Z</begin>
+          <end>1943-02-12T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.633333333333,-15.0666666666667,0
+ 166.033333333333,-14.8,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12 2000</name>
+        <styleUrl>#line36</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-12T20:00:00Z</begin>
+          <end>1943-02-12T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.033333333333,-14.8,0
+ 167.3,-19.0333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13 0800</name>
+        <styleUrl>#line37</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-13T08:00:00Z</begin>
+          <end>1943-02-13T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.3,-19.0333333333333,0
+ 168.1,-20.0833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13 1200</name>
+        <styleUrl>#line38</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-13T12:00:00Z</begin>
+          <end>1943-02-13T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.1,-20.0833333333333,0
+ 169.366666666667,-22.4666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13 2000</name>
+        <styleUrl>#line39</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-13T20:00:00Z</begin>
+          <end>1943-02-13T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>169.366666666667,-22.4666666666667,0
+ 165.883333333333,-22.95,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14 0800</name>
+        <styleUrl>#line40</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-14T08:00:00Z</begin>
+          <end>1943-02-14T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.883333333333,-22.95,0
+ 165.766666666667,-22.6,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>15 2000</name>
+        <styleUrl>#line41</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-15T20:00:00Z</begin>
+          <end>1943-02-15T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.766666666667,-22.6,0
+ 165.8,-22.3666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16 0800</name>
+        <styleUrl>#line42</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-16T08:00:00Z</begin>
+          <end>1943-02-16T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.8,-22.3666666666667,0
+ 166.433333333333,-20.5,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16 2000</name>
+        <styleUrl>#line43</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-16T20:00:00Z</begin>
+          <end>1943-02-16T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.433333333333,-20.5,0
+ 165.9,-22.0666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17 0800</name>
+        <styleUrl>#line44</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-17T08:00:00Z</begin>
+          <end>1943-02-17T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.9,-22.0666666666667,0
+ 165.533333333333,-21.5,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17 2000</name>
+        <styleUrl>#line45</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-17T20:00:00Z</begin>
+          <end>1943-02-17T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.533333333333,-21.5,0
+ 162.116666666667,-16.9666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>19 0800</name>
+        <styleUrl>#line46</styleUrl>
+        <TimeSpan>
+          <begin>1943-02-19T08:00:00Z</begin>
+          <end>1943-02-19T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.116666666667,-16.9666666666667,0
+ 162.35,-15.3166666666667,0</coordinates>
         </LineString>
       </Placemark>
     </Folder>
