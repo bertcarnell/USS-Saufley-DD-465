@@ -5161,5 +5161,2533 @@ Secret Despatch 142300.</div>
         </LineString>
       </Placemark>
     </Folder>
+    <Folder>
+      <name>1943-03 Locations</name>
+      <Style id="pnt1">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt2">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt3">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt4">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt5">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt6">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt7">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt8">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt9">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt10">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt11">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt12">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt13">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt14">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt15">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt16">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt17">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt18">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt19">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt20">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt21">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt22">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt23">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt24">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt25">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt26">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt27">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt28">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt29">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt30">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt31">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt32">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt33">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt34">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt35">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt36">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>01 2000</name>
+        <styleUrl>#pnt1</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-01T20:00:00Z</begin>
+          <end>1943-03-01T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-01: 2000</h3>
+
+<div>0000-0400 Steaming on base course 268 (T) speed 7 knots
+patrolling station, boilers 1+3 in use.  0137 On various courses +
+speeds conforming to channel Renard Sound.  0859 Lying to in Renard
+Sound screening unloading of LCT's.</div>
+<div>0400-0800 Lying to as before.  No further remarks. </div>
+<div>0800-1200 Lying to as before.</div>
+<div>1800-1600 Lying to as before.  1339 Underway with LCT in tow
+on various courses + speeds conforming to channel Renard Sound.  1414
+c/c to 094 Gyro speed 10½ knots.  1430 c/c to 093 gyro.  1519 c/c to
+12 knots in gradual steps.</div>
+<div>1600-2000 Steaming as before.  1840 Made preparations for entering
+port; LCT cast off towing line.  1929 Anchored in 20
+fathoms of water with 45 fathoms of chain to starboard.
+Anchor in berth A-2 Tulagi Harbor.</div>
+<div>2000-2400 Anchored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>02 0800</name>
+        <styleUrl>#pnt2</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-02T08:00:00Z</begin>
+          <end>1943-03-02T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-02: 0800</h3>
+
+<div>0000-0400 Anchored in berth A-2 Tulagi Harbor in 20 fathoms
+of water with 45 fathoms of chain to the water edge on stbd anchor
+Ship on two minutes notice for getting underway.  Boilers 1+4 in use.</div>
+<div>0400-0800 Anchored as before.  No further remarks.</div>
+<div>0800-1200 Anchored as before.  0815 Commenced
+preparations for getting underway.
+0825 Reported gyro compass out of
+commission.  0829 Underway []
+[] and speed of [] the
+[] 0849 c/s to 15 knots []
+[] c/c to 180 []
+course approaching [] ship
+[]
+[] course + speed
+[] for approach.  1006 Moored
+alongside USS George Clymer Com
+[] 1024
+Commenced [] 1120 []
+[]
+provisions.</div>
+<div>1200-1600 Moored as before fueling + provisioning 1300 Completed
+fueling having received 94130 gals aboard draft forward 12' 00"
+aft 14' ft 16"  1425 Completed provisioning commenced preparations
+for getting underway.  1448 Underway 1518 c/c to 008 gyro speed 20 knots
+1523 c/c to 003 gyro 1533 c/c to 000 gyro 1543 [] on various
+courses + speeds conforming to Tulagi Channel.</div>
+<div>1600-2000  Steaming as before.  1610 Anchored in 25 fathoms of water
+with 45 fathoms of chain to starboard anchor in berth A-2
+Tulagi Harbor.</div>
+<div>2000-2400 Anchored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03 1200</name>
+        <styleUrl>#pnt3</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-03T12:00:00Z</begin>
+          <end>1943-03-03T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-03: 1200</h3>
+
+<div>0000-0400  anchored in berth Able 2 Tulagi Harbor in 26 fathoms of
+water with 45 fathoms of chain at the waters edge to the port anchor
+boiler 2 in use.  0230 Lit off boiler #3  0315 Commenced preparations
+for getting underway.</div>
+<div>0400-0800 Anchored as before.  0409 Underway starting ouf of the harbor.  0420
+screening LCTs on various courses and speeds enroute Koli Point
+Guadalcanal.  0754 Anchored in 24 fathoms of water with 45 fathoms
+of chain to port anchor off Koli Point Guadalcanal Island.</div>
+<div>0800-1200 Anchored as before 1012 Commenced
+preparations for getting underway
+1018 Underway 1024 set course 352 T
+352 p.g.c.  set speed 25 knots standard
+(144 r.p.m.)  1123 various courses and
+speeds in approach to anchorage.
+1148 anchored in 22 fathoms, 45 fathoms
+of chain to port in bert D-3, Tulagi
+Harbor.</div>
+<div>1200-1600 Anchored as before.</div>
+<div>1600-2000 Anchored as before.  No further remarks.</div>
+<div>2000-2400 Anchored as before.  2222* condition
+"Red" reported by Harbor []
+quarters.  2224 made preparations for
+getting underway.  2315 set modified
+condition one.  2318* alert sounded.</div>
+<div>*(2223 stick of bombs dropped between
+this ship and merchantman in adjacent
+berth. 2318 second stick of bombs
+dropped near shore installations in Tulagi
+harbor.  Extent of damage not known in either
+case).</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 2000</name>
+        <styleUrl>#pnt4</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-04T20:00:00Z</begin>
+          <end>1943-03-04T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-04: 2000</h3>
+
+<div>0000-0400 Anchored in berth Dog 3 Tulagi Harbor in 22 fathoms of water
+with 45 fathoms of chain at the water's edge to the port anchor.  Making preparations
+for getting underway.  All hands at general quarters, boilers 1 + 3 in use.
+0005 Underway on various courses + speeds conforming to channel, standing
+on harbor.  0107 Set modified general quarters.  0045 c/s to 20 knots.  0220 c/c
+c/c to 246 T.  0315 c/c to 255 c/s to 10 knots.</div>
+<div>0400-0800 Steaming as before. 0430 Patrolling on various courses
+and speed as area off Russell Islands.</div>
+<div>0800-1200 Steaming as before.  1000 commenced
+patrolling outside of harbor.  1011
+c/s to 5 knots in [] up with
+escorted vessels.  1024 c/s to 11 knots
+1025 commenced screen patrol on
+courses 051 T and 141 T, []
+course 096 T.</div>
+<div>1800-1600 Steaming as before.  1432 c/c to 112 T.  1435 Secured
+from modified general quarters.</div>
+<div>1600-2000 Steaming as before.  1635 Entered Tulagi.  1703
+Anchored in 25 fathoms of water with 45 fathoms of chain to
+the port anchor in berth D-3.</div>
+<div>2000-2400 Anchored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 0800</name>
+        <styleUrl>#pnt5</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-05T08:00:00Z</begin>
+          <end>1943-03-05T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-05: 0800</h3>
+
+<div>0000-0400  Achored in berth Dog 3 Tulagi Harbor in 28 fathoms of water
+with 45 fathoms to the port anchor, boilers 1+3 in use.  Ship on five
+minutes notice for getting underway.</div>
+<div>0400-0800 Anchored as before.  No further remarks.</div>
+<div>0800-1200 Anchored as before.  1100 commenced
+preparations for getting underway.
+1130 underway, various courses and
+speeds.  1140 Set course 174 T, speed
+20, standard 15 (144 rpm)</div>
+<div>1200-1600 Steaming as before.  1215 Making preparations for anchoring.
+1241 Ancored in 21 fathoms of water with 45 fathoms of chain to the port
+anchor.  1256 Underway proceeding to patrolling station speed 10 knots
+4000 yard circle from tender.</div>
+<div>1600-2000 Steaming as before.  1643 Moored port side to USS WRIGHT
+1714 Commenced fueling, draft forward 11 feet, draft aft,
+13 feet 6 inches.  1850 Completed fueling, received 22050 gallons
+fuel oil at temperature 60 (F) and 3000 gallons fresh water.
+Draft after fueling, 12 feet 3 inches forward, 14 feet 1 inch
+aft.  1910 Underway, patrolling between Lunga Point and Koli
+Point, Guadalcanal Island, speed 10 knots.</div>
+<div>2000-2400 Steaming as before.  2135 General
+quarters.  Enemy aircraft bombed
+Tulagi area.  2253 set modified
+condition one.  2255 alert called.  2305
+modified condition one resumed.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 1700</name>
+        <styleUrl>#pnt6</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-06T17:00:00Z</begin>
+          <end>1943-03-06T17:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-06: 1700</h3>
+
+<div>0000-0400 Patrolling north of Koli and Lunga Pt on reverse courses
+270 + 090 (T).  Boilers 1 + 3 in use.  Speed 10 knots.  0018 ceased patrolling
+c/c to 292 (T)  0059 c/s to 15 knots.  0101 c/s to 20 knots  0215 c/c to
+270 (T)  0235 Commenced zig zagging.  0325 ceased zig zagging reversed
+base course 034.  c/s to 15 knots.</div>
+<div>0400-0800 Steaming as before.  0436 various
+courses and speeds patrolling off
+Russell Islands.  0536 general quarters.</div>
+<div>0800-1200  Steaming as before.  0923 Screening LCTs on base course
+096 (T) speed 11 knots.  0930 set modified general quarters, formed anti
+submarine screen with USS MCCALL on three LCTs.</div>
+<div>1200-1600 Steaming as before.  1308 secured from General Quarters, set regular condition
+watch.  1349 Condition "Red"  General Quarters, enemy aircraft attacking
+Russell Islands.  1458 Secured from General Quarters, set condition watch
+1500 proceeded to vicinity Koli Point Guadalcanal 1509 stopped lying-to 1512
+Patrolling off Koli Point  1554 Set course 354 T at 15 knots.
+Proceeding Tulagi Harbor zig zagging.</div>
+<div>1600-2000 Steaming as before.  1700 Entered Tulagi Harbor.  1721
+Anchored in 25 fathoms of water with 45 fathoms of chain
+to port anchor in berth B-3.  1915 Make preparations for getting
+underway.  1945 Underway, steaming out of Tulagi Harbor on
+various courses and speeds.</div>
+<div>2000-2400 Steaming as before.  2052 set course
+285 T.  Commenced zig-zag without
+plan.  2105 general quarters.  2153
+c/c to 115 T.  2200 set modified condition
+one.  Patrolling on base course 115 T
+and 205 T, zig-zagging as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 2000</name>
+        <styleUrl>#pnt7</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-07T20:00:00Z</begin>
+          <end>1943-03-07T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-07: 2000</h3>
+
+<div>0000-0400 Steaming on patrol on reverse courses of 115 T and 295 T
+modified zig zag plan, speed 10 knots.  Boilers 1 + 3 in use.  All hands at modified general
+quarters.</div>
+<div>0400-0800  Steaming as before.  0558 Increased speed to 15 knots.  0651
+changed course to 025 T.  0652 changed course to 014 T
+0654 Decreased speed to 5 knots.  0706 anchored in
+25 fathoms of water with 45 fathoms of chain to
+port anchor in berth D-3, Tulagi Harbor.</div>
+<div>0800-1200 Anchored as before</div>
+<div>1200-1600 Anchored as before</div>
+<div>1600-2000 Anchored as before.  1915 Make all preparations
+for getting underway.  1930 Underway, standing out of Harbor
+on course 197 (T) speed 10 knots.  1955 set condition of readiness
+I, material condition "Afirm"</div>
+<div>2000-2400 Steaming as before. 2152 set
+modified condition one.  2320 Alert sounded.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 2000</name>
+        <styleUrl>#pnt8</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-08T20:00:00Z</begin>
+          <end>1943-03-08T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-08: 2000</h3>
+
+<div>0000-0400 Steaming on reverse courses 115 (T) + 295 (T) between SeaLark Channel
++ Savo Island zig zagging, speed 10 knots boilers 1 + 3 in use.</div>
+<div>0400-0800 Steaming as before.  0458 decreased speed to 15 knots 0602
+changed course to 50 (T) made preparations forr enternig port.
+0637 Decreased speed to 5 knots.  0639 Changed course to 016 (T)
+0657 anchored in 25 fathoms of water with 45 fathoms of
+chain to port anchor in berth D-3, Tulagi Harbor.</div>
+<div>1800-1200 Anchored as before.</div>
+<div>1200-1600 Anchored as before.</div>
+<div>1600-2000 anchored as before.  1715 Made preparations for getting
+underway.  1742 Underway, standing out of harbor on various
+courses, speed 5 knots.  1751 decreased speed to 10 knots.
+1755 Steadied on courses 256 (t), increased speed to
+20 knots. 1824 Changed course to 249 (T)  1855
+Decreased speed to 10 knots.  commenced patrolling on
+base course 300 (T), escorting USS TREVOR and 3 LCTs
+to Russell Islands.  1950 Set condition of readiness I,
+material condition "Afirm".</div>
+<div>2000-2400 Steaming as before.  2046 modified
+condition one set.  2120 alert
+sounded.  2220 modified general
+quarters reset.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 1800</name>
+        <styleUrl>#pnt9</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-09T18:00:00Z</begin>
+          <end>1943-03-09T18:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-09: 1800</h3>
+
+<div>0000-0400 Steaming on base course 270 (T) speed 10 knots patrolling
+station on escort for 3 LCTs.  Modified condition of readiness
+I set.  Material condition "Baker" set. 0200 commenced patrolling
+offshore.</div>
+<div>0400-0800 Steaming as before.  0517 general
+quarters 0617 modified condition one set.</div>
+<div>0800-1200 Patrolling as before 0845 formed anti submarine screen on
+USS TREVOR and two LCTs returning to Tulagi Harbor.  Set course
+095 T+pgc speed 10 knots.  1145 changed course
+to 115 T+pgc speed 18 knots.</div>
+<div>1200-1600 Steaming as before.  Zig zagging 30 to either side of base
+course.  1340 stopped off Koli Point.  1345 Patrolling on various
+courses at 10 knots off Koli Point.</div>
+<div>1600-2000 Steaming as before.  1638 Set course 350 (T) for
+Tulagi Harbor, increased speed to 20 knots.  1715 changed
+course to 009 (T), made preparations for entering port.
+1733 Decreased speed to 5 knots.  1739 Anchored in 25
+fathoms of water with 60 fathoms of chain to port anchor
+in berth D-3, Tulagi Harbor.  1845 made preparations
+for getting underway  1852 Underway, standing out of harbor
+on various courses + speeds.</div>
+<div>2000-2400  Steaming as before on patrol
+courses 115 T and 295 T speed 10 knots
+standard 15 (144 r.p.m.) between Savo Island and Sealark channel.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 1800</name>
+        <styleUrl>#pnt10</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-10T18:00:00Z</begin>
+          <end>1943-03-10T18:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-10: 1800</h3>
+
+<div>0000-0400 Steaming on reverse courses 295 (T) and 115 (T) speed
+10 knots off Savo Island.  boiler #1 and #3 in use.
+Modified condition of readiness I set.  0300 Set course
+274 (T) for Russell Islands.  Increased speed to 15 knots
+0351 changed course to 270 (T).  0400 decreased speed to
+17 knots.</div>
+<div>0400-0800 Steaming as before.  0630 Commenced patrolling
+off Russell Islands.</div>
+<div>0800-1200 Steaming as before.  0900 formed
+anti-submarine screen with U.S.S.
+WILSON on four LCTs.  0943 general
+quarters  1005 modified condition
+one reset.  Course 090 T speed 10 knots,
+screening LCTs enroute Tulagi
+Harbor.  1055 Machine guns reported
+satisfactorily after test firing.</div>
+<div>1200-1600 Steaming as before.  1322 sounded general quarters  1325 Changed
+course to 086 (T)  1331 Changed speed to 9 knots.  1339 Changed speed
+to 11 knots.  commenced modified zig zagging from course 088 (T)
+1342 Changed speed to 15 knots.  1349 Changed speed to 18 knots.  1412
+set modified condition I.  1425 set condition I.  1440 Changing course
+and speed to conform with channel in Tulagi Harbor.  1538 Moored port
+side to ERSKINE M PHELPS.  1545 Commenced fueling.</div>
+<div>1600-2000 Moored as before.  1630 secured from fueling.
+Received 50,415 gallons fuel oil and 2 barrels of lubricating
+oil.  Made preparations for getting underway.  1655 Underway.
+Proceeding to anchorage in harbor.  1715 Anchored in
+20 fathoms of water with 45 fathoms of chain to port anchor
+in berth D-3, Tulagi Harbor.  1845 Made preparations for
+getting underway.  1916 Underway, standing out of harbor on course
+190 (T) speed 10 knots.  1930 changed course to 219 (T).  1946
+commenced patrolling on course 114 (T) and 294 (T).  1950 Set
+condition of readiness I, material condition "Afirm".</div>
+<div>2000-2400 Steaming as before.  2000
+set modified condition one.
+Material condition "Baker".</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 1200</name>
+        <styleUrl>#pnt11</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-11T12:00:00Z</begin>
+          <end>1943-03-11T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-11: 1200</h3>
+
+<div>0000-0400 Patrolling between Guadalcanal and Florida island
+on reverse course 114 (T) and 294 (T), speed 10 knots.
+Boilers #1 and #3 in use, gyro error 1 w.  Modified
+condition of readiness I set, material condition "Afrim".</div>
+<div>0400-0800 Steaming as before  0625 Made preparations for entering
+port.  0700 anchored in 25 fathoms of water with 45
+fathoms of chain to port anchor in berth D-3,
+Tulagi Harbor.</div>
+<div>0800-1200  Anchored as before.</div>
+<div>1200-1600  Anchored as before.  1530 commenced diving operations to inspect
+screws.</div>
+<div>1600-2000  Anchored as before.  1845 Make preparations
+for getting underway.  1906 Underway, standing out
+of harbor on course 199 (T), speed 10 knots.  1946
+condition red, set condition of readiness I, material
+condition "Afirm".</div>
+<div>2000-2400  Set modified condition one.
+Patrolling between Guadalcanal
+and Florida Islands on courses
+115 T and 295 T speed 10 knots.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14 1400</name>
+        <styleUrl>#pnt12</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-14T14:00:00Z</begin>
+          <end>1943-03-14T14:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-14: 1400</h3>
+
+<div>0000-0400  Steaming as before.  Patrolling off Koli Point on various
+courses, speed 10 knots, Gyro error 1 W.  Boilers #2 and #3 in use.
+0345 Set course 345 (T) for Purvis Bay entrance.</div>
+<div>0400-0800  Steaming as before.  0406 Increased speed to 13 1/2 knots
+0558 Escorting cargo ship to Lunga Point.  0646 Commenced
+patrolling off Koli Point on various courses, speed
+10 knots.</div>
+<div>0800-1200  Steaming as before.  0909 General
+quarters.  0912 c/s to 20 knots, various
+courses.  0935 c/s to 10 knots, resumed
+patrol.  0942 secured from general
+quarters.  1145 commenced taking
+screening position of merchant
+vessel enroute Tulagi Harbor.  1151
+set course 352 T, speed 20 knots standard
+15 (144 r.p.m.)</div>
+<div>1200-1600 Standing into Tulagi Harbor.  1304 Anchored in 29 fathoms
+of water with 45 fathoms of chain to the port anchor in berth
+D-3.  1434 Standnig out of Tulagi Harbor.  1445 Enroute to
+Lunga Point on base course 200 (T) speed 15 knots zig zagging
+according to modified plan.  1541 Arrived off Lunga Point
+Commenced screening CASSIOPEIA at 10 knots.</div>
+<div>1600-2000  Steaming as before.  1800 Commenced patrolling off
+Koli Poin.</div>
+<div>2000-2400  Steaming as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.14472,-9.09417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 0800</name>
+        <styleUrl>#pnt13</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-16T08:00:00Z</begin>
+          <end>1943-03-16T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-16: 0800</h3>
+
+<div>0000-0400  Steaming as before.  Escorting PETER SYLVESTER.  gyro error 1 W.  Base
+course 145 (T) speed 10 knots.  Zig zagging according to Mersig
+plan #20.  0130 Ceased zig zagging.  Resumed base course.  0136
+changed base course to 185 (T).  0200 commenced zig zagging
+according to Mersig plan #20.</div>
+<div>0400-0800  Steaming as before.  0630 Changed base course
+to 073 (T) decreased speed to 12 1/2 knots for paatrolling
+purposes.</div>
+<div>0800-1200  Steaming as before.</div>
+<div>1200-1600  Steaming as before.  1254 Closed screened ship to provide
+AA protection.  1310  Resumed station.</div>
+<div>1600-2000 Steaming as before.</div>
+<div>2000-2400 Steaming as before.</div>
+<div>(NOTE:  Mersig is merchant signalling plan)</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.18333,-10.76667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 1200</name>
+        <styleUrl>#pnt14</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-16T12:00:00Z</begin>
+          <end>1943-03-16T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-16: 1200</h3>
+
+<div>0000-0400  Steaming as before.  Escorting PETER SYLVESTER.  gyro error 1 W.  Base
+course 145 (T) speed 10 knots.  Zig zagging according to Mersig
+plan #20.  0130 Ceased zig zagging.  Resumed base course.  0136
+changed base course to 185 (T).  0200 commenced zig zagging
+according to Mersig plan #20.</div>
+<div>0400-0800  Steaming as before.  0630 Changed base course
+to 073 (T) decreased speed to 12 1/2 knots for paatrolling
+purposes.</div>
+<div>0800-1200  Steaming as before.</div>
+<div>1200-1600  Steaming as before.  1254 Closed screened ship to provide
+AA protection.  1310  Resumed station.</div>
+<div>1600-2000 Steaming as before.</div>
+<div>2000-2400 Steaming as before.</div>
+<div>(NOTE:  Mersig is merchant signalling plan)</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.30000,-11.30083,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 2000</name>
+        <styleUrl>#pnt15</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-16T20:00:00Z</begin>
+          <end>1943-03-16T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-16: 2000</h3>
+
+<div>0000-0400  Steaming as before.  Escorting PETER SYLVESTER.  gyro error 1 W.  Base
+course 145 (T) speed 10 knots.  Zig zagging according to Mersig
+plan #20.  0130 Ceased zig zagging.  Resumed base course.  0136
+changed base course to 185 (T).  0200 commenced zig zagging
+according to Mersig plan #20.</div>
+<div>0400-0800  Steaming as before.  0630 Changed base course
+to 073 (T) decreased speed to 12 1/2 knots for paatrolling
+purposes.</div>
+<div>0800-1200  Steaming as before.</div>
+<div>1200-1600  Steaming as before.  1254 Closed screened ship to provide
+AA protection.  1310  Resumed station.</div>
+<div>1600-2000 Steaming as before.</div>
+<div>2000-2400 Steaming as before.</div>
+<div>(NOTE:  Mersig is merchant signalling plan)</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.32917,-12.50000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 0800</name>
+        <styleUrl>#pnt16</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-17T08:00:00Z</begin>
+          <end>1943-03-17T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-17: 0800</h3>
+
+<div>0000-0400  Patrolling ahead of PETER SYLVESTER.  Base course 173 (T)
+Speed 12 1/2 knots.  Gyro error 1 W.</div>
+<div>0400-0800  Steaming as before.  0651 Unidentified plan sighted.
+set condition of readiness 2.  0711 Set condition of readiness
+II.</div>
+<div>0800-1200 Steaming as before.</div>
+<div>1200-1600 Steaming as before.</div>
+<div>1600-2000 Steaming as before.</div>
+<div>2000-2400 Steaming as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.50000,-14.05000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 1200</name>
+        <styleUrl>#pnt17</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-17T12:00:00Z</begin>
+          <end>1943-03-17T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-17: 1200</h3>
+
+<div>0000-0400  Patrolling ahead of PETER SYLVESTER.  Base course 173 (T)
+Speed 12 1/2 knots.  Gyro error 1 W.</div>
+<div>0400-0800  Steaming as before.  0651 Unidentified plan sighted.
+set condition of readiness 2.  0711 Set condition of readiness
+II.</div>
+<div>0800-1200 Steaming as before.</div>
+<div>1200-1600 Steaming as before.</div>
+<div>1600-2000 Steaming as before.</div>
+<div>2000-2400 Steaming as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.55833,-14.68333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 2000</name>
+        <styleUrl>#pnt18</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-17T20:00:00Z</begin>
+          <end>1943-03-17T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-17: 2000</h3>
+
+<div>0000-0400  Patrolling ahead of PETER SYLVESTER.  Base course 173 (T)
+Speed 12 1/2 knots.  Gyro error 1 W.</div>
+<div>0400-0800  Steaming as before.  0651 Unidentified plan sighted.
+set condition of readiness 2.  0711 Set condition of readiness
+II.</div>
+<div>0800-1200 Steaming as before.</div>
+<div>1200-1600 Steaming as before.</div>
+<div>1600-2000 Steaming as before.</div>
+<div>2000-2400 Steaming as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.70000,-15.49167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18 0800</name>
+        <styleUrl>#pnt19</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-18T08:00:00Z</begin>
+          <end>1943-03-18T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-18: 0800</h3>
+
+<div>0000-0400  Patrolling ahead of SS PETER SYLVESTER on base course
+173 (T) speed 11 knots.  Gyro error 1 W.</div>
+<div>0400-0800  Steaming as before.</div>
+<div>0800-1200  Steaming as before.</div>
+<div>1200-1600  Steaming as before.</div>
+<div>1600-2000  Steaming as before.</div>
+<div>2000-2400  Steaming as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.90000,-16.70000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18 1200</name>
+        <styleUrl>#pnt20</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-18T12:00:00Z</begin>
+          <end>1943-03-18T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-18: 1200</h3>
+
+<div>0000-0400  Patrolling ahead of SS PETER SYLVESTER on base course
+173 (T) speed 11 knots.  Gyro error 1 W.</div>
+<div>0400-0800  Steaming as before.</div>
+<div>0800-1200  Steaming as before.</div>
+<div>1200-1600  Steaming as before.</div>
+<div>1600-2000  Steaming as before.</div>
+<div>2000-2400  Steaming as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.05000,-17.10000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18 2000</name>
+        <styleUrl>#pnt21</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-18T20:00:00Z</begin>
+          <end>1943-03-18T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-18: 2000</h3>
+
+<div>0000-0400  Patrolling ahead of SS PETER SYLVESTER on base course
+173 (T) speed 11 knots.  Gyro error 1 W.</div>
+<div>0400-0800  Steaming as before.</div>
+<div>0800-1200  Steaming as before.</div>
+<div>1200-1600  Steaming as before.</div>
+<div>1600-2000  Steaming as before.</div>
+<div>2000-2400  Steaming as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.08333,-18.21667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 0800</name>
+        <styleUrl>#pnt22</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-19T08:00:00Z</begin>
+          <end>1943-03-19T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-19: 0800</h3>
+
+<div>0000-04000  Patrolling ahead of SS PETER SYLVESTER on base course
+173 (T)  Gyro error 1 W.  0250 Ceased patrolling.  0300 Changed
+course to 145 (T)  0301 Resumed patrolling.</div>
+<div>0400-0800  Steaming as before.</div>
+<div>0800-1200  Steaming as before.  0950 general
+quarters for scheduled firing exercises.
+1050 Secured from general quarters.</div>
+<div>1200-1600  Steaming as before.  1215 Sighted land bearing 085 (T)
+1312 changed speed to 12 1/2 knots.</div>
+<div>1600-2000 Steaming as before</div>
+<div>2000-2400 Steaming as before.  2050 ceased
+zig zagging, resumed base course
+2100 c/c to 128 T, resumed zig-zagging
+on plan #11 as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.70000,-19.74167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 1200</name>
+        <styleUrl>#pnt23</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-19T12:00:00Z</begin>
+          <end>1943-03-19T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-19: 1200</h3>
+
+<div>0000-04000  Patrolling ahead of SS PETER SYLVESTER on base course
+173 (T)  Gyro error 1 W.  0250 Ceased patrolling.  0300 Changed
+course to 145 (T)  0301 Resumed patrolling.</div>
+<div>0400-0800  Steaming as before.</div>
+<div>0800-1200  Steaming as before.  0950 general
+quarters for scheduled firing exercises.
+1050 Secured from general quarters.</div>
+<div>1200-1600  Steaming as before.  1215 Sighted land bearing 085 (T)
+1312 changed speed to 12 1/2 knots.</div>
+<div>1600-2000 Steaming as before</div>
+<div>2000-2400 Steaming as before.  2050 ceased
+zig zagging, resumed base course
+2100 c/c to 128 T, resumed zig-zagging
+on plan #11 as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.01667,-20.00000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 2000</name>
+        <styleUrl>#pnt24</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-19T20:00:00Z</begin>
+          <end>1943-03-19T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-19: 2000</h3>
+
+<div>0000-04000  Patrolling ahead of SS PETER SYLVESTER on base course
+173 (T)  Gyro error 1 W.  0250 Ceased patrolling.  0300 Changed
+course to 145 (T)  0301 Resumed patrolling.</div>
+<div>0400-0800  Steaming as before.</div>
+<div>0800-1200  Steaming as before.  0950 general
+quarters for scheduled firing exercises.
+1050 Secured from general quarters.</div>
+<div>1200-1600  Steaming as before.  1215 Sighted land bearing 085 (T)
+1312 changed speed to 12 1/2 knots.</div>
+<div>1600-2000 Steaming as before</div>
+<div>2000-2400 Steaming as before.  2050 ceased
+zig zagging, resumed base course
+2100 c/c to 128 T, resumed zig-zagging
+on plan #11 as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.00000,-21.10000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20 0800</name>
+        <styleUrl>#pnt25</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-20T08:00:00Z</begin>
+          <end>1943-03-20T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-20: 0800</h3>
+
+<div>0000-0400 Patrolling ahead of SS PETER SYLVESTER on bse course
+128 (T) speed 12 1/2 knots.  Boilers #1 and #4 in use.  Gyro error 1 W.</div>
+<div>0400-0800 Steaming as before.  0614 Changed course to 113 (T).</div>
+<div>0800-1200 Steaming as before.</div>
+<div>1200-1600 Steaming as before.  1220 Task Group 32.4.17 disolved.  1230 Steaming on various courses and
+speeds entering Noumea Harbor.  1410 Moored port side to
+U.S.S. FANNING in berth A-6.  CDS-6 Cmdr Nyquist shifted his pennant to USS FANNING.</div>
+<div>1600-2000 Anchored as before.  1658 U.S.S. FANNING underway.</div>
+<div>2000-2400 Moored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.56667,-22.21667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21 2000</name>
+        <styleUrl>#pnt26</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-21T20:00:00Z</begin>
+          <end>1943-03-21T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-21: 2000</h3>
+
+<div>0000-0400  Anchored in berth A-6.  Noumea, New Caledonia with 35 fathoms
+of chain in the starboard anchor.  Boiler #1 in use for auxiliary
+purposes.</div>
+<div>0400-0800 Anchored as before.  0500 Made preparations for
+getting underway.  0551 Underway, standing out of
+harbor on various courses, speed 10 knots.  0659
+Moored starboard side to US Tanker.  0709
+Commenced fueling.  Draft before fueling forward:
+12 feet aft 13 fee 4 inches.</div>
+<div>0800-1200 Moored as before.  0815 made all
+preparations for getting underway
+in accordance with Com [] dispatch
+200320 of March.  0835 completed fueling
+0846 lines cast off.  underway with
+various courses and speeds conforming
+to the channel.  1006 c/c to 180 T,
+181 p.g.c  1033 commenced zig zagging
+according to plan #10, speed 25 knots.
+1100 c/c to 135 T.  zig-zagging as before.</div>
+<div>1200-1600 Steaming as before.  1305 changed course to 107 (T).  1425 Changed
+course to 090 (T)  1545 Changed course to 057 (T).</div>
+<div>1600-2000 Steaming as before.  1932 Changed base
+course to 345 (T).</div>
+<div>2000-2400 Steaming as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>169.41667,-22.58333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22 0800</name>
+        <styleUrl>#pnt27</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-22T08:00:00Z</begin>
+          <end>1943-03-22T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-22: 0800</h3>
+
+<div>0000-0400 Enroute Noumea to Efate.  Base course 345 (T).  Speed 25
+knots.  Boilers #1 + #4 with superheaters in use.  Gyro erro 1 W.
+0022  sighted allied merchant ship bearing 300 (T). </div>
+<div>0400-0800 Steaming as before.  0800 Changed course to 000 (T),
+decreased speed to 20 knots.  Sighted land bearing 020 (T).</div>
+<div>0800-1200 Steaming as before.  0910 c/c to 035 (T).
+0950 c/s to 15 knots.  Commenced all
+preparations for entering port
+0954 c/s to 20 knots.  1004 c/s to 15 knots.
+1010 various courses and speeds entering harbor.  1127 Moored starboard
+side to USS LACKAWANNA.  1140  USS
+LANG coming alongside port side.
+1150  USS LANG moored alongside
+for purpose of fueling.</div>
+<div>1200-1600  Moored as befr.  Draft before fueling forward 11'0" Aft 14'0"  1211
+Commenced fueling.  1241 Completed fueling.  Draft forward 12'0"  Aft
+14' 4".  1434 Underway to shift berth.  1450 Moored starboard side
+to USS RIGEL.  1500 Change to [] 12 zone time.  Reported to
+CTF 19 in USS WICHITA for duty.</div>
+<div>1600-2000  Moored as before.</div>
+<div>2000-2400  Moored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.98333,-18.16667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23 0800</name>
+        <styleUrl>#pnt28</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-23T08:00:00Z</begin>
+          <end>1943-03-23T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-23: 0800</h3>
+
+<div>0000-0400  Moored starboard side to USS RIGEL, Havannah
+Harbor, Efate Island.  New Hebrides.  fires lighted
+under no #1 boiler for auxiliary purposes.</div>
+<div>0400-0800  Moored as before</div>
+<div>0800-1200  Moored as before</div>
+<div>1200-1600  Moored as before</div>
+<div>1600-2000  Moored as before.  1945 USS BALCH moored alongside to port.</div>
+<div>2000-2400  Moored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.42500,-17.55972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 0800</name>
+        <styleUrl>#pnt29</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-24T08:00:00Z</begin>
+          <end>1943-03-24T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-24: 0800</h3>
+
+<div>0000-0400  Moored starboard side to USS RIGEL, Havannah
+harbor, Efate, New Hebrides.  #1 boiler in use for
+auxiliary purposes.</div>
+<div>0400-0800  Moored as before.</div>
+<div>0800-1200  Moored as before.</div>
+<div>1200-1600  Moored as before.</div>
+<div>1600-2000  Moored as before.</div>
+<div>2000-2400  Moored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.42500,-17.55972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 0800</name>
+        <styleUrl>#pnt30</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-25T08:00:00Z</begin>
+          <end>1943-03-25T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-25: 0800</h3>
+
+<div>0000-0400  Moored starbaord to USS RIGEL, Havannah Harbor, Efate
+New Hebrides.  #1 boiler in use for auxiliary purposes.</div>
+<div>0400-0800  Moored as before.</div>
+<div>0800-1200  Moored as before.</div>
+<div>1200-1600  Moored as before.  1455 USS SC-650
+came alongside, moored starboard
+side for purposes of provisioning
+from USS RIGEL.</div>
+<div>1600-2000  Moored as before.  1630 SC 650 cast off.</div>
+<div>2000-2400  Moored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.42500,-17.55972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26 0800</name>
+        <styleUrl>#pnt31</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-26T08:00:00Z</begin>
+          <end>1943-03-26T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-26: 0800</h3>
+
+<div>0000-0400  Moored starboard side to USS RIGEL, Havannah
+Harbor, Efate Island, New Hebrides.  Fires lighted under
+no #1 boiler for auxiliary purposes.</div>
+<div>0400-0800  Moored as before</div>
+<div>0800-1200  Moored as before</div>
+<div>1200-1600  Moored as before</div>
+<div>1600-2000  Moored as before</div>
+<div>2000-2400  Moored as before</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.42500,-17.55972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27 0800</name>
+        <styleUrl>#pnt32</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-27T08:00:00Z</begin>
+          <end>1943-03-27T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-27: 0800</h3>
+
+<div>0000-0400 Moored starboard side to USS RIGEL in Havannah Harbor.
+Efate.  fires lighted under boiler #1 for auxiliary purposes.</div>
+<div>0400-0800  Moored as before.  0740 cast off after lines
+preparatory to receiving USS CONY on starboard side.</div>
+<div>0800-1200  Moored as before.  0830 Moored starboard side to USS CONY
+0915 USS LANG Moored alongside to port.</div>
+<div>1200-1600  Moored as before.</div>
+<div>1600-2000 Moored as before.</div>
+<div>2000-2400  Moored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.42500,-17.55972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 0800</name>
+        <styleUrl>#pnt33</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-28T08:00:00Z</begin>
+          <end>1943-03-28T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-28: 0800</h3>
+
+<div>0000-0400  Moored in nest on port side USS RIGEL, Havannah Harbor, Efate
+New Hebrides.  USS CONY on starboard side, USS LANG on port side.  #1
+boiler in use for auxiliary purposes.</div>
+<div>0400-0800  Moored as before</div>
+<div>0800-1200  Moored as before</div>
+<div>1200-1600  Moored as before</div>
+<div>1600-2000  Moored as before</div>
+<div>2000-2400  Moored as before</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.42500,-17.55972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29 0800</name>
+        <styleUrl>#pnt34</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-29T08:00:00Z</begin>
+          <end>1943-03-29T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-29: 0800</h3>
+
+<div>0000-0400  Moored in nest on port side USS RIGEL, Havannah
+Harbor, Efate, New Hebrides Islands.  USS CONY moored to
+starboard, USS LANG moored to port.  Fires lighted
+under no. #1 boiler for auxiliary purposes.</div>
+<div>0400-0800  Moored as before.  0735 lighted off fires under #4
+boiler.</div>
+<div>0800-1200  Moored as before</div>
+<div>1200-1600  Moored as before</div>
+<div>1600-2000  Moored as before.  1700 USS WILSON moored alongside
+USS LANG.</div>
+<div>2000-2400  Moored as before</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.42500,-17.55972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 0800</name>
+        <styleUrl>#pnt35</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-30T08:00:00Z</begin>
+          <end>1943-03-30T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-30: 0800</h3>
+
+<div>0000-0400  Moored as before nested
+as follows:  port side to USS RIGEL
+USS CONY, USS SAUFLEY, USS LANG, +
+USS WILSON, Havannah Harbor, Efate,
+New Hebrides Islands.  Boiler #4 in
+use for auxiliary purposes.</div>
+<div>0400-0800  Moored as before.</div>
+<div>0800-1200  Moored as before</div>
+<div>1200-1600  Moored as before.  1250 CONY underway from
+starboard side.</div>
+<div>1600-2000  Moored as before.</div>
+<div>2000-2400  Moored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.42500,-17.55972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31 0800</name>
+        <styleUrl>#pnt36</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-31T08:00:00Z</begin>
+          <end>1943-03-31T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-03-31: 0800</h3>
+
+<div>0000-0400  Moored starboard side to USS RIGEL, USS LANG moored on
+port side, Havannah Harbor, Efate, New Hebrides.  #4 Boiler in use for
+auxiliary purposes.</div>
+<div>0400-0800  Moored as before.</div>
+<div>0800-1200  Moored as before</div>
+<div>1200-1600  Moored as before.</div>
+<div>1600-2000  Moored as before.  Making preparations
+for getting underway.  1608 Underway and proceeding
+on various courses and speeds to ready destroyer
+buoy in [] [].  1658 hooked to buoy.
+Conducting 360 A/S listening watch.  Assumed ready
+duty.</div>
+<div>2000-2400  Moored as before.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.42500,-17.55972,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>1943-03 Routes</name>
+      <Style id="line1">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line2">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line3">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line4">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line5">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line6">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line7">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line8">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line9">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line10">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line11">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line12">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line13">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line14">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line15">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line16">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line17">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line18">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line19">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line20">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line21">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line22">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line23">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line24">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line25">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line26">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line27">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line28">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line29">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line30">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line31">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line32">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line33">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line34">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line35">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>01 2000</name>
+        <styleUrl>#line1</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-01T20:00:00Z</begin>
+          <end>1943-03-01T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>02 0800</name>
+        <styleUrl>#line2</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-02T08:00:00Z</begin>
+          <end>1943-03-02T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>03 1200</name>
+        <styleUrl>#line3</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-03T12:00:00Z</begin>
+          <end>1943-03-03T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>04 2000</name>
+        <styleUrl>#line4</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-04T20:00:00Z</begin>
+          <end>1943-03-04T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>05 0800</name>
+        <styleUrl>#line5</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-05T08:00:00Z</begin>
+          <end>1943-03-05T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>06 1700</name>
+        <styleUrl>#line6</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-06T17:00:00Z</begin>
+          <end>1943-03-06T17:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>07 2000</name>
+        <styleUrl>#line7</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-07T20:00:00Z</begin>
+          <end>1943-03-07T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>08 2000</name>
+        <styleUrl>#line8</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-08T20:00:00Z</begin>
+          <end>1943-03-08T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>09 1800</name>
+        <styleUrl>#line9</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-09T18:00:00Z</begin>
+          <end>1943-03-09T18:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10 1800</name>
+        <styleUrl>#line10</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-10T18:00:00Z</begin>
+          <end>1943-03-10T18:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11 1200</name>
+        <styleUrl>#line11</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-11T12:00:00Z</begin>
+          <end>1943-03-11T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 160.144722222222,-9.09416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14 1400</name>
+        <styleUrl>#line12</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-14T14:00:00Z</begin>
+          <end>1943-03-14T14:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.144722222222,-9.09416666666667,0
+ 161.183333333333,-10.7666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16 0800</name>
+        <styleUrl>#line13</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-16T08:00:00Z</begin>
+          <end>1943-03-16T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.183333333333,-10.7666666666667,0
+ 161.3,-11.3008333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16 1200</name>
+        <styleUrl>#line14</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-16T12:00:00Z</begin>
+          <end>1943-03-16T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.3,-11.3008333333333,0
+ 161.329166666667,-12.5,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16 2000</name>
+        <styleUrl>#line15</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-16T20:00:00Z</begin>
+          <end>1943-03-16T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.329166666667,-12.5,0
+ 161.5,-14.05,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17 0800</name>
+        <styleUrl>#line16</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-17T08:00:00Z</begin>
+          <end>1943-03-17T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.5,-14.05,0
+ 161.558333333333,-14.6833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17 1200</name>
+        <styleUrl>#line17</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-17T12:00:00Z</begin>
+          <end>1943-03-17T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.558333333333,-14.6833333333333,0
+ 161.7,-15.4916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17 2000</name>
+        <styleUrl>#line18</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-17T20:00:00Z</begin>
+          <end>1943-03-17T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.7,-15.4916666666667,0
+ 161.9,-16.7,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18 0800</name>
+        <styleUrl>#line19</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-18T08:00:00Z</begin>
+          <end>1943-03-18T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.9,-16.7,0
+ 162.05,-17.1,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18 1200</name>
+        <styleUrl>#line20</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-18T12:00:00Z</begin>
+          <end>1943-03-18T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.05,-17.1,0
+ 162.083333333333,-18.2166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18 2000</name>
+        <styleUrl>#line21</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-18T20:00:00Z</begin>
+          <end>1943-03-18T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.083333333333,-18.2166666666667,0
+ 162.7,-19.7416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>19 0800</name>
+        <styleUrl>#line22</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-19T08:00:00Z</begin>
+          <end>1943-03-19T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.7,-19.7416666666667,0
+ 163.016666666667,-20,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>19 1200</name>
+        <styleUrl>#line23</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-19T12:00:00Z</begin>
+          <end>1943-03-19T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.016666666667,-20,0
+ 164,-21.1,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>19 2000</name>
+        <styleUrl>#line24</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-19T20:00:00Z</begin>
+          <end>1943-03-19T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164,-21.1,0
+ 165.566666666667,-22.2166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>20 0800</name>
+        <styleUrl>#line25</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-20T08:00:00Z</begin>
+          <end>1943-03-20T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.566666666667,-22.2166666666667,0
+ 169.416666666667,-22.5833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>21 2000</name>
+        <styleUrl>#line26</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-21T20:00:00Z</begin>
+          <end>1943-03-21T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>169.416666666667,-22.5833333333333,0
+ 167.983333333333,-18.1666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>22 0800</name>
+        <styleUrl>#line27</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-22T08:00:00Z</begin>
+          <end>1943-03-22T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.983333333333,-18.1666666666667,0
+ 168.425,-17.5597222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>23 0800</name>
+        <styleUrl>#line28</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-23T08:00:00Z</begin>
+          <end>1943-03-23T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.425,-17.5597222222222,0
+ 168.425,-17.5597222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>24 0800</name>
+        <styleUrl>#line29</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-24T08:00:00Z</begin>
+          <end>1943-03-24T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.425,-17.5597222222222,0
+ 168.425,-17.5597222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>25 0800</name>
+        <styleUrl>#line30</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-25T08:00:00Z</begin>
+          <end>1943-03-25T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.425,-17.5597222222222,0
+ 168.425,-17.5597222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>26 0800</name>
+        <styleUrl>#line31</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-26T08:00:00Z</begin>
+          <end>1943-03-26T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.425,-17.5597222222222,0
+ 168.425,-17.5597222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>27 0800</name>
+        <styleUrl>#line32</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-27T08:00:00Z</begin>
+          <end>1943-03-27T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.425,-17.5597222222222,0
+ 168.425,-17.5597222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>28 0800</name>
+        <styleUrl>#line33</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-28T08:00:00Z</begin>
+          <end>1943-03-28T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.425,-17.5597222222222,0
+ 168.425,-17.5597222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>29 0800</name>
+        <styleUrl>#line34</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-29T08:00:00Z</begin>
+          <end>1943-03-29T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.425,-17.5597222222222,0
+ 168.425,-17.5597222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>30 0800</name>
+        <styleUrl>#line35</styleUrl>
+        <TimeSpan>
+          <begin>1943-03-30T08:00:00Z</begin>
+          <end>1943-03-30T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.425,-17.5597222222222,0
+ 168.425,-17.5597222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
   </Document>
 </kml>

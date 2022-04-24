@@ -425,3 +425,24 @@ utils::zip("Track_of_USS_Saufley.kmz",
 
 ```
 
+## Find Ship Names
+
+```{r eval=FALSE}
+Y <- readLines("../doc/USS_Saufley_WarReports.xml")
+
+ind <- grep("USS", Y)
+Y[ind]
+
+ind <- grep("U[.]S[.]S[.]", Y)
+Y[ind]
+
+ind <- grep("CGC", Y)
+Y[ind]
+
+ind <- grep("[ ]SS[ ]", Y)
+Y[ind]
+
+ind <- grep("[ ]HMAS[ ]", Y)
+Y[ind]
+```
+

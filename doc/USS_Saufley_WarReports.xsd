@@ -53,6 +53,8 @@
       <xsd:attribute name="time" type="_time" use="required"/>
       <xsd:attribute name="lat" type="_latitude" use="required"/>
       <xsd:attribute name="lon" type="_longitude" use="required"/>
+      <xsd:attribute name="type" type="xsd:string" default="measured"/>
+      <xsd:attribute name="comment" type="xsd:string"/>
     </xsd:complexType>
     <xsd:simpleType  name="_time">
       <xsd:restriction base="xsd:string">
