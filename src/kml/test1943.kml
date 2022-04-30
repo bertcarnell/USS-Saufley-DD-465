@@ -7689,5 +7689,2977 @@ duty.</div>
         </LineString>
       </Placemark>
     </Folder>
+    <Folder>
+      <name>1943-04 Locations</name>
+      <Style id="pnt1">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt2">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt3">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt4">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt5">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt6">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt7">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt8">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt9">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt10">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt11">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt12">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt13">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt14">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt15">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt16">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt17">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt18">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt19">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt20">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt21">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt22">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt23">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt24">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt25">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt26">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt27">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt28">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt29">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt30">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt31">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt32">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt33">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt34">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt35">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt36">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt37">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt38">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt39">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt40">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt41">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt42">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt43">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt44">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt45">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt46">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt47">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt48">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt49">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff0000ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>04 1200</name>
+        <styleUrl>#pnt1</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-04T12:00:00Z</begin>
+          <end>1943-04-04T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-04: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.30000,-16.80000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 2000</name>
+        <styleUrl>#pnt2</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-04T20:00:00Z</begin>
+          <end>1943-04-04T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-04: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.98333,-15.53333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 0800</name>
+        <styleUrl>#pnt3</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-05T08:00:00Z</begin>
+          <end>1943-04-05T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-05: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.80833,-18.66667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 1200</name>
+        <styleUrl>#pnt4</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-05T12:00:00Z</begin>
+          <end>1943-04-05T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-05: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.49167,-11.68333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 2000</name>
+        <styleUrl>#pnt5</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-05T20:00:00Z</begin>
+          <end>1943-04-05T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-05: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.65000,-10.13333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 0800</name>
+        <styleUrl>#pnt6</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-06T08:00:00Z</begin>
+          <end>1943-04-06T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-06: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.30000,-11.63333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 1200</name>
+        <styleUrl>#pnt7</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-06T12:00:00Z</begin>
+          <end>1943-04-06T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-06: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.43333,-18.11667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 2000</name>
+        <styleUrl>#pnt8</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-06T20:00:00Z</begin>
+          <end>1943-04-06T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-06: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.33333,-13.01667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 0800</name>
+        <styleUrl>#pnt9</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-07T08:00:00Z</begin>
+          <end>1943-04-07T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-07: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.71667,-12.14167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 1200</name>
+        <styleUrl>#pnt10</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-07T12:00:00Z</begin>
+          <end>1943-04-07T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-07: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.03333,-12.59167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 2000</name>
+        <styleUrl>#pnt11</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-07T20:00:00Z</begin>
+          <end>1943-04-07T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-07: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.96667,-13.15000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 0800</name>
+        <styleUrl>#pnt12</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-08T08:00:00Z</begin>
+          <end>1943-04-08T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-08: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.16667,-11.25000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 1200</name>
+        <styleUrl>#pnt13</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-08T12:00:00Z</begin>
+          <end>1943-04-08T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-08: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.13333,-11.70000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 2000</name>
+        <styleUrl>#pnt14</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-08T20:00:00Z</begin>
+          <end>1943-04-08T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-08: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.95000,-12.61667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 0800</name>
+        <styleUrl>#pnt15</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-09T08:00:00Z</begin>
+          <end>1943-04-09T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-09: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.93333,-11.27500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 1200</name>
+        <styleUrl>#pnt16</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-09T12:00:00Z</begin>
+          <end>1943-04-09T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-09: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.65833,-10.95000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 2000</name>
+        <styleUrl>#pnt17</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-09T20:00:00Z</begin>
+          <end>1943-04-09T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-09: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.85000,-11.90000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 0800</name>
+        <styleUrl>#pnt18</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-10T08:00:00Z</begin>
+          <end>1943-04-10T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-10: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.32500,-11.30833,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 1200</name>
+        <styleUrl>#pnt19</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-10T12:00:00Z</begin>
+          <end>1943-04-10T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-10: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.95000,-11.71667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 2000</name>
+        <styleUrl>#pnt20</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-10T20:00:00Z</begin>
+          <end>1943-04-10T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-10: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.91667,-13.25000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 0800</name>
+        <styleUrl>#pnt21</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-11T08:00:00Z</begin>
+          <end>1943-04-11T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-11: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.91667,-15.01667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 1200</name>
+        <styleUrl>#pnt22</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-11T12:00:00Z</begin>
+          <end>1943-04-11T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-11: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.07083,-14.41667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 2000</name>
+        <styleUrl>#pnt23</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-11T20:00:00Z</begin>
+          <end>1943-04-11T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-11: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.18333,-13.40833,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 0800</name>
+        <styleUrl>#pnt24</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-12T08:00:00Z</begin>
+          <end>1943-04-12T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-12: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.78750,-14.76667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 1200</name>
+        <styleUrl>#pnt25</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-12T12:00:00Z</begin>
+          <end>1943-04-12T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-12: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.48333,-14.82500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 2000</name>
+        <styleUrl>#pnt26</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-12T20:00:00Z</begin>
+          <end>1943-04-12T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-12: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.23333,-14.76667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 0800</name>
+        <styleUrl>#pnt27</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-13T08:00:00Z</begin>
+          <end>1943-04-13T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-13: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.48333,-16.54167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 1200</name>
+        <styleUrl>#pnt28</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-13T12:00:00Z</begin>
+          <end>1943-04-13T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-13: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.05833,-16.69167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 0800</name>
+        <styleUrl>#pnt29</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-24T08:00:00Z</begin>
+          <end>1943-04-24T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-24: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.48333,-16.54167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 1200</name>
+        <styleUrl>#pnt30</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-24T12:00:00Z</begin>
+          <end>1943-04-24T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-24: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.05833,-16.69167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 2000</name>
+        <styleUrl>#pnt31</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-24T20:00:00Z</begin>
+          <end>1943-04-24T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-24: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.33333,-19.35000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 0800</name>
+        <styleUrl>#pnt32</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-25T08:00:00Z</begin>
+          <end>1943-04-25T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-25: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.68333,-21.00000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 1200</name>
+        <styleUrl>#pnt33</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-25T12:00:00Z</begin>
+          <end>1943-04-25T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-25: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.70000,-21.51667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 2000</name>
+        <styleUrl>#pnt34</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-25T20:00:00Z</begin>
+          <end>1943-04-25T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-25: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.42222,-22.58333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26 0800</name>
+        <styleUrl>#pnt35</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-26T08:00:00Z</begin>
+          <end>1943-04-26T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-26: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.05000,-23.66667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26 1200</name>
+        <styleUrl>#pnt36</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-26T12:00:00Z</begin>
+          <end>1943-04-26T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-26: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.66667,-24.06667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26 2000</name>
+        <styleUrl>#pnt37</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-26T20:00:00Z</begin>
+          <end>1943-04-26T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-26: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.91667,-24.66667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27 0800</name>
+        <styleUrl>#pnt38</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-27T08:00:00Z</begin>
+          <end>1943-04-27T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-27: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.95000,-25.63333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27 1200</name>
+        <styleUrl>#pnt39</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-27T12:00:00Z</begin>
+          <end>1943-04-27T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-27: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.60000,-25.85000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27 2000</name>
+        <styleUrl>#pnt40</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-27T20:00:00Z</begin>
+          <end>1943-04-27T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-27: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.26667,-27.08333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 0800</name>
+        <styleUrl>#pnt41</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-28T08:00:00Z</begin>
+          <end>1943-04-28T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-28: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.70833,-28.06667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 1200</name>
+        <styleUrl>#pnt42</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-28T12:00:00Z</begin>
+          <end>1943-04-28T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-28: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.35000,-28.58333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 2000</name>
+        <styleUrl>#pnt43</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-28T20:00:00Z</begin>
+          <end>1943-04-28T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-28: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.50000,-29.38333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29 0800</name>
+        <styleUrl>#pnt44</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-29T08:00:00Z</begin>
+          <end>1943-04-29T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-29: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.95000,-30.46667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29 1200</name>
+        <styleUrl>#pnt45</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-29T12:00:00Z</begin>
+          <end>1943-04-29T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-29: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.38333,-30.84167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29 2000</name>
+        <styleUrl>#pnt46</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-29T20:00:00Z</begin>
+          <end>1943-04-29T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-29: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>157.26667,-31.39167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 0800</name>
+        <styleUrl>#pnt47</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-30T08:00:00Z</begin>
+          <end>1943-04-30T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-30: 0800</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>155.61667,-32.30000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 1200</name>
+        <styleUrl>#pnt48</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-30T12:00:00Z</begin>
+          <end>1943-04-30T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-30: 1200</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>154.88333,-32.65000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 2000</name>
+        <styleUrl>#pnt49</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-30T20:00:00Z</begin>
+          <end>1943-04-30T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1943-04-30: 2000</h3>
+
+<div>0000-0400</div>
+<div>0400-0800</div>
+<div>0800-1200</div>
+<div>1200-1600</div>
+<div>1600-2000</div>
+<div>2000-2400</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>153.60000,-33.18333,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>1943-04 Routes</name>
+      <Style id="line1">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line2">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line3">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line4">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line5">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line6">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line7">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line8">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line9">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line10">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line11">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line12">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line13">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line14">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line15">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line16">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line17">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line18">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line19">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line20">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line21">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line22">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line23">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line24">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line25">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line26">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line27">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line28">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line29">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line30">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line31">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line32">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line33">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line34">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line35">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line36">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line37">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line38">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line39">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line40">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line41">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line42">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line43">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line44">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line45">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line46">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line47">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line48">
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>04 1200</name>
+        <styleUrl>#line1</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-04T12:00:00Z</begin>
+          <end>1943-04-04T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.3,-16.8,0
+ 165.983333333333,-15.5333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>04 2000</name>
+        <styleUrl>#line2</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-04T20:00:00Z</begin>
+          <end>1943-04-04T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.983333333333,-15.5333333333333,0
+ 164.808333333333,-18.6666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>05 0800</name>
+        <styleUrl>#line3</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-05T08:00:00Z</begin>
+          <end>1943-04-05T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.808333333333,-18.6666666666667,0
+ 164.491666666667,-11.6833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>05 1200</name>
+        <styleUrl>#line4</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-05T12:00:00Z</begin>
+          <end>1943-04-05T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.491666666667,-11.6833333333333,0
+ 163.65,-10.1333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>05 2000</name>
+        <styleUrl>#line5</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-05T20:00:00Z</begin>
+          <end>1943-04-05T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.65,-10.1333333333333,0
+ 164.3,-11.6333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>06 0800</name>
+        <styleUrl>#line6</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-06T08:00:00Z</begin>
+          <end>1943-04-06T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.3,-11.6333333333333,0
+ 163.433333333333,-18.1166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>06 1200</name>
+        <styleUrl>#line7</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-06T12:00:00Z</begin>
+          <end>1943-04-06T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.433333333333,-18.1166666666667,0
+ 163.333333333333,-13.0166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>06 2000</name>
+        <styleUrl>#line8</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-06T20:00:00Z</begin>
+          <end>1943-04-06T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.333333333333,-13.0166666666667,0
+ 164.716666666667,-12.1416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>07 0800</name>
+        <styleUrl>#line9</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-07T08:00:00Z</begin>
+          <end>1943-04-07T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.716666666667,-12.1416666666667,0
+ 163.033333333333,-12.5916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>07 1200</name>
+        <styleUrl>#line10</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-07T12:00:00Z</begin>
+          <end>1943-04-07T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.033333333333,-12.5916666666667,0
+ 162.966666666667,-13.15,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>07 2000</name>
+        <styleUrl>#line11</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-07T20:00:00Z</begin>
+          <end>1943-04-07T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>162.966666666667,-13.15,0
+ 164.166666666667,-11.25,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>08 0800</name>
+        <styleUrl>#line12</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-08T08:00:00Z</begin>
+          <end>1943-04-08T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.166666666667,-11.25,0
+ 164.133333333333,-11.7,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>08 1200</name>
+        <styleUrl>#line13</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-08T12:00:00Z</begin>
+          <end>1943-04-08T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.133333333333,-11.7,0
+ 165.95,-12.6166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>08 2000</name>
+        <styleUrl>#line14</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-08T20:00:00Z</begin>
+          <end>1943-04-08T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.95,-12.6166666666667,0
+ 163.933333333333,-11.275,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>09 0800</name>
+        <styleUrl>#line15</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-09T08:00:00Z</begin>
+          <end>1943-04-09T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.933333333333,-11.275,0
+ 163.658333333333,-10.95,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>09 1200</name>
+        <styleUrl>#line16</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-09T12:00:00Z</begin>
+          <end>1943-04-09T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.658333333333,-10.95,0
+ 164.85,-11.9,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>09 2000</name>
+        <styleUrl>#line17</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-09T20:00:00Z</begin>
+          <end>1943-04-09T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.85,-11.9,0
+ 163.325,-11.3083333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10 0800</name>
+        <styleUrl>#line18</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-10T08:00:00Z</begin>
+          <end>1943-04-10T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.325,-11.3083333333333,0
+ 163.95,-11.7166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10 1200</name>
+        <styleUrl>#line19</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-10T12:00:00Z</begin>
+          <end>1943-04-10T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.95,-11.7166666666667,0
+ 164.916666666667,-13.25,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10 2000</name>
+        <styleUrl>#line20</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-10T20:00:00Z</begin>
+          <end>1943-04-10T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.916666666667,-13.25,0
+ 163.916666666667,-15.0166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11 0800</name>
+        <styleUrl>#line21</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-11T08:00:00Z</begin>
+          <end>1943-04-11T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.916666666667,-15.0166666666667,0
+ 164.070833333333,-14.4166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11 1200</name>
+        <styleUrl>#line22</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-11T12:00:00Z</begin>
+          <end>1943-04-11T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.070833333333,-14.4166666666667,0
+ 163.183333333333,-13.4083333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11 2000</name>
+        <styleUrl>#line23</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-11T20:00:00Z</begin>
+          <end>1943-04-11T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.183333333333,-13.4083333333333,0
+ 164.7875,-14.7666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12 0800</name>
+        <styleUrl>#line24</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-12T08:00:00Z</begin>
+          <end>1943-04-12T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.7875,-14.7666666666667,0
+ 164.483333333333,-14.825,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12 1200</name>
+        <styleUrl>#line25</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-12T12:00:00Z</begin>
+          <end>1943-04-12T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.483333333333,-14.825,0
+ 163.233333333333,-14.7666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12 2000</name>
+        <styleUrl>#line26</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-12T20:00:00Z</begin>
+          <end>1943-04-12T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.233333333333,-14.7666666666667,0
+ 166.483333333333,-16.5416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13 0800</name>
+        <styleUrl>#line27</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-13T08:00:00Z</begin>
+          <end>1943-04-13T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.483333333333,-16.5416666666667,0
+ 167.058333333333,-16.6916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13 1200</name>
+        <styleUrl>#line28</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-13T12:00:00Z</begin>
+          <end>1943-04-13T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.058333333333,-16.6916666666667,0
+ 166.483333333333,-16.5416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>24 0800</name>
+        <styleUrl>#line29</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-24T08:00:00Z</begin>
+          <end>1943-04-24T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.483333333333,-16.5416666666667,0
+ 167.058333333333,-16.6916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>24 1200</name>
+        <styleUrl>#line30</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-24T12:00:00Z</begin>
+          <end>1943-04-24T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.058333333333,-16.6916666666667,0
+ 168.333333333333,-19.35,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>24 2000</name>
+        <styleUrl>#line31</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-24T20:00:00Z</begin>
+          <end>1943-04-24T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.333333333333,-19.35,0
+ 168.683333333333,-21,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>25 0800</name>
+        <styleUrl>#line32</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-25T08:00:00Z</begin>
+          <end>1943-04-25T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.683333333333,-21,0
+ 168.7,-21.5166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>25 1200</name>
+        <styleUrl>#line33</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-25T12:00:00Z</begin>
+          <end>1943-04-25T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.7,-21.5166666666667,0
+ 168.422222222222,-22.5833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>25 2000</name>
+        <styleUrl>#line34</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-25T20:00:00Z</begin>
+          <end>1943-04-25T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>168.422222222222,-22.5833333333333,0
+ 167.05,-23.6666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>26 0800</name>
+        <styleUrl>#line35</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-26T08:00:00Z</begin>
+          <end>1943-04-26T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>167.05,-23.6666666666667,0
+ 166.666666666667,-24.0666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>26 1200</name>
+        <styleUrl>#line36</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-26T12:00:00Z</begin>
+          <end>1943-04-26T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>166.666666666667,-24.0666666666667,0
+ 165.916666666667,-24.6666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>26 2000</name>
+        <styleUrl>#line37</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-26T20:00:00Z</begin>
+          <end>1943-04-26T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>165.916666666667,-24.6666666666667,0
+ 164.95,-25.6333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>27 0800</name>
+        <styleUrl>#line38</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-27T08:00:00Z</begin>
+          <end>1943-04-27T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.95,-25.6333333333333,0
+ 164.6,-25.85,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>27 1200</name>
+        <styleUrl>#line39</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-27T12:00:00Z</begin>
+          <end>1943-04-27T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>164.6,-25.85,0
+ 163.266666666667,-27.0833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>27 2000</name>
+        <styleUrl>#line40</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-27T20:00:00Z</begin>
+          <end>1943-04-27T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>163.266666666667,-27.0833333333333,0
+ 161.708333333333,-28.0666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>28 0800</name>
+        <styleUrl>#line41</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-28T08:00:00Z</begin>
+          <end>1943-04-28T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.708333333333,-28.0666666666667,0
+ 161.35,-28.5833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>28 1200</name>
+        <styleUrl>#line42</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-28T12:00:00Z</begin>
+          <end>1943-04-28T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>161.35,-28.5833333333333,0
+ 160.5,-29.3833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>28 2000</name>
+        <styleUrl>#line43</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-28T20:00:00Z</begin>
+          <end>1943-04-28T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>160.5,-29.3833333333333,0
+ 158.95,-30.4666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>29 0800</name>
+        <styleUrl>#line44</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-29T08:00:00Z</begin>
+          <end>1943-04-29T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.95,-30.4666666666667,0
+ 158.383333333333,-30.8416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>29 1200</name>
+        <styleUrl>#line45</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-29T12:00:00Z</begin>
+          <end>1943-04-29T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>158.383333333333,-30.8416666666667,0
+ 157.266666666667,-31.3916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>29 2000</name>
+        <styleUrl>#line46</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-29T20:00:00Z</begin>
+          <end>1943-04-29T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>157.266666666667,-31.3916666666667,0
+ 155.616666666667,-32.3,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>30 0800</name>
+        <styleUrl>#line47</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-30T08:00:00Z</begin>
+          <end>1943-04-30T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>155.616666666667,-32.3,0
+ 154.883333333333,-32.65,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>30 1200</name>
+        <styleUrl>#line48</styleUrl>
+        <TimeSpan>
+          <begin>1943-04-30T12:00:00Z</begin>
+          <end>1943-04-30T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>154.883333333333,-32.65,0
+ 153.6,-33.1833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
   </Document>
 </kml>
