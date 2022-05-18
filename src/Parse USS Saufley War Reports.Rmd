@@ -21,6 +21,7 @@ require(plotKML)
 require(sf)
 require(sp)
 require(stringr)
+require(hunspell)
 
 source("War Report Utilities.R")
 ```
@@ -235,15 +236,55 @@ for (i in 1:nrow(X))
 ## Validate the XML
 
 ```{r validate-xml, echo=FALSE}
+xml_filepath <- "../doc/USS_Saufley_WarReports.xml"
 temp <- XML::xmlSchemaValidate(XML::xmlSchemaParse("../doc/USS_Saufley_WarReports.xsd"),
-                       XML::xmlParse("../doc/USS_Saufley_WarReports.xml"))
+                       XML::xmlParse(xml_filepath))
 sapply(temp[[2]], function(x) {print(x$msg); print(x$line)})
+```
+
+## Spell Check
+
+```{r spell-xml, echo=FALSE}
+X <- xml2::read_xml(xml_filepath)
+X_descriptions <- unlist(lapply(xml2::xml_find_all(X, "//description"), xml2::xml_text))
+
+ship_names <- read.csv("ShipNames.csv")
+for (i in seq_along(X_descriptions))
+{
+  for (j in seq_along(ship_names$Ship))
+  {
+    ship_to_find <- ship_names$Ship[j]
+    X_descriptions[i] <- gsub(ship_to_find, "", X_descriptions[i])
+    if (grepl("USS", ship_to_find))
+    {
+      ship_to_find <- gsub("USS", "U.S.S.", ship_to_find)
+      X_descriptions[i] <- gsub(ship_to_find, "", X_descriptions[i])
+    }
+  }
+}
+# LSM - Landing ship medium
+# FS - Freight and Supply ship
+word_list <- c("Nasugbu", "Mangarin", "Caminawit", "Mariveles", "Subic", "Corregidor", "Caballo", "Monja",
+               "Malinta", "Whangpoo", "Fatu", "Tinghai", "Bunji", "Chusan", "Lubang", "Shima", "Nansei",
+               "Shoto", "Havannah", "Efate", "Hilliard",
+               "SAUFLEY", "LSM", "FS", "MTB", "LST", "APD", "YMS",
+               "mailgram", "starshell", "starshells", "fuzed", "conn", "Afirm", "afirm",
+               "Comdesron",
+               "PSC", "PSG", "PGC",
+               # People
+               "FECHTELER", "STRUBLE", "Struble", "BERKEY", "BARBEY", "KRISTENSEN",
+               "ILSEMANN", "GRIGGS")
+
+temp_spelling <- hunspell::hunspell(X_descriptions, format = "xml", ignore = word_list)
+ind <- which(sapply(temp_spelling, length) > 0)
+temp_spelling[ind][1:30]
+
 ```
 
 ### Read and Extract
 
 ```{r read-and-extract, echo=FALSE}
-X <- xml2::read_xml("../doc/USS_Saufley_WarReports.xml")
+X <- xml2::read_xml(xml_filepath)
 source_list <- lapply(xml2::xml_find_all(X, ".//source"), function(z) Source$new(z))
 
 source_metadata <- do.call("rbind", lapply(source_list, function(z) z$get_metadata()))
@@ -428,7 +469,7 @@ utils::zip("Track_of_USS_Saufley.kmz",
 ## Find Ship Names
 
 ```{r eval=FALSE}
-Y <- readLines("../doc/USS_Saufley_WarReports.xml")
+Y <- readLines(xml_filepath)
 
 ind <- grep("USS", Y)
 Y[ind]
