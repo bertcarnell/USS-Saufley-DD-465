@@ -8,11 +8,13 @@ USS BANCROFT,https://en.wikipedia.org/wiki/USS_Bancroft_(DD-598)
 USS BLUE RIDGE,https://en.wikipedia.org/wiki/USS_Blue_Ridge_(AGC-2)
 USS BOISE,https://en.wikipedia.org/wiki/USS_Boise_(CL-47)
 USS BRANNON,https://en.wikipedia.org/wiki/USS_Charles_E._Brannon
+USS CARONDOLET,https://en.wikipedia.org/wiki/USS_Carondelet_(IX-136)
 USS CASE,https://en.wikipedia.org/wiki/USS_Case_(DD-370)
 USS CASSIOPEIA,https://en.wikipedia.org/wiki/USS_Cassiopeia_(AK-75)
+USS CHARRETTE,https://en.wikipedia.org/wiki/USS_Charrette
 USS CHENANGO,https://en.wikipedia.org/wiki/USS_Chenango_(CVE-28)
 USS CHEPATCHET,https://en.wikipedia.org/wiki/USS_Chepachet_(AO-78)
-USS CIMARON,https://en.wikipedia.org/wiki/USS_Cimarron_(AO-22)
+USS CIMARRON,https://en.wikipedia.org/wiki/USS_Cimarron_(AO-22)
 USS CLAXTON,https://en.wikipedia.org/wiki/USS_Claxton_(DD-571)
 USS CLEVELAND,https://en.wikipedia.org/wiki/USS_Cleveland_(CL-55)
 USS COLORADO,https://en.wikipedia.org/wiki/USS_Colorado_(BB-45)
@@ -42,6 +44,7 @@ USS GIANSAR,https://en.wikipedia.org/wiki/USS_Giansar_(AK-111)
 USS GRASP,https://en.wikipedia.org/wiki/USS_Giansar_(AK-111)
 USS GRAYSON,https://en.wikipedia.org/wiki/USS_Grayson
 USS GRIDLEY,https://en.wikipedia.org/wiki/USS_Gridley_(DD-380)
+USS HAMUL,https://en.wikipedia.org/wiki/USS_Hamul_(AD-20)
 USS HELENA,https://en.wikipedia.org/wiki/USS_Helena_(CL-50)
 USS HONOLULU,https://en.wikipedia.org/wiki/USS_Honolulu_(CL-48)
 USS HOCKING,https://en.wikipedia.org/wiki/USS_Hocking_(APA-121)
@@ -56,6 +59,7 @@ USS LAVALLETTE,https://en.wikipedia.org/wiki/USS_La_Vallette_(DD-448)
 USS JOBB,https://en.wikipedia.org/wiki/USS_Jobb_(DE-707)
 USS JOHNSON,https://en.wikipedia.org/wiki/USS_Johnston_(DD-557)
 USS LOUISVILLE,https://en.wikipedia.org/wiki/USS_Louisville_(CA-28)
+USS MAHAN,https://en.wikipedia.org/wiki/USS_Mahan_(DD-364)
 USS MAURY,https://en.wikipedia.org/wiki/USS_Maury_(DD-401)
 USS MASSACHUSETTS,https://en.wikipedia.org/wiki/USS_Massachusetts_(BB-59)
 USS MCCALL,https://en.wikipedia.org/wiki/USS_McCall_(DD-400)
@@ -73,12 +77,14 @@ USS NORTH CAROLINA,https://en.wikipedia.org/wiki/USS_North_Carolina_(BB-55)
 USS O'BANNON,https://en.wikipedia.org/wiki/USS_O%27Bannon_(DD-450)
 USS OCELOT,https://en.wikipedia.org/wiki/USS_Ocelot_(IX-110)
 USS ORVETTA,https://en.wikipedia.org/wiki/USS_Orvetta_(IX-157)
+USS OTUS,https://en.wikipedia.org/wiki/USS_Otus_(ARG-20)
 USS PASSIG,https://en.wikipedia.org/wiki/USS_Pasig_(AO-89)
 USS PATERSON,https://en.wikipedia.org/wiki/USS_Patterson_(DD-392)
 USS PHILIP,https://en.wikipedia.org/wiki/USS_Philip_(DD-498)
 USS PLATTE,https://en.wikipedia.org/wiki/USS_Platte_(AO-24)
 USS POCOMOKE,https://en.wikipedia.org/wiki/USS_Pocomoke_(AV-9)
 USS PRAIRIE,https://en.wikipedia.org/wiki/USS_Prairie_(AD-15)
+USS PREBLE,https://en.wikipedia.org/wiki/USS_Preble_(DD-345)
 USS PRESIDENT GRANT,
 USS PRINGLE,https://en.wikipedia.org/wiki/USS_Pringle
 USS RADFORD,https://en.wikipedia.org/wiki/USS_Radford_(DD-446)
@@ -94,22 +100,24 @@ USS SABINE,https://en.wikipedia.org/wiki/USS_Sabine_(AO-25)
 USS SAINT PAUL,https://en.wikipedia.org/wiki/USS_Saint_Paul_(CA-73)
 USS SARATOGA,https://en.wikipedia.org/wiki/USS_Saratoga_(CV-3)
 USS SAUFLEY,https://en.wikipedia.org/wiki/USS_Saufley_(DD-465)
+USS SHELDRAKE,https://en.wikipedia.org/wiki/USS_Sheldrake_(AM-62)
 USS SIERRA,https://en.wikipedia.org/wiki/USS_Sierra_(AD-18)
 USS SIGOURNEY,https://en.wikipedia.org/wiki/USS_Sigourney_(DD-643)
 USS SKYLARK,https://en.wikipedia.org/wiki/USS_Skylark_(AM-63)
 USS SMITH,https://en.wikipedia.org/wiki/USS_Smith_(DD-378)
 USS ST LOUIS,https://en.wikipedia.org/wiki/USS_St._Louis_(CL-49)
+USS STANLY,https://en.wikipedia.org/wiki/USS_Stanly_(DD-478)
 USS STARLING,https://en.wikipedia.org/wiki/USS_Starling_(AM-64)
 USS STERETT,https://en.wikipedia.org/wiki/USS_Sterett_(DD-407)
 USS STONEWALL,http://www.navsource.org/archives/09/46/46185.htm
 USS SUESENS,https://en.wikipedia.org/wiki/USS_Richard_W._Suesens
+USS SURFBIRD,https://en.wikipedia.org/wiki/USS_Surfbird
 USS SUWANNEE,https://en.wikipedia.org/wiki/USS_Suwannee_(CVE-27)
 USS TREVOR,https://en.wikipedia.org/wiki/USS_Trever  ################ TREVER??
 USS WALLER,https://en.wikipedia.org/wiki/USS_Waller_(DD-466)
 USS WASATCH,https://en.wikipedia.org/wiki/USS_Wasatch_(AGC-9)
 USS WHITNEY,https://en.wikipedia.org/wiki/USS_Whitney_(AD-4)
 USS WICHITA,https://en.wikipedia.org/wiki/USS_Wichita_(CA-45)
-USS WILLIAM HOLBROOK,http://www.navsource.org/archives/09/22/22044.htm  ######### Willard A Holbrook
 USS WILSON,https://en.wikipedia.org/wiki/USS_Wilson
 USS WINOOSKI,https://en.wikipedia.org/wiki/USS_Winooski_(AO-38)
 USS WRIGHT,https://en.wikipedia.org/wiki/USS_Wright_(AV-1)
@@ -121,8 +129,13 @@ SS CHARLES LOOMIS,
 SS BRAZIL,https://en.wikipedia.org/wiki/SS_Brazil_(1928)
 SS SEA CORPORAL
 SS PETER SYLVESTER,https://en.wikipedia.org/wiki/SS_Peter_Silvester
+SS KOTA AGOENG,https://www.shipsnostalgia.com/media/kota-agoeng.463772/
+USAT WILLARD A HOLBROOK,http://www.navsource.org/archives/09/22/22044.htm
 HMAS TIGERSNAKE,https://en.wikipedia.org/wiki/HMAS_Tiger_Snake
 HMAS HAWKESBURY,https://en.wikipedia.org/wiki/HMAS_Hawkesbury_(K363)
 HMAS MANOORA,https://en.wikipedia.org/wiki/HMAS_Manoora_(F48)
 MS MATTHEW FLINDERS
+MS CAPE FLATTERY,https://en.wikipedia.org/wiki/MS_Cape_Flattery_(1940)
 ERSKINE M PHELPS,http://www.bruzelius.info/Nautica/Ships/Fourmast_ships/Erskine_M_Phelps(1898).html
+EDWARD B. HAINES,https://vesselhistory.marad.dot.gov/ShipHistory/Detail/7731
+GEORGE HOLMES,https://vesselhistory.marad.dot.gov/ShipHistory/Detail/7731
