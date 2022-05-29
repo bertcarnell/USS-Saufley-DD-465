@@ -11,7 +11,7 @@ word_list <- c(
   "Yandina", "Menmui", "Lengo", "Esperance", "Tongatabu", "Gunto", "Tungsha",
   "Tawi", "Zamboanga", "Basilan", "Sulu", "Lamitan", "Mateo", "Tilic", "Jolo", "Sanga",
   "Celebes", "Miri", "Lutong", "Halmahera", "Seeadler", "Manus", "Cuyo",
-  "Lingayen", "Abuyog", "Agutaya",
+  "Lingayen", "Abuyog", "Agutaya", "Gavutu", "Kula", "Munda",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -38,10 +38,12 @@ word_list <- c(
   "zigzagging", "zig", "zagging", "minesweeping", "xray", "speedletter",
   "degaussing", "pre", "mersig",  "portside", "Countermarched", "yds",
   "george", "rds", "stbd", "despatch", "zag", "superheaters", "prelanding",
-  "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD",
+  "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD", "FD", "SG", "SC",
+  "torpedoman", "exploder",
   # command terms
   "Comdesron", "ComDesRon", "Desron", "SOPA", "ComTaskFor", "ComTaskForce", "ComTask", "DesDis",
   "CTF", "CDS", "COMSERONSOPAC", "ComSeronsoPac", "CTG", "Comsopac", "ComSoPac", "CTU", "USNR",
+  "CIC",
   # compass
   "PSC", "PSG", "PGC", "PGS", "pgc", "psc",
   # People
