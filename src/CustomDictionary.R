@@ -7,11 +7,12 @@ word_list <- c(
   "Sealark", "SeaLark", "Shortlands", "Kiang", "CN", "Matson", "Ulithi", "Urushi",
   "Guiuan", "Roadstead", "Surigao", "Morotai", "Balikpapan", "Tokong", "Sepinggang",
   "Manggar", "Amedee", "Ile", "Nou", "Dumbea", "Boulari", "Renard", "Savo", "Koli",
-  "Lunga", "Espiritu", "Kokumbona", "Tassafaronga", "Undeka", "Bungana",
+  "Lunga", "Espiritu", "Santo", "Kokumbona", "Tassafaronga", "Undeka", "Bungana",
   "Yandina", "Menmui", "Lengo", "Esperance", "Tongatabu", "Gunto", "Tungsha",
   "Tawi", "Zamboanga", "Basilan", "Sulu", "Lamitan", "Mateo", "Tilic", "Jolo", "Sanga",
   "Celebes", "Miri", "Lutong", "Halmahera", "Seeadler", "Manus", "Cuyo",
-  "Lingayen", "Abuyog", "Agutaya", "Gavutu", "Kula", "Munda",
+  "Lingayen", "Abuyog", "Agutaya", "Gavutu", "Kula", "Munda", "Rendova", "Vella", "Lavella",
+  "Doveli", "Malo", "Segund", "Bougainville",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -39,7 +40,7 @@ word_list <- c(
   "degaussing", "pre", "mersig",  "portside", "Countermarched", "yds",
   "george", "rds", "stbd", "despatch", "zag", "superheaters", "prelanding",
   "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD", "FD", "SG", "SC",
-  "torpedoman", "exploder",
+  "torpedoman", "exploder", "oiler",
   # command terms
   "Comdesron", "ComDesRon", "Desron", "SOPA", "ComTaskFor", "ComTaskForce", "ComTask", "DesDis",
   "CTF", "CDS", "COMSERONSOPAC", "ComSeronsoPac", "CTG", "Comsopac", "ComSoPac", "CTU", "USNR",
