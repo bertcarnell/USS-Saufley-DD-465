@@ -12,7 +12,7 @@ word_list <- c(
   "Tawi", "Zamboanga", "Basilan", "Sulu", "Lamitan", "Mateo", "Tilic", "Jolo", "Sanga",
   "Celebes", "Miri", "Lutong", "Halmahera", "Seeadler", "Manus", "Cuyo",
   "Lingayen", "Abuyog", "Agutaya", "Gavutu", "Kula", "Munda", "Rendova", "Vella", "Lavella",
-  "Doveli", "Malo", "Segund", "Bougainville",
+  "Doveli", "Malo", "Segond", "Bougainville",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations

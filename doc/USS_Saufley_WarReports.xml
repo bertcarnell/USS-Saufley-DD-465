@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="USS_Saufley_WarReports.xsl"?>
 <dataroot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="USS_Saufley_WarReports.xsd">
+<!-- Copyright 2022 Robert Carnell -->
 <source>
   <name>USS SAUFLEY - War Diary, 2/1-28/45</name>
   <type>War Diary</type>
@@ -4195,11 +4197,21 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1043.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-01</date>
+          <description>
+&lt;div&gt;0000-0400  Moored to port side USS CLEVELAND, berth #13, Segond Channel, Espiritu Santo,
+New Hebrides.  Boiler #3 steaming for auxiliaries.&lt;/div&gt;
+&lt;div&gt;0400-0800  Moored as before.  0415 Lighted off #1 boiler.  0500 Commenced preparations for
+getting underway.  0548 Underway following various courses at various speeds to
+berth #24.  0606 Anchored in berth #24, in 27 fathoms of water with 75 fathoms
+of chain to port anchor.  0645 Died out fires under #1 boiler, #3 boiler in use
+for auxiliary purposes.  0745 USS RENSHAW moored alongside to starboard.&lt;/div&gt;
+&lt;div&gt;0800-1200  Anchored as before.&lt;/div&gt;
+&lt;div&gt;1200-1600  Anchored as before.&lt;/div&gt;
+&lt;div&gt;1600-2000  Anchored as before.&lt;/div&gt;
+&lt;div&gt;2000-2400  Anchored as before.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
@@ -4207,11 +4219,35 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1044.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-02</date>
+          <description>
+&lt;div&gt;0000-0400  Anchored in berth #24, Segond Channel, Espiritu Santo, New Hebrides, in 27
+fathoms of water, 75 fathoms of chain to port anchor.  Boiler #3 in use for
+auxiliary purposes. USS RENSHAW moored starboard side to our port.&lt;/div&gt;
+&lt;div&gt;0400-0800  Anchored as before.&lt;/div&gt;
+&lt;div&gt;0800-1200  Anchored as before.  1045 Made all preparations for getting underway.
+1147 Underway in accordance with Commander Task Group THIRTY SIX POINT TWO
+mailgrem 310300.  Captain at the conn, executive officer and navigator on the
+bridge, on various courses and speeds conforming to Segond Channel, Espiritu
+Santo.&lt;/div&gt;
+&lt;div&gt;1200-1600  Steaming as before. 1220 Commenced sortie.  1247 Cruiser Division TWELVE standing out
+of channel, formed screen, took station #2.  Steadied on 090(T), 090(PSG), 079
+(PSC), speed 20 knots (201 RPM).  1258 Change course to 135(T), 135(PSG), 126
+(PSC).  1304 Changed course to 180(T), 180(PSG), 170(PSC).  1316 Commenced zig-
+zagging in accordance with plan #10.  1334 Changed course to 235(T), 235(PSG),
+226 1/2(PSC).  1349 Changed course to 270(T), 270(PSG), 261 1/2(PSC).  1427 Changed
+course to 255(T), 255(PSG), 246 1/2(PSC).  1431 Commenced scheduled exercises,
+baker runs A.A. firing.  1437 Commenced zigzagging in accordance with plan #10.
+1500 Crew called to general quarters.  1535 Ceased zigzagging resumed base
+course.  Changed speed to 19 knots (190 RPM).  1540 Secured from general quarters
+set condition II, material condition baker.  1558 Commenced zigzagging in accordance 
+with plan #14.&lt;/div&gt;
+&lt;div&gt;1600-2000  Steaming as before.  1750 Ceased zigzagging.  1800 Changed base course to 272(T),
+(PGC), 262(PSC).  1810 Commenced zigzagging on plan #14.  1828 Ceased zigzagging.&lt;/div&gt;
+&lt;div&gt;2000-2400  Steaming as before.  2000 Position:  Latitude 16-10-00 S., Longitude 165-25-00 E.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
+          <posit time="2000" lat="16-10-00 S" lon="165-25-00 E"/>
         </item>
       </items>
     </image>
@@ -4219,59 +4255,168 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1045.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-03</date>
+          <description>
+&lt;div&gt;0000-0400  Steaming in company with Task Force THIRTY SIX POINT TWO, on base course 272(T),
+(PGC), 262(PSC).  Standard speed 15 knots, steaming at full speed, 19 knots.
+Sereening station #2 with cruisers in cruising formation #2.  Boilers #1 and #3
+in use.&lt;/div&gt;
+&lt;div&gt;0400-0800  Steaming as before.  0430 Contacted Task Unit THIRTY SIX POINT THREE POINT TWO,
+bearing 338(T), distance 15 miles.  0530 Contacted Task Unit THIRTY SIX POINT
+THREE POINT ONE bearing 234(T), distance 19 miles.  0536 Crew called to general
+quarters, exercised at damage control problem.  0550 Commenced zigzagging accordance 
+with Plan #14.  0624 Ceased zigzaggzing resumed base course. Steering various
+courses and speeds forming screen in formation 5—LS.  0659 Secured from general
+quarters, set condition II, material condition baker.  0705 Steadied on fleet
+course 350(T), 350(PSG), 340 1/2(PSC), fleet axis 210(T), speed 15 knots (146 RPM).
+0721 Changed fleet speed to 17.5 knots (175 RPM).  0755 Changed course to 150(T),
+150(PSG), 139(PSC), while carrier launched planes.&lt;/div&gt;
+&lt;div&gt;0800-1200  Steaming as before.  0820 Completed aircraft operations.  Returned to base course.
+0835 Changed course to 150(T), for aircraft operations.  0850 Completed aircraft
+operations.  Returned to base course.  0906 Commenced zigzagging on plan #6.
+0934 Changed course to 225(T), (PGC), 215(PSC).  0935 Set condition I.  Took
+station for air attack screen.  1013 Changed course to 180(T), (PGC), 174(PSC).
+1016 Set condition II.  Resumed normal screening station.  1115 Resumed base course,
+1158 Changed Fleet axis to 190(T).  0800 Position:  Latitude 15-56-00 S., Longitude 161-56-00 E.&lt;/div&gt;
+&lt;div&gt;1200-1600  Steaming as before.  1231 Changed speed to 17 knots.  1234 Commenced
+zigzagging in accordance with plan #6.  1301 Changed course to 170(T), for aircraft 
+operations.  1313 Complete@ air operations.  Returned to base course.
+1441 Took station for air attack screen.  1515 Resumed normal screening station.
+1544 Task Group THIRTY SIX POINT ONE left cruising formation.  1544 Changed
+course to 230(T), (PGC), 221(PSC).  1540 Lit off #2 boiler.  1542 Lit off #4 boiler.
+1200 Position: Latitude 15-57-00 S., Loneitude 161-59-00 E.  1555 Cut boilers #2
+and #4 on main steam line.&lt;/div&gt;
+&lt;div&gt;1600-2000  Steaming as before.  1624 Changed base course to 270(T), (PGC), 262(PSC).
+1630 Changed speed to 25 knots.  1632 Commenced zigzagging in accordance with plan
+#10-Z.  1751 Ceased zigzagging.  1803 Resumed Zigzagging in accordance with #10-Z.
+1830 Ceased zigzagging, changed speed to 20 knots.  1914 Set condition I.  1915
+Changed course to 090(T), (PGC), and deployed commencing event #4 of training
+exercises, night surface attack.&lt;/div&gt;
+&lt;div&gt;2000-2400  Steaming as before.  2000 Position: Latitude 16-10-30 S., Longitude 160-45-30 E.
+Steering various courses and speeds conducting exercise.  2027 Exercise
+completed, steadied on course 270(T), 270(PGC), 267(PSC).  2042 secured
+from general quarters, set condition II, material condition baker.  Commenced
+steering various courses while taking screening station.  2147 Steadied on
+270(T), 270(PSG), 267(PSC), speed 17.5 (175 RPM).  2226 Secured boiler
+#2.  2229 Secured boiler #4.  2300 Changed course to 180(T), 180(PSG), 170(PSC).&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-56-00 S" lon="161-56-00 E"/>
+          <posit time="1200" lat="15-57-00 S" lon="161-59-00 E"/>
+          <posit time="2000" lat="16-10-30 S" lon="160-45-30 E"/>
         </item>
       </items>
     </image>
     <image>
       <file>1046.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>1047.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-04</date>
+          <description>
+&lt;div&gt;0000-0400  Steaming in company with Task Groups THIRTY SIX POINT TWO and THIRTY SIX POINT
+THREE on Fleet Tactical Exercises.  Boilers #1 and #3 in use.  Base course 180(T),
+(PGC), 170(PSC), speed 18 knots.  0100 Changed base course to 070(T), (PGC), 060(PSC).&lt;/div&gt;
+&lt;div&gt;0400-0800  Steaming as before.  0538 Set condition I.  0548 Taking station for Event #5
+of Commander Task Group THIRTY SIX POINT THREE's operation #2-43.  0617 Ceased
+present exercise.  0617 Set condition II.  0618 Maneuvering during aircraft
+operations.  0626 Ceased aircraft operations.  Shifted fleet axis to 125(T),
+0647 Commenced zigzagging in accordance with plan #6.  0745 Set condition I,
+maneuvering to form screen to repel air attack in accordance with Event #6,
+Commander Task Group THIRTY SIX POINT THREE's operation plan #2-43.&lt;/div&gt;
+&lt;div&gt;0800-1200  Steaming as before, 0800 Lit off boilers #2 and #4.  0824 Completed event #6.
+0826 Changed course to 290(T), (PGC).  0833 Changed base course to 110(T), (PGC),
+Task Unit THIRTY SIX POINT THREE POINT TWO taking station for event #7, simulated
+day surface attack.  0859 Commenced zigzagging in accordance with plan #6.
+0907 Changed speed to 20 knots.  0950 Ceased zigzagging.  0952 Steering various
+courses at various speeds to conduct event #7.  1139 Set Condition I.  1231
+Completed event #7 and set condition II.  Steering various courses at various
+speeds to rejoin formation.  0800 Position: Latitude 16-07-00 S., Longitude
+161-56-15 E.&lt;/div&gt;
+&lt;div&gt;1200-1600  Steaming as before.  1200 Position: Letitude 16-00-30 S., Longitude 162-21-00 E.
+1304 Steadied on 040(T), 040(PSG), 030(PSC), speed 15 (146 RIM).  1311 Changed
+course to 115(T), 115(PSG), 105(PSC), CARRIER conducting plane operation.
+1315 Secured boiler #2.  1321 Secured boiler #4.  1327 Ceased exercises, resumed
+base course.  1338 Changed course to 115(T), 115(PSG), 105(PSC), carrier conducting 
+plane operations.  1344 Ceased operation resumed base course.  1405 Changed
+course to 115(T), 115(PSG), 105(PSC), carrier conducting flight operations.
+1425 Commenced exercise #8, air attack, steering various courses and speeds to
+take station to repel attack.  1432 Ceased flight operation, resumed base course.
+1444 Crew called to general quarters.  1453 Changed speed to 17.5 knots (175 RPM).
+1514 Completed exercise #8, returned to screenig station, changed course to 160(T), 
+160(PSG), 150(PSC), carrier conducting flight exercises.&lt;/div&gt;
+&lt;div&gt;1600-2000  Steaming as before.  1600 Completed flight operations.  Resumed base course.
+1613 Changed base course to 090(T), (PGC), 080(PSC).  1649 Changed speed to 22
+knots. Taking station #5 335 screening USS MONTPELIER, USS CLEVELAND and USS COLUMBIA. 
+1725 Changed speed to 25 knots.  1825 Lit off boilers #2 and #4.
+1840 Boilers #2 and #4 cut in on main line.  1901 Changed speed to 20 knots.
+1907 Set condition I.  Deployed for simulated torpedo attack.  1910 Changed
+course to 000(T), (PGC), 352(PSC).  1916 Changed course to 270(T), (PGC), 261 (PSC). 
+1919 Changed speed to 15 knots.  1943 Changed course to 340(T), (PGC) ,
+333(PSC).  1945 Changed speed to 25 knots.  1948 Changed course to 270(T), (PGC),
+262(PSC).  1954 Changed speed to 30 knots.  1958 Changed course to 350(T), (PGC),
+340(PSC).&lt;/div&gt;
+&lt;div&gt;2000-2400  Steaming as before.  2007 Changed course 220(T), (PGC), (PSC).
+2011 Changed speed to 20 knots.  Changed course to 300(T), (PGC), 293(PSC).
+2015 Exercise completed, secured from general quarters, set condition II.
+2018 Changed speed to 25 knots.  Changed course to 145(T), (PGC), 135(PSC).
+2023 Changed course to 100(T), (PGC), 090(PSC).  Ceased present exercises.
+2025 Changed speed to 30 knots.  2037 Changed base course to 090(T), (PGC),
+080(PSC).  2052 Changed speed to 20 knots.  2110 Changed base course to
+100(T), (PGC), 090(PSC).  Taking screening position, #6 330 on USS MONTPELIER,
+USS CLEVELAND, USS COLUMBIA.  2021 Changed speed to 19 knots.  2125 Secured
+#1 Boiler.  2128 secured #4 boiler.  2000 Position: Latitude 16-01-00 S.,
+longitude 164-02-00 E.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="16-07-00 S" lon="161-56-15 E"/>
+          <posit time="1200" lat="16-00-30 S" lon="162-21-00 E"/>
+          <posit time="2000" lat="16-01-00 S" lon="164-02-00 E"/>
         </item>
       </items>
     </image>
     <image>
       <file>1048.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>1049.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-05</date>
+          <description>
+&lt;div&gt;0000-0400  Steaming in company with Cruiser Division TWELVE and Destroyer Division FORTY
+THREE, plus USS SELFRIDGE, USS DYSON, and USS CLAXTON on base course 100(T),
+(PGC), 090(PSC).  Standard speed 15 knots, steaming at full speed 19 knots.
+Boilers #2 and #3 in use.  0300 Changed base course to 055(T), (PGC), 043(PSC).&lt;/div&gt;
+&lt;div&gt;0400-0800  Steaming as before.  0401 Contact with land 020(T), distance 40 miles.  0514
+Crew called to general quarters.  Commenced zigzagging in accordance with plan
+#12.  0539 Ceased zigzagging resumed base course.  0552 Changed course to 090(T),
+090(PSG), 076(PSC).  Changed speed to 22 knots (222 RPM).  Passing through
+Bougainville Straits.  0658 Changed course to 045(T), 045(PSG), 038(PSC).  0716
+Changed course to 000(T), 000(PSG), 353(PSC).  0735 Changed course to 315(T), 315(PSG), 
+306(PSC).  0747 Changed course to 270(T), 270(PSG), 264(PSC).  Steering
+various courses and speeds while screening cruisers entrance into harbor.&lt;/div&gt;
+&lt;div&gt;0800-1200  Screening cruiser entry into Espiritu Santo Harbor.  0812 Standing into harbor.
+Steaming various courses and speeds to conform to channel.  0918 Anchored in
+berth #24, in Segond Channel, in 30 fathoms of water, 75 fathoms of chain to port
+anchor.  1000 USS PHILIP moored to starboard side, USS RENSHAW moored to port side.&lt;/div&gt;
+&lt;div&gt;1200-1600  Anchored as before.  1220 Commenced making preparations for getting
+underway.  1238 USS RENSHAW underway from alongside.  1301 Underway from USS PHILIP 
+to fuel from USS MONOGAHELA in berth #32 with the Captain at the conn,
+and the navigator on the bridge steaming various courses and speeds conforming
+to the channel.  1338 Moored port side to USS MONOGAHELA.  1340 Commenced fueling.
+Draft forward 11'0", aft 13'10".  1440 Completed fueling having received 78,769
+gallons of fuel oil.  Draft forward 12'0", aft 14'0".  1440 Made all preparations
+for getting underway.  1552 Underway from USS MONOGAHELA for berth #25 with the
+Captain at the conn and the navigator on the bridge, steaming various courses and
+speeds conforming to the channel.  1550 Anchored in berth #25, Segond Channel in
+29 fathoms of water, with 75 fathoms of chain to the port anchor.&lt;/div&gt;
+&lt;div&gt;1600-2000  Anchored as before.  1610 Secured #3 boiler.  #2 boiler in use for auxiliary purposes. 
+1626 USS PHILIP moored alongside to port.  1648 USS RENSHAW moored alongside 
+to starboard.&lt;/div&gt;
+&lt;div&gt;2000-2400  Anchored as before.&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
@@ -4279,11 +4424,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1050.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-06</date>
+          <description>
+&lt;div&gt;0000-0400  Anchored in berth #25 Segond Channel, Espiritu Santo, in 29 fathoms of water,
+75 fathoms of chain to port anchor.  USS PHILIP moored to port, USS RENSHAW
+moored to starboard. Boiler #2 in use for auxiliary purposes.&lt;/div&gt;
+&lt;div&gt;0400-0800  Anchored as before.&lt;/div&gt;
+&lt;div&gt;0800-1200  Anchored as before.&lt;/div&gt;
+&lt;div&gt;1200-1600  Anchored as before.&lt;/div&gt;
+&lt;div&gt;1600-2000  Anchored as before.&lt;/div&gt;
+&lt;div&gt;2000-2400  Anchored as before.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
@@ -4291,11 +4443,21 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1051.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-07</date>
+          <description>
+&lt;div&gt;0000-0400  Anchored in berth #25, Segond Channel, Espiritu Santo, New Hebrides, 29 fathoms
+of water, 75 fathoms of chain to port anchor, USS PHILIP moored to port, USS RENSHAW 
+moored to starboard.  #2 boiler in use for auxiliary purposes.&lt;/div&gt;
+&lt;div&gt;0400-0800  Anchored as before.&lt;/div&gt;
+&lt;div&gt;0800-1200  Anchored as berore.  0815 Commenced fueling from USS RENSHAW.  Draft before
+fueling: 11'10" forward, 13'11" aft.  0908 Completed fueling having received
+3070 gallons fuel oil.  Draft after fueling: 12' forward, 14', aft.&lt;/div&gt;
+&lt;div&gt;1200-1600  Anchored as before.  1303 USS PHILIP left from alongside.&lt;/div&gt;
+&lt;div&gt;1600-2000  Anchored as before.  1650 USS RENSHAW underway from alongside starboard side.
+1708 USS RENSHAW came alongside to port.&lt;/div&gt;
+&lt;div&gt;2000-2400  Anchored as before.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
@@ -4303,11 +4465,36 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1052.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-08</date>
+          <description>
+&lt;div&gt;0000-0400  Anchored in berth #25, Segond Channel, Espiritu Santo, New Hebrides, 29 fathoms
+of water, 75 fathoms of chain to the port anchor,  USS RENSAHW moored to port.
+#2 boiler in use for auxiliary purposes.&lt;/div&gt;
+&lt;div&gt;0400-0800  Anchored as before.  0530 USS RENSHAW underway from port side.&lt;/div&gt;
+&lt;div&gt;0800-1200  Anchored as before.&lt;/div&gt;
+&lt;div&gt;1200-1600  Anchored as before.  1505 Lit off #3 boiler.  1600 Cut #3 boiler in on main
+steam line.&lt;/div&gt;
+&lt;div&gt;1600-2000  Anchored as before.  1610 Commenced preparations for getting underway.
+1630 Set condition II.  1633 Underway in accordance with Commander service
+Squadron South Pacific Subordinate Command secret dispatch 062335, en route
+to Havannah Harbor, Efate, New Hebrides, escorting USS CACHE.  Following various
+courses and speeds conforming to channel.  1801 Changed course to base course
+144(T), (PGC), 133 1/2(PSC).  Commenced zigzagging in accordance with plan #28.
+1940 Radar contact on surface ship bearing 173(T), (PGC), range 16,000 yards.
+1941 Changed course and speed investigating sound contact.&lt;/div&gt;
+&lt;div&gt;2000-2400  Steams as before.  2001 Sound contact identified as false.  2005 Changed
+course to 270(T), 270(PSG), 267(PSC), changed speed to 25 knots (256 RPM) to investigate 
+surface contact, identified as friendly merchant vessel.  Resuming
+screening station.  2030 Resumed base course and speed.  211O Ceased zigzagging, 
+resumed base course.  2114 Changed course to 170(T), 170(PSG), 160(PSC).
+2130 Changed course to 145(T), 145(PSG), 134(PSC).  2157 Changed course to
+180(T), 180(PSG), 170(PSC).  2204 Commenced zigzagging in accordance with plan
+#48.  2250 Changed speed to 12 knots (116 RPM).  2303 Ceased zigzagging, resumed
+base course.  Fires lighted under boiler #4.  2306 Changed course to 170(T),
+170(PSG), 160(PSC).  2313 Commenced zigzagging in accordance with plan #33.
+2323 Cut in boiler #4 on main steam line.  2325 secured boiler #3.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
@@ -4315,11 +4502,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1053.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-09</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4327,11 +4521,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1054.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-10</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4339,11 +4540,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1055.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-11</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4351,11 +4559,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1056.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-12</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4363,11 +4578,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1057.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-13</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4375,11 +4597,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1058.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-14</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4387,35 +4616,40 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1059.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-15</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
     <image>
       <file>1060.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>1061.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-16</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4423,11 +4657,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1062.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-17</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4435,35 +4676,40 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1063.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-18</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
     <image>
       <file>1064.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>1065.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-19</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4471,11 +4717,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1066.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-20</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4483,11 +4736,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1067.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-21</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4495,11 +4755,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1068.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-22</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4507,11 +4774,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1069.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-23</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4519,11 +4793,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1070.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-24</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4531,11 +4812,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1071.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-25</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4543,11 +4831,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1072.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-26</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4555,11 +4850,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1073.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-27</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4567,11 +4869,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1074.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-28</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4579,11 +4888,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1075.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-29</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4591,11 +4907,18 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1076.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-30</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -4603,25 +4926,23 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
       <file>1077.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-08-31</date>
+          <description>
+&lt;div&gt;0000-0400&lt;/div&gt;
+&lt;div&gt;0400-0800&lt;/div&gt;
+&lt;div&gt;0800-1200&lt;/div&gt;
+&lt;div&gt;1200-1600&lt;/div&gt;
+&lt;div&gt;1600-2000&lt;/div&gt;
+&lt;div&gt;2000-2400&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
     <image>
       <file>1078.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
   </images>
 </source>
@@ -14990,7 +15311,7 @@ changed speed to 25 knots (256 RPM).  1246 Changed course to 335(T),
 334(PSG), 329(PSC).  1303 Commenced making preparations for entering port.
 Captain at conn, executive officer on bridge, steering various courses conforming
 with channel.  Standard speed 15 knots (146 RPM).  1351 Moored starboard side to
-port of S.S. WESTERN SUN, berth #35, Segund Channel, Espiritu Santo, New Hebrides
+port of S.S. WESTERN SUN, berth #35, Segond Channel, Espiritu Santo, New Hebrides
 Island.  1421 Commenced fueling, draft forward 10'11", draft aft 13'11".  1545
 completed fueling, received 51,677 gallons, draft forward 12'0", draft aft 14'1".&lt;/div&gt;
 &lt;div&gt;1600-2000  Moored as before.  1635 Making preparations to get underway.  1703 underway for
@@ -15122,12 +15443,12 @@ approaching entrance to Espiritu Harbor.  1456 resumed zigzagging on base course
 000(T), 000(PGC), 350(PSC).  1512 Ceased zigzagging.  1535 Patrolling off harbor
 entrance during entry of cruisers.  1200 Position:  latitude 15-33-00 S., 166-08-00  E.&lt;/div&gt;
 &lt;div&gt;1600-2000   Steaming as before.  1601 Maneuvering on various courses and at various
-speeds approaching Segund Channel.  1620 Entering Segund Channel.  1658 Moored
+speeds approaching Segond Channel.  1620 Entering Segond Channel.  1658 Moored
 to port side SS WESTERN SUN.  106 Commenced fueling - draft forward 11'11", aft
 13'10".  1815 Completed fueling - having received 56770 gallons fuel oil, draft
 forward 12'6", draft aft 14'1".  1820 underway maneuvering on various courses and
 speeds to new berth.  1910 Moored to starboard side of USS RENSHAW (DD499), berth
-#24, Segund Channel, Espiritu Santo.  On two hours notice.&lt;/div&gt;
+#24, Segond Channel, Espiritu Santo.  On two hours notice.&lt;/div&gt;
 &lt;div&gt;2000-2400  Moored as before.&lt;/div&gt;
           </description>
           <posit time="1200" lat="15-33-00 S" lon="166-08-00 E"/>
@@ -15140,7 +15461,7 @@ speeds to new berth.  1910 Moored to starboard side of USS RENSHAW (DD499), bert
         <item>
           <date>1943-07-24</date>
           <description>
-&lt;div&gt;0000-0400  Moored port side to starboard of USS RENSHAW, berth #25, Segund Channel,
+&lt;div&gt;0000-0400  Moored port side to starboard of USS RENSHAW, berth #25, Segond Channel,
 Espiritu Santo, New Hebrides Islands.  Fires under boiler #1 for auxiliary
 purposes.&lt;/div&gt;
 &lt;div&gt;0400-0800  Moored as before.  0625 USS STACK moored alongside to starboard.&lt;/div&gt;
@@ -15149,7 +15470,7 @@ purposes.&lt;/div&gt;
 &lt;div&gt;1600-2000  Moored as before.&lt;/div&gt;
 &lt;div&gt;2000-2400  Moored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segund Channel, Espiritu Santo"/>
+          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
@@ -15159,7 +15480,7 @@ purposes.&lt;/div&gt;
         <item>
           <date>1943-07-25</date>
           <description>
-&lt;div&gt;0000-0400  Moored port side to USS RENSHAW, berth #24, Segund Channel, Espiritu Santo,
+&lt;div&gt;0000-0400  Moored port side to USS RENSHAW, berth #24, Segond Channel, Espiritu Santo,
 New Hebrides Islands.  Boilers #1 steaming for auxiliary purposes.&lt;/div&gt;
 &lt;div&gt;0400-0800  Moored as before.&lt;/div&gt;
 &lt;div&gt;0800-1200  Moored as before.&lt;/div&gt;
@@ -15167,7 +15488,7 @@ New Hebrides Islands.  Boilers #1 steaming for auxiliary purposes.&lt;/div&gt;
 &lt;div&gt;1600-2000  Moored as before.&lt;/div&gt;
 &lt;div&gt;2000-2400  Moored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segund Channel, Espiritu Santo"/>
+          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
@@ -15177,7 +15498,7 @@ New Hebrides Islands.  Boilers #1 steaming for auxiliary purposes.&lt;/div&gt;
         <item>
           <date>1943-07-26</date>
           <description>
-&lt;div&gt;0000-0400  Moored port side to USS RENSHAW, berth #24 Segund Channel, Espiritu Santo,
+&lt;div&gt;0000-0400  Moored port side to USS RENSHAW, berth #24 Segond Channel, Espiritu Santo,
 New Hebrides Islands.  Boiler #1 steaming for auxiliary purposes.&lt;/div&gt;
 &lt;div&gt;0400-0800  Moored as before.&lt;/div&gt;
 &lt;div&gt;0800-1200  Moored as before.&lt;/div&gt;
@@ -15185,7 +15506,7 @@ New Hebrides Islands.  Boiler #1 steaming for auxiliary purposes.&lt;/div&gt;
 &lt;div&gt;1600-2000  Moored as before.&lt;/div&gt;
 &lt;div&gt;2000-2400  Moored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segund Channel, Espiritu Santo"/>
+          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
@@ -15195,7 +15516,7 @@ New Hebrides Islands.  Boiler #1 steaming for auxiliary purposes.&lt;/div&gt;
         <item>
           <date>1943-07-27</date>
           <description>
-&lt;div&gt;0000-0400  Moored port side to USS RENSHAW in berth #24, Segund Channel, Espiritu Santo,
+&lt;div&gt;0000-0400  Moored port side to USS RENSHAW in berth #24, Segond Channel, Espiritu Santo,
 New Hebrides.  #1 boiler in use for auxiliary purpose.&lt;/div&gt;
 &lt;div&gt;0400-0800  Moored as before.&lt;/div&gt;
 &lt;div&gt;0800-1200  Moored as before.  0820 Commenced fueling from yard oiler.  Draft forward 12'0",
@@ -15205,7 +15526,7 @@ aft 13'8".  0845 Completed fueling, Draft forward 12'4", aft 14'1".  Received
 &lt;div&gt;1600-2000  Moored as before.&lt;/div&gt;
 &lt;div&gt;2000-2400  Moored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segund Channel, Espiritu Santo"/>
+          <posit time="0800" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
@@ -15215,7 +15536,7 @@ aft 13'8".  0845 Completed fueling, Draft forward 12'4", aft 14'1".  Received
         <item>
           <date>1943-07-28</date>
           <description>
-&lt;div&gt;0000-0400  Moored port side to USS RENSHAW, berth #24 Segund Channel, Espiritu Santo,
+&lt;div&gt;0000-0400  Moored port side to USS RENSHAW, berth #24 Segond Channel, Espiritu Santo,
 New Hebrides Islands.  Boiler #1 in use for auxiliary purposes.&lt;/div&gt;
 &lt;div&gt;0400-0800  Moored as before.  0645 Commenced preparations for getting underway.  0615 Lit
 off fires under boiler #4.  0652 Cut in boiler #4 on main steam line.  0655
@@ -15357,12 +15678,12 @@ fueling.  Draft before fueling 13'6", aft 10'10" forward.  1803 Completed fuelin
 Received 86,984 gallons, standard Navy fuel oil at 60 F.  Draft after
 fueling 14'2", aft 12'2" forward.  1811 Underway - following various courses at
 various speeds to assigned berth.  1828 Moored starboard to USS CLEVELAND in
-berth #2 Segund Channel, Espiritu Santo, New Hebrides.  1926 Died out fire
+berth #2 Segond Channel, Espiritu Santo, New Hebrides.  1926 Died out fire
 under #1 boiler.  Boiler #3 in use for auxiliary purposes.&lt;/div&gt;
 &lt;div&gt;2000-2400  Moored as before.&lt;/div&gt;
           </description>
           <posit time="0800" lat="14-11-00 S" lon="166-18-00 E"/>
-          <posit time="2000" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segund Channel, Espiritu Santo"/>
+          <posit time="2000" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
