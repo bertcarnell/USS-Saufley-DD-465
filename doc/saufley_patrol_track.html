@@ -1,0 +1,92 @@
+<!-- Copyright 2022 Robert Carnell -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="USS Saufley Patrol Track">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <meta name="copyright" content="2022 Robert Carnell">
+
+    <!-- US Navy Logo 2022 -->
+    <link rel="shortcut icon" type="image/png" href="https://www.cnrc.navy.mil/eToolbox/assets/img/favicon.png"/>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>    
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>    
+    <!-- Javascript for maps -->
+    <script type="module" src="javascripts/saufley_patrol_track.js"></script>
+
+    <style>
+      .navbar {
+        margin-bottom: 0;
+        border-radius: 0;
+      }
+      /* Set the size of the div element that contains the map */
+      #test_map_div {
+        height: 400px;
+        /* The height is 400 pixels */
+        width: 100%;
+        /* The width is the width of the web page */
+      }
+    </style>
+    <title>USS Saufley (DD-465) Patrol Track</title>
+  </head>
+
+  <body>
+
+    <!-- Header -->
+    <!--<div id="includeHeader"></div><script>$("#includeHeader").load("navbar1.html");</script>-->
+    
+    <div class="jumbotron-fluid" style="padding-left:15px">
+        <h1>USS Saufley (DD-465)</h1>
+        <h3>Patrol Track</h3>
+    </div>
+    
+    <hr>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-2" id="botton_group">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="timeRadio" id="radio1942" checked>
+                    <label class="form-check-label" for="radio1942">1942</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="timeRadio" id="radio1943">
+                    <label class="form-check-label" for="radio1943">1943</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="timeRadio" id="radio1944">
+                    <label class="form-check-label" for="radio1944">1944</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="timeRadio" id="radio1945">
+                    <label class="form-check-label" for="radio1945">1945</label>
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <div id="test_map_div"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-9">
+                <div id="test_map_text"></div>
+            </div>
+      </div>
+    </div>
+
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCklYw6ctgWVvoCl67r2Rc-R_EhL0OeCTI&callback=initMap"></script>
+
+    <!-- Footer -->
+    <!--<div id="includeFooter"></div><script>$("#includeFooter").load("footer.html");</script>-->
+
+  </body>
+</html>

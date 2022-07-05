@@ -94,6 +94,8 @@ Posit <- R6::R6Class("Posit",
               lon = self$translate_lat(private$lon)))
    },
    translate_lat = function(slat){
+     if (slat == "") 
+       return(NA)
      lsign <- ifelse(grepl("N", slat) | grepl("E", slat), 1, -1)
      lnum <- slat %>%
        stringr::str_extract("[0-9]*[-][0-5][0-9][-][0-5][0-9]") %>%

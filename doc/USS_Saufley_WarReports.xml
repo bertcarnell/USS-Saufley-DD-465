@@ -4504,16 +4504,33 @@ base course.  Fires lighted under boiler #4.  2306 Changed course to 170(T),
         <item>
           <date>1943-08-09</date>
           <description>
-&lt;div&gt;0000-0400&lt;/div&gt;
-&lt;div&gt;0400-0800&lt;/div&gt;
-&lt;div&gt;0800-1200&lt;/div&gt;
-&lt;div&gt;1200-1600&lt;/div&gt;
-&lt;div&gt;1600-2000&lt;/div&gt;
-&lt;div&gt;2000-2400&lt;/div&gt;
+&lt;div&gt;0000-0400  En route Espiritu Santo to Efate, escorting USS CACHE.  Base course 170(T),
+(PGC), 160(PSC).  Speed 12 knots.  Boilers #2 and #4 in use.&lt;/div&gt;
+&lt;div&gt;0400-0800  Steaming as before.  0421 Ceased zigzagging.  0430 Changed course to 270(T),
+(PGC), 260(PSC).  0451 Changed course to 095(T), (PGC), 087(PSC).  0455 Patrolling 
+on station screening USS CACHE.  0511 Set condition of readiness I.
+0548 Ceased partrolling on station.  0550 Changed course to 110(T), (PGC),
+103(PSC).  0554 Set condition II.  0602 Made preperations for entering port.
+0605 Steering various courses and speeds screening USS CACHE while waiting
+for pilot.  0706 Passed outer net entering Havannah Harbor, Efate, New Hebrides.
+Steering various courses and speeds conforming with channel.  0714 Passed
+inner net. 0735 Moored starboard side to SS WESTERN SUN, berth #8.  0746 Commenced
+fueling draft forward 12'00", draft aft 14'0"&lt;/div&gt;
+&lt;div&gt;0800-1200  Moored as before.  0814 Completed fueling, received 11,324 gallons standard
+Navy fuel oil at 60 F.  Draft after fueling 12'9", forward, 14'2" aft.
+0945 Commenced preparations for getting underway.  1012 Underway in accordance
+with N.P.M. #453 - 052154 escorting USS HUNTER LIGGETT.  Various courses at
+various speeds conforming to channel.  1059 On various courses patrolling off
+entrance to Hilliard Channel.  1140 Changed course to base course 269(T), (PGC),
+259(PSC).  1146 Commenced zigzagging in accordance with plan #8.&lt;/div&gt;
+&lt;div&gt;1200-1600  Ceased zigzgagging, resumed base course.  1202 Changed speed to 15 knots (146 RPM). 
+1204 Changed course to 245(T), 245(PSG), 235(PSC).  1220 Changed course
+to 269(T), 269(PSG), 259 (PSC).  1222 Commenced Zigzagging in accorcuance with
+plan #8, patrolling at 17 knots (168 RPM) in screen.&lt;/div&gt;
+&lt;div&gt;1600-2000  Steaming as before.&lt;/div&gt;
+&lt;div&gt;2000-2400  Steaming as before.  2000 Position:  Latitude 17-36-00 S., Longitude 166-18-00 E.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="2000" lat="17-36-00 S" lon="166-18-00 E"/>
         </item>
       </items>
     </image>
@@ -4523,16 +4540,35 @@ base course.  Fires lighted under boiler #4.  2306 Changed course to 170(T),
         <item>
           <date>1943-08-10</date>
           <description>
-&lt;div&gt;0000-0400&lt;/div&gt;
-&lt;div&gt;0400-0800&lt;/div&gt;
-&lt;div&gt;0800-1200&lt;/div&gt;
-&lt;div&gt;1200-1600&lt;/div&gt;
-&lt;div&gt;1600-2000&lt;/div&gt;
-&lt;div&gt;2000-2400&lt;/div&gt;
+&lt;div&gt;0000-0400  En route from Efate to Tulagi escorting USS HUNTER LIGGETT, base course 269(T),
+(PGC), 259(PSC).  Standard speed 15 knots - steaming at 17 knots.  Boilers #2
+and #4 in use.&lt;/div&gt;
+&lt;div&gt;0400-0800  Steaming as before.  0527 Went to general quarters.  0603 Secured from general
+quarters, set condition II, material condition baker. 0643 Ceased zigzagging
+resumed base course.  0646 Changed course to 265(T), 265(PSG), 255(PSC).
+0647 Commenced zigzagging in accordance with plan #26.&lt;/div&gt;
+&lt;div&gt;0800-1200  Steaming as before.  0900 Lit off #1 boiler.  0936 #1 boiler cut in on main
+steam line.  0948 Secured boiler #2.  0800 Position: Latitude 17-38-00 S, Longitude 
+163-19-30 E.&lt;/div&gt;
+&lt;div&gt;1200-1600  Steaming as before.  1200 Position: Latitude 17-36-00 S., Longitude 162-29-00 E.
+1227 Changed base course 260(T), (PGC), 250(PSC).  1228 USS PRINGLE, USS WALLER,
+USS CONWAY joined formation and took screening stations.  1315 Changed base course
+1317 Changed base course to 200(T), (PGC), 193(PSC).  1335 Changed base course
+to 180(T), (PGC), 173(PSC).  1349 Changed base course to 270(T), (PGC), 260(PSC).
+1406 Changed base course to 025(T), (PGC), 017(PSC).  1431 Commenced zigzagging
+in accordance with plan #8.  1438 ceased zigzagging.  1440 Changed base course
+to 090(T), (PGC), 083(PSC).  1512 Joined Task Unit THIRTY TWO POINT FOUR POINT
+FOUR en route to Guadalcanal in accordance with Commander Task Unit THIRTY TWO
+POINT FOUR POINT FOUR's operation order #10-43 of 8 August 1943.  1515 Patrolling
+on screening station #2.&lt;/div&gt;
+&lt;div&gt;1600-2000  Steaming as before.  1614 Changed base course to 020(T), (PGC), 010 (PSC).
+Commenced zigzagging in accordance with plan 16-Z.&lt;/div&gt;
+&lt;div&gt;2000-2400  Steaming as before. Position at 2000: Latitude 16-52-00 S., Longitude 162-46-40
+East.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="17-38-00 S" lon="163-19-30 E"/>
+          <posit time="1200" lat="17-36-00 S" lon="162-29-00 E"/>
+          <posit time="2000" lat="16-52-00 S" lon="162-46-40 E"/>
         </item>
       </items>
     </image>
@@ -4542,16 +4578,30 @@ base course.  Fires lighted under boiler #4.  2306 Changed course to 170(T),
         <item>
           <date>1943-08-11</date>
           <description>
-&lt;div&gt;0000-0400&lt;/div&gt;
-&lt;div&gt;0400-0800&lt;/div&gt;
-&lt;div&gt;0800-1200&lt;/div&gt;
-&lt;div&gt;1200-1600&lt;/div&gt;
-&lt;div&gt;1600-2000&lt;/div&gt;
-&lt;div&gt;2000-2400&lt;/div&gt;
+&lt;div&gt;0000-0400  Steaming in company with Task Group THIRTY FOUR POINT FOUR POINT FOUR on base
+course 020(T), (PGC), 010(PSC).  Speed 15.5 knots.  Zigzagging on plan #16.
+Boilers #1 and #4 in use.  0045 Changed course to 280(T), maneuvering away from
+reporting sound contact.  0055 Resumed base course.  0105 Resumed zigzagging.&lt;/div&gt;
+&lt;div&gt;0400-0800  Steaming as before.  0524 Set condition of readiness #1.  0604 Secured from
+condition I, set condition of readiness II.&lt;/div&gt;
+&lt;div&gt;0800-1200  Steaming as before.  1000 Changed base course to 026(T), (PGC), 015 1/2 (PSC).
+1020 USS PRINGLE joined screen.  1122 Ceased zigzagging, maneuvered by turn
+signals while USS CONY and USS FULLEE joined the Task Group.  0800 Position:
+Latitude 14-15-30 S, Longitude 163-52-30 E.&lt;/div&gt;
+&lt;div&gt;1200-1600  Steaming as before.  1200 Position:  Latitude 13-24-00 S., Longitude 164-07-40 E.
+Changed course to 000(T), (PSG), 350(PSC).  1228 Commenced zigzagging in accordance
+with plan #16 Zed.&lt;/div&gt;
+&lt;div&gt;1600-2000  Steaming as before.  1600 Changed base course to 345(T), (PGC), 333(PSC).
+1610 Resumed zigzagging on plan #16.  1650 Changed course to 065(T), maneuvering
+away from reported periscope.  1700 Resumed base course.  1705 Resumed zigzagging.&lt;/div&gt;
+&lt;div&gt;2000-2400  Steaming as before.  2148 Ceased zigzagging.  2200 Changed base to 325(T),
+(PGC), 315(PSC).  2207 Changed base course to 305(T), (PGC), 296(PSC).
+2225 Commenced zigzagging in accordance with plan #16.  2000 Position:
+Latitude 11-37-30 S, Longitude 163-51-30 E.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="14-15-30 S" lon="163-52-30 E"/>
+          <posit time="1200" lat="13-24-00 S" lon="164-07-40 E"/>
+          <posit time="2000" lat="11-37-30 S" lon="163-51-30 E"/>
         </item>
       </items>
     </image>
@@ -4561,16 +4611,44 @@ base course.  Fires lighted under boiler #4.  2306 Changed course to 170(T),
         <item>
           <date>1943-08-12</date>
           <description>
-&lt;div&gt;0000-0400&lt;/div&gt;
-&lt;div&gt;0400-0800&lt;/div&gt;
-&lt;div&gt;0800-1200&lt;/div&gt;
-&lt;div&gt;1200-1600&lt;/div&gt;
-&lt;div&gt;1600-2000&lt;/div&gt;
-&lt;div&gt;2000-2400&lt;/div&gt;
+&lt;div&gt;0000-0400  Steaming in company with Task Group THIRTY FOUR POINT FOUR POINT FOUR on base
+course 305(T), (PGC), 296(PSC).  Speed 15.5 knots.  Zigzagging in accordance with
+plan #16-Z.  Boilers #1 and #4 in use.&lt;/div&gt;
+&lt;div&gt;0400-0800  Steaming as before.  0440 Made contact with Malaupaina Island, bearing 293(T),
+distance 33 miles.  0525 Went to general quarters.  0550 Ceased zigzagging resumed
+base course.  0553 course to 276(T), (PSG), 266(PSC).  0608 Commenced zigzagging
+in accordance with plan #16 Zed.  0630 Ceased zigzagging, resumed base course.
+0638 Commenced zigzagging in accordance with plan #8.  Secured from general quarters.&lt;/div&gt;
+&lt;div&gt;0800-1200  Steaming as before.  0802 Changed course to 302(T), (PGC), 294(PSC).  0810
+Resumed zigzagging.  1130 Changed course to 315(T), (PGC), 308(PSC).  1140
+Resumed zigzagging.  0800 Position:  Latitude 10-01-40 S., Longitude 161-40-00 E.&lt;/div&gt;
+&lt;div&gt;1200-1600  Steaming as before.  1221 Changed course to 310(T), (PGC), 303 (PSC).  1237
+Changed course to 305(T), (PGC), 297(PSC).  1240 Changed course to 285(T), (PGC),
+277(PSC).  1425 Changed course to 270(T), (PGC), 262(PSC).  1430 Ceased zigzagging.
+1438 Took station astern USS WALLER while passing through Lengo Channel.  1517
+Took screening station ahead of USS CRESCENT CITY.  1200 Position:  Latitude 9-35-00 S.,
+Longitude 160-55-00 E&lt;/div&gt;
+&lt;div&gt;1600-2000  Steaming as before.  On various courses at various speeds screening ahead of
+USS CRESCENT CITY.  1738 Patrolling off Kokumbona.  1907 Relieved from patrol
+by USS STERETT.  1910 Proceeding to Purvis Bay, course 045(T), (PGC).  Steaming
+at flank speed 25 knots.&lt;/div&gt;
+&lt;div&gt;2000-2400  Steaming as before.  2003 Changed speed to 20 knots(201 RPM).  Changed course to
+048(T), (PSG), 038(PSC).  2008 Changed course to 055(T), (PSG), 045(PSC).  Changed
+speed to 15 knots (146 RPM).  Commenced making preparations for entering port,
+Captain at the conn, navigator and executive officer on bridge, steering various
+courses and speeds standing in to Purvis Bay, standard speed 15 knots(146 RPM).
+2026 Went to general quarters.  2042 Standing in through submarine net.  2105
+secured from general quarters, set condition II, material condition baker.
+2132 Moored port side to starboard of USS PATUXENT, outboard of USS CONY, to
+receive fuel.  Draft forward 12'1", draft aft 14'0".  2238 Fueling completed,
+received 51,186 gallons of fuel oil.  Draft of ship forward 12'10", aft 14'2".
+Makde all preparations for getting underway.  2256 Underway, proceeding to achorage, 
+Captain at conn, executive officer and navigator on bridge.  Standard speed 15
+knots (146 RPM).  2235 Anchored berth #17, 24 fathoms of water, 60 fathoms of
+chain to port anchor.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="10-01-40 S" lon="161-40-00 E"/>
+          <posit time="1200" lat="09-35-00 S" lon="160-55-00 E"/>
         </item>
       </items>
     </image>
@@ -4580,16 +4658,16 @@ base course.  Fires lighted under boiler #4.  2306 Changed course to 170(T),
         <item>
           <date>1943-08-13</date>
           <description>
-&lt;div&gt;0000-0400&lt;/div&gt;
-&lt;div&gt;0400-0800&lt;/div&gt;
-&lt;div&gt;0800-1200&lt;/div&gt;
-&lt;div&gt;1200-1600&lt;/div&gt;
-&lt;div&gt;1600-2000&lt;/div&gt;
-&lt;div&gt;2000-2400&lt;/div&gt;
+&lt;div&gt;0000-0400  Anchored in berth #17, Purvis Bay, in 24 fathoms of water, 60 fathoms of chain
+to port anchor.  Boilers #1 and #4 in use.  Condition II set.  0004 Secured boiler #1.&lt;/div&gt;
+&lt;div&gt;0400-0800  Anchored as before.&lt;/div&gt;
+&lt;div&gt;0800-1200  Anchored as before.&lt;/div&gt;
+&lt;div&gt;1200-1600  Anchored as before.&lt;/div&gt;
+&lt;div&gt;1600-2000  Anchored as before.&lt;/div&gt;
+&lt;div&gt;2000-2400  Anchored as before.  2027 Went to general quarters because of Condition Red in
+Guadalcanal.  2240 Secured from general quarters, set condition II.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>

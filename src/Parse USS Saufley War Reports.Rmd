@@ -22,6 +22,8 @@ require(sf)
 require(sp)
 require(stringr)
 require(hunspell)
+require(googledrive)
+require(httpuv)
 
 source("War Report Utilities.R")
 ```
@@ -318,7 +320,7 @@ latlon <- lapply(source_list, function(z) {
 ```{r rgdal-method, eval=FALSE}
 require(sp)
 
-plot_data_full <- do.call("rbind", latlon[c(1, 39)])
+plot_data_full <- do.call("rbind", latlon)
 
 plot_data <- plot_data_full %>%
   dplyr::filter(date >= as.Date("1945-01-01"), date <= as.Date("1945-12-31"))
@@ -326,6 +328,10 @@ plot_data <- plot_data_full %>%
 kml_file_name <- "test.kml"
 points_kml_file_name <- "test_points.kml"
 lines_kml_file_name <- "test_lines.kml"
+
+shp_file_name <- "test.shp"
+points_shp_file_name <- "test_points.shp"
+lines_shp_file_name <- "test_lines.shp"
 
 plot_coords <- plot_data %>% dplyr::select(lon, lat)
 plot_desc <- plot_data %>% dplyr::select(Name, Description)
@@ -384,7 +390,7 @@ temp_insert <- c(
 writeLines(c(temp1, temp_insert, temp2), "test2_points.kml")
 ```
 
-## Output KML Layers (plotKML method)
+## Output KML Layers (plotKML method for Google Earth Pro)
 
 ```{r plot-kml, echo=FALSE, message=FALSE}
 include_series <- which(sapply(latlon, function(z) ifelse(is.null(z$date), FALSE, TRUE)))
@@ -466,6 +472,83 @@ for (k in seq_along(available_years))
 utils::zip("Track_of_USS_Saufley.kmz", 
            files = c("Track_of_USS_Saufley.kml", paste0("kml/", list.files("kml", pattern = "[.]kml"))))
 
+```
+
+## Output KML Layers (plotKML method for Google Maps)
+
+```{r plot-kml-google-maps, echo=FALSE, message=FALSE}
+include_series <- which(sapply(latlon, function(z) ifelse(is.null(z$date), FALSE, TRUE)))
+
+# need to put the include_series in date order
+first_dates <- do.call("c", lapply(include_series, function(z) latlon[[z]]$date[1]))
+
+available_years <- 1942:1945
+available_months <- 1:12
+
+# loop over years
+for (k in seq_along(available_years))
+{
+  for (m in seq_along(available_months))
+  {
+    # k <- 2
+    # m <- 4
+    ind <- which(lubridate::year(first_dates) == available_years[k] &
+                   lubridate::month(first_dates) == available_months[m])
+    
+    if (length(ind) == 0)
+      next
+    
+    year_month_file <- paste0("kml/test", available_years[k], 
+                              str_pad(available_months[m], 2, "left", "0"), ".kml")
+    series_in_year_month <- include_series[ind]
+    dates_in_year_month <- first_dates[ind]
+    ord <- order(dates_in_year_month)
+    plotKML::kml_open(year_month_file)
+
+    for (i in include_series[ind][ord])
+    {
+      # i <- 19
+      plot_data <- latlon[[i]]
+      plot_coords <- plot_data %>% dplyr::select(lon, lat) # must go lon then lat (x then y)
+      
+      mat_plot_coords <- as.matrix(plot_coords)
+      na_ind <- which(apply(mat_plot_coords, 1, function(z) any(is.na(z))))
+      if (length(na_ind) > 0)
+      {
+        mat_plot_coords <- mat_plot_coords[-na_ind,]
+        plot_data <- plot_data[-na_ind,]
+      }
+  
+      sf_points <- sf::st_sfc(sf::st_multipoint(mat_plot_coords, dim = "XY"))
+      sf_points <- sf::st_set_crs(sf_points, 4326)
+  
+      point_time <- strptime(paste(plot_data$date, plot_data$time), 
+                             format = "%Y-%m-%d %H%M", tz = "GMT")
+    
+      ym <- paste0(lubridate::year(plot_data$date[1]), "-",
+                   stringr::str_pad(lubridate::month(plot_data$date[1]), 
+                                    width = 2, pad = "0"))
+  
+      plotKML::kml_layer(sf::st_cast(sf_points, "POINT"),
+        subfolder.name = paste(ym, "Locations"), 
+        points_names = plot_data$Name, 
+        html.table = plot_data$Description,
+        TimeSpan.begin = format(point_time, "%Y-%m-%dT%H:%M:%SZ"),
+        TimeSpan.end = format(point_time + 60, "%Y-%m-%dT%H:%M:%SZ"),
+        shape = "http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png",
+        color = "red")
+      
+      sf_lines <- sf::st_linestring(mat_plot_coords, dim = "XY")
+      sf_lines <- sf::st_sfc(sf_lines)
+      sf_lines <- sf::st_set_crs(sf_lines, 4326)
+    
+      my_kml_layer_sfc_LINESTRING(sf::st_cast(sf_lines, "LINESTRING"),
+        subfolder.name = paste(ym, "Routes"),
+        color = "red")
+    }
+    plotKML::kml_close(year_month_file)
+  }
+}
 ```
 
 ## Find Ship Names
