@@ -9,9 +9,8 @@
 		<Style>
 			<IconStyle>
 			  <Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle-lv.png</href>
 			  </Icon>
-				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 			<BalloonStyle>
 			  <text>$[description]</text>
@@ -43,9 +42,8 @@ with above mentioned ships.</div>
 		<Style>
 			<IconStyle>
 			  <Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
 			  </Icon>
-				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 			<BalloonStyle>
 			  <text>$[description]</text>
@@ -77,9 +75,8 @@ with above mentioned ships.</div>
 		<Style>
 			<IconStyle>
 			  <Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
 			  </Icon>
-				<hotSpot x="0.0" y="0.5" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 			<BalloonStyle>
 			  <text>$[description]</text>
@@ -111,9 +108,8 @@ with above mentioned ships.</div>
 		<Style>
 			<IconStyle>
 			  <Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-13.png</href>
 			  </Icon>
-				<hotSpot x="1.0" y="0.5" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 			<BalloonStyle>
 			  <text>$[description]</text>
