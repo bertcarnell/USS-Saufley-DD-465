@@ -51,13 +51,12 @@ select_div.addEventListener('click', ({ target }) => {
     if (div_id === 'radio1942'){
         kmlLayer.setMap(null);
         addKmlLayer('test1942.kml', map);
-    }
-    else if (div_id === 'radio1943'){
+    } else if (div_id === 'radio1943'){
         kmlLayer.setMap(null);
         addKmlLayer('test1943.kml', map);
     } else if (div_id === 'radio1944'){
         kmlLayer.setMap(null);
-        console.log("Not Ready Yet");
+        addKmlLayer('test1942icon.kml', map);
     } else {
         kmlLayer.setMap(null);
         addKmlLayer('test1945.kml', map);
