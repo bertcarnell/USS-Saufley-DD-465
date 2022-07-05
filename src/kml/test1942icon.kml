@@ -10,8 +10,8 @@
 			<IconStyle>
 			  <Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction">
 			  </Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 			<BalloonStyle>
 			  <text>$[description]</text>
@@ -44,8 +44,8 @@ with above mentioned ships.</div>
 			<IconStyle>
 			  <Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction">
 			  </Icon>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 			<BalloonStyle>
 			  <text>$[description]</text>
@@ -78,8 +78,8 @@ with above mentioned ships.</div>
 			<IconStyle>
 			  <Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-				<hotSpot x="0.0" y="0.5" xunits="fraction" yunits="fraction">
 			  </Icon>
+				<hotSpot x="0.0" y="0.5" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 			<BalloonStyle>
 			  <text>$[description]</text>
@@ -112,8 +112,8 @@ with above mentioned ships.</div>
 			<IconStyle>
 			  <Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-				<hotSpot x="1.0" y="0.5" xunits="fraction" yunits="fraction">
 			  </Icon>
+				<hotSpot x="1.0" y="0.5" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 			<BalloonStyle>
 			  <text>$[description]</text>
@@ -146,8 +146,8 @@ U.S.S. COLUMBIA and U.S.S. DEHAVEN to COMSOPAC.</div>
 			<IconStyle>
 			  <Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-				<hotSpot x="0.5" y="1.0" xunits="fraction" yunits="fraction">
 			  </Icon>
+			<hotSpot x="0.5" y="1.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 			<BalloonStyle>
 			  <text>$[description]</text>
