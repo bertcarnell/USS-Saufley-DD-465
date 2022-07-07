@@ -1,0 +1,171 @@
+---
+title: "Leaflet Test"
+author: "Rob Carnell"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+require(leaflet)
+require(XML)
+require(stringr)
+require(xml2)
+require(sp)
+require(dplyr)
+require(htmlwidgets)
+
+source("War Report Utilities.R")
+```
+
+## Validate the XML
+
+```{r validate-xml, echo=FALSE}
+xml_filepath <- "../docs/USS_Saufley_WarReports.xml"
+temp <- XML::xmlSchemaValidate(XML::xmlSchemaParse("../docs/USS_Saufley_WarReports.xsd"),
+                       XML::xmlParse(xml_filepath))
+sapply(temp[[2]], function(x) {print(x$msg); print(x$line)})
+```
+
+### Read and Extract
+
+```{r read-and-extract, echo=FALSE}
+X <- xml2::read_xml(xml_filepath)
+source_list <- lapply(xml2::xml_find_all(X, ".//source"), function(z) Source$new(z))
+
+source_metadata <- do.call("rbind", lapply(source_list, function(z) z$get_metadata()))
+
+
+latlon <- lapply(source_list, function(z) {
+  do.call("rbind", lapply(z$get_images(), function(w) {
+    do.call("rbind", lapply(w$get_items(), function(d) {
+      tempdf <- d$get_posits()
+      tempdf <- data.frame(time = tempdf[,1],
+                           lat = as.numeric(tempdf[,2]),
+                           lon = as.numeric(tempdf[,3]))
+      if (nrow(tempdf) > 0){
+        tempdf$date <- as.Date(d$get_date())
+        tempdf$Description <- paste0("\n<h3>", tempdf$date, ": ", tempdf$time, 
+                                    "</h3>\n", d$get_description())
+        tempdf$Name <- paste(stringr::str_pad(lubridate::day(tempdf$date), 
+                                              width = 2, pad = "0"),
+                             tempdf$time)
+      }
+      return(tempdf)
+    }))
+  }))
+})
+```
+
+## Test
+
+### 1942
+
+```{r}
+plot_data_full <- do.call("rbind", latlon)
+
+m1942 <- leaflet::leaflet(data = plot_data_full %>%
+                   dplyr::filter(date >= as.Date("1942-01-01"), date <= as.Date("1942-12-31"))) %>% 
+  leaflet::addProviderTiles('Esri.NatGeoWorldMap') %>%
+  leaflet::addCircleMarkers(lng = ~lon, lat = ~lat,
+                      popup = ~Description, label = ~Name,
+                      color = "darkblue", radius = 5) %>%
+  leaflet::addPolylines(lng = ~lon, lat = ~lat,
+                        color = "gold")
+htmlwidgets::saveWidget(m1942, "map1942.html", selfcontained = FALSE)
+```
+
+### 1943
+
+```{r}
+m1943 <- leaflet::leaflet(data = plot_data_full %>%
+                   dplyr::filter(date >= as.Date("1943-01-01"), date <= as.Date("1943-12-31"))) %>% 
+  leaflet::addProviderTiles('Esri.NatGeoWorldMap') %>%
+  leaflet::addCircleMarkers(lng = ~lon, lat = ~lat,
+                      popup = ~Description, label = ~Name,
+                      color = "darkblue", radius = 5) %>%
+  leaflet::addPolylines(lng = ~lon, lat = ~lat,
+                        color = "gold")
+htmlwidgets::saveWidget(m1943, "map1943.html", selfcontained = FALSE)
+```
+
+### 1944
+
+```{r}
+```
+
+### 1945
+
+```{r}
+m1945 <- leaflet::leaflet(data = plot_data_full %>%
+                   dplyr::filter(date >= as.Date("1945-01-01"), date <= as.Date("1945-12-31"))) %>% 
+  leaflet::addProviderTiles('Esri.NatGeoWorldMap') %>%
+  leaflet::addCircleMarkers(lng = ~lon, lat = ~lat,
+                      popup = ~Description, label = ~Name,
+                      color = "darkblue", radius = 5) %>%
+  leaflet::addPolylines(lng = ~lon, lat = ~lat,
+                        color = "gold")
+htmlwidgets::saveWidget(m1945, "map1945.html", selfcontained = FALSE)
+```
+
+## Operations
+
+- Transfer dependencies to `docs/javascripts`
+
+```{r eval=FALSE}
+# only needs to be done periodically
+file.copy(from = list.dirs("map1942_files")[-1], to = "../docs/javascripts", recursive = TRUE)
+```
+
+- Create new html with maps in the correct places
+
+```{r eval=FALSE}
+# read the target html
+target_html_filename <- file.path("..", "docs", "saufley_patrol_track_template.html")
+output_html_filename <- file.path("..", "docs", "saufley_patrol_track.html")
+target_html <- readLines(target_html_filename)
+# read the year htmls
+html_1942 <- readLines("map1942.html")
+html_1943 <- readLines("map1943.html")
+#html_1944 <- readLines("map1944.html")
+html_1945 <- readLines("map1945.html")
+
+# find the tags to be replaced
+cut_ind <- c(grep("<!-- Replace with 1942 -->", target_html),
+             grep("<!-- Replace with 1943 -->", target_html),
+             grep("<!-- Replace with 1945 -->", target_html))
+befores <- cut_ind - 1
+afters <- cut_ind + 1
+
+# find the section to replace it with
+starts <- c(grep("htmlwidget_container", html_1942),
+            grep("htmlwidget_container", html_1943),
+            grep("htmlwidget_container", html_1945))
+ends <- c(grep("application/json", html_1942),
+          grep("application/json", html_1943),
+          grep("application/json", html_1945))
+
+# remake the new file
+output_html <- c(
+  "<!-- This File is Auto Generated from saufley_patrol_track_template.html.  Do not edit directly -->",
+  target_html[1:befores[1]],
+  html_1942[starts[1]:ends[1]],
+  target_html[afters[1]:befores[2]],
+  html_1943[starts[2]:ends[2]],
+  target_html[afters[2]:befores[3]],
+  html_1945[starts[3]:ends[3]],
+  target_html[afters[3]:length(target_html)]
+)
+  
+writeLines(output_html, output_html_filename)
+```
+
+- Remove generated files
+
+```{r}
+file.remove(c("map1942.html", "map1943.html", "map1945.html"))
+unlink("map1942_files", recursive = TRUE)
+unlink("map1943_files", recursive = TRUE)
+unlink("map1945_files", recursive = TRUE)
+```
+    

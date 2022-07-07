@@ -238,8 +238,8 @@ for (i in 1:nrow(X))
 ## Validate the XML
 
 ```{r validate-xml, echo=FALSE}
-xml_filepath <- "../doc/USS_Saufley_WarReports.xml"
-temp <- XML::xmlSchemaValidate(XML::xmlSchemaParse("../doc/USS_Saufley_WarReports.xsd"),
+xml_filepath <- "../docs/USS_Saufley_WarReports.xml"
+temp <- XML::xmlSchemaValidate(XML::xmlSchemaParse("../docs/USS_Saufley_WarReports.xsd"),
                        XML::xmlParse(xml_filepath))
 sapply(temp[[2]], function(x) {print(x$msg); print(x$line)})
 ```
@@ -476,7 +476,9 @@ utils::zip("Track_of_USS_Saufley.kmz",
 
 ## Output KML Layers (plotKML method for Google Maps)
 
-```{r plot-kml-google-maps, echo=FALSE, message=FALSE}
+Not used.
+
+```{r plot-kml-google-maps, echo=FALSE, message=FALSE, eval=FALSE}
 include_series <- which(sapply(latlon, function(z) ifelse(is.null(z$date), FALSE, TRUE)))
 
 # need to put the include_series in date order
