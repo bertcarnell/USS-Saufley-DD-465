@@ -14,17 +14,13 @@
     <link rel="shortcut icon" type="image/png" href="https://www.cnrc.navy.mil/eToolbox/assets/img/favicon.png"/>
 
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"/>
     <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 
     <style>
       /*.carousel-inner img {min-width:100%}*/
-      .carousel-inner > .item > img {
+      .carousel-inner > .carousel-item > img {
         height:360px;
         margin:auto;
       }
@@ -41,44 +37,44 @@
     <!-- Header -->
     <!--<div id="includeHeader"></div><script>$("#includeHeader").load("navbar1.html");</script>-->
 
-    <div id="SaufleyCarousel" class="carousel slide" data-ride="carousel">
+    <div id="SaufleyCarousel" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
-        <div class="item active">
-          <img src="images/19-N-35509.jpeg" alt="USS Saufley DD-465">
+        <div class="carousel-item active">
+          <img src="images/19-N-35509.jpeg" class="d-block" alt="USS Saufley DD-465">
         </div>
-        <div class="item">
-          <img src="images/0546520.jpg" alt="USS Saufley DD-465">
+        <div class="carousel-item">
+          <img src="images/0546520.jpg" class="d-block" alt="USS Saufley DD-465">
         </div>
-        <div class="item">
-          <img src="images/0546527.jpg" alt="USS Saufley DD-465">
+        <div class="carousel-item">
+          <img src="images/0546527.jpg" class="d-block" alt="USS Saufley DD-465">
         </div>
-        <div class="item">
-          <img src="images/0546530.jpg" alt="USS Saufley DD-465">
+        <div class="carousel-item">
+          <img src="images/0546530.jpg" class="d-block" alt="USS Saufley DD-465">
         </div>
-        <div class="item">
-          <img src="images/0546531.jpg" alt="USS Saufley DD-465">
+        <div class="carousel-item">
+          <img src="images/0546531.jpg" class="d-block" alt="USS Saufley DD-465">
         </div>
-        <div class="item">
-          <img src="images/NH 107433.jpeg" alt="USS Saufley DD-465">
+        <div class="carousel-item">
+          <img src="images/NH 107433.jpeg" class="d-block" alt="USS Saufley DD-465">
         </div>
-        <div class="item">
-          <img src="images/465D.jpg" alt="USS Saufley DD-465">
+        <div class="carousel-item">
+          <img src="images/465D.jpg" class="d-block" alt="USS Saufley DD-465">
         </div>
-        <div class="item">
-          <img src="images/465B.jpg" alt="USS Saufley DD-465">
+        <div class="carousel-item">
+          <img src="images/465B.jpg" class="d-block" alt="USS Saufley DD-465">
         </div>
-        <div class="item">
-          <img src="images/465C.jpg" alt="USS Saufley DD-465">
+        <div class="carousel-item">
+          <img src="images/465C.jpg" class="d-block" alt="USS Saufley DD-465">
         </div>
       </div>
-      <a class="left carousel-control" href="#SaufleyCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#SaufleyCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>          
+      <button class="carousel-control-prev" type="button" data-bs-target="#SaufleyCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#SaufleyCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
     
     <div class="jumbotron-fluid" style="padding-left:15px">
@@ -99,13 +95,25 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-sm-9 col-sm-offset-1">
+        <div class="col-sm-3 col-sm-offset-1">
           <h2>Research</h2>
           <ul>
             <li><a href="https://www.history.navy.mil/research/histories/ship-histories/danfs/s/saufley.html" target="_blank">Naval History and Heritage Command</a></li>
             <li><a href="https://en.wikipedia.org/wiki/USS_Saufley_(DD-465)" target="_blank">Wikipedia</a></li>
             <li><a href="http://www.navsource.org/archives/05/465.htm" target="_blank">Navsource Archives</a></li>
             <li><a href="https://www.facebook.com/groups/usssaufley/" target="_blank">Facebook Group</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-3">
+          <h2>Video</h2>
+          <ul>
+            <li><a href="https://youtu.be/8RHcz1KS7F8" target="_blank">USS Saufley Living Conditions 1952</a></li>
+            <li><a href="http://www.aparchive.com/metadata/youtube/57940c0c1e48d3799c8023086eb8a0b6" target="_blank">Living Conditions Aboard USS Saufley 1945</a></li>
+            <li><a href="https://youtu.be/ekI5LJFD6Ug" target="_blank">Living Conditions Aboard USS Saufley 1952</a></li>
+            <li><a href="https://youtu.be/NSc8EjhvUU0" target="_blank">Men Sleep and Bathe Aboard USS Saufley</a></li>
+            <li><a href="https://youtu.be/x1sXRa5FYww" target="_blank">Sailors Take Meal Aboard USS Saufley</a></li>
+            <li><a href="https://youtu.be/fJUkqNz-MqE" target="_blank">Sailors Play Cards Aboard USS Saufley</a></li>
+            <li><a href="https://youtu.be/nUESPDkKEgA" target="_blank">MkI Fire Control Computer</a></li>
           </ul>
         </div>
       </div>
