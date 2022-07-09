@@ -28,9 +28,9 @@
         <body>
             <!-- <div id="includeHeader"></div><script>$("#includeHeader").load("navbar1.html");</script> -->
         
-            <!--<div class="container-fluid" style="padding:0">
-            <img class="img-responsive" src="images/ReadingEagle19760329.PNG" alt="ReadingEagle" style="width:100%"/> 
-            </div>-->
+            <div class="container-fluid" style="padding:0">
+                <img class="img-responsive" src="images/dd445_inboard_profile.jpg" alt="Fletcher Class Drawing" style="width:100%"/> 
+            </div>
             
             <div class="jumbotron-fluid" style="padding-left:15px">
                 <h1>USS Saufley DD-465</h1>
@@ -38,25 +38,17 @@
             </div>
             
             <div class="container-fluid">
-                <!--<h4>Notes</h4>
+                <h4>Transcription Notes</h4>
                 <ul>
-                <li>Links to the <a href="https://news.google.com/newspapers" target="_blank" rel="noopener noreferrer">Google Newspaper Archive</a> sometimes take you to the wrong article. Please search the page near the highlighted article to find the correct one.  Not every article on a Google newspaper page can be linked.</li>
-                <li>The articles on this web page are for my personal genealogical research.  Please follow all applicable copyright laws in your use of these articles.
-                    <ul>
-                    <li><a href="https://www.legalgenealogist.com/2012/09/12/copyright-and-the-obit/" target="_blank" rel="noopener noreferrer">Copyright and the obit</a></li>
-                    <li><a href="https://www.legalgenealogist.com/2012/09/13/copyright-and-the-post-1963-obit/" target="_blank" rel="noopener noreferrer">Copyright and the Post 1963 obit</a></li>
-                    <li><a href="http://blog.frontrunnerpro.com/obituary-pirates-what-you-should-know-about-your-obituaries-and-online-revenues/" target="_blank" rel="noopener noreferrer">Obituary Pirates</a></li>
-                    <li><a href="https://www.archives.com/experts/macentee-thomas/copyright-and-genealogy.html" target="_blank" rel="noopener noreferrer">Copyright and Genealogy</a></li>
-                    <li><a href="https://www.nolo.com/legal-encyclopedia/fair-use-rule-copyright-material-30100.html" target="_blank" rel="noopener noreferrer">Fair Use</a></li>
-                    </ul>
-                </li>
+                    <li>The transcription is not intended to be an exact copy of the original reports.  Punctuation, spelling, and handwritten corrections have all been changed in some cases.</li>
+                    <li>Some spelling has been corrected and some formatting has been made consistent to enable readability.</li>
+                    <li>No new words or punctuation were added.</li>
                 </ul>
-                <hr>-->
                 <h4>Search</h4>
                 <p>In order to search this page...</p>
                 <ul>
-                <li>On a desktop browser:  Use <code>[CTRL]-F</code> to open a text search on the page.</li>
-                <li>Android Chrome browser:  Press the three vertical dots in the upper right, use <code>Find on page</code></li>
+                    <li>On a desktop browser:  Use <code>[CTRL]-F</code> to open a text search on the page.</li>
+                    <li>Android Chrome browser:  Press the three vertical dots in the upper right, use <code>Find on page</code></li>
                 </ul>
             </div>
             <hr/>
@@ -66,29 +58,22 @@
                     <xsl:sort select="date"/>
                     <xsl:variable name="dateurl"><xsl:value-of select="url"/></xsl:variable>
                     <xsl:variable name="dateurlshort"><xsl:value-of select="substring($dateurl, 1, string-length($dateurl) - 8)"/></xsl:variable>
-                    <h3><a href="{$dateurl}"><xsl:value-of select="date"/></a></h3>
-                    <ul>
-                        <xsl:for-each select="images/image">
-                            <xsl:variable name="imagefilename"><xsl:value-of select="file"/></xsl:variable>
-                            <!--<li><xsl:value-of select="concat($dateurlshort, $imagefilename)"/></li>-->
-                            <xsl:variable name="fullfilename"><xsl:value-of select="concat($dateurlshort, $imagefilename)"/></xsl:variable>
-                            <xsl:if test="items">
-                                <xsl:for-each select="items/item">
-                                    <li><a href="{$fullfilename}" target="_blank" rel="noopener noreferrer"><xsl:value-of select="date"/></a></li>
-                                    <div><xsl:value-of disable-output-escaping="yes" select="description"/></div>
-                                    <p></p>
-                                </xsl:for-each>
-                            </xsl:if>
-                        </xsl:for-each>
-                    </ul>
-                    <!-- <div class="newspaper">
-                        <xsl:value-of disable-output-escaping="yes" select="Transcription"/>
-                    </div>
-                    <xsl:if test="Translation">
-                        <div class="newspaper">
-                            <xsl:value-of disable-output-escaping="yes" select="Translation"/>
-                        </div>
-                    </xsl:if> -->
+                    <xsl:if test="type = 'War Diary'">
+                        <h3><xsl:value-of select="dateLabel"/></h3>
+                        <ul>
+                            <xsl:for-each select="images/image">
+                                <xsl:variable name="imagefilename"><xsl:value-of select="file"/></xsl:variable>
+                                <xsl:variable name="fullfilename"><xsl:value-of select="concat($dateurlshort, $imagefilename)"/></xsl:variable>
+                                <xsl:if test="items">
+                                    <xsl:for-each select="items/item">
+                                        <li><a href="{$fullfilename}" target="_blank" rel="noopener noreferrer"><xsl:value-of select="date"/></a></li>
+                                        <div><xsl:value-of disable-output-escaping="yes" select="description"/></div>
+                                        <p></p>
+                                    </xsl:for-each>
+                                </xsl:if>
+                            </xsl:for-each>
+                        </ul>
+                    </xsl:if>
                 </xsl:for-each>
             </div>
         </body>

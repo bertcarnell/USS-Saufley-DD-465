@@ -14,6 +14,7 @@
                 <xsd:element name="name" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                 <xsd:element name="type" minOccurs="1" maxOccurs="1" type="_sourcetype"/>
                 <xsd:element name="date" minOccurs="1" maxOccurs="1" type="xsd:int"/>
+                <xsd:element name="dateLabel" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                 <xsd:element name="url" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                 <xsd:element name="directory" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                 <xsd:element name="images" minOccurs="1" type="_images"/>

@@ -8,6 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 require(leaflet)
+require(webshot)
 require(XML)
 require(stringr)
 require(xml2)
@@ -16,6 +17,12 @@ require(dplyr)
 require(htmlwidgets)
 
 source("War Report Utilities.R")
+
+if (FALSE)
+{
+  # only done once
+  webshot::install_phantomjs()
+}
 ```
 
 ## Validate the XML
@@ -59,19 +66,36 @@ latlon <- lapply(source_list, function(z) {
 
 ## Test
 
+### Overall Heatmap
+
+```{r fig.width=12, fig.height=4}
+plot_data_full <- do.call("rbind", latlon)
+plot_data_full$datetime <- with(plot_data_full, paste0(date, ": ", time))
+
+leaflet(data = plot_data_full %>%
+          dplyr::filter(!is.na(lat) & !is.na(lon)),
+        options = leafletOptions(zoomControl = FALSE)) %>%
+  leaflet::addProviderTiles(leaflet::providers$CartoDB.Positron) %>%
+  leaflet::addCircleMarkers(lng = ~lon, lat = ~lat, radius = 2, fill = TRUE, stroke = FALSE) %>%
+  leaflet::fitBounds(lng1 = 80, lng2 = 180, lat1 = -35, lat2 = 38) %>%
+  htmlwidgets::saveWidget("location_heatmap.html", selfcontained = TRUE, 
+                          knitrOptions = list(fig.width=12, fig.height=4))
+
+webshot::webshot(url = "location_heatmap.html", file = "location_heatmap.png", 
+                 zoom = 5, vwidth = 1000, vheight = 150)
+```
+
 ### 1942
 
 ```{r}
-plot_data_full <- do.call("rbind", latlon)
-
 m1942 <- leaflet::leaflet(data = plot_data_full %>%
                    dplyr::filter(date >= as.Date("1942-01-01"), date <= as.Date("1942-12-31"))) %>% 
   leaflet::addProviderTiles('Esri.NatGeoWorldMap') %>%
   leaflet::addCircleMarkers(lng = ~lon, lat = ~lat,
-                      popup = ~Description, label = ~Name,
+                      popup = ~Description, label = ~datetime,
                       color = "darkblue", radius = 5) %>%
   leaflet::addPolylines(lng = ~lon, lat = ~lat,
-                        color = "gold")
+                        color = "gold", weight = 3, opacity = 0.5, fill = FALSE)
 htmlwidgets::saveWidget(m1942, "map1942.html", selfcontained = FALSE)
 ```
 
@@ -82,10 +106,10 @@ m1943 <- leaflet::leaflet(data = plot_data_full %>%
                    dplyr::filter(date >= as.Date("1943-01-01"), date <= as.Date("1943-12-31"))) %>% 
   leaflet::addProviderTiles('Esri.NatGeoWorldMap') %>%
   leaflet::addCircleMarkers(lng = ~lon, lat = ~lat,
-                      popup = ~Description, label = ~Name,
+                      popup = ~Description, label = ~datetime,
                       color = "darkblue", radius = 5) %>%
   leaflet::addPolylines(lng = ~lon, lat = ~lat,
-                        color = "gold")
+                        color = "gold", weight = 3, opacity = 0.5, fill = FALSE)
 htmlwidgets::saveWidget(m1943, "map1943.html", selfcontained = FALSE)
 ```
 
@@ -101,10 +125,10 @@ m1945 <- leaflet::leaflet(data = plot_data_full %>%
                    dplyr::filter(date >= as.Date("1945-01-01"), date <= as.Date("1945-12-31"))) %>% 
   leaflet::addProviderTiles('Esri.NatGeoWorldMap') %>%
   leaflet::addCircleMarkers(lng = ~lon, lat = ~lat,
-                      popup = ~Description, label = ~Name,
+                      popup = ~Description, label = ~datetime,
                       color = "darkblue", radius = 5) %>%
   leaflet::addPolylines(lng = ~lon, lat = ~lat,
-                        color = "gold")
+                        color = "gold", weight = 3, opacity = 0.5, fill = FALSE)
 htmlwidgets::saveWidget(m1945, "map1945.html", selfcontained = FALSE)
 ```
 
