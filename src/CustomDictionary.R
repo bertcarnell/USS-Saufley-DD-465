@@ -12,7 +12,8 @@ word_list <- c(
   "Tawi", "Zamboanga", "Basilan", "Sulu", "Lamitan", "Mateo", "Tilic", "Jolo", "Sanga",
   "Celebes", "Miri", "Lutong", "Halmahera", "Seeadler", "Manus", "Cuyo",
   "Lingayen", "Abuyog", "Agutaya", "Gavutu", "Kula", "Munda", "Rendova", "Vella", "Lavella",
-  "Doveli", "Malo", "Segond", "Bougainville",
+  "Doveli", "Malo", "Segond", "Bougainville", "Woolloomooloo", "Macquarie", "Barakoma",
+  "Nepean",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -35,12 +36,13 @@ word_list <- c(
   "PBY", "AMS", "TP", "ARD",
   # Ship terms
   # SPD - Smokeless Powder stabilized with Diphenolamine
+  # DG - degaussing
   "mailgram", "starshell", "starshells", "fuzed", "conn", "Afirm", "afirm",
   "zigzagging", "zig", "zagging", "minesweeping", "xray", "speedletter",
   "degaussing", "pre", "mersig",  "portside", "Countermarched", "yds",
   "george", "rds", "stbd", "despatch", "zag", "superheaters", "prelanding",
   "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD", "FD", "SG", "SC",
-  "torpedoman", "exploder", "oiler",
+  "torpedoman", "exploder", "oiler", "reberth", "DG",
   # command terms
   "Comdesron", "ComDesRon", "Desron", "SOPA", "ComTaskFor", "ComTaskForce", "ComTask", "DesDis",
   "CTF", "CDS", "COMSERONSOPAC", "ComSeronsoPac", "CTG", "Comsopac", "ComSoPac", "CTU", "USNR",
@@ -51,7 +53,7 @@ word_list <- c(
   "FECHTELER", "STRUBLE", "Struble", "BERKEY", "BARBEY", "Barbey", "KRISTENSEN",
   "ILSEMANN", "GRIGGS", "LAMIMAN", "Beaty", "MALPASS", "Homonhon", "Nyquist",
   "Peyton", "PEYTON", "Tolman", "SCHUTZ", "Ainsworth", "Briscoe", "KILAND",
-  "ROSENDAHL", "NEVILLE", "CONOLLY"
+  "ROSENDAHL", "NEVILLE", "CONOLLY", "WR"
 )
 
 # Radars
