@@ -5,7 +5,7 @@
 
   <head>
     <meta charset="utf-8">
-    <meta name="description" content="USS Saufley War Reports">
+    <meta name="description" content="USS Saufley WWII Patrol">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex">
     <meta name="copyright" content="2022 Robert Carnell">
@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"/>
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>    
 
     <style>
       /*.carousel-inner img {min-width:100%}*/
@@ -29,15 +31,15 @@
         border-radius: 0;
       }
     </style>
-    <title>USS Saufley (DD-465) War Reports</title>
+    <title>USS Saufley (DD-465) WWII Patrol</title>
   </head>
 
   <body>
 
     <!-- Header -->
-    <!--<div id="includeHeader"></div><script>$("#includeHeader").load("navbar1.html");</script>-->
+    <div id="includeHeader"></div><script>$("#includeHeader").load("navbar1.html");</script>
 
-    <div id="SaufleyCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div id="SaufleyCarousel" class="carousel slide" data-bs-ride="carousel" style="background-image:url('images/TreasuryIslandOct1943_banner.jpg'); background-repeat: no-repeat;  background-size: cover">
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="images/19-N-35509.jpeg" class="d-block" alt="USS Saufley DD-465">
@@ -79,24 +81,27 @@
     
     <div class="jumbotron-fluid" style="padding-left:15px">
       <h1>USS Saufley DD-465</h1>
-      <h3>War Reports</h3>
+      <h3>WWII Patrol</h3>
     </div>
     
     <hr>
 
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-9 col-sm-offset-1">
-          <h2>Transcriptions</h2>
+        <div class="col-sm-3 col-sm-offset-1">
+          <h2>Historical</h2>
           <ul>
-            <li><a href="USS_Saufley_WarReports.xml" target="_blank">War Reports</a></li>
-            <li><a href="saufley_patrol_track.html" target="_blank">Patrol Track</a></li>
+            <li><a href="USS_Saufley_WarReports.xml" target="_self">War Reports</a></li>
+            <li><a href="saufley_patrol_track.html" target="_self">Patrol Track</a></li>
+            <li><a href="saufley_awards.html" target="_self">Awards</a></li>
+            <li><a href="saufley_crew_photos.xml" target="_self">Crew Photos</a></li>
           </ul>
         </div>
-        <div class="col-sm-9 col-sm-offset-1">
-          <h2>References</h2>
+        <div class="col-sm-3 col-sm-offset-1">
+          <h2>Research</h2>
           <ul>
-            <li>Uncommon Crew, No Ordinary Ship, Extraordinary Times: The USS Saufley DD-465 Officers and Crew 1942-1946, Compiled by Christina Cochran Carvahal and Claudia Cristina Carvajal</li>
+            <li><a href="#" target="_self">References</a></li>
+            <li><a href="#" target="_self">Reunions</a></li>
           </ul>
         </div>
       </div>
@@ -112,6 +117,8 @@
             <li><a href="https://maritime.org/doc/" target="_blank">Navy Manuals and Documents Online</a></li>
             <li><a href="https://www.wreckwiki.com/wreck/USS-Saufley-%28DD-465%29" target="_blank">Final Resting Place</a></li>
             <li><a href="https://archive.org/details/TheOfficialChronologyOfTheUSNavyInWorldWarII/" target="_blank">Official Chronology of the US Navy in World War II</a></li>
+            <li><a href="https://web.archive.org/web/20110814082748/http://www.usssaufleydd465.com/" target="_blank">Archived - USS Saufley Website</a></li>
+            
           </ul>
         </div>
         <div class="col-sm-3">
@@ -131,7 +138,7 @@
 
 
     <!-- Footer -->
-    <!--<div id="includeFooter"></div><script>$("#includeFooter").load("footer.html");</script>-->
+    <div id="includeFooter"></div><script>$("#includeFooter").load("footer.html");</script>
 
   </body>
 </html>

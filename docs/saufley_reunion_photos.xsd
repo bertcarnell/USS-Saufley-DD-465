@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <!-- Copyright 2022 Robert Carnell -->
+    <xsd:element name="dataroot">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="photo" minOccurs="1" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="photo">
+        <xsd:complexType mixed="true">
+            <xsd:all>
+                <xsd:element name="url" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+                <xsd:element name="date" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+                <xsd:element name="location" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+                <xsd:element name="pictured" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+                <xsd:element name="source" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+            </xsd:all>
+            <xsd:attribute name="id" type="xsd:int"/>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

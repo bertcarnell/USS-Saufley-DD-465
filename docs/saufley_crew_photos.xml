@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="saufley_crew_photos.xsl"?>
+<dataroot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="saufley_crew_photos.xsd">
+<!-- Copyright 2022 Robert Carnell -->
+<photo id="1">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_165835_2.jpg</url>
+    <num>2</num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="2">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_170357_2_Forward_Firemen.jpg</url>
+    <num>2</num>
+    <title>Forward Firemen</title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="3">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_170649_2_Engineer.jpg</url>
+    <num>2 or 7</num>
+    <title>Engineering</title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="4">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_170842_4.jpg</url>
+    <num>4</num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="5">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_171027_5.jpg</url>
+    <num>5</num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="6">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_171212_6_Sound_and_Radarmen.jpg</url>
+    <num>6</num>
+    <title>Sound and Radarmen</title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="7">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_171421_8_Possible_Firecontrol_Div.jpg</url>
+    <num>8</num>
+    <title>Fire Control</title>
+    <text>(Back Row: L to R): John J Larned, Andrew W Gluck, Robert E Rettgers, Arthur E Larson, Jack E Veach, Claude B Pena, (Middle Row): Marshall E Treat, James A Knoles, Francis G Langhorne, Carl C Ruth, (Front Row): John W Smith, Clement J Kroll, Earl J Foss</text>
+    <source>Robert Rettgers Personal Photos and Uncommon Crew pg 257</source>
+</photo>
+<photo id="8">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_171645_Quartermaster_and_Signalmen_Chief_Harland.jpg</url>
+    <num>9</num>
+    <title>Quatermaster and Signalmen</title>
+    <text>(front left) CQM(PA) William T Harland Jr</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="9">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_174813_10.jpg</url>
+    <num>10</num>
+    <title></title>
+    <text>(L to R, Back) Lung, Curtian, Scott, (Front) Samuels, Coates</text>
+    <source>Robert Rettgers Personal Photos, Uncommon Crew pg 82</source>
+</photo>
+<photo id="10">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_175118_11_Doughty__Caldwell.jpg</url>
+    <num>11</num>
+    <title></title>
+    <text>(L to R) Cooper, Eugene R Doughty, Jimmy L Caldwell Jr., Parka</text>
+    <source>Robert Rettgers Personal Photos, Uncommon Crew pg 82</source>
+</photo>
+<photo id="11">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_175342_12_Tannebaum.jpg</url>
+    <num>12</num>
+    <title></title>
+    <text>(L to R) Joseph Tannebaum, Levenson</text>
+    <source>Robert Rettgers Personal Photos, Uncommon Crew pg 83</source>
+</photo>
+<photo id="12">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_175605_14.jpg</url>
+    <num>14</num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="13">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_175910_15_Right_Orville_Elliott.jpg</url>
+    <num>15</num>
+    <title></title>
+    <text>(L to R) Robertson, Orville R Elliott</text>
+    <source>Robert Rettgers Personal Photos, Uncommon Crew pg 83</source>
+</photo>
+<photo id="14">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_180718_16.jpg</url>
+    <num>16</num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="15">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-03_181214_17.jpg</url>
+    <num>17</num>
+    <title>Watertender, Boilermaker, Fireman Division and Others</title>
+    <text>(L to R, Back Row) Jesse H James Jr., Murlyn G Rowann, Leonard R Rohrer, Kenneth J Melia, Kennison L Hayes, Ike (?) Holbrook,
+        (Middle) Harold R Hutchinson, George R Dutcher, James A. Henry, Wynter W Rogers (sp), Raymond S Whittington, Aellie J Schimmel, **A Frankcheck**,
+        (Front) Ervin D Hillman, Robert M Cromie, James W Coffman, **Joe Oegisseppe**, William G Peake 
+    </text>
+    <source>Robert Rettgers Personal Photos, Uncommon Crew pg 288</source>
+</photo>
+<photo id="16">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_200458_25_Center_Mote.jpg</url>
+    <num>25</num>
+    <title></title>
+    <text>(L to R) Willis Norman, Athel N Mote, Elmer O Duffey Jr</text>
+    <source>Robert Rettgers Personal Photos, Tin Can Man pg 115</source>
+</photo>
+<photo id="17">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_200712_29_Right_Curtin.jpg</url>
+    <num>29</num>
+    <title></title>
+    <text>(L to R) Donald R Hyer, Bertrand B Curtin Jr</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="18">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_200938_31.jpg</url>
+    <num>31</num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="19">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_201150_32_Elmer_Duffey.jpg</url>
+    <num>32</num>
+    <title></title>
+    <text>Elmer O Duffey Jr</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="20">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_201406_33_Doyle_Cyr.jpg</url>
+    <num>33</num>
+    <title></title>
+    <text>(L to R) George J Doyle, Arthur Cyr</text>
+    <source>Robert Rettgers Personal Photos, Uncommon Crew pg 213</source>
+</photo>
+<photo id="32">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_201713_34_Norman.jpg</url>
+    <num>34</num>
+    <title></title>
+    <text>Willis M Norman</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="33">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_201958_34_Daly.jpg</url>
+    <num>34</num>
+    <title></title>
+    <text>(Pictured) William F Daly</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="34">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_202224_35_Elliot.jpg</url>
+    <num>35</num>
+    <title></title>
+    <text>?? Elliott</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="35">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_202449_37_Torpedo_Gang_BackRow_Cross_Macom.jpg</url>
+    <num>37</num>
+    <title>Torpedo Division</title>
+    <text>(Back Row L to R) Raymond Cross, Virgil M Macom</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="36">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_202803_38.jpg</url>
+    <num>38</num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="37">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_203003_39.jpg</url>
+    <num>39</num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="38">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_20320040_LtoR_Macala_DiVittorio_Downing.jpg</url>
+    <num>40</num>
+    <title></title>
+    <text>(L to R) Stephen F Macala, Hugo F DiVittorio, Richard S Downing</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="39">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_203925_42_Levinson.jpg</url>
+    <num>42</num>
+    <title></title>
+    <text>Allen Levinson</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="40">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_204208_43_Elmer_Duffey.jpg</url>
+    <num>43</num>
+    <title></title>
+    <text>Elmer O Duffey Jr</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="41">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_204430_47.jpg</url>
+    <num>47</num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="42">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_204634_48_BackLtoR_Levinson_Denuptiis_Jernigan_FLtoR_Curtin_UNK_Duffy.jpg</url>
+    <num>48</num>
+    <title></title>
+    <text>(L to R, Back Row) Allen Levinson,  Joseph D Denuptiis, Emory J Jernigan, (Front) Bernhard B Curtin Jr, Milton Samuels, Edward Duffy</text>
+    <source>Robert Rettgers Personal Photos, Tin Can Man pg 111</source>
+</photo>
+<photo id="43">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_205427_52.jpg</url>
+    <num>52</num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="44">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_205858_53_Fagan_Halloway_JR_Barry.jpg</url>
+    <num>53</num>
+    <title></title>
+    <text>James J Fagan, Gayle A Holloway, John R Bary</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="45">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Photo_2022-04-04_210321_56_Elliot.jpg</url>
+    <num>56</num>
+    <title></title>
+    <text>(pictured) ?? Elliott</text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+<photo id="46">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/other_photos/bert_brown+from+Saufley+Association+Website.jpg</url>
+    <title>CDR Bert F Brown</title>
+    <text></text>
+    <source>Saufley Association Website</source>
+</photo>
+<photo id="47">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/other_photos/cochran_frame+from+Saufley+Association+Website.jpg</url>
+    <title>CDR Dale E Cochran</title>
+    <text></text>
+    <source>Saufley Association Website</source>
+</photo>
+<photo id="48">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/other_photos/cpt_smart+from+Saufley+Association+Website.gif</url>
+    <title>LCDR Richard C Smart</title>
+    <text></text>
+    <source>Saufley Association Website</source>
+</photo>
+<photo id="49">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/other_photos/SILK+From+Saufley+Association+Website.jpg</url>
+    <title>CDR Francis W Silk</title>
+    <text></text>
+    <source>Saufley Association Website</source>
+</photo>
+<photo id="50">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/other_photos/WWII+Officers+From+Facebook.jpg</url>
+    <title>WWII Officers, 12 May 1943</title>
+    <text>(top L to R) Cochran, Brown, Phiefer, Banquert, Lucier, Hullman, Burklund, Coulling, Burquist, Taaffe, (Bottom) Souphton, Stockton, Jarding, Beebe, Rogers, Marshall, Miller, Wolff</text>
+    <source>Saufley Facebook Group, Uncommon Crew pg 182</source>
+</photo>
+<photo id="51">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/other_photos/WWII+Torpedo+Division+From+Facebook.jpg</url>
+    <title>Torpedo Division</title>
+    <text></text>
+    <source>Saufley Facebook Group</source>
+</photo>
+<photo id="52">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/other_photos/LtoR+Jessie+James+and+Ken+Melia+From+Facebook.jpg</url>
+    <title></title>
+    <text>(L to R) Jesse H James Jr and Kenneth J Melia</text>
+    <source>Saufley Facebook Group</source>
+</photo>
+<photo id="53">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/other_photos/Saufley+Birthday+Card+from+saufley+association+website.jpg</url>
+    <title>Saufley Birthday Card</title>
+    <text></text>
+    <source>Saufley Association Website</source>
+</photo>
+<photo id="54">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/other_photos/Thanksgiving+Menu+1943+from+saufley+association+website.jpg</url>
+    <title>Thanksgiving Menu 1943</title>
+    <text></text>
+    <source>Saufley Association Website</source>
+</photo>
+<photo id="55">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/other_photos/Christmas+menu+1943+from+Saufley+Association+website.jpg</url>
+    <title>Christmas Menu 1943</title>
+    <text></text>
+    <source>Saufley Association Website</source>
+</photo>
+<photo id="56">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/moviephotos/vlcsnap-2022-04-03-16h21m39s204.png</url>
+    <title></title>
+    <text></text>
+    <source>USS Saufley Reunions CD - Maggie Downie</source>
+</photo>
+<photo id="57">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/moviephotos/vlcsnap-2022-04-03-16h23m57s940.png</url>
+    <title></title>
+    <text></text>
+    <source>USS Saufley Reunions CD - Maggie Downie</source>
+</photo>
+<photo id="58">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/moviephotos/vlcsnap-2022-04-03-16h24m20s455.png</url>
+    <title></title>
+    <text></text>
+    <source>USS Saufley Reunions CD - Maggie Downie</source>
+</photo>
+<photo id="59">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/moviephotos/vlcsnap-2022-04-03-16h24m29s151.png</url>
+    <title></title>
+    <text>(top left) Dienes, wilson, Covert, Grant, Dupere, RM3 Duffy, Benoit</text>
+    <source>USS Saufley Reunions CD - Maggie Downie, Tin Can Man pg 103, photo by Willis Norman</source>
+</photo>
+<photo id="60">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/moviephotos/vlcsnap-2022-04-03-16h24m48s336.png</url>
+    <title></title>
+    <text>(top left) Warner, Dace, Delong, (bottom left) Zender, Unknown, Unknown</text>
+    <source>USS Saufley Reunions CD - Maggie Downie, Tin Can Man pg 103, photo by Willis Norman</source>
+</photo>
+<photo id="61">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/moviephotos/vlcsnap-2022-04-03-16h25m00s257.png</url>
+    <title></title>
+    <text></text>
+    <source>USS Saufley Reunions CD - Maggie Downie</source>
+</photo>
+
+<!--
+<photo id="">
+    <url></url>
+    <num></num>
+    <title></title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
+
+<source>USS Saufley Reunions CD - Maggie Downie</source>
+
+-->
+</dataroot>

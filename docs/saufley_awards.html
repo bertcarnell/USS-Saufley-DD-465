@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"/>
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>    
 
     <style>
       .navbar {
@@ -30,7 +32,7 @@
   <body>
 
     <!-- Header -->
-    <!--<div id="includeHeader"></div><script>$("#includeHeader").load("navbar1.html");</script>-->
+    <div id="includeHeader"></div><script>$("#includeHeader").load("navbar1.html");</script>
     
     <!--<div class="container-fluid" style="padding:0">
       <img class="img-responsive" src="images/location_heatmap.png" alt="Heatmap of War Patrol Locations" style="width:100%"/> 
@@ -44,164 +46,261 @@
     <hr>
 
     <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-9 col-sm-offset-1">
-              <h2>Unit-wide Service</h2>
-              <ul>
-                <li><a href="https://www.govinfo.gov/content/pkg/CFR-2008-title32-vol3/xml/CFR-2008-title32-vol3-sec578-50.xml">American Area Campaign Ribbon</a> (Medals issued in 1947)</li>
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="unit-wide-service-tab" data-bs-toggle="tab" data-bs-target="#unit-wide-service" type="button" role="tab" aria-controls="home" aria-selected="true">Unit Wide Service</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="unit-wartime-contributions-tab" data-bs-toggle="tab" data-bs-target="#unit-wartime-contributions" type="button" role="tab" aria-controls="profile" aria-selected="false">Unit Wartime Contributions</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="individual-awards-tab" data-bs-toggle="tab" data-bs-target="#individual-awards" type="button" role="tab" aria-controls="contact" aria-selected="false">Individual Awards</button>
+            </li>
+            <li>
+                <button class="nav-link" id="appendix-tab" data-bs-toggle="tab" data-bs-target="#appendix" type="button" role="tab" aria-controls="contact" aria-selected="false">Appendix</button>
+            </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="unit-wide-service" role="tabpanel" aria-labelledby="unit-wide-service-tab">
+                <h2>Unit-wide Service</h2>
                 <ul>
-                    <li>Title 32 - National Defense, Volume: 3, Section 578.50 - American Campaign Medal.</li>
-                    <li>Awarded for service within the American Theater between December 7, 1941 and March 2, 1946</li>
-                    <li>(2) Permanently assigned as a member of a crew of a vessel sailing ocean waters for a period of 30 consecutive days or 60 nonconsecutive days.</li>
-                    <li>(4) In active combat against the enemy and was awarded a combat decoration or furnished a certificate by the commanding general of a corps, higher unit, or independent force that the soldier actually participated in combat.</li>
-                    <li>(c) One bronze service star is authorized for wear on the American Campaign Medal to denote participation in the antisubmarine campaign. The individual must have been assigned or attached to, and present for duty with, a unit credited with the campaign. Information on the antisubmarine campaign.</li>
+                    <li><a href="https://www.govinfo.gov/content/pkg/CFR-2008-title32-vol3/xml/CFR-2008-title32-vol3-sec578-50.xml"><h4>American Area Campaign Ribbon  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/American_Campaign_Medal_ribbon.svg/200px-American_Campaign_Medal_ribbon.svg.png" height="20"/></h4></a></li>
+                    <ul>
+                        <li>Title 32 - National Defense, Volume: 3, Section 578.50 - American Campaign Medal.</li>
+                        <li>Awarded for service within the American Theater between December 7, 1941 and March 2, 1946</li>
+                        <li>(2) Permanently assigned as a member of a crew of a vessel sailing ocean waters for a period of 30 consecutive days or 60 nonconsecutive days.</li>
+                        <li>(4) In active combat against the enemy and was awarded a combat decoration or furnished a certificate by the commanding general of a corps, higher unit, or independent force that the soldier actually participated in combat.</li>
+                        <li>(c) One bronze service star is authorized for wear on the American Campaign Medal to denote participation in the antisubmarine campaign. The individual must have been assigned or attached to, and present for duty with, a unit credited with the campaign. Information on the antisubmarine campaign.</li>
+                    </ul>
+                    <li><a href="https://www.govinfo.gov/content/pkg/CFR-2008-title32-vol3/xml/CFR-2008-title32-vol3-sec578-49.xml"><h4>Asiatic South Pacific Area Campaign Ribbon  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Asiatic-Pacific_Campaign_Medal_ribbon.svg/1600px-Asiatic-Pacific_Campaign_Medal_ribbon.svg.png" height=20/></h4></a></li>
+                    <ul>
+                        <li><h5>15 Battle Stars</h5></li>
+                        <li>Title 32 - National Defense, Volume: 3, Section 578.49 - Asiatic-Pacific Campaign Medal</li>
+                        <li>Awarded for service with the Asiatic-Pacific Theater between December 7, 1941 and March 2, 1946</li>
+                        <li>(3) In active combat against the enemy and was awarded a combat decoration or furnished a certificate by the commanding general of a corps or higher unit or independent force showing that he actually participated in combat.</li>
+                        <li>(c) One bronze service star is authorized for each campaign under the conditions outlined in § 578.48 European-African-Middle Eastern Campaign Medal. (Service stars are described in § 578.61).</li>
+                        <li><h6>Authorized Operations and Engagements <a href="http://www.ibiblio.org/hyperwar/USN/ships/dafs/BattleStars.html#partIII">[1]</a> <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-mc-awards-manual-rev1953/pt4-campaign-service-medals.html">[2]</h6></a></li>
+                        <ol type="1">
+                            <li><b>P9</b> - Capture and Defense of Guadalcanal - 10 Aug 42 - 8 Feb 43</li>
+                            <ul><li>8 Dec 42 - 3 Jan 43</li></ul>
+                            <li><b>P19</b> - Consolidation of Solomon Islands - 8 Feb 43 - 15 Mar 45</li>
+                            <ul>
+                                <li>P19-1 - Consolidation of Southern Solomons - 8 Feb - 20 Jun 43</li>
+                                <ul><li>19 Feb 43 - 15 Mar 43</li></ul>
+                                <li>P19-2 - Consolidation of Northern Solomons - 27 Oct 43 - 15 Mar 45</li>
+                                <ul><li>11 Mar 44 - 16 Mar 44</li></ul>
+                            </ul>
+                            <li><b>P21</b> - New Georgia Group operation - 20 Jun - 16 Oct 43</li>
+                            <ul>
+                                <li>P21-1 New Georgia-Rendova-Vangunu occupation - 20 Jun - 31 Aug 43</li>
+                                <ul>
+                                    <li>29 Jun 43 - 30 Jun 43</li>
+                                    <li>8 Jul 43</li>
+                                    <li>11 Jul 43 - 12 Jul 43</li>
+                                </ul>
+                                <li>P21-5 Vella Lavella occupation - 15 Aug - 16 Oct 43</li>
+                                <ul>
+                                    <li>15 Aug 43</li>
+                                    <li>17 Aug 43 - 18 Aug 43</li>
+                                    <li>26 Aug 43</li>
+                                    <li>31 Aug 43</li>
+                                </ul>
+                            </ul>
+                            <li><b>P22</b> - Bismarck Archipelago operation - 25 Jun 43 - 1 May 44</li>
+                            <ul>
+                                <li>P22-8 - Green Islands landing - 15-19 Feb 44</li>
+                                <ul><li>15 Feb 44 - 19 Feb 44</li></ul>
+                                <li>P22-11 - Antishipping sweeps and bombardments of Rabaul and New Ireland - 24 Feb - 1 Mar 44</li>
+                                <ul><li>24 Feb 44 - 1 Mar 44</li></ul>
+                            </ul>
+                            <li><b>P001</b> - Antisubmarine Warfare - 15 Sep 43</li>
+                            <li><b>P24</b> - Treasury-Bougainville operation - 27 Oct - 15 Dec 43</li>
+                            <ul>
+                                <li>P24-2 - Treasury Island landing - 27 Oct - 6 Nov 43</li>
+                                <ul>
+                                    <li>27 Oct 43</li>
+                                    <li>1 Nov 43</li>
+                                </ul>
+                                <li>P24-4 - Occupation and defense of Cape Torokina - 1 Nov - 15 Dec 43</li>
+                                <ul>
+                                    <li>6 Nov 43</li>
+                                    <li>11 Nov 43</li>
+                                    <li>17 Nov 43</li>
+                                </ul>
+                            </ul>
+                            <li><b>P29</b> - Marianas operation - 10 Jun - 27 Aug 44</li>
+                            <ul>
+                                <li>P29-2 - Capture and occupation of Saipan - 11 Jun - 10 Aug 44</li>
+                                <ul><li>16 Jun 44 - 10 Aug 44</li></ul>
+                                <li>P29-7 - Capture and occupation of Guam - 12 Jul - 15 Aug 44</li>
+                                <ul><li>20 Jul 44 - 21 Jul 44</li></ul>
+                            </ul>
+                            <li><b>P32</b> - Luzon operation - 12 Dec 44 - 1 Apr 45</li>
+                            <ul>
+                                <li>P32-2 Lingayen Gulf landing - 4-18 Jan 45</li>
+                                <ul><li>9 Jan 45</li></ul>
+                            </ul>
+                            <li><b>P003</b> - Antisubmarine Warfare - 6 Apr 44</li>
+                            <li><b>P37</b> - Borneo operations - 27 Apr - 20 Jul 45</li>
+                            <ul>
+                                <li>P37-3 - Balikpapan operation 15 Jun - 20 Jul 45</li>
+                                <ul><li>26 Jun 45 - 7 Jul 45</li></ul>
+                            </ul>
+                            <li><b>P38</b> - Tinian capture and occupation - 24 Jul - 1 Aug 44</li>
+                            <ul><li>24 Jul 44 - 10 Aug 44</li></ul>
+                            <li><b>P002</b> - Antisubmarine Warfare - 27 Nov 44</li>
+                            <li><b>P39</b> - Consolidation of the Southern Philippines - 28 Feb - 20 Jul 45</li>
+                            <ul>
+                                <li>P39-3 - Mindanao Island landings (including Zamboanga, Malabang-Parang-Cotabato, Davao Gulf, Digos-Santa Cruz-Taloma Bay-Luayon-Cape San Augustin, Macajalar Bay, Sarangani Bay-Balut Island) 8 Mar - 20 Jul 45</li>
+                                <ul><li>10 Mar 45 - 18 Mar 45</li></ul>
+                                <li>P39-4 - Zulu Archipelago landings (including Sanga Sanga, Tawi Tawi, Jolo) 2-20 Apr 45</li>
+                                <ul>
+                                    <li>2 Apr 45 - 4 Apr 45</li>
+                                    <li>9 Apr 45 - 11 Apr 45</li>
+                                </ul>
+                            </ul>
+                            <li><b>P41</b> - Manila Bay-Bicol operations - 29 Jan - 16 Apr 45</li>
+                            <ul>
+                                <li>P41-1 - Zambales-Subic Bay 29-31 Jan 45</li>
+                                <ul><li>31 Jan 45</li></ul>
+                                <li>P41-2 - Nasugbu 31 Jan - 10 Feb 45</li>
+                                <ul><li>31 Jan 45 - 5 Feb 45</li></ul>
+                                <li>P41-3 Mariveles-Corregidor 14-28 Feb 45</li>
+                                <ul><li>14 Feb 45 - 28 Feb 45</li></ul>
+                            </ul>
+                            <li><b>P207</b> - Minesweeping Operations Pacific - 23 Jun 45 - 2 Mar 46</li>
+                            <ul><li>9 Sep 45 - 26 Sep 45</li></ul>
+                        </ol>
+                    </ul>
+                    <li><a href="https://www.govinfo.gov/content/pkg/CFR-2008-title32-vol3/xml/CFR-2008-title32-vol3-sec578-124.xml"><h4>Philippine Liberation Ribbon  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Phliber_rib.svg/212px-Phliber_rib.svg.png" height=20/></h4></a> </li>
+                    <ul>
+                        <li><h5>1 Battle Star</h5></li>
+                        <li>Title 32 - National Defense, Volume: 3, Section 578.124 - Philippine Liberation Ribbon</li>
+                        <li>awarded for service in the liberation of the Philippines from October 17, 1944 to September 3, 1945</li>
+                        <li>(1) Participated in the initial landing operations on Leyte or adjoining islands from October 17, 1944 to October 20, 1944. An individual will be considered as having participated in such operations if he landed on Leyte or adjoining islands, was on a ship in Philippine waters, or was a crewmember of an airplane, which flew over Philippine territory during the period.</li>
+                        <li>(2) Participated in any engagement against the enemy during the campaign on Leyte and adjoining islands. An individual will be considered as having participated in combat if he meets any of the conditions set forth in Philippine Defense Ribbon § 578.123(a)(2) through (4).</li>
+                        <li>(c) Bronze service stars. An individual who meets more than one of the conditions set forth in paragraph (a) of this section is authorized to wear a bronze service star on the ribbon for each additional condition under which he or she qualifies other than that under which he or she is eligible for the initial award of the ribbon</li>
+                    </ul>
                 </ul>
-                <li><a href="https://www.govinfo.gov/content/pkg/CFR-2008-title32-vol3/xml/CFR-2008-title32-vol3-sec578-49.xml">Asiatic South Pacific Area Campaign Ribbon</a></li>
-                <ul>
-                    <li>Title 32 - National Defense, Volume: 3, Section 578.49 - Asiatic-Pacific Campaign Medal</li>
-                    <li>Awarded for service with the Asiatic-Pacific Theater between December 7, 1941 and March 2, 1946</li>
-                    <li>(3) In active combat against the enemy and was awarded a combat decoration or furnished a certificate by the commanding general of a corps or higher unit or independent force showing that he actually participated in combat.</li>
-                    <li>(c) One bronze service star is authorized for each campaign under the conditions outlined in § 578.48 European-African-Middle Eastern Campaign Medal. (Service stars are described in § 578.61).</li>
-                    <li>Authorized Operations and Engagements <a href="http://www.ibiblio.org/hyperwar/USN/ships/dafs/BattleStars.html#partIII">[1]</a> <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-mc-awards-manual-rev1953/pt4-campaign-service-medals.html">[2]</a></li>
-                    <ol type="1">
-                        <li>P9 - Capture and Defense of Guadalcanal 10 Aug 42 - 8 Feb 43</li>
-                        <ul><li>8 Dec 42 - 3 Jan 43</li></ul>
-                        <li>P19 - Consolidation of Solomon Islands 8 Feb 43 - 15 Mar 45</li>
-                        <ul>
-                            <li>P19-1 - Consolidation of Southern Solomons 8 Feb - 20 Jun 43</li>
-                            <ul><li>19 Feb 43 - 15 Mar 43</li></ul>
-                            <li>P19-2 - Consolidation of Northern Solomons 27 Oct 43 - 15 Mar 45</li>
-                            <ul><li>11 Mar 44 - 16 Mar 44</li></ul>
-                        </ul>
-                        <li>P21 - New Georgia Group operation 20 Jun - 16 Oct 43</li>
-                        <ul>
-                            <li>P21-1 New Georgia-Rendova-Vangunu occupation 20 Jun - 31 Aug 43</li>
-                            <ul>
-                                <li>29 Jun 43 - 30 Jun 43</li>
-                                <li>8 Jul 43</li>
-                                <li>11 Jul 43 - 12 Jul 43</li>
-                            </ul>
-                            <li>P21-5 Vella Lavella occupation 15 Aug - 16 Oct 43</li>
-                            <ul>
-                                <li>15 Aug 43</li>
-                                <li>17 Aug 43 - 18 Aug 43</li>
-                                <li>26 Aug 43</li>
-                                <li>31 Aug 43</li>
-                            </ul>
-                        </ul>
-                        <li>P22 - Bismarck Archipelago operation 25 Jun 43 - 1 May 44</li>
-                        <ul>
-                            <li>P22-8 - Green Islands landing 15-19 Feb 44</li>
-                            <ul><li>15 Feb 44 - 19 Feb 44</li></ul>
-                            <li>P22-11 - Antishipping sweeps and bombardments of Rabaul and New Ireland 24 Feb - 1 Mar 44</li>
-                            <ul><li>24 Feb 44 - 1 Mar 44</li></ul>
-                        </ul>
-                        <li>P001 - Antisubmarine Warfare 15 Sep 43</li>
-                        <li>P24 - Treasury-Bougainville operation 27 Oct - 15 Dec 43</li>
-                        <ul>
-                            <li>P24-2 - Treasury Island landing 27 Oct - 6 Nov 43</li>
-                            <ul>
-                                <li>27 Oct 43</li>
-                                <li>1 Nov 43</li>
-                            </ul>
-                            <li>P24-4 - Occupation and defense of Cape Torokina 1 Nov - 15 Dec 43</li>
-                            <ul>
-                                <li>6 Nov 43</li>
-                                <li>11 Nov 43</li>
-                                <li>17 Nov 43</li>
-                            </ul>
-                        </ul>
-                        <li>P29 - Marianas operation 10 Jun - 27 Aug 44</li>
-                        <ul>
-                            <li>P29-2 - Capture and occupation of Saipan 11 Jun - 10 Aug 44</li>
-                            <ul><li>16 Jun 44 - 10 Aug 44</li></ul>
-                            <li>P29-7 - Capture and occupation of Guam 12 Jul - 15 Aug 44</li>
-                            <ul><li>20 Jul 44 - 21 Jul 44</li></ul>
-                        </ul>
-                        <li>P32 - Luzon operation 12 Dec 44 - 1 Apr 45</li>
-                        <ul>
-                            <li>P32-2 Lingayen Gulf landing 4-18 Jan 45</li>
-                            <ul><li>9 Jan 45</li></ul>
-                        </ul>
-                        <li>P003 - Antisubmarine Warfare 6 Apr 44</li>
-                        <li>P37 - Borneo operations 27 Apr - 20 Jul 45</li>
-                        <ul>
-                            <li>P37-3 - Balikpapan operation 15 Jun - 20 Jul 45</li>
-                            <ul><li>26 Jun 45 - 7 Jul 45</li></ul>
-                        </ul>
-                        <li>P38 - Tinian capture and occupation 24 Jul - 1 Aug 44</li>
-                        <ul><li>24 Jul 44 - 10 Aug 44</li></ul>
-                        <li>P002 - Antisubmarine Warfare 27 Nov 44</li>
-                        <li>P39 - Consolidation of the Southern Philippines 28 Feb - 20 Jul 45</li>
-                        <ul>
-                            <li>P39-3 - Mindanao Island landings (including Zamboanga, Malabang-Parang-Cotabato, Davao Gulf, Digos-Santa Cruz-Taloma Bay-Luayon-Cape San Augustin, Macajalar Bay, Sarangani Bay-Balut Island) 8 Mar - 20 Jul 45</li>
-                            <ul><li>10 Mar 45 - 18 Mar 45</li></ul>
-                            <li>P39-4 - Zulu Archipelago landings (including Sanga Sanga, Tawi Tawi, Jolo) 2-20 Apr 45</li>
-                            <ul>
-                                <li>2 Apr 45 - 4 Apr 45</li>
-                                <li>9 Apr 45 - 11 Apr 45</li>
-                            </ul>
-                        </ul>
-                        <li>P41 - Manila Bay-Bicol operations 29 Jan - 16 Apr 45</li>
-                        <ul>
-                            <li>P41-1 - Zambales-Subic Bay 29-31 Jan 45</li>
-                            <ul><li>31 Jan 45</li></ul>
-                            <li>P41-2 - Nasugbu 31 Jan - 10 Feb 45</li>
-                            <ul><li>31 Jan 45 - 5 Feb 45</li></ul>
-                            <li>P41-3 Mariveles-Corregidor 14-28 Feb 45</li>
-                            <ul><li>14 Feb 45 - 28 Feb 45</li></ul>
-                        </ul>
-                        <li>P207 - Minesweeping Operations Pacific 23 Jun 45 - 2 Mar 46</li>
-                        <ul><li>9 Sep 45 - 26 Sep 45</li></ul>
-                    </ol>
-                </ul>
-                <li><a href="https://www.govinfo.gov/content/pkg/CFR-2008-title32-vol3/xml/CFR-2008-title32-vol3-sec578-124.xml">Philippine Liberation Ribbon</a></li>
-                <ul>
-                    <li>Title 32 - National Defense, Volume: 3, Section 578.124 - Philippine Liberation Ribbon</li>
-                    <li>awarded for service in the liberation of the Philippines from October 17, 1944 to September 3, 1945</li>
-                    <li>(1) Participated in the initial landing operations on Leyte or adjoining islands from October 17, 1944 to October 20, 1944. An individual will be considered as having participated in such operations if he landed on Leyte or adjoining islands, was on a ship in Philippine waters, or was a crewmember of an airplane, which flew over Philippine territory during the period.</li>
-                    <li>(2) Participated in any engagement against the enemy during the campaign on Leyte and adjoining islands. An individual will be considered as having participated in combat if he meets any of the conditions set forth in Philippine Defense Ribbon § 578.123(a)(2) through (4).</li>
-                    <li>(c) Bronze service stars. An individual who meets more than one of the conditions set forth in paragraph (a) of this section is authorized to wear a bronze service star on the ribbon for each additional condition under which he or she qualifies other than that under which he or she is eligible for the initial award of the ribbon</li>
-                </ul>
-                <li>The Ship's History counted the possible stars awarded to the men as follows:</li>
-                <ul>
-                    <li>American Theater Ribbon - 0 Stars</li>
-                    <li>Asiatic-Pacific Theater Ribbon - 12 Stars</li>
-                    <ol type="1">
-                        <li>Capture and Defense of Guadalcanal</li>
-                        <li>Consolidation of Solomon Islands</li>
-                        <li>New Georgia Operation</li>
-                        <li>Treasury-Bougainville Operation</li>
-                        <li>Bismark Operation</li>
-                        <li>Marianas Operation</li>
-                        <li>Leyte Operation</li>
-                        <li>Luzon Operation</li>
-                        <li>Borneo Operation</li>
-                        <li>15 SEP 43 Submarine</li>
-                        <li>7 APR 44 Submarine</li>
-                        <li>27 NOV 1944 Submarine</li>
-                    </ol>
-                    <li>Phillipine Liberation Ribbon - 1 Star</li>
-                </ul>
-              </ul>
             </div>
-            <div class="col-sm-9 col-sm-offset-1">
-              <h2>Unit Wartime Contributions</h2>
-              <ul>
-                <li></li>
-              </ul>
+            <div class="tab-pane fade" id="unit-wartime-contributions" role="tabpanel" aria-labelledby="unit-wartime-contributions-tab">
+                <h2>Unit Wartime Contributions</h2>
+                <ul>
+                    <li><h5>Anti-submarine Warfare</h5>Ship's History</li>
+                    <ul>
+                        <li>15 Sep 1943 - Class "B" Assessment between Purvis Bay, Solomon Islands and Espiritu Santos, New Hebrides Islands.  Submarine was contacted by sound contact, surfaced, and was destroyed by gunfire.</li>
+                        <li>7 Apr 1944 - Class "B" Assessment near Emirau Island.  Submarine was contacted by sound contact, and was destroyed by depth charges.</li>
+                        <li>27 Nov 1944 - Class "A" Assessment at Ormoc Bay, Philippine Islands.  Destroyed on surface by gunfire.</li>
+                    </ul>
+                    <li><h5>Anti-aircraft</h5>Ship's History</li>
+                    <ul>
+                        <li>(1) 12 Jul 1943 - Munda Point</li>
+                        <li>(1) 18 Jul 1943 - Munda Point</li>
+                        <li>(4) 17 Aug 1943 - Vella LaVella</li>
+                        <li>(1) 1 Oct 1943 - Kolombangara, New Georgia Islands</li>
+                        <li>(3) 27 Oct 1944 - Leyte Gulf, Philippine Islands</li>
+                        <li>(3) 29 Nov 1944 - Leyte Gulf, Philippine Islands</li>
+                        <li>(1 assist) 8 Jan 1945 - Lingayen Gulf, Luzon, Philippine Islands</li>
+                        <li>(1) 9 Jan 1945 - Lingayen Gulf, Luzon, Philippine Islands</li>
+                    </ul>
+                    <li><h5>Shore Bombardment</h5></li>
+                    <li><h5>Anti-Shipping</h5>28 May 1945 War Records</li>
+                    <ul>
+                        <li>30 Sep - 5 Oct 1943 - Saufley credited with sinking 20 Japanese Barges off Kolombangara, New Georgia Island, Solomon Islands</li>
+                    </ul>
+                    <li><h5>Search and Rescue</h5>28 May 1945 War Records</li>
+                    <ul>
+                        <li>16 Aug 1943 - Saufley rescued 93 including 10 officers from a sunken LST off Barakoma, Vella LaVella</li>
+                        <li>11 Nov 1943 - Rescued downed pilot Frank Stalfa southwest of Bougainville Island</li>
+                    </ul>
+                </ul>
             </div>
-            <div class="col-sm-9 col-sm-offset-1">
+            <div class="tab-pane fade" id="individual-awards" role="tabpanel" aria-labelledby="individual-awards-tab">
                 <h2>Individual</h2>
                 <ul>
-                  <li></li>
+                    <li><h4>Silver Star <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Silver_Star_Medal_ribbon.svg/2880px-Silver_Star_Medal_ribbon.svg.png" height=20/></h4></li>
+                    <ul>
+                        <li><h5>Commander Bert F Brown</h5></li>
+                        <ul>
+                            <li>Commander South Pacific: Serial 002124 (October 12, 1943)</li>
+                            <li>CITATION:  The President of the United States of America takes pleasure in presenting the Silver Star to Commander Bert Franklin Brown (NSN: 0-60319), United States Navy, for conspicuous gallantry and intrepidity in action as Commanding Officer of the U.S.S. SAUFLEY (DD-465), engaged in the initial occupation and subsequent reinforcement of Vella Lavella Island, Solomon Islands, from 15 to 18 August 1943. Although subjected to repeated and determined attacks by enemy Japanese dive bombers and torpedo planes, Commander Brown steadfastly maintained constant effective protection for vessels of the convoy carrying troops, supplies and equipment to the American garrison on this strategic island. Employing brilliant tactics he was able to complete each hazardous assignment, bringing the escorted ships through safely without damage. His forceful and inspiring leadership contributed immeasurably to the success of our seizure and occupation of this vital war base and was in keeping with the highest traditions of the United States Naval Service.</li>
+                        </ul>
+                    </ul>
+                    <li><h4>Legion of Merit <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Legion_of_Merit_ribbon.svg/2880px-Legion_of_Merit_ribbon.svg.png" height=20/></h4></li>
+                    <ul>
+                        <li><h5>Captain Bert F Brown</h5></li>
+                        <ul>
+                            <li>Commander Destroyers Pacific: Serial 04113 (November 18, 1945)</li>
+                            <li>CITATION:  The President of the United States of America takes pleasure in presenting the Legion of Merit with Combat "V" to Captain Bert Franklin Brown (NSN: 0-60319), United States Navy, for exceptionally meritorious conduct in the performance of outstanding services to the Government of the United States against an armed enemy as Commanding Officer of the U.S.S. SAUFLEY (DD-465) during attack by depth charges and gunfire on a Japanese submarine off San Cristobal Island on 15 September 1943. By his ability and skill as Commanding Officer he conned the ship in successful attack runs resulting in sinking an enemy submarine. His conduct throughout this attack was in keeping with the highest traditions of the United States Naval Service. (Captain Brown is authorized to wear the Combat "V".)</li>
+                        </ul>
+                        <li><h5>Lieutenant Commander Dale E Cochran</h5></li>
+                        <ul>
+                            <li>Bureau of Naval Personnel Information Bulletin No. 346 (January 1946)</li>
+                            <li>CITATION:  Lieutenant Commander Dale E. Cochran, United States Navy, was awarded the Legion of Merit for exceptionally meritorious conduct in the performance of outstanding services to the Government of the United States as Commanding Officer of a United States Navy warship during assault operations against Japanese-held Solomon Islands, Bismarck Archipelago and the Marianas, from October 1943 to August 1944.</li>
+                        </ul>
+                    </ul>
+                    <li><h4>Bronze Star Recommendations</h4></li>
+                    <li><h4>Purple Heart</h4></li>
+                    <li><h4>Commendation (later Navy Commendation Medals)</h4></li>
                 </ul>
-              </div>
-          </div>
+            </div>
+            <div class="tab-pane fade" id="appendix" role="tabpanel" aria-labelledby="appendix-tab">
+                <h2>Appendix</h2>
+                <ul>
+                    <li><h3>Battle Stars - Alternate Lists</h3></li>
+                    <li><h5>Ship's History</h5>The Ship's History counted the possible stars awarded to the men as follows:</li>
+                    <ul>
+                        <li>American Theater Ribbon - No Stars</li>
+                        <li>Asiatic-Pacific Theater Ribbon - 12 Stars</li>
+                        <ol type="1">
+                            <li>Capture and Defense of Guadalcanal</li>
+                            <li>Consolidation of Solomon Islands</li>
+                            <li>New Georgia Operation</li>
+                            <li>Treasury-Bougainville Operation</li>
+                            <li>Bismark Operation</li>
+                            <li>Marianas Operation</li>
+                            <li>Leyte Operation</li>
+                            <li>Luzon Operation</li>
+                            <li>Borneo Operation</li>
+                        </ol>
+                        <ol type="1">
+                            <li>15 SEP 43 Submarine</li>
+                            <li>7 APR 44 Submarine</li>
+                            <li>27 NOV 1944 Submarine</li>
+                        </ol>
+                        <li>Phillipine Liberation Ribbon - 1 Star</li>
+                    </ul>
+                    <li><h5>28 May 1945 War Records Report</h5></li>
+                    <ul>
+                        <li>American Area Campaign Ribbon</li>
+                        <li>Asiatic South Pacific Area Campaign Ribbon</li>
+                        <ol type="1">
+                            <li>Capture and Defense of Guadalcanal</li>
+                            <li>Consolidation of the Southern Solomons</li>
+                            <li>New Georgia Operation</li>
+                            <ul>
+                                <li>Kolombangara Action</li>
+                                <li>Vella LaVella Occupation</li>
+                                <li>Action off Vella LaVella</li>
+                            </ul>
+                            <li>Treasury-Bougainville Operation</li>
+                            <li>A "B" attack on a submarine - 15 Sep 1943</li>
+                            <li>Bismark Archipelago Operation</li>
+                            <li>Marianas Operation</li>
+                            <li>An "A" attack on a submarine - 27 Nov 1944</li>
+                        </ol>
+                        <li>Phillipine Liberation Ribbon</li>
+                        <ul>
+                            <li>One bronze star for actively engaging the Enemy on a number of occasions while operating with the SEVENTH Fleet during the Philippine Campaign.</li>
+                        </ul>
+                    </ul>
+                </ul>
+            </div>
+        </div>
     </div>
 
     <!-- Footer -->
-    <!--<div id="includeFooter"></div><script>$("#includeFooter").load("footer.html");</script>-->
+    <div id="includeFooter"></div><script>$("#includeFooter").load("footer.html");</script>
 
   </body>
 </html>
