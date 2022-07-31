@@ -13,7 +13,7 @@ word_list <- c(
   "Celebes", "Miri", "Lutong", "Halmahera", "Seeadler", "Manus", "Cuyo",
   "Lingayen", "Abuyog", "Agutaya", "Gavutu", "Kula", "Munda", "Rendova", "Vella", "Lavella",
   "Doveli", "Malo", "Segond", "Bougainville", "Woolloomooloo", "Macquarie", "Barakoma",
-  "Nepean",
+  "Nepean", "Gizo", "Kukum",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
