@@ -1,4 +1,4 @@
-word_list <- c(
+create_word_list <- function() return(c(
   # places
   "Nasugbu", "Mangarin", "Caminawit", "Mariveles", "Subic", "Corregidor", "Caballo", "Monja",
   "Malinta", "Whangpoo", "Fatu", "Tinghai", "Bunji", "Chusan", "Lubang", "Shima", "Nansei",
@@ -54,7 +54,7 @@ word_list <- c(
   "ILSEMANN", "GRIGGS", "LAMIMAN", "Beaty", "MALPASS", "Homonhon", "Nyquist",
   "Peyton", "PEYTON", "Tolman", "SCHUTZ", "Ainsworth", "Briscoe", "KILAND",
   "ROSENDAHL", "NEVILLE", "CONOLLY", "WR"
-)
+))
 
 # Radars
 # FD - fire control

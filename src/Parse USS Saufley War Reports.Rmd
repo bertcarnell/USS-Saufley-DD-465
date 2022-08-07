@@ -238,56 +238,24 @@ for (i in 1:nrow(X))
 ## Validate the XML
 
 ```{r validate-xml, echo=FALSE}
-xml_filepath <- "../docs/USS_Saufley_WarReports.xml"
-temp <- XML::xmlSchemaValidate(XML::xmlSchemaParse("../docs/USS_Saufley_WarReports.xsd"),
-                       XML::xmlParse(xml_filepath))
-sapply(temp[[2]], function(x) {print(x$msg); print(x$line)})
+source("validate_saufley_xml.R")
+validate_saufley_xml("../docs")
 ```
 
 ## Spell Check
 
 ```{r spell-xml, echo=FALSE}
-X <- xml2::read_xml(xml_filepath)
-X_descriptions <- unlist(lapply(xml2::xml_find_all(X, "//description"), xml2::xml_text))
-
-ship_names <- read.csv("ShipNames.csv")
-for (i in seq_along(X_descriptions))
-{
-  for (j in seq_along(ship_names$Ship))
-  {
-    ship_to_find <- paste0(ship_names$Ship[j], "[[:punct:][:space:]]")
-    X_descriptions[i] <- gsub(ship_to_find, "", X_descriptions[i])
-    if (grepl("^USS", ship_to_find))
-    {
-      ship_to_find <- gsub("^USS", "U.S.S.", ship_to_find)
-      X_descriptions[i] <- gsub(ship_to_find, "", X_descriptions[i])
-    } else if (grepl("^SS", ship_to_find))
-    {
-      ship_to_find <- gsub("^SS", "S.S.", ship_to_find)
-      X_descriptions[i] <- gsub(ship_to_find, "", X_descriptions[i])
-    }
-  }
-}
- 
+source("check_saufley_spelling.R")
 source("CustomDictionary.R")
-temp_spelling <- hunspell::hunspell(X_descriptions, format = "xml", ignore = word_list)
-ind <- which(sapply(temp_spelling, length) > 0)
-if (length(ind) > 0)
-{
-  print(temp_spelling[ind])
-  cat("\n")
-  print(X_descriptions[ind])
-} else
-{
-  print("No Spelling Issues Found")
-}
-
-
+word_list <- create_word_list()
+ship_names <- read.csv("ShipNames.csv")
+check_saufley_spelling("../docs", word_list, ship_names)
 ```
 
 ### Read and Extract
 
 ```{r read-and-extract, echo=FALSE}
+xml_filepath <- "../docs/USS_Saufley_WarReports.xml"
 X <- xml2::read_xml(xml_filepath)
 source_list <- lapply(xml2::xml_find_all(X, ".//source"), function(z) Source$new(z))
 
