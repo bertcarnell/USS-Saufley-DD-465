@@ -23,6 +23,15 @@ create_saufley_maps <- function(path_to_xml, kml_outpath, leaflet_outpath)
   deploy_leaflet_plots(path_to_xml, leaflet_outpath)
 }
 
+# testing
+if (FALSE)
+{
+  source("src/War Report Utilities.R")
+  source("src/create_saufley_maps.R")
+  latlon <- create_latlon_list("docs")
+  create_saufley_google_earth(latlon, file.path("src", "kml"))
+}
+
 create_latlon_list <- function(path_to_xml)
 {
   xml_filepath <- file.path(path_to_xml, "USS_Saufley_WarReports.xml")
@@ -58,6 +67,9 @@ create_latlon_list <- function(path_to_xml)
 
 create_saufley_google_earth <- function(latlon, outpath)
 {
+  # latlon <- create_latlon_list("docs")
+  # outpath <- file.path("src", "kml")
+  
   include_series <- which(sapply(latlon, function(z) ifelse(is.null(z$date), FALSE, TRUE)))
   
   # need to put the include_series in date order
@@ -72,7 +84,7 @@ create_saufley_google_earth <- function(latlon, outpath)
   # loop over years
   for (k in seq_along(available_years))
   {
-    #k <- 1945
+    # k <- 2
     ind <- which(lubridate::year(first_dates) == available_years[k])
     
     if (length(ind) == 0)
@@ -84,10 +96,12 @@ create_saufley_google_earth <- function(latlon, outpath)
     
     ord <- order(dates_in_year)
     
-    plotKML::kml_open(year_file, folder.name = available_years[k])
+    #plotKML::kml_open(year_file, folder.name = available_years[k])
+    kmlout <- new_kml_open(year_file, folder.name = available_years[k])
     
     for (i in include_series[ind][ord])
     {
+      # i <- 21
       plot_data <- latlon[[i]]
       plot_coords <- plot_data %>% dplyr::select(lon, lat) # must go lon then lat (x then y)
       
@@ -106,58 +120,136 @@ create_saufley_google_earth <- function(latlon, outpath)
                    stringr::str_pad(lubridate::month(plot_data$date[1]), 
                                     width = 2, pad = "0"))
       
-      eval(parse(text = paste0('  
-    plotKML::kml_layer(sf::st_cast(sf_points, "POINT"),
-      subfolder.name = paste(ym, "Locations"), 
-      points_names = plot_data$Name, 
-      html.table = plot_data$Description,
-      TimeSpan.begin = format(point_time, "%Y-%m-%dT%H:%M:%SZ"),
-      TimeSpan.end = format(point_time + 60, "%Y-%m-%dT%H:%M:%SZ"),
-      shape = "http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png",
-      colour = "', year_color[k], '")')))
+      kmlout <- new_kml_layer_sfc_POINT(
+        sf::st_cast(sf_points, "POINT"),
+        kml.out = kmlout,
+        subfolder.name = paste(ym, "Locations"), 
+        points_names = plot_data$Name, 
+        html.table = plot_data$Description,
+        TimeSpan.begin = format(point_time, "%Y-%m-%dT%H:%M:%SZ"),
+        TimeSpan.end = format(point_time + 60, "%Y-%m-%dT%H:%M:%SZ"),
+        my_colors = plotKML::col2kml(year_color[k]),
+        shape = "http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png")
       
+      # first lines
       sf_lines <- sf::st_linestring(as.matrix(plot_coords[1:2,]), dim = "XY")
+      sf_names <- plot_data$Name[1]
+      sf_times <- point_time[1]
+      # add lines for connections between points which are nearby in time (< 2 days),
+      #   but not in the same place
       for (j in 2:(nrow(plot_data) - 1))
       {
-        sf_lines <- c(sf_lines, sf::st_linestring(as.matrix(plot_coords[j:(j+1),]), dim = "XY"))
+        # j <- 2
+        if (!all(plot_coords[j,] == plot_coords[j+1,]) &
+            (as.numeric(point_time[j+1]) - as.numeric(point_time[j])) < 60*60*24*2)
+        {
+          sf_lines <- c(sf_lines, sf::st_linestring(as.matrix(plot_coords[j:(j+1),]), dim = "XY"))
+          sf_names <- c(sf_names, plot_data$Name[j])
+          sf_times <- c(sf_times, point_time[j])
+        }
       }
       sf_lines <- sf::st_sfc(sf_lines)
       
       sf_lines <- sf::st_set_crs(sf_lines, 4326)
       
-      templen <- nrow(plot_data) - 1
-      
-      myenv <- new.env()
-      assign("temp_labels", plot_data$Name[1:templen], envir = myenv)
-      assign("temp_sf_lines", sf::st_cast(sf_lines, "LINESTRING"), envir = myenv)
-
-      eval(parse(text = paste0('  
-    my_kml_layer_sfc_LINESTRING(temp_sf_lines,
-      subfolder.name = paste(ym, "Routes"),
-      TimeSpan.begin = format(point_time[1:templen], "%Y-%m-%dT%H:%M:%SZ"),
-      TimeSpan.end = format(point_time[1:templen] + 60, "%Y-%m-%dT%H:%M:%SZ"),
-      labels = temp_labels,
-      colour = "', year_color[k], '")')), envir = myenv)
+      kmlout <- new_kml_layer_sfc_LINESTRING(
+        sf::st_cast(sf_lines, "LINESTRING"),
+        kml.out = kmlout,                      
+        subfolder.name = paste(ym, "Routes"),
+        TimeSpan.begin = format(sf_times, "%Y-%m-%dT%H:%M:%SZ"),
+        TimeSpan.end = format(sf_times + 60, "%Y-%m-%dT%H:%M:%SZ"),
+        my_colors = plotKML::col2kml(year_color[k]),
+        my_labels = sf_names)
     }
-    
-    plotKML::kml_close(year_file)
+
+    new_kml_close(year_file, kml.out = kmlout)
   }
   
   utils::zip(file.path(outpath, "Track_of_USS_Saufley.kmz"), 
-             files = file.path(outpath, c("Track_of_USS_Saufley.kml", paste0(list.files("kml", pattern = "[.]kml")))))
+             files = file.path(outpath, c("Track_of_USS_Saufley.kml", 
+                                          paste0(list.files(outpath, pattern = "[2-5][.]kml")))))
 }
 
 create_leaflet_year_plot <- function(plot_data_full, output_file_base, str_date_start, str_date_end)
 {
+  # plot_data_full <- do.call("rbind", latlon)
+  # plot_data_full$datetime <- with(plot_data_full, paste0(date, ": ", time))
+  # str_date_start <- "1943-01-01"
+  # str_date_end <- "1943-12-31"
+  
+  #### this code plots all points and lines
+  # myear <- leaflet::leaflet(data = plot_data_full %>%
+  #                             dplyr::filter(date >= as.Date(str_date_start), 
+  #                                           date <= as.Date(str_date_end))) %>% 
+  #   leaflet::addProviderTiles(leaflet::providers$Esri.NatGeoWorldMap) %>%
+  #   leaflet::addCircleMarkers(lng = ~lon, lat = ~lat,
+  #                             popup = ~Description, label = ~datetime,
+  #                             color = "darkblue", radius = 5) %>%
+  #   leaflet::addPolylines(lng = ~lon, lat = ~lat,
+  #                         color = "gold", weight = 3, opacity = 0.5, fill = FALSE)
+  
+  #### this code subsets to non-overlapping points and only plots lines for well connected points
+  point_subset <- plot_data_full %>%
+    dplyr::filter(date >= as.Date(str_date_start), 
+                  date <= as.Date(str_date_end))
+  ind <- NULL
+  for (i in 2:nrow(point_subset))
+  {
+    if (is.na(point_subset$lat[i]) ||
+        is.na(point_subset$lon[i]) ||
+        (!is.na(point_subset$lat[i-1]) &&
+         !is.na(point_subset$lon[i-1]) &&
+         point_subset$lat[i] == point_subset$lat[i-1] &&
+         point_subset$lon[i] == point_subset$lon[i-1]))
+    {
+      ind <- c(ind, i)
+    }
+  }
+  if (length(ind) > 0)
+    point_subset <- point_subset[-ind,]
+  
   myear <- leaflet::leaflet(data = plot_data_full %>%
                               dplyr::filter(date >= as.Date(str_date_start), 
                                             date <= as.Date(str_date_end))) %>% 
     leaflet::addProviderTiles(leaflet::providers$Esri.NatGeoWorldMap) %>%
-    leaflet::addCircleMarkers(lng = ~lon, lat = ~lat,
+    leaflet::addCircleMarkers(data = point_subset, lng = ~lon, lat = ~lat,
                               popup = ~Description, label = ~datetime,
-                              color = "darkblue", radius = 5) %>%
-    leaflet::addPolylines(lng = ~lon, lat = ~lat,
-                          color = "gold", weight = 3, opacity = 0.5, fill = FALSE)
+                              color = "darkblue", radius = 5)
+  
+  line_subset <- plot_data_full %>%
+    dplyr::filter(date >= as.Date(str_date_start), 
+                  date <= as.Date(str_date_end)) %>%
+    dplyr::arrange(date)
+
+  posit <- 2
+  while (posit < nrow(line_subset))
+  {
+    ind <- NULL
+    for (i in posit:nrow(line_subset))
+    {
+      if (!is.na(line_subset$lat[i]) &&
+          !is.na(line_subset$lat[i-1]) &&
+          !is.na(line_subset$lon[i]) &&
+          !is.na(line_subset$lon[i-1]) &&
+          line_subset$lat[i] != line_subset$lat[i-1] &&
+          line_subset$lon[i] != line_subset$lon[i-1] && 
+          line_subset$date[i] - line_subset$date[i-1] <= 2)
+        ind <- c(ind, i)
+      else
+        break
+    }
+    if (length(ind) >= 2)
+    {
+      myear <- myear %>%
+        leaflet::addPolylines(data = line_subset[ind,], lng = ~lon, lat = ~lat,
+                              color = "gold", weight = 3, 
+                              opacity = 0.5, 
+                              fill = FALSE,
+                              stroke = c(rep(TRUE, length(ind) - 1), FALSE))
+    }
+    posit <- i+1
+  }
+  
   htmlwidgets::saveWidget(myear, paste0(output_file_base, ".html"), selfcontained = FALSE)
 }
 

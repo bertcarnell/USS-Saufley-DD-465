@@ -54,7 +54,7 @@
 				<end>1942-12-31T23:59:59Z</end>
 			</TimeSpan>
 			<Link>
-			  <href>kml/test1942.kml </href>
+			  <href>test1942.kml </href>
 			</Link>
 		</NetworkLink>
 		<NetworkLink>
@@ -64,7 +64,7 @@
 				<end>1943-12-31T23:59:59Z</end>
 			</TimeSpan>
 			<Link>
-			  <href>kml/test1943.kml </href>
+			  <href>test1943.kml </href>
 			</Link>
 		</NetworkLink>
 		<NetworkLink>
@@ -74,7 +74,7 @@
 				<end>1945-12-31T23:59:59Z</end>
 			</TimeSpan>
 			<Link>
-			  <href>kml/test1945.kml </href>
+			  <href>test1945.kml </href>
 			</Link>
 		</NetworkLink>
 	</Document>
