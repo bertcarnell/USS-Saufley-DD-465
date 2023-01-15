@@ -12120,16 +12120,28 @@ with Task Dog of Harbor Defense Plan.  Boiler #1 in use for auxiliary purposes.&
         <item>
           <date>1943-09-26</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;&lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;&lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;&lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;&lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;&lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in berth #11, Segond Channel, Espiritu Santo, in 32 fathoms of water
+with 75 fathoms of chain to starboard anchor.  Ready duty in accordance with
+Commander Service Squadron South Pacific's dispatch 242155 of September; Task
+Dog of Harbor Defense Plan. Boilers #1 and #4 in use. USS PHILIP moored alongside
+to starboard.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before.  1200 Relieved of ready duty by USS STERETT per Commander
+Service Squadron South Pacific's 252224 dispatch.  1215 Boiler #3 lit off and cut
+in on main line.  Boiler #4 Secured.  1515 Commenced preparations for getting
+underway.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before.  1600 Underway in accordance with ComTrans Group South
+Pacific's secret dispatch 250321 of September to escort USS MONONGAHELA to
+Guadalcanal.  Steaming on various courses standing out of Segond Channel.
+1654 Commenced patrolling off Bogacio Island.  1720 USS MONONGAHELA standing
+out of channel;  formed Task Unit THIRTY TWO POINT FIVE POINT THREE.  Took
+screening station ahead of USS MONONGAHELA on base course 045*T), (PGC), 035(PSC).
+Speed 18 knots.  1740 Commenced zigzagging in accordance with plan #11. 
+1900 Changed course to 000(T), (PGC), 350(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2000 Changed course to 320(T), (PGC), 312(PSC).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="1200" lat="15-31-40 S" lon="167-10-38 E" type="estimated" comment="Segond Channel, Espiritu Santo"/>
         </item>
       </items>
     </image>
@@ -12139,16 +12151,19 @@ with Task Dog of Harbor Defense Plan.  Boiler #1 in use for auxiliary purposes.&
         <item>
           <date>1943-09-27</date>
           <description>
-        &lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;En route Espiritu Santo to Guadalcanal escorting USS MONONGAHELA.  Base course
+320(T), (PGC), 310(PSC).  Speed 15 knots.  Zigzagging in accordance with plan #11.
+Boilers #1 and #3 in use.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0445 Set condition I.  0535 Set Condition II.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0800 Position:  Longitude 165-36-30 E., Latitude 12-52-00 S.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1200 Position:  Longitude 164-55-00 e., Latitude 12-04-00 S.
+1216 Changed course to 316(T), (PGC), 307(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1800 Change course to 198(T), (PGC), 291(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2000 Position:  10-49 S., 164-25 E.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="12-52-00 S" lon="165-36-30 E"/>
+          <posit time="1200" lat="12-04-00 S" lon="164-55-00 E"/>
+          <posit time="2000" lat="10-49-00 S" lon="163-25-00 E"/>
         </item>
       </items>
     </image>
@@ -12158,16 +12173,36 @@ with Task Dog of Harbor Defense Plan.  Boiler #1 in use for auxiliary purposes.&
         <item>
           <date>1943-09-28</date>
           <description>
-        &lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with USS MONONGAHELA on base course 298(T), 298(PGC), 288(PSC).
+Speed 17.5 knots.  Boilers #1 and #3 in use.  0200 Passed Lark Shoal abeam to starboard, 
+distance 5 miles.  0215 Changed base course to 270(), 270(PGC), 260 1/2(PSC).
+Reduced speed to 16 1/2 knots.  Ceased zigzagging.  0233 Changed base course to 282 (T),
+282 (PGC), 272(PSC).  Commenced zigzagging in accordance with plan #8.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0502 Went to general quarters.  0555 Secured from general
+quarters.  0730 Ceased zigzagging, changed course to 290(T), (PGC), 281(PSC).
+Commenced zigzagging in accordance with Plan #8.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0800 Position:  Latitude 09-27-30 S., Longitude 160-40-45 E.
+0815 Changed course to 285(T), (PGC), 275(PSC).  0903 Changed course to 270(T),
+(PGC), 261(PSC).  Ceased zigzagging.  0904 changed speed to 14 knots.  0957 Changed
+speed to 17 knots.  1007 Changed course to 356(T), (PGC), 347(PSC).  Commenced
+zigzagging in accordance with plan #8.  1042 Ceased zigzagging.  Steaming various
+courses screening USS MONONGAHELA's entry into Tulagi Harbor.  1108 Standing into
+Tulagi Harbor.  1129 Anchored in berth 16 to 27 fathoms of water with 45 fathoms
+of chain to starboard anchor.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before.  1338 Condition Red at Tulagi.  Went to general quarters.
+1345 Condition green at Tulagi.  Secured from general quarters, set condition II.
+1420 Underway and maneuvering to go alongside oil barge.  1440 Moored starboard
+side to YO144 in berth #7.  Draft before fueling:  forward 11'8", Aft 13'6". 
+1448 commenced fueling.  1528 Completed fueling having received 48,756 gallons
+of fuel oil.  Draft forward 12', aft 14'2".  1530 Commenced preparations for
+getting underway.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Moored as before.  1608 Underway to anchorage on various courses conforming to
+Tulagi Harbor.  Captain and navigator on the bridge, executive officer at the
+conn.  1615 Anchored in berth #5, Tulagi Harbor, in 27 fathoms of water with 45
+fathoms of chain to starboard anchor.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="09-27-30 S" lon="160-40-45 E"/>
         </item>
       </items>
     </image>
@@ -12177,16 +12212,29 @@ with Task Dog of Harbor Defense Plan.  Boiler #1 in use for auxiliary purposes.&
         <item>
           <date>1943-09-29</date>
           <description>
-        &lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in berth #5, Tulagi Harbor, in 27 fathoms of water with 45 fathoms of
+chain to the starboard anchor.  Boilers. #1 and #3 in use.  Main engines on 15
+minutes notice.  Condition II set.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.  0515 Commenced preparations for getting underway.  0549
+underway and maneuvering on various courses and at various speeds out of the
+harbor, escorting USS MONONGAHELA to Purvis Bay, Florida Island.  0647 Passed
+through outer anti-submarine net, Purvis Bay and proceeded to anchorage.
+0716 Anchored in berth #17, Purvis Bay, with 45 fathoms of chain to the starboard
+anchor.  Main engines on fifteen minutes notice.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before.  1330 Made all preparations for getting underway.  1345
+Underway, standing out of Port Purvis, escorting USS MONONGAHELA to Koli Point.
+Captain at conn, executive office and navigator on bridge.  Steering various
+courses conforming to channel.  Standard speed 15 knots (146 RPM).  1504 Steadied
+on course 180(T), (PGC), 171(PSC), speed 18 knots (178 RPM).  1520 Commenced zig-zagging
+in accordance with plan #8. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1618 Commenced patrolling off Koli Point.  1754 Set course
+003(T), (PGC), 356(PSC).  Speed 25 knots.  En route to Purvis bay.  1835 Steaming
+various courses standing into Purvis Bay.  1853 Anchored in berth #1 in 28
+fathoms of water with 45 fathoms of chain to starboard anchor.  Main engines on 15 minutes notice.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -12196,16 +12244,36 @@ with Task Dog of Harbor Defense Plan.  Boiler #1 in use for auxiliary purposes.&
         <item>
           <date>1943-09-30</date>
           <description>
-        &lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;&lt;/div&gt;
-        &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in berth #1, Port Purvis in 28 fathoms of water with 45 fathoms of chain
+to the starboard anchor.  Boilers #1 and #3 in use.  Main engines on 15 minutes
+notice.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.  0713 USS GRAYSON moored alongside to port.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Anchored as before.  0930 Commenced making preparations for getting underway.
+0951 Fires lighted under boiler #2 and #4.  1012 Boilers #2 and #4 cut in on
+main steam line.  1030 USS GRAYSON underway.  1031 Underway in accordance with
+Commander Task Force THIRTY ONE's 291409.  Steaming various courses and speeds
+standing out of Purvis Bay.  1101 Steaming in company with USS GRAYSON on base
+course 292(T), (PGC), 282(PSC).  Speed 27 knots.  1150 Commenced zigzagging in
+accordance with plan #10.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1219 Changed speed to 28 knots.  1222 Changed course to
+290(T), (PGC), 280(PSC).  1407 Changed course to 280(T), (PGC), 270(PSC).
+1423 Joined up with USS RADFORD (Officer in Tactical Command).  Changed speed to
+20 knots.  Changed course to 305(T), (PGC), 298(PSC).  1450 Commenced zigzagging
+using plan #9.  1531 Ceased zigzagging.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1601 Resumed zigzagging.  1649 Changed speed to 26 knots.
+1827 Ceased zigzagging resumed base course.  1830 Went to general quarters.
+1859 Changed speed to 27 knots.  1958 Changed speed to 15 knots.  Patrolling
+between Kolombangara and Choiseul Islands.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2005 Changed speed to 20 knots.  2058 Surface radar contacts,
+distance 3 miles.  2105 Commenced firing on targets, identified as barges, about
+10 miles north of Kolombangara.  Maneuvering on various courses, firing intermittently
+on barges.  2231 Ceased firing having expended 925 rounds of 5"/38
+Cal. AA Common, and 119 rounds of 5"/38 Caliber illuminating ammunition.  Two
+barges believed sunk.  2250 resumed patrol using various courses and speeds as
+ordered by Officer in Tactical Command.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="1200" lat="08-55-00 S" lon="159-33-00 E"/>
+          <posit time="2000" lat="07-40-00 S" lon="157-03-00 E"/>
         </item>
       </items>
     </image>

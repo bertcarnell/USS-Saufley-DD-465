@@ -13,7 +13,8 @@ create_word_list <- function() return(c(
   "Celebes", "Miri", "Lutong", "Halmahera", "Seeadler", "Manus", "Cuyo",
   "Lingayen", "Abuyog", "Agutaya", "Gavutu", "Kula", "Munda", "Rendova", "Vella", "Lavella",
   "Doveli", "Malo", "Segond", "Bougainville", "Woolloomooloo", "Macquarie", "Barakoma",
-  "Nepean", "Gizo", "Kukum", "Sakao", "Visu", "Choiseul", "Kakasa", "Aoba",
+  "Nepean", "Gizo", "Kukum", "Sakao", "Visu", "Choiseul", "Kakasa", "Aoba", "Kolombangara",
+  "Bogacio",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -46,7 +47,7 @@ create_word_list <- function() return(c(
   # command terms
   "Comdesron", "ComDesRon", "Desron", "SOPA", "ComTaskFor", "ComTaskForce", "ComTask", "DesDis",
   "CTF", "CDS", "COMSERONSOPAC", "ComSeronsoPac", "CTG", "Comsopac", "ComSoPac", "CTU", "USNR",
-  "CIC",
+  "CIC", "ComTrans",
   # compass
   "PSC", "PSG", "PGC", "PGS", "pgc", "psc",
   # People
