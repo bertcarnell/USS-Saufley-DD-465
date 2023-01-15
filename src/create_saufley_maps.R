@@ -281,7 +281,7 @@ create_leaflet_plots <- function(latlon, outpath)
   ### Yearly Plots
   create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1942"), "1942-01-01", "1942-12-31")
   create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1943"), "1943-01-01", "1943-12-31")
-  #create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1944"), "1944-01-01", "1944-12-31")
+  create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1944"), "1944-01-01", "1944-12-31")
   create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1945"), "1945-01-01", "1945-12-31")
 }
 
@@ -299,12 +299,13 @@ deploy_leaflet_plots <- function(path_to_html, outpath)
   # read the year htmls
   html_1942 <- readLines(file.path(outpath, "map1942.html"))
   html_1943 <- readLines(file.path(outpath, "map1943.html"))
-  #html_1944 <- readLines(file.path(outpath, "map1944.html"))
+  html_1944 <- readLines(file.path(outpath, "map1944.html"))
   html_1945 <- readLines(file.path(outpath, "map1945.html"))
   
   # find the tags to be replaced in the template
   cut_ind <- c(grep("<!-- Replace with 1942 -->", target_html),
                grep("<!-- Replace with 1943 -->", target_html),
+               grep("<!-- Replace with 1944 -->", target_html),
                grep("<!-- Replace with 1945 -->", target_html))
   befores <- cut_ind - 1
   afters <- cut_ind + 1
@@ -312,9 +313,11 @@ deploy_leaflet_plots <- function(path_to_html, outpath)
   # find the section to replace it with
   starts <- c(grep("htmlwidget_container", html_1942),
               grep("htmlwidget_container", html_1943),
+              grep("htmlwidget_container", html_1944),
               grep("htmlwidget_container", html_1945))
   ends <- c(grep("application/json", html_1942),
             grep("application/json", html_1943),
+            grep("application/json", html_1944),
             grep("application/json", html_1945))
   
   # remake the new file
@@ -325,17 +328,20 @@ deploy_leaflet_plots <- function(path_to_html, outpath)
     target_html[afters[1]:befores[2]],
     html_1943[starts[2]:ends[2]],
     target_html[afters[2]:befores[3]],
-    html_1945[starts[3]:ends[3]],
-    target_html[afters[3]:length(target_html)]
+    html_1944[starts[3]:ends[3]],
+    target_html[afters[3]:befores[3]],
+    html_1945[starts[4]:ends[4]],
+    target_html[afters[4]:length(target_html)]
   )
 
   # save the file
   writeLines(output_html, output_html_filename)
   
   # Remove generated files
-  file.remove(file.path(outpath, c("map1942.html", "map1943.html", "map1945.html")))
+  file.remove(file.path(outpath, c("map1942.html", "map1943.html", "map1944.html", "map1945.html")))
   unlink(file.path(outpath, "map1942_files"), recursive = TRUE)
   unlink(file.path(outpath, "map1943_files"), recursive = TRUE)
+  unlink(file.path(outpath, "map1944_files"), recursive = TRUE)
   unlink(file.path(outpath, "map1945_files"), recursive = TRUE)
   
   file.copy(file.path(outpath, "location_heatmap.png"), file.path(path_to_html, "images"), overwrite = TRUE)

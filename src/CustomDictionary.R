@@ -14,7 +14,7 @@ create_word_list <- function() return(c(
   "Lingayen", "Abuyog", "Agutaya", "Gavutu", "Kula", "Munda", "Rendova", "Vella", "Lavella",
   "Doveli", "Malo", "Segond", "Bougainville", "Woolloomooloo", "Macquarie", "Barakoma",
   "Nepean", "Gizo", "Kukum", "Sakao", "Visu", "Choiseul", "Kakasa", "Aoba", "Kolombangara",
-  "Bogacio",
+  "Bogacio", "Malaupaina", "Tetipari",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -34,7 +34,7 @@ create_word_list <- function() return(c(
   # LT - Large Tug (Army)
   # ARD - Auxilliary Repair Dock
   "LSM", "FS", "MTB", "LST", "APD", "YMS", "DMS", "LCI", "LCV", "LCT", "LCS",
-  "PBY", "AMS", "TP", "ARD",
+  "PBY", "AMS", "TP", "ARD", "YF",
   # Ship terms
   # SPD - Smokeless Powder stabilized with Diphenolamine
   # DG - degaussing
@@ -43,7 +43,7 @@ create_word_list <- function() return(c(
   "degaussing", "pre", "mersig",  "portside", "Countermarched", "yds",
   "george", "rds", "stbd", "despatch", "zag", "superheaters", "prelanding",
   "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD", "FD", "SG", "SC",
-  "torpedoman", "exploder", "oiler", "reberth", "DG",
+  "torpedoman", "exploder", "oiler", "reberth", "DG", "flashless",
   # command terms
   "Comdesron", "ComDesRon", "Desron", "SOPA", "ComTaskFor", "ComTaskForce", "ComTask", "DesDis",
   "CTF", "CDS", "COMSERONSOPAC", "ComSeronsoPac", "CTG", "Comsopac", "ComSoPac", "CTU", "USNR",
