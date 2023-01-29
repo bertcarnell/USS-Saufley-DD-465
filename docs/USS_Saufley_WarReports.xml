@@ -4304,7 +4304,7 @@ to port side of USS HOVEY. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Moored as before. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Moored as before. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimate" comment="Noumea Harbor"/>
+          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimated" comment="Noumea Harbor"/>
         </item>
       </items>
     </image>
@@ -4323,7 +4323,7 @@ moored to port side.  Boiler #1 in use for auxiliary purposes. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Moored as before. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Moored as before. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimate" comment="Noumea Harbor"/>
+          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimated" comment="Noumea Harbor"/>
         </item>
       </items>
     </image>
@@ -4342,7 +4342,7 @@ Boiler #1 in use for auxiliary purposes. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Moored as before. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Moored as before. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimate" comment="Noumea Harbor"/>
+          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimated" comment="Noumea Harbor"/>
         </item>
       </items>
     </image>
@@ -4361,7 +4361,7 @@ in use for auxiliary purposes. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Moored as before. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Moored as before. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimate" comment="Noumea Harbor"/>
+          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimated" comment="Noumea Harbor"/>
         </item>
       </items>
     </image>
@@ -4388,7 +4388,7 @@ main generator.  1210 Keel resting on the blocks.  1310 Commenced receiving elec
 &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Docked as before. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Docked as before. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimate" comment="Noumea Harbor"/>
+          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimated" comment="Noumea Harbor"/>
         </item>
       </items>
     </image>
@@ -4700,9 +4700,7 @@ minutes notice.  1232 USS PHILIP moored along port side. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before. &lt;/div&gt;
 &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before.  2330 Set Condition II. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -4729,9 +4727,7 @@ POINT THREE. &lt;/div&gt;
 THREE consisting of the USS WALLER, USS SAUFLEY, USS PHILIP, USS PRINGLE, LCI328,
 LCI331, LCI332, LCI335, LST71, LST460 and APC31. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -4760,9 +4756,6 @@ on station. &lt;/div&gt;
 2316 Flares sighted on horizon bearing 317(T).  Went to general quarters.  2330
 Set modified general quarters. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -6338,7 +6331,7 @@ boiler in use for auxiliary purposes.&lt;/div&gt;
 &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;  Moored as before.&lt;/div&gt;
 &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;  Moored as before.&lt;/div&gt;
           </description>
-          <posit time="2000" lat="22-15-47 S" lon="166-25-53 E" type="estimate" comment="Noumea Harbor"/>
+          <posit time="2000" lat="22-15-47 S" lon="166-25-53 E" type="estimated" comment="Noumea Harbor"/>
         </item>
       </items>
     </image>
@@ -6359,7 +6352,7 @@ use for auxiliary purposes.&lt;/div&gt;
 &lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;  Moored as before.&lt;/div&gt;
 &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;  Moored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimate" comment="Noumea Harbor"/>
+          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimated" comment="Noumea Harbor"/>
         </item>
       </items>
     </image>
@@ -6395,7 +6388,7 @@ entered the harbor + moored
 in assigned berth.&lt;/div&gt;
 &lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;  Anchored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimate" comment="Noumea Harbor"/>
+          <posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimated" comment="Noumea Harbor"/>
         </item>
       </items>
     </image>
@@ -6448,7 +6441,7 @@ to 039 (T) 040 PGC, 029 PSC.&lt;/div&gt;
 2130 Commenced zig-zagging in accordance
 with modified mersig plan #10.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="22-12-53 S" lon="166-22-36 E" type="estimate" comment="Dumbea Harbor"/>
+          <posit time="0800" lat="22-12-53 S" lon="166-22-36 E" type="estimated" comment="Dumbea Harbor"/>
         </item>
       </items>
     </image>
@@ -11671,11 +11664,25 @@ for night.&lt;/p&gt;
       <file>0115.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-01</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with Task Unit THIRTY ONE POINT ONE POINT THREE en route to
+Treasury Island.  Base course 314(T), (PGC), 307(PSC).  Speed 9 knots.  Boilers
+#2 and #4 in use.  Station #2, 25 degrees on port bow of formation, distance 3500 yards. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0425 Bogie picked up at 45 miles bearing 175(T).  0431 Lost
+contact, bogie going out.  0445 Changed base course to 000(T), (PGC), 352(PSC).
+05447 LCI's and LST's commenced entering Blanche Harbor.  Commenced patrolling off
+Blanche Harbor, 4 miles south of Laifa Point, Treasury Island.  Changed speed to
+20 knots.  0701 First LCI stood out of harbor.  0735 Last LCI completed unloading
+and stood out of harbor.  0742 Ceased patrolling.  Took screening station on starboard
+bow of LCI's.  Base course 180(T), USS PRINGLE on port bow.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0815 Steadied on base course 133(T), (PGC), 122(PSC), speed
+15 knots(146 RPM).  Patrolling on station. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1345 Changed base course to 112(T), (PGC), 105(PSC).
+1410 Passed Simbo Island abeam to port, distance 7 miles. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1920 Changed speed to 13.5 knots (129 RPM).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2020 Changed base course to 090(T), 090(PGC), 087(PSC).&lt;/div&gt;
+          </description>
         </item>
       </items>
     </image>
@@ -11683,11 +11690,29 @@ for night.&lt;/p&gt;
       <file>0116.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-02</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with USS PRINGLE escorting six LCI's to Guadalcanal.  Base
+course 090(T), (PGC), 087(PSC).  Speed 12 1/2 knots.  Boilers #2 and #3 in use.
+0128 Changed base course to 080(T), (PGC), 076 1/2(PSC).  0350 Changed base course
+to 105(T), (PGC), 102(PSC). &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0452 Went to general quarters.  0530 Secured from general
+quarters, set condition II, material condition baker.  Commenced patrolling on
+station, speed 15 knots (146 RPM).  0740 Proceeding independently for Port Purvis. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0822 Stopped all engines.  Lying to off Tulagi Harbor while
+whaleboat was lowered.  0823 All engines ahead standard, 15 knots, steering various
+courses conforming to the approaches to Port Purvis.  0846 Passed through submarine
+nets.  0912 Moored starboard side to tanker, SS MOBILUBE.  0917 Commenced
+fueling, draft forward 11'6", draft aft 13'7".  0950 Completed fueling having
+received 42,673 gallons.  Draft forward after fueling 12'2", aft 14'2".  1005
+Underway from tanker to anchorage.  1021 Anchored in berth 315, Port Purvis in
+23 fathoms of water with 45 fathoms of chain to the port anchor.  1051 USS PRINGLE
+moored alongside to port.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before.  1300 USS PRINGLE underway from alongside. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before.  1955 Went to general quarters. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before.  2010 Secured from general quarters. &lt;/div&gt;
+          </description>
+          <posit time="1200" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -11695,11 +11720,18 @@ for night.&lt;/p&gt;
       <file>0117.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-03</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in berth #15, Purvis Bay, in 23 fathoms of water with 45 fathoms of chain
+to port anchor.  Boilers #2 and 33  nu.  Main engines on 15 minutes notice.
+Condition II set.  USS RENSHAW moored to port side. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before. &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -11707,11 +11739,29 @@ for night.&lt;/p&gt;
       <file>0118.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-04</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in berth #15, Purvis Bay in 23 fathoms of water with 45 fathoms of chain
+to port anchor.  Boilers #2 and #3 in use.  Main engines on 15 minutes notice.
+USS RENSHAW moored to port.  USS WALLER moored to starboard.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.  0420 Commenced preparations for getting underway.
+0507 USS WALLER underway from starboard side.  0514 USS RENSHAW underway from
+port side.  0526 Underway in accordance with Commander Task Force THIRTY ONE's
+dispatch 030343, to form Task Group THIRTY ONE POINT SIX.  Following various
+courses at various speeds conforming to channel standing out of Purvis Bay.
+0557 Using various courses and speeds to take station, 5040 on LSTs.  0650 Joined
+Task Group THIRTY ONE POINT SIX, base course 260(T), (PGC), 246 1/2(PSC).  Speed 10
+knots en route to Empress Augusta Bay, Bougainville.  Commenced patrolling on
+station.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0850 Steadied on course 270(T), (PGC), 266(PSC), speed 15
+knots (144 RPM).  1155 Changed course to 180(T), (PSC), 276(PSC). &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1515 Commenced smoke screen exercises.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1611 Ceased smoke screen exercises.  Resumed screening
+station and commenced patrolling.  1820 Sighted four surface craft 190(T), range
+13,000 yards.  1850 Identified as friendly LSTs.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2030 Changed base course to 292(T), 292(PGC), 279(PSC).&lt;/div&gt;
+          </description>
+          <posit time="0400" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -11719,11 +11769,29 @@ for night.&lt;/p&gt;
       <file>0119.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-05</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with Task Unit THIRTY ONE POINT SIX en route to Empress Augusta
+Bay, Bougainville Island.  Base course 192(T), (PGC), 180(PSC).  Speed 9 knots.
+Boilers #2 and #3 in use.  SAUFLEY in station #3, 40 on bow, distance 5000 yards. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0505 Set Condition I.  0520 Radar contact 070(T), 22,900 yards.
+Identified as Transport Divisions 12 and 22.  0530 Radar contact 118(T), range
+28,000 yards, identified as Task Force THIRTY NINE.  0556 Set Condition II.
+0636 Transport Divisions joined formation and took station as inner screen.
+USS EATON took station ahead of LSTs.  Destroyer screen opened to six thousand,
+SAUFLEY in station #3, 40 on starboard bow patrolling station.  0700 Changed base
+course to 313(T), (PGC). &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  1150 Contacted Task Force THIRTY NINE, bearing 014(T), range
+23,500.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1513 Set Condition I, bogies reported 35 miles to westward.
+1532 Secured from Condition I.  Set Condition II.  Bogies identified as friendly. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1915 Bogey bearing 355(T), range 15 miles, closing.  Set
+Condition I.  1932 Set Condition II. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2048 Made contact with two enemy planes in vicinity.  2109
+Went to general quarters.  2129 Enemy planes left vicinity.  Set modified condition
+I.  2159 Made contact with enemy plane, went to general quarters.  2244 Set
+modified condition I. &lt;/div&gt;
+          </description>
         </item>
       </items>
     </image>
@@ -11731,11 +11799,42 @@ for night.&lt;/p&gt;
       <file>0120.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-06</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with Task Group THIRTY ONE POINT SIX en route from Guadalcanal
+to Empress Augusta Bay, Bougainville Island.  Base course 313(T), (PGC), 302 1/2 (PSC),
+speed 12 knots.  Patrolling station.  Boilers #2 and #3 in use.  0135 Changed
+base course to 000(T), (PGC), 353(PSC).  0308 Changed base course to 037(T), (PGC),
+030(PSC). &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before, standing into Empress Augusta Bay, Bougainville Island, on
+various courses and speeds conforming to channel.  0518 Bogie contacted 145(T),
+5 miles.  0519 Set Condition I.  0621 No bogies in vicinity, set modified condition
+I.  0651 LSTs and APDs proceeding to beach, standing out from Empress Augusta Bay,
+to patroll off entrance during landing operations.  0657 Sighted life raft bearing
+175(T), distance 6 miles, proceeding to investigate.  0743 Received on board
+ten Marines returning from patrol along the beach, no medical cases.  0745 Continued
+patrol, steadied on course 300(T), (PGC), 294(PSC), speed 10 knots, (95 RPM). &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Patrolling as before.  0859 Steadied on course 032(T), (PGC), 025(PSC), proceeding
+toward beach to land Marine survivors.  0914 Stopped all engines.  Lying to while
+whale boat is lowered.  Whaleboat with Lieutenant (jg) J.M. COULLING in charge
+took Marine raft in tow and headed for beach.  0919 Set Modified general quarters.
+0930 Motor Whale boat returned and was hoisted in.  Steadied on course 215(T), (PGC),
+208(PSC).  1001 Fell in column astern of USS RENSHAW in destroyer formation consisting
+of USS WALLER, USS PHILIP, and USS SIGOURNEY.  Commenced patrolling on
+courses 030(T), and 210(T), following movements of the column leader.  Speed 15
+knots.  1148 Bogies contact reported over Bougainville by USS WALLER, went to
+general quarters. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1210 Enemy bogies disappeared.  1227 Set modified condition I.
+1245 Formed line of bearing.  Patrolling on courses 030(T), and 210(T), speed 15
+knots (144 RPM). &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1633 Set Condition II.  1915 Set Condition I.  1923 Set
+modified condition I.  1955 Bogey 250(T), 12 miles, closing.  Set Condition I. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2024 Screen clear of bogies, set modified condition I.
+2138 Bogie contacted bearing 310(T), distance 9 miles, range closing.  2250 Set
+Condition I.  2255 Several bogies appeared in vicinity, maneuvering on various
+courses and speeds as evasive tactics.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="06-24-55 S" lon="155-02-31 E" type="estimated" comment="Empress Augusta Bay, Bougainville"/>
         </item>
       </items>
     </image>
@@ -11743,11 +11842,29 @@ for night.&lt;/p&gt;
       <file>0121.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-07</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Patrolling off Empress Augusta Bay in company wiith USS WALLER, USS RENSHAW, USS PHILIP,
+and USS SIGOURNEY and Transport Divisions 12 and 22 awaiting the unloading
+of LSTs.  Speed 10 knots.  Boilers #2 and #3 in use.  0001 Commenced taking
+screening station.  LSTs standing out.  0205 Fire sighted bearing 130(T), from
+formation.  Later determined to be PBY plane which had been acting as spotter for
+Task Force THIRTY NINE.  0310 Numerous flares and anti-aircraft fire noted over
+Cape Torokina.  Steadied on base course 210(T), (PGC), 202(PSC), speed 7 knots. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0610 Changed speed to 15 knots (144 RPM), commenced patrolling
+on station.  0700 Changed course to 133(T), (PGC), 127(PSC), formed screening
+formation 1CL.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  1132 Passed treasury Islands abeam to port, distance 7 miles. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1547 Left Task Group THIRTY ONE POINT SIX, joined with Transport
+Division 12 and 22, in company with USS WALLER, in accordance with NPM801. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1601 Taking station astern of USS WALLER.  Base course 135(T),
+(PGC), speed 15 knots.  1623 Left position at flank speed to investigate reported
+emergency flash bearing 290(T).  1644 Resumed station astern of USS WALLER.
+1651 Steering various courses to pass astern of Task Force THIRTY NINE.  1713
+Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2115 Changed course to 090(T), (PGC), 087(PSC).&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="06-24-55 S" lon="155-02-31 E" type="estimated" comment="Empress Augusta Bay, Bougainville"/>
         </item>
       </items>
     </image>
@@ -11755,11 +11872,18 @@ for night.&lt;/p&gt;
       <file>0122.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-08</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11767,11 +11891,18 @@ for night.&lt;/p&gt;
       <file>0123.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-09</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11779,11 +11910,18 @@ for night.&lt;/p&gt;
       <file>0124.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-10</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11791,35 +11929,40 @@ for night.&lt;/p&gt;
       <file>0125.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-11</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
     <image>
       <file>0126.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0127.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-12</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11827,11 +11970,18 @@ for night.&lt;/p&gt;
       <file>0128.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-13</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11839,11 +11989,18 @@ for night.&lt;/p&gt;
       <file>0129.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-14</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11851,11 +12008,18 @@ for night.&lt;/p&gt;
       <file>0130.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-15</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11863,11 +12027,18 @@ for night.&lt;/p&gt;
       <file>0131.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-16</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11875,11 +12046,18 @@ for night.&lt;/p&gt;
       <file>0132.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-17</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11887,11 +12065,18 @@ for night.&lt;/p&gt;
       <file>0133.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-18</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11899,11 +12084,18 @@ for night.&lt;/p&gt;
       <file>0134.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-19</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11911,11 +12103,18 @@ for night.&lt;/p&gt;
       <file>0135.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-20</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11923,11 +12122,18 @@ for night.&lt;/p&gt;
       <file>0136.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-21</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11935,11 +12141,18 @@ for night.&lt;/p&gt;
       <file>0137.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-22</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11947,11 +12160,18 @@ for night.&lt;/p&gt;
       <file>0138.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-23</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11959,11 +12179,18 @@ for night.&lt;/p&gt;
       <file>0139.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-24</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11971,35 +12198,40 @@ for night.&lt;/p&gt;
       <file>0140.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-25</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
     <image>
       <file>0141.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0142.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-26</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12007,11 +12239,18 @@ for night.&lt;/p&gt;
       <file>0143.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-27</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12019,11 +12258,18 @@ for night.&lt;/p&gt;
       <file>0144.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-28</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12031,11 +12277,18 @@ for night.&lt;/p&gt;
       <file>0145.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-29</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12043,11 +12296,18 @@ for night.&lt;/p&gt;
       <file>0146.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-11-30</date>
+          <description>
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -19282,4 +19542,7 @@ under #1 boiler.  Boiler #3 in use for auxiliary purposes.&lt;/div&gt;
 <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
 <posit time="0800" lat="09-05-39 S" lon="160-08-41 E" type="estimated" comment="Anchored in Tulagi Harbor"/>
 <posit time="2000" lat="33-51-50 S" lon="151-13-23 E" type="estimated" comment="Woolloomooloo Bay"/>
+<posit time="0800" lat="22-15-47 S" lon="166-25-53 E" type="estimated" comment="Noumea Harbor"/>
+<posit time="0800" lat="22-12-53 S" lon="166-22-36 E" type="estimated" comment="Dumbea Harbor"/>
+<posit time="0800" lat="06-24-55 S" lon="155-02-31 E" type="estimated" comment="Empress Augusta Bay, Bougainville"/>
 -->
