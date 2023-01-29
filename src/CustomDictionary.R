@@ -14,7 +14,7 @@ create_word_list <- function() return(c(
   "Lingayen", "Abuyog", "Agutaya", "Gavutu", "Kula", "Munda", "Rendova", "Vella", "Lavella",
   "Doveli", "Malo", "Segond", "Bougainville", "Woolloomooloo", "Macquarie", "Barakoma",
   "Nepean", "Gizo", "Kukum", "Sakao", "Visu", "Choiseul", "Kakasa", "Aoba", "Kolombangara",
-  "Bogacio", "Malaupaina", "Tetipari",
+  "Bogacio", "Malaupaina", "Tetipari", "Bulari", "Aruligo", "Simbo",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -33,8 +33,9 @@ create_word_list <- function() return(c(
   # AMS - Auxiliary Motor Minesweeper
   # LT - Large Tug (Army)
   # ARD - Auxilliary Repair Dock
+  # DDs - Destroyers
   "LSM", "FS", "MTB", "LST", "APD", "YMS", "DMS", "LCI", "LCV", "LCT", "LCS",
-  "PBY", "AMS", "TP", "ARD", "YF",
+  "PBY", "AMS", "TP", "ARD", "YF", "DDs",
   # Ship terms
   # SPD - Smokeless Powder stabilized with Diphenolamine
   # DG - degaussing
@@ -43,7 +44,7 @@ create_word_list <- function() return(c(
   "degaussing", "pre", "mersig",  "portside", "Countermarched", "yds",
   "george", "rds", "stbd", "despatch", "zag", "superheaters", "prelanding",
   "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD", "FD", "SG", "SC",
-  "torpedoman", "exploder", "oiler", "reberth", "DG", "flashless",
+  "torpedoman", "exploder", "oiler", "reberth", "DG", "flashless", "PhM",
   # command terms
   "Comdesron", "ComDesRon", "Desron", "SOPA", "ComTaskFor", "ComTaskForce", "ComTask", "DesDis",
   "CTF", "CDS", "COMSERONSOPAC", "ComSeronsoPac", "CTG", "Comsopac", "ComSoPac", "CTU", "USNR",
@@ -54,7 +55,8 @@ create_word_list <- function() return(c(
   "FECHTELER", "STRUBLE", "Struble", "BERKEY", "BARBEY", "Barbey", "KRISTENSEN",
   "ILSEMANN", "GRIGGS", "LAMIMAN", "Beaty", "MALPASS", "Homonhon", "Nyquist",
   "Peyton", "PEYTON", "Tolman", "SCHUTZ", "Ainsworth", "Briscoe", "KILAND",
-  "ROSENDAHL", "NEVILLE", "CONOLLY", "WR"
+  "ROSENDAHL", "NEVILLE", "CONOLLY", "WR", "WASHBURNE", "HURFF", "MULKEY", 
+  "Hanard"
 ))
 
 # Radars
