@@ -1,5 +1,7 @@
 create_word_list <- function() return(c(
   # places
+  #   Buraki is likely Boracay today
+  #   Sumboli is likelly Sumbulai or Sumbolai today
   "Nasugbu", "Mangarin", "Caminawit", "Mariveles", "Subic", "Corregidor", "Caballo", "Monja",
   "Malinta", "Whangpoo", "Fatu", "Tinghai", "Bunji", "Chusan", "Lubang", "Shima", "Nansei",
   "Shoto", "Havannah", "Efate", "Hilliard", "Bonham", "Fila", "Leyte", "Tolosa",
@@ -14,7 +16,8 @@ create_word_list <- function() return(c(
   "Lingayen", "Abuyog", "Agutaya", "Gavutu", "Kula", "Munda", "Rendova", "Vella", "Lavella",
   "Doveli", "Malo", "Segond", "Bougainville", "Woolloomooloo", "Macquarie", "Barakoma",
   "Nepean", "Gizo", "Kukum", "Sakao", "Visu", "Choiseul", "Kakasa", "Aoba", "Kolombangara",
-  "Bogacio", "Malaupaina", "Tetipari", "Bulari", "Aruligo", "Simbo",
+  "Bogacio", "Malaupaina", "Tetipari", "Bulari", "Aruligo", "Simbo", "Buraki", "Sumboli",
+  "Laifa", "Torokina", "Brougham", "Hathorn",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -35,7 +38,7 @@ create_word_list <- function() return(c(
   # ARD - Auxilliary Repair Dock
   # DDs - Destroyers
   "LSM", "FS", "MTB", "LST", "APD", "YMS", "DMS", "LCI", "LCV", "LCT", "LCS",
-  "PBY", "AMS", "TP", "ARD", "YF", "DDs",
+  "PBY", "AMS", "TP", "ARD", "YF", "DDs", "YP",
   # Ship terms
   # SPD - Smokeless Powder stabilized with Diphenolamine
   # DG - degaussing
@@ -45,6 +48,7 @@ create_word_list <- function() return(c(
   "george", "rds", "stbd", "despatch", "zag", "superheaters", "prelanding",
   "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD", "FD", "SG", "SC",
   "torpedoman", "exploder", "oiler", "reberth", "DG", "flashless", "PhM",
+  "NPM",
   # command terms
   "Comdesron", "ComDesRon", "Desron", "SOPA", "ComTaskFor", "ComTaskForce", "ComTask", "DesDis",
   "CTF", "CDS", "COMSERONSOPAC", "ComSeronsoPac", "CTG", "Comsopac", "ComSoPac", "CTU", "USNR",
@@ -56,7 +60,7 @@ create_word_list <- function() return(c(
   "ILSEMANN", "GRIGGS", "LAMIMAN", "Beaty", "MALPASS", "Homonhon", "Nyquist",
   "Peyton", "PEYTON", "Tolman", "SCHUTZ", "Ainsworth", "Briscoe", "KILAND",
   "ROSENDAHL", "NEVILLE", "CONOLLY", "WR", "WASHBURNE", "HURFF", "MULKEY", 
-  "Hanard"
+  "Hanard", "COULLING", "Stalfa"
 ))
 
 # Radars

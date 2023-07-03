@@ -11594,11 +11594,39 @@ for night.&lt;/p&gt;
       <file>0519.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-12-01</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="1200" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
+        </item>
+        <item>
+          <date>1943-12-02</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+        </item>
+        <item>
+          <date>1943-12-03</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="09-12-00 S" lon="157-53-15 E"/>
+          <posit time="1200" lat="08-51-20 S" lon="157-30-45 E"/>
+          <posit time="2000" lat="08-19-30 S" lon="156-16-00 E"/>
+        </item>
+        <item>
+          <date>1943-12-04</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="07-28-40 S" lon="155-23-20 E"/>
+          <posit time="1200" lat="07-30-40 S" lon="155-21-00 E"/>
+          <posit time="2000" lat="08-00-00 S" lon="156-06-00 E"/>
         </item>
       </items>
     </image>
@@ -11606,11 +11634,50 @@ for night.&lt;/p&gt;
       <file>0520.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-12-05</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="08-48-00 S" lon="157-38-25 E"/>
+          <posit time="1200" lat="08-47-15 S" lon="159-08-00 E"/>
+          <posit time="2000" lat="09-04-45 S" lon="160-01-15 E"/>
+        </item>
+        <item>
+          <date>1943-12-06</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="2000" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
+        </item>
+        <item>
+          <date>1943-12-07</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="1200" lat="09-48-40 S" lon="161-00-45 E"/>
+          <posit time="2000" lat="13-00-10 S" lon="161-27-25 E"/>
+        </item>
+        <item>
+          <date>1943-12-08</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="1200" lat="19-00-00 S" lon="162-31-00 E"/>
+          <posit time="2000" lat="20-58-00 S" lon="164-53-00 E"/>
+        </item>
+        <item>
+          <date>1943-12-09</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="22-01-30 S" lon="166-25-15 E"/>
+          <posit time="1200" lat="22-03-00 S" lon="166-25-55 E"/>
+          <posit time="2000" lat="24-11-00 S" lon="164-23-45 E"/>
         </item>
       </items>
     </image>
@@ -11618,11 +11685,67 @@ for night.&lt;/p&gt;
       <file>0521.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-12-10</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="27-46-00 S" lon="160-07-00 E"/>
+          <posit time="1200" lat="28-54-15 S" lon="158-48-30 E"/>
+          <posit time="2000" lat="31-01-30 S" lon="157-07-00 E"/>
+        </item>
+        <item>
+          <date>1943-12-11</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="2000" lat="33-51-50 S" lon="151-13-23 E" type="estimated" comment="Woolloomooloo Bay"/>
+        </item>
+        <item>
+          <date>1943-12-12</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="1200" lat="33-51-50 S" lon="151-13-23 E" type="estimated" comment="Woolloomooloo Bay"/>
+        </item>
+        <item>
+          <date>1943-12-19</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="2000" lat="31-52-30 S" lon="154-19-00 E"/>
+        </item>
+        <item>
+          <date>1943-12-20</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="28-35-00 S" lon="158-12-40 E"/>
+          <posit time="1200" lat="27-24-10 S" lon="159-30-55 E"/>
+          <posit time="2000" lat="25-24-00 S" lon="162-05-30 E"/>
+        </item>
+        <item>
+          <date>1943-12-21</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="22-41-00 S" lon="165-57-40 E"/>
+          <posit time="2000" lat="22-20-30 S" lon="165-14-00 E"/>
+        </item>
+        <item>
+          <date>1943-12-22</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="18-44-00 S" lon="161-52-30 E"/>
+          <posit time="1200" lat="17-19-30 S" lon="161-31-30 E"/>
+          <posit time="2000" lat="14-11-00 S" lon="161-19-00 E"/>
         </item>
       </items>
     </image>
@@ -11630,11 +11753,51 @@ for night.&lt;/p&gt;
       <file>0522.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-12-23</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="09-19-00 S" lon="160-17-15 E"/>
+          <posit time="1200" lat="09-08-30 S" lon="160-14-00 E"/>
+          <posit time="2000" lat="09-08-40 S" lon="160-14-00 E"/>
+        </item>
+        <item>
+          <date>1943-12-24</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="09-08-20 S" lon="158-18-30 E"/>
+          <posit time="1200" lat="08-57-00 S" lon="157-22-30 E"/>
+          <posit time="2000" lat="08-01-45 S" lon="156-00-30 E"/>
+        </item>
+        <item>
+          <date>1943-12-25</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="06-08-30 S" lon="155-00-45 E"/>
+          <posit time="1200" lat="06-15-30 S" lon="155-01-15 E"/>
+          <posit time="2000" lat="06-59-00 S" lon="155-04-00 E"/>
+        </item>
+        <item>
+          <date>1943-12-26</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="08-33-40 S" lon="157-08-15 E"/>
+          <posit time="1200" lat="08-49-15 S" lon="157-58-15 E"/>
+          <posit time="2000" lat="08-50-45 S" lon="159-36-00 E"/>
+        </item>
+        <item>
+          <date>1943-12-27</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
         </item>
       </items>
     </image>
@@ -11642,11 +11805,42 @@ for night.&lt;/p&gt;
       <file>0523.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1943-12-28</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="1200" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
+        </item>
+        <item>
+          <date>1943-12-29</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="09-23-00 S" lon="159-58-15 E"/>
+          <posit time="1200" lat="09-15-45 S" lon="159-21-00 E"/>
+          <posit time="2000" lat="09-09-10 S" lon="158-00-35 E"/>
+        </item>
+        <item>
+          <date>1943-12-30</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="08-23-40 S" lon="157-11-30 E"/>
+          <posit time="1200" lat="08-34-10 S" lon="157-28-15 E"/>
+          <posit time="2000" lat="08-22-45 S" lon="156-37-30 E"/>
+        </item>
+        <item>
+          <date>1943-12-31</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="08-31-00 S" lon="156-34-00 E"/>
+          <posit time="1200" lat="08-29-00 S" lon="156-27-00 E"/>
+          <posit time="2000" lat="07-45-40 S" lon="155-27-45 E"/>
         </item>
       </items>
     </image>
@@ -11810,7 +12004,7 @@ base course to 000(T), (PGC), 353(PSC).  0308 Changed base course to 037(T), (PG
 various courses and speeds conforming to channel.  0518 Bogie contacted 145(T),
 5 miles.  0519 Set Condition I.  0621 No bogies in vicinity, set modified condition
 I.  0651 LSTs and APDs proceeding to beach, standing out from Empress Augusta Bay,
-to patroll off entrance during landing operations.  0657 Sighted life raft bearing
+to patrol off entrance during landing operations.  0657 Sighted life raft bearing
 175(T), distance 6 miles, proceeding to investigate.  0743 Received on board
 ten Marines returning from patrol along the beach, no medical cases.  0745 Continued
 patrol, steadied on course 300(T), (PGC), 294(PSC), speed 10 knots, (95 RPM). &lt;/div&gt;
@@ -11844,7 +12038,7 @@ courses and speeds as evasive tactics.&lt;/div&gt;
         <item>
           <date>1943-11-07</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Patrolling off Empress Augusta Bay in company wiith USS WALLER, USS RENSHAW, USS PHILIP,
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Patrolling off Empress Augusta Bay in company with USS WALLER, USS RENSHAW, USS PHILIP,
 and USS SIGOURNEY and Transport Divisions 12 and 22 awaiting the unloading
 of LSTs.  Speed 10 knots.  Boilers #2 and #3 in use.  0001 Commenced taking
 screening station.  LSTs standing out.  0205 Fire sighted bearing 130(T), from
@@ -11874,16 +12068,31 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-08</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with USS WALLER screening five APDs, Transport Division TWELVE
+and TWENTY TWO en route from Empress Augusta Bay, Bougainville to Tulagi, speed
+20 knots.  Base course 090(T), (PGC), 085(PSC).  0108 Changed course to 085(T), (PGC),
+082 1/2(PSC).  0132 Changed course to 106(T), (PGC), 103(PSC).  0259 Changed course to
+090(T), (PGC), 085 1/2(PSC).  0321 Changed course to 105(T), (PGC), 103(PSC).
+Changed speed to 10 knots.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0450 Commenced acting independently.  Proceeding into Purvis
+Bay astern of APDs.  0455 Stationed special Sea detail.  Commenced preparations
+for entering port.  0510 Steering various courses conforming to channel entering
+Purvis Bay.  Speed 5 knots.  0628 Moored starboard side to USS WATERS alongside
+YO164.  Draft before fueling 11'4" forward, 13'6" aft.  0734 Completed fueling
+having received on board 72,497 gallons standard Navy fuel oil at 60 F.  Draft
+after fueling 12'0" forward, 14'5" aft.  Commenced preparations for getting underway.
+0743 Underway maneuvering to go alongside USS PRINGLE.  0759 Moored starboard
+side to USS PRINGLE.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Moored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Moored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Moored as before.  1730 USS PRINGLE commenced dragging anchor.  1731 Commenced
+making preparations for getting underway immediately.  Captain on the bridge.
+1738 Let go port anchor.  1754 Cleared USS PRINGLE.  Underway to resume anchorage.
+1806 Anchored in berth #15 in 23 fathoms of water with 60 fathoms of chain to
+port anchor.  1825 USS PRINGLE moored to starboard side. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="2000" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -11893,16 +12102,27 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-09</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in berth #15, Purvis Bay, Florida Island in 22 fathoms of water with
+60 fathoms of chain to the port anchor.  Boilers #2 and #3 in use on fifteen minutes
+notice.  USS PRINGLE moored on starboard side.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.  0445 Commenced preparations for getting underway.
+0526 Underway in accordance with Commander Destroyer Squadron TWENTY TWO's
+operation order dated November 8, 1943.  Steaming on various courses and at
+various speeds conforming to channel, Port Purvis.  0601 Passed through submarine
+net.  0603 Changed speed to 20 knots, steadied on base course 220(T), (PGC), 208(PSC).
+0650 Reduced speed to 10 knots.  Commenced maneuvering off Kukum,
+Guadalcanal, awaiting departure of LSTs.  0700 Took screening station as part of
+Task Group THIRTY ONE POINT SEVEN composed in accordance with Commander Task Force
+THIRTY ONE's operation order A15-43, of USS WALLER, USS SAUFLEY, USS PHILIP, USS PRINGLE,
+USS CONWAY and USS EATON and LSTs 446, 447, 449, 390, 472, 395, 398, 397.
+Steadied on base course 310(T), (PGC), 220(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0905 Changed course to 270(T), (PGC), 258(PSC).  1114
+Changed course to 260(T), (PGC), 248 1/2(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1401 Changed course to 280(T), (PGC), 268(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2125 Changed course to 292(T), (PGC), 280(PSC).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0400" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -11912,16 +12132,30 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-10</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming with Task Group THIRTY ONE POINT SEVEN in accordance with Commander
+Task Force THIRTY ONE's operation order A-15-43 in company with USS WALLER,
+USS PHILIP, USS PRINGLE, USS CONWAY, USS EATON, LST 446, LST 447, LST 449, LST 390,
+LST 472, LST 395, LST 397, LST 398, en route from Purvis Bay, Florida Island to
+Empress Augusta Bay, Bougainville.  Base course 292(T), (PGC), 280(PSC).  Speed
+12 knots.  Boilers #2 and #3 in use.  Patrolling on station 40 on starboard
+bow of formation.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0425 Radar surface contact 310(T), 27,000 yards.
+0502 Identified as USS SIOUX.  0503 Set Condition I.  0543 Radar surface contact
+130(T), 28,000 yards.  Identified as APD group.  0558 Set modified condition I.
+0631 Changed base course to 313(T), (PGC), 303(PSC).  0642 Set Condition II.
+0650 USS SIOUX, Transport Division TWELVE, and Transport Division TWENTY TWO
+joined Task Group.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0900 Changed speed to 20 knots (196 RPM), changed course
+to 115(T), (PGC), 103(PSC), proceeding to investigate distress signal sent by
+plane.  0922 Changed course to 000(T), (PGC), 348(PSC).  0930 Changed course to 313(T),
+(PGC), 302(PSC), changed speed to 12 knots (114 RPM), resumed station in screen.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1753 Sighted Task Force THIRTY NINE bearing 230(T).
+1832 Lit off boiler #1.  1835 Lit off boiler #4.  1916 Set Condition I.  Surface
+radar contact 339(T), range 12 miles.  1925 Contact identified as friendly.
+1927 Set modified Condition I.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -11931,16 +12165,50 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-11</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;En route from Port Purvis in company with USS WALLER (Commander Task Group THIRTY
+ONE POINT SEVEN), USS CONWAY, USS PRINGLE, USS PHILIP, USS EATON, Transport
+Division TWENTY TWO consisting of USS KILTY, USS CROSBY, USS WARD, USS SCHLEY,
+and Transport Division TWELVE consisting of USS STRINGHAM, USS MCKEAN, USS TALBOT,
+USS WATERS and LST 446, LST 395, LST 447, LST 397, LST 449, LST 398, LST 390, LST 472, and
+USS SIOUX.  Base course 313(T), (PGC), 302(PSC), speed 12 knots (114 RPM), patrolling
+on station #3, 6040.  0116 Changed course to 000(T), (PGC), 356 1/2 (PSC).  0200
+Changed speed to 20 knots (196 RPM), taking station 5 miles ahead of formation.
+0230 Changed course to 037(T), (PGC), 034 1/2(PSC).  0232 Changed course to 037(T),
+(PGC), 034 1/2 (PSC).  0232 Changed speed to 9 knots (85 RPM).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0450 Changed base course to 037(T), (PGC), 034 1/2 (PSC).
+0520 Bogey contact bearing 130(T), range 4 miles.  Went to general quarters.
+0527 Commenced patrolling on various courses off Torokina Beach as APDs stood in.
+0605 Set modified general quarters.  0620 LSTs commenced to beach.  0730 APDs
+completed unloading and commenced standing out.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  Patrolling on various courses and speeds 15 to 20 miles off
+Torokina Point, during unloading operations.  1108 Set condition II, material
+condition baker.  1136 Changed speed to 20 knots, changed course to 135(T), (PGC),
+131 1/2 (PSC), proceeding to rescue survivors from reported plane crash, bearing
+135(T), distance 26 miles.  1148 Changed speed to 30 knots (305 RPM). &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1213 Returning to station at Point Uncle, survivors having
+been picked up by Task Force THIRTY NINE.  1303 Changed speed to 5 knots.
+Steaming various courses among wreckage of Jap plane.  1313 Lowered Motor Whale
+Boat to investigate floating corpses and wreckage for possible intelligence data.
+Steaming various courses at various speeds patrolling area.  1346 Motor Whale Boat
+hoisted aboard.  Only miscellaneous gear recovered from corpses which were
+Japanese.  1445 Directed to proceed to area bearing 270(T), distance 22 miles to
+search for F6F making emergency landing.  Changed course to 270(T), changed speed
+to 30 knots.  1532 Commenced searching area designated.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1610 Ceased searching designated area.  Changed course to
+135(T), (PGC), 131(PSC).  1642 Changed course to 310(T), to proceed to area,
+distance 30 miles to search for friendly plane reported to have made emergency
+landing.  1700 Sighted pilot in life raft.  1715 Pilot recovered, Frank Stalfa,
+Ensign, USNR YF33.  Condition good.  Base notified.  1737 Resumed base course.
+1810 Changed course to 120(T), (PGC), 117(PSC) to rejoin Task Group THIRTY ONE
+POINT SEVEN.  1820 Commenced zigzagging in accordance with Plan #10Z.  1853
+Enemy plane reported 335(T), 29 miles.  1900 Set condition I.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2055 Rejoined Task Group THIRTY ONE POINT SEVEN.  2145 Took
+screening station 33 on base course 217(T), (PGC), 209 1/2 (PSC), speed 12 knots,
+patrolling station.  2223 Changed base course to 180(T), (PGC), 171 1/2 (PSC).  2226
+USS SPENCE joined formation and took screen position, in place of USS EATON, #4. 
+2242 Changed base course to 133(T), (PGC), 128(PSC).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="06-27-59 S" lon="154-50-45 E" type="estimated" comment="Off Torakina Point"/>
         </item>
       </items>
     </image>
@@ -11953,16 +12221,23 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-12</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with Task Group THIRTY ONE POINT SEVEN consisting of Destroyer
+Squadron TWENTY TWO, LST 446, LST 395, LST 447, LST 397, LST 449, LST 398, LST 472, LST 390 and
+USS SIOUX.  Base course 133(T), (PGC), 129 (PSC), speed 12 knots (114 RPM).
+Patrolling on station #3, 5040.  0205 Sighted Treasury Island bearing 100(T),
+distance 6 miles.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0719 Secured  boilers #1 and #4.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0907 Enemy planes reported 010(T), 60 miles.  0911 Went to
+general quarters.  0940 Enemy planes reported leaving vicinity set modified condition I.
+1107 Set condition II, material condition baker.  1130 Changed course
+to 130(T), (PGC), 126(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1214 Changed course to 112(T), (PGC), 108(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1802 Changed speed to 13 1/2 knots.  1810 changed base course to
+115(T), (PGC), 111(PSC).  1855 lighted fires under #1 boiler.  1910 Died out fires
+under #2 boiler.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2010 Changed course to 089(T), (PGC), 085 1/2 (PSC).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0205" lat="07-19-54 S" lon="155-26-10 E" type="esimated" comment="Off Treasury Island"/>
         </item>
       </items>
     </image>
@@ -11972,16 +12247,35 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-13</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming with Task Group THIRTY ONE POINT SEVEN in accordance with Commander Task
+Force THIRTY ONE's operation order A-15-43 in company with USS WALLER, USS PHILIP,
+USS PRINGLE, USS SPENCE, USS CONWAY, LST 446, LST 447, LST 449, LST 390, LST 472, LST 395,
+LST 397, LST 398 en route from Empress Augusta Bay, Bougainville, to Purvis Bay, Florida
+Island.  Base course 089(T), (PGC), 086(PSC).  Speed 13 knots.  Boilers #1 and #3
+in use.  Patrolling on station 40 on starboard bow of formation.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0429 Ceased patrolling station.  changed speed to 10 1/2 knots.
+0540 Changed base course to  120(T), (PGC), 116(PSC).  0640 Changed speed to 13
+knots.  Commenced patrolling.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0805 Changed course to 115(T), (PGC), 111 1/2(PSC).  0850 Passed
+Cape Esperance abeam to starboard, distance 2 miles.  0916 Changed course to
+110(T), (PGC), 106 1/2 (PSC).  0959 Changed course to 125(T), (PGC), 121(PSC).  1100
+Lying to off Kukum Point while disembarking Ensign Frank STALFA, USNR.  LSTs
+proceeding to beach.  1154 Changed course to 035(T), (PGC), 031(PSC), speed 25
+knots (250 RPM) heading for Tulagi Harbor.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1230 Stationed special sea detail.  1244 Steering various
+courses and speeds entering Tulagi Harbor.  1317 Moored port side to USS PRINGLE,
+berth #7.  1505 Underway for Purvis Bay.  1556 Passed inner net at Purvis Bay.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  Entering Purvis Bay.  1609 Moored starboard side to oil dock.
+Draft before fueling 11'0", forward, 13'6" aft.  1619 Commenced fueling, USS CONWAY 
+moored on port side.  1631 Set modified condition II.  1715 Completed
+fueling having received on board 77,082 gallons of standard Navy fuel oil at 60 F.
+Draft after fueling 12'0" forward, 14'5" aft.  1731 USS CONWAY underway from
+alongside.  1733 Underway following various courses conforming to channel.
+1807 Anchored in berth #15 in 25 fathoms of water with 60 fathoms of chain to
+the port anchor.  1828 USS WALLER came alongside to port.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="2000" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -11991,16 +12285,15 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-14</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in 25 fathoms of water Port Purvis, Florida Island, 35 fathoms of chain
+to the port anchor.  USS WALLER moored to port.  Boilers #2 and #3 in use for auxiliary purposes.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="1200" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -12010,16 +12303,32 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-15</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in berth #15, Port Purvis, Florida Islands, 25 fathoms of water,
+45 fathoms of chain to port anchor.  Boilers #1 and #3 in use.  USS WALLER moored
+to port.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.  0445 Commenced making preparations for getting underway.
+0528 USS WALLER underway.  0531 Underway in accordance with Commander Destroyer
+Squadron TWENTY-TWO operation order dated 14 November 1943, executive officer at
+the conn, captain and navigator on the bridge.  Steaming on various courses and
+at various speeds conforming to channel, Port Purvis.  0555 Passed through submarine
+net.  0601 Steadied on course 220(T), (PGC), 207(PSC), speed 20 knots,
+proceeding to Kukum Point, Guadalcanal.  0703 Arrived off Kukum and commenced
+patrolling at 10 knots on various courses awaiting formation of Task Group THIRTY
+ONE POINT SIX.  0746 took screening station as part of Task Group THIRTY ONE
+POINT SIX, in accordance with Commander THIRTY ONE's secret dispatch
+120124 of November, consisting of USS RENSHAW (Captain Carter, Officer in Tactical
+Command), USS WALLER, USS SAUFLEY, USS CONWAY, USS PRINGLE, USS SIGOURNEY, and
+LST 488, LST 353, LST 341, LST 207, LST 70, LST 354, LST 395, and LST 339, base course
+310(T), (PGC), 302(PSC), speed 10 knots.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0830 Changed course to 300(T), (PGC), 296(PSC).  1100 LSTs
+firing AA battery on sleeve.  1102 Changed course to 230(T), (PGC), 226(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1205 Changed course to 260(T), (PGC), 247(PSC).
+1550 Commenced maneuvering and smoke screen exercises. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1615 Completed maneuvering, changed base course to 280(T),
+(PGC), 267(PSC).  1916 Maneuvering to avoid Brougham Shoal.  1950 Ceased patrolling.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2300 Changed course to 292(T), (PSC), 288 1/2 (PSC).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0400" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -12029,16 +12338,33 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-16</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming as before in company with Task Group THIRTY ONE POINT SIX consisting of
+USS RENSHAW, USS WALLER, USS CONWAY, USS SAUFLEY, USS PRINGLE, USS SIGOURNEY,
+LST 488, LST 353, LST 341, LST 207, LST 70, LST 354, LST 395, and LST 339, en route from
+Purvis Bay, Florida Island to Empress Augusta Bay, Bougainville.  Patrolling on
+station 40 on starboard at 12 knots.  Base course 292(T), (PGC), 28M).  Fleet
+speed 9.5 knots.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0413 Surface radar contact bearing 134(T), distance 13 miles.
+0422 Identified as Destroyer Squadron TWENTY THREE and Transport Division TWELVE
+and Transport Division TWENTY TWO.  0457 APDs joined Task Group and took station as
+inner screen.  0505 Set Condition I.  0555 Set Condition II.  0610 Sighted USS PAWNEE
+bearing 280(T), distance 7 miles.  0708 USS PAWNEE joined Task Group.
+0744 Changed base course to 313(T), (PGC), 303(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  1000 Tested 20MM and 40MM anti-aircraft batteries, all
+batteries satisfactory.  1145 Sighted Treasury Islands 322(T), distance 42 miles.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1538 Bogies reported closing from northwest, Set condition I.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1606 Set modified condition I.  1705 Set condition II.
+1808 Detached by Commander Destroyer Squadron TWENTY TWO to investigate area in
+which there was radar emergency signal, changed speed to 25 knots.  1815 Lit off
+boilers #2 and #4.  1850 Results of search negative.  Returned to Task Group and 
+resumed patrolling on screening station.  1910 Secured boilers #2 and #4.
+1935 Ceased patrolling.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2145 Went to general quarters.  2214 Set modified general
+quarters.  2250 Changed speed to 21 knots.  Proceeding ahead of Task Group to
+a position 7 miles in the van in order to get a navigational fix for the course
+to Cape Torokina.  2317 Reduced speed to 10 knots.  2336 Changed base course
+to 000(T), (PGC), 352(PSC).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12048,16 +12374,36 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-17</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;En route form Kukum, Guadalcanal Island in company with Task Group THIRTY ONE
+POINT SIX consisting of USS RENSHAW, USS CONWAY (Commander Task Group THIRTY ONE
+POINT SIX), USS WALLER (Commander Destroyer Squadron TWENTY TWO), USS PRINGLE and
+USS SIGOURNEY, course 000(T), (PGC), 356(PSC), speed 12 knots, keeping station 7
+miles ahead of formation.  Boilers #1, #2, #3, and #4 on the main steam line.
+0015 Changed course to 037(T), (PGC), 034(PSC).  0256 Bogie contacted 325(T),
+distance 15 miles.  0300 Set Condition I.  0315 Formation being attacked by five 
+torpedo planes.  0320 Enemy plan crashed in water, on starboard bow of formation.
+0339 Enemy plan destroyed by gunfire from LSTs.  0348 USS MCKEAN torpedoed and
+sunk by enemy planes approaching from starboard beam.  0350 Enemy planes circling
+formation attempting to make torpedo runs.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0440 Commenced firing 5" battery on bogey on port bow.
+0448 Ceased firing having expended 64 rounds of 5"/38 caliber AA ammunition,
+no casualties.  0530 APDs commenced pulling ahead of formation and proceeded
+toward Torokina.  0601 LSTs standing in toward unloading beaches.  0603 Investigated
+object in water and found it to be a fuselage of Japanese 97 bomber (Betty).
+0605 Commenced circling USS WALLER, USS SIGOURNEY and USS TALBOT who were picking
+up USS MCKEAN survivors.  0645 Ceased circling and commenced patrolling on various
+courses, speed 20 knots, following movements of USS WALLER.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0846 Changed speed to 15 knots (144 RPM).  0852 Set modified
+condition I.  0935 Set Condition II.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1550 Took position astern of USS WALLER.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1630 Commenced patrolling at Point Uncle.  1700 Ceased
+patrolling and formed astern of USS CONWAY standing into Empress Augusta Bay.
+1800 Patrolling off Torokina waiting for LSTs.  1834 Set Condition I.  1842
+Set Modified Condition I.  1850 Commenced forming screen on LSTs.  1935 Took
+station #3, 5040.  Base course 217(T), (PGC), 205(PSC), speed 6 knots. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  Standing out from Empress Augusta Bay.  Steadied on base
+course 217(T), (PGC), 214(PSC), speed 6 knots (55 RPM).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12067,16 +12413,20 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-18</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with Task Group THIRTY ONE POINT SIX en route from Empress
+Augusta Bay, Bougainville Island to Guadalcanal, base course 135(T), (PGC), 130(PSC),
+speed 12 knots, patrolling station.  0119 Bogey bearing 270(T), distance 12,000
+yards coming in.  Went to general quarters.  0125 Lost contact.  0154 Set
+modified general quarters.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0427 Contacted enemy planes 015(T), distance 40 miles.
+0430 Went to general quarters.  0455 Enemy planes clear of area, set modified
+condition I.  0656 Set condition II, material condition baker.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  1059 Contacted Simbo Island 088(T), distance 27 miles.
+1109 Secured boilers #1 and #3.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1220 Changed base course to 110(T), (PGC), 108 1/2(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1945 Ceased patrolling.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2052 Changed course to 090(T), (PGC), 087 1/2(PSC).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12086,16 +12436,29 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-19</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with Task Group THIRTY ONE POINT SIX en route from Empress
+Augusta Bay, Bougainville Island to Guadalcanal.  Speed 10.5 knots.  Base course
+090(T), (PGC), 087(PSC).  Boilers #2 and #4 in use.  0030 Commenced patrolling on
+station; increased speed to 12 knots.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0613 Changed base course to 120(T), (PGC), 111 1/2 (PSC).
+0631 USS WARD, APD 16 left formation.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0836 USS RENSHAW proceeding to Tulagi Harbor.  0925 Passing
+Savo Island abeam to port.  1045 APDs proceeding to Kukum.  1114 Changed course
+to 035(T), (PGC), 031 (PSC), Changed speed to 25 knots (250 RPM) proceeding to 
+Port Purvis.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1209 Steering various courses at various speeds entering
+Port Purvis.  1249 Moored alongside USS MOBILUBE, starboard side to.  1254 Commenced 
+fueling, draft forward 11'0", draft aft 13'6".  1346 Completed fueling
+having received 66,144 gallons.  Draft forward 12'2", draft aft 14'.  1350 Underway,
+shifting berths.  1435 Anchored in berth #17, 22 fathoms of water with 75
+fathoms of chain to port anchor.  1450 USS PRINGLE moored starboard side to port
+side.  1558 USS PRINGLE underway from alongside.  Modified Condition II set,
+boilers on 30 minutes notice.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before.  1625 USS SIGOURNEY moored along port side.  1805 Secured
+#2 boiler.  #4 boiler cut in on auxiliary line.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="2000" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -12105,16 +12468,15 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-20</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in berth #17, Port Purvis, in 20 fathoms of water with 75 fathoms of
+chain to the port anchor.  Boiler #4 in use for auxiliary purposes.  USS SIGOURNEY moored alongside to port.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -12124,16 +12486,28 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-21</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in berth #17, Port Purvis, Florida Islands in 20 fathoms of water with
+75 fathoms of chain to the port anchor.  Boiler #4 in use fro auxiliary purposes.
+USS SIGOURNEY moored alongside to port.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.  0500 Commenced making preparations for getting underway.
+0530 Underway in accordance with Commander Task Force THIRTY ONE dispatch
+180413.  Steering various courses and speeds standing out of Port Purvis.
+Standard speed 15 knots (144 RPM).  0609 Formed column astern of USS WALLER,
+heading for Kukum, speed 27 knots (272 RPM).  0654 Changed speed to 12 knots (114 RPM),
+joining LST 334, LST 446, LST 390, LST 447, LST 397, LST 449, LST 398 and LST 472, formed screen
+with USS WALLER (Commander Task Unit THIRTY ONE POINT SIX POINT TWO), USS RENSHAW,
+and USS BENNETT, took station 3.5335, steadied on course 310(T), (PGC), 307(PSC),
+patrolling on station.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0905 Changed base course to 270(T), (PGC), 257(PSC).
+0947 Took station 3.000.  101 Took station 3.5335.  1113 Commenced test firing
+of main battery.  1124 Ceased firing having expended 10 rounds of 5" ammunition.
+No casualties.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1345 Changed course to 280(T), (PGC), 266(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1941 Changed speed to 9.5 knots (90 RPM), ceased patrolling
+station.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2018 Changed base course to 292(T), (PGC), 297 1/2(PSC).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0400" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -12143,16 +12517,29 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-22</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with Task Group THIRTY ONE POINT SIX en route from Kukum
+Point, Guadalcanal to Empress Augusta Bay, Bougainville.  Speed 9 1/2 knots (90 RPM).
+Base course 292(T), (PGC), 279 1/2(PSC).  Boilers #2 and #4 in use.  0159 Commenced
+patrolling on station.  Increased speed to 12 knots (114 RPM).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0503 Went to general quarters.  0510 Contacted USS SIOUX
+314(T), distance 11 miles.  0551 Secured from general quarters, set condition II,
+material condition baker.  USS SIOUX joining formation.  0621 Changed course to
+313(T), (PGC), 302(PSC), passing Simbo Island abeam to starboard.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  1055 Sighted 8 ships bearing 045(T), distance about 10 miles.
+Identified as 6 LCIs and escort USS CONWAY and USS SIGOURNEY.  1135 Sighted
+Treasury Island bearing 325(T), distance about 35 miles.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1212 Six LCIs in company with USS CONWAY and USS SIGOURNEY
+join formation.  Took station #3, 40 on starboard bow, distance 5000 yards.
+1525 Bogie reported bearing 100(T), 18 miles closing.  1527 Set Condition I.
+1545 Bogie identified as friendly.  Set Condition II.  1555 Took station 65 on 
+starboard bow, distance 4000 yards.  USS RENSHAW left formation.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1655 USS RENSHAW joined formation, took station #3, 4040.
+1930 Changed speed to 10 knots (95 RPM).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2010 Ceased patrolling.  Changed speed to 8 knots.  2016
+Changed speed to 7 1/2 knots.  2302 Changed speed to 20 knots proceeding to station
+ahead of formation, distance 7 miles.  2331 On station, changed speed to 8 knots.
+2336 Changed base course to 000(T), (PGC), 355(PSC).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12162,16 +12549,31 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-23</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming seven miles ahead of Task Group THIRTY ONE POINT SIX en route from Kukum
+Point, Guadalcanal to Empress Augusta Bay, Bougainville.  Speed 8 knots, course
+000(T), (PGC), 355(PSC).  0121 Changed course to 037(T), (PGC), 032(PSC).  0123
+Changed course to 030(T), (PGC), 027(PSC).  0126 Bogie bearing 305(T), distance
+31 miles.  0127 Set condition I.  0127 Lit off #1 and #3 boilers.  0157 Changed
+course to 037(T), (PGC), 033 1/2 (PSC), speed 5 knots.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0406 Changed speed to 10 knots.  0408 Arrived 5 miles off
+Torokina Beach awaiting arrival of formation.  0422 Reversed course and commenced
+standing out to position 12 miles off beach.  0520 anti aircraft fire seen near
+Torokina Beach.  0604 Commenced patrolling on various courses conforming to
+channel, Empress Augusta Bay in area roughly 12 miles bearing 210(T), from Cape
+Torokina.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0812 Changed speed to 15 knots (144 RPM).  0903 Set Condition II,
+material condition baker.  0910 USS RENSHAW and USS WALLER bombarded areas as prescribed
+by Commanding General, THIRD Marine Division.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1202 Large Group of bogies reported approaching from northwest.
+Set Condition I.  1250 Set Condition II.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1730 LSTs and LCIs standing out from Cape Torokina.
+1810 took station #3 in screen.  Task Group THIRTY ONE POINT SIX underway from
+Empress Augusta Bay, Bougainville.  Base course 217(T), (PGC), 207(PSC).  1832
+Secured boilers #2 and #4.  1909 Set Condition I.  1910 Commenced patrolling on
+station.  1912 Set modified Condition I.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before. 2030 Changed course to 133(T), (PGC), 129(PSC).  2118 Changed
+speed to 10.5 knots (100 RPM), Patrolling station #3, 5040.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12181,16 +12583,21 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-24</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with Task Group THIRTY ONE POINT SIX, en route from Empress
+Augusta Bay, Bougainville to Kukum Point, Guadalcanal.  Speed 10.5 knots.
+Base course 133(T), (PGC), 129(PSC).  Boilers #1 and #3 in use.  Patrolling on
+station.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0550 Changed speed to 12 knots (144 RPM).  0604 USS SIGOURNEY,
+LST 449, LST 447, YP 415, and YP 514 left formation proceeding to Vella Lavella to disembark
+serious casualties.  Patrolling station #3, 4040.  0641 Set Condition II,
+modified material condition Afirm.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  1130 Changed base course to 112(T), (PGC), 108 1/2 (PSC).
+1131 Set Material Condition Baker.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1843 Changed course to 089(T), (PGC), 088 1/2 (PSC).  1948
+Changed speed to 10 knots (95 RPM), ceased patrolling.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12200,16 +12607,42 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-25</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with Task Group THIRTY ONE POINT SIX en route from Empress
+Augusta Bay, Bougainville to Kukum Point Guadalcanal.  Speed 11 knots, station #3.
+Base course 089(T), (PGC), 085 1/2(PSC).  Boilers #1 and #3 on the line.  0315 Changed
+base course to 120(T), (PGC), 116(PSC).  0345 USS RENSHAW and LST 446 left formation.
+0358 Took station 65 on starboard bow, range 4000 yards.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0410 Passing Russell Islands abeam to starboard distance
+4 miles.  0521 Changed speed to 13 knots(130 RPM), commenced patrolling station.
+0625 In accordance with T.B.S. instructions from Commander Destroyer Squadron
+TWENTY TWO left formation in company with USS WALLER and USS RENSHAW, steadied on
+course 302(T), (PGC), 289 1/2 (PSC), speed 30 knots (309 RPM), formed column astern of
+USS WALLER.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  1110 Changed base course to 270(T), (PGC), 257(PSC).
+1147 Changed base course to 215(T), (PGC), 204 1/2(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before.  1212 Changed speed to 25 knots.  1218 Standing into Kula
+Gulf astern of USS WALLER to Hathorn Sound.  1235 Changed speed to 10 knots.
+1245 Steering various courses at various speeds in Hathorn Sound maneuvering to
+come alongside USS WALLER to fuel from oil barge.  1230 Secured #2 boiler.
+1235 Secured #4 boiler.  1330 Moored port side to USS WALLER, commenced taking on
+fuel oil, draft forward 11', draft aft 13'6".  1453 Completed fueling having received
+69,343 gallons of fuel oil; draft forward 12'2", draft aft 14'.  1454 Underway
+from alongside USS WALLER.  Standing out of Hathorn Sound.  1524 Commenced
+patrolling in Kula Gulf.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Steaming as before.  1632 USS RENSHAW forming astern, changed speed to 20 knots
+(196 RPM).  Boilers #2 and #4 cut in on main steam line.  Steering northerly
+courses standing out from Kula Gulf.  1700 USS WALLER standing out from Hathorn
+Sound.  Changed speed to 25 knots (250 RPM).  1718 Changed course to 335(T), (PGC),
+331(PSC), changed speed to 30 knots(309 RPM).  Forming astern of USS WALLER.
+1721 Changed course to 306(T), (PGC), 302(PSC).  1835 Changed course to 272(T), (PGC),
+265(PSC), changed speed to 20 knots (196 RPM).  1852 Changed course to 269(T), (PGC),
+266(PSC).  1858 Formed line of bearing distance 1000 yards.  1905 Commenced zig-zagging 
+in accordance with zig plan 18 Zed.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Steaming as before.  2230 Ceased zigzagging and resumed base course.  Treasury
+Island abeam to starboard.  2233 Changed base course to 089(T), (PGC), 085(PSC).
+2250 Formed column astern of USS WALLER.  2257 Changed speed to 25 knots.
+2301 Formed quarter echelon to port.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -12222,16 +12655,33 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-26</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming as before in company with USS WALLER(Commander Destroyer Squadron TWENTY
+TWO), USS RENSHAW in accordance with NPM25 - 250425 en route from Treasury
+Island to Port Purvis, Florida Island.  Base course 089(T), (PGC), 085 (PSC).  Speed
+25 knots (50 RPM).  All four boilers with superheaters in use.  0137 Changed base
+course to 112(T), (PGC), 108(PSC).&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Steaming as before.  0448 Went to general quarters.  0507 Changed course to
+118(T), (PGC), 114(PSC).  0543 Secured from general quarters, set condition II,
+material condition baker.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Steaming as before.  0831 Took station starboard beam of USS WALLER, distance
+1500 yards for radar calibration exercise.  0840 Changed speed to 20 knots.
+0910 Completed radar calibration.  1010 Changed base course to 112(T), (PGC),
+109(PSC).  1047 Proceeding independently into port.  Changed speed to 25 knots.
+1119 Changed speed to 20 knots.  1130 Changed course to 080(T), (PGC).  1122
+Secured boilers #2 and #4.  1133 Stationed special sea detail.  Steering  various
+courses conforming to channel standing into Purvis Bay.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Steaming as before, maneuvering to go alongside tanker.  1218 Moored to port side
+of USS MOBILUBE.  1227 Commenced receiving fuel.  Draft before fueling 11'6" aft, 
+13'1" forward.  1254 Completed fueling having received 34,455 gallons of standard
+Navy fuel oil.  Draft after fueling 12'2" forward, 14' aft.  1303 Underway maneuvering
+to anchorage.  1314 Anchored in berth #12, in 27 fathoms of water, 75
+fathoms of chain to the port anchor, in Purvis Bay, Florida Islands.  Ship on six
+hours notice, main engines placed on one hours notice.  Boiler #1 steaming for
+auxiliary purposes.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before.  1700 USS RENSHAW moored to starboard side.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="2000" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -12241,16 +12691,17 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-27</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in Purvis Bay, Florida Island in berth #12, in 27 fathoms of water with
+75 fathoms of chain to the port anchor.  USS RENSHAW alongside to starboard.
+Boiler #1 in use for auxiliary purposes.  Ship on six hours notice, main engines
+on one hours notice.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -12260,16 +12711,17 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-28</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in Purvis Bay, Florida Island in berth #12, in 27 fathoms of water with
+75 fathoms of chain to the port anchor.  USS RENSHAW alongside to starboard.
+Boiler #1 in use for auxiliary purposes.  Ship on six hours notice, main engines
+on one hours notice. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -12279,16 +12731,17 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-29</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in Purvis Bay, Florida Island in berth #12, in 27 fathoms of water with
+75 fathoms of chain to the port anchor.  USS RENSHAW alongside to starboard.
+Boiler #1 in use for auxiliary purposes.  Ship on six hours notice, main engines
+on one hours notice. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>
@@ -12298,16 +12751,17 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
         <item>
           <date>1943-11-30</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt; &lt;/div&gt;
-&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt; &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Anchored in Purvis Bay, Florida Island in berth #12, in 27 fathoms of water with
+75 fathoms of chain to the port anchor.  USS RENSHAW alongside to starboard.
+Boiler #1 in use for auxiliary purposes.  Ship on six hours notice, main engines
+on one hours notice. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0400-0800&lt;/b&gt;Anchored as before.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;0800-1200&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1200-1600&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;1600-2000&lt;/b&gt;Anchored as before. &lt;/div&gt;
+&lt;div&gt;&lt;b&gt;2000-2400&lt;/b&gt;Anchored as before. &lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
       </items>
     </image>

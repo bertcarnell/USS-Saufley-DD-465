@@ -1,4 +1,8 @@
 ## Saufley Operations
+require(XML)
+require(xml2)
+require(assertthat)
+require(hunspell)
 
 ### Validate the XML
 source("src/validate_saufley_xml.R")

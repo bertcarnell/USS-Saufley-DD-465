@@ -1,4 +1,5 @@
 stopifnot(require(xml2))
+stopifnot(require(hunspell))
 
 check_saufley_spelling <- function(path_to_xml, word_list, ship_names)
 {
