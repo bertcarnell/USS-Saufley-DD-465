@@ -329,7 +329,7 @@ deploy_leaflet_plots <- function(path_to_html, outpath)
     html_1943[starts[2]:ends[2]],
     target_html[afters[2]:befores[3]],
     html_1944[starts[3]:ends[3]],
-    target_html[afters[3]:befores[3]],
+    target_html[afters[3]:befores[4]],
     html_1945[starts[4]:ends[4]],
     target_html[afters[4]:length(target_html)]
   )

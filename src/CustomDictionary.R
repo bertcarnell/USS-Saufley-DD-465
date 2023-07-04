@@ -48,7 +48,7 @@ create_word_list <- function() return(c(
   "george", "rds", "stbd", "despatch", "zag", "superheaters", "prelanding",
   "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD", "FD", "SG", "SC",
   "torpedoman", "exploder", "oiler", "reberth", "DG", "flashless", "PhM",
-  "NPM",
+  "NPM", "depermed",
   # command terms
   "Comdesron", "ComDesRon", "Desron", "SOPA", "ComTaskFor", "ComTaskForce", "ComTask", "DesDis",
   "CTF", "CDS", "COMSERONSOPAC", "ComSeronsoPac", "CTG", "Comsopac", "ComSoPac", "CTU", "USNR",

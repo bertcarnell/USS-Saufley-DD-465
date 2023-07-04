@@ -11488,11 +11488,22 @@ for night.&lt;/p&gt;
       <file>0439.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-01-01</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="06-22-00 S" lon="155-01-45 E"/>
+          <posit time="1200" lat="06-20-45 S" lon="154-59-30 E"/>
+          <posit time="2000" lat="06-26-00 S" lon="154-56-00 E"/>
+        </item>
+        <item>
+          <date>1944-01-02</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="07-56-45 S" lon="156-06-30 E"/>
+          <posit time="1200" lat="08-31-30 S" lon="156-42-45 E"/>
+          <posit time="2000" lat="08-56-00 S" lon="157-53-15 E"/>
         </item>
       </items>
     </image>
@@ -11500,11 +11511,39 @@ for night.&lt;/p&gt;
       <file>0440.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-01-03</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-10-30 S" lon="159-58-00 E"/>
+          <posit time="2000" lat="09-19-20 S" lon="159-50-45 E"/>
+        </item>
+        <item>
+          <date>1944-01-04</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-01-40 S" lon="158-14-05 E"/>
+          <posit time="1200" lat="08-53-00 S" lon="157-40-00 E"/>
+          <posit time="2000" lat="08-24-30 S" lon="156-27-30 E"/>
+        </item>
+        <item>
+          <date>1944-01-05</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="07-25-15 S" lon="155-38-00 E"/>
+          <posit time="1200" lat="07-25-15 S" lon="155-39-30 E"/>
+          <posit time="2000" lat="07-42-00 S" lon="155-50-30 E"/>
+        </item>
+        <item>
+          <date>1944-01-06</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="08-51-30 S" lon="157-35-15 E"/>
+          <posit time="1200" lat="08-52-30 S" lon="158-19-00 E"/>
+          <posit time="2000" lat="09-09-45 S" lon="159-42-00 E"/>
         </item>
       </items>
     </image>
@@ -11512,11 +11551,42 @@ for night.&lt;/p&gt;
       <file>0441.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-01-07</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
+        </item>
+        <item>
+          <date>1944-01-09</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1944-01-10</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="09-23-00 S" lon="160-13-00 E"/>
+        </item>
+        <item>
+          <date>1944-01-11</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-18-20 S" lon="158-19-20 E"/>
+          <posit time="1200" lat="08-58-00 S" lon="157-33-00 E"/>
+          <posit time="2000" lat="08-11-15 S" lon="155-53-00 E"/>
+        </item>
+        <item>
+          <date>1944-01-12</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="06-23-00 S" lon="154-55-00 E"/>
+          <posit time="1200" lat="06-25-00 S" lon="154-54-00 E"/>
+          <posit time="2000" lat="06-54-40 S" lon="154-47-00 E"/>
         </item>
       </items>
     </image>
@@ -11524,11 +11594,41 @@ for night.&lt;/p&gt;
       <file>0442.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-01-13</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="08-48-15 S" lon="157-19-00 E"/>
+          <posit time="1200" lat="08-51-20 S" lon="158-23-00 E"/>
+          <posit time="2000" lat="09-08-10 S" lon="160-18-20 E"/>
+        </item>
+        <item>
+          <date>1944-01-14</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
+        </item>
+        <item>
+          <date>1944-01-15</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
+        </item>
+        <item>
+          <date>1944-01-16</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="1200" lat="08-21-30 S" lon="161-04-50 E"/>
+        </item>
+        <item>
+          <date>1944-01-17</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="09-10-00 S" lon="159-34-00 E"/>
         </item>
       </items>
     </image>
@@ -11536,11 +11636,31 @@ for night.&lt;/p&gt;
       <file>0443.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-01-18</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="08-45-00 S" lon="157-43-00 E"/>
+          <posit time="1200" lat="08-24-30 S" lon="156-53-15 E"/>
+          <posit time="2000" lat="08-25-15 S" lon="156-50-00 E"/>
+        </item>
+        <item>
+          <date>1944-01-19</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="08-31-15 S" lon="156-28-00 E"/>
+          <posit time="1200" lat="07-58-10 S" lon="156-02-00 E"/>
+          <posit time="2000" lat="07-05-00 S" lon="155-01-00 E"/>
+        </item>
+        <item>
+          <date>1944-01-20</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="06-23-15 S" lon="155-04-00 E"/>
+          <posit time="1200" lat="06-27-00 S" lon="155-05-40 E"/>
+          <posit time="2000" lat="06-36-30 S" lon="154-51-30 E"/>
         </item>
       </items>
     </image>
@@ -11548,11 +11668,43 @@ for night.&lt;/p&gt;
       <file>0444.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-01-21</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="07-59-30 S" lon="155-55-15 E"/>
+          <posit time="1200" lat="08-29-00 S" lon="156-26-00 E"/>
+          <posit time="2000" lat="09-00-00 S" lon="157-49-00 E"/>
+        </item>
+        <item>
+          <date>1944-01-22</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-19-00 S" lon="159-49-45 E"/>
+        </item>
+        <item>
+          <date>1944-01-23</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
+        </item>
+        <item>
+          <date>1944-01-24</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="1200" lat="09-41-45 S" lon="159-20-00 E"/>
+          <posit time="2000" lat="09-36-00 S" lon="159-11-35 E"/>
+        </item>
+        <item>
+          <date>1944-01-25</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-55-00 S" lon="159-26-30 E"/>
+          <posit time="1200" lat="09-35-10 S" lon="169-01-30 E"/>
         </item>
       </items>
     </image>
@@ -11560,11 +11712,45 @@ for night.&lt;/p&gt;
       <file>0445.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-01-26</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
+        </item>
+        <item>
+          <date>1944-01-27</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
+        </item>
+        <item>
+          <date>1944-01-28</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-19-00 S" lon="159-55-00 E"/>
+          <posit time="1200" lat="09-18-20 S" lon="159-19-40 E"/>
+          <posit time="2000" lat="09-11-00 S" lon="157-00-30 E"/>
+        </item>
+        <item>
+          <date>1944-01-29</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="08-24-10 S" lon="155-10-25 E"/>
+          <posit time="1200" lat="07-24-20 S" lon="155-45-30 E"/>
+          <posit time="2000" lat="07-16-00 S" lon="155-14-00 E"/>
+        </item>
+        <item>
+          <date>1944-01-30</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="06-31-15 S" lon="154-59-30 E"/>
+          <posit time="1200" lat="06-31-15 S" lon="154-57-45 E"/>
+          <posit time="2000" lat="06-47-00 S" lon="154-54-30 E"/>
         </item>
       </items>
     </image>
@@ -11572,11 +11758,13 @@ for night.&lt;/p&gt;
       <file>0446.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-01-31</date>
+          <description>
+&lt;div&gt;&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="08-18-40 S" lon="156-12-30 E"/>
+          <posit time="1200" lat="08-40-00 S" lon="156-48-30 E"/>
+          <posit time="2000" lat="08-54-05 S" lon="157-59-40 E"/>
         </item>
       </items>
     </image>
@@ -11596,23 +11784,28 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-01</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 1.  Anchored in Purvis Bay, Florida Island, British Solomon Islands.&lt;/div&gt;
           </description>
           <posit time="1200" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
         <item>
           <date>1943-12-02</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 2.  Underway at 1800 in accordance with Commander 
+Destroyer Squadron TWENTY TWO's despatch 012305 of December and
+proceeded in company with the USS WALLER (Captain HURFF, Commander
+Destroyer Squadron TWENTY TWO, Commander Task Unit THIRTY ONE
+POINT ONE POINT THREE) to rendezvous with LST 71, LST 166, LST 460
+and APC 33 five miles south of the Russell Islands at 2300.
+Course was then set for the Treasury Islands.&lt;/div&gt;
           </description>
         </item>
         <item>
           <date>1943-12-03</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 3. En route to the Treasury Islands in company with
+Task Unit THIRTY ONE POINT ONE POINT THREE.  Formation was joined
+by SC1266 at 1036.&lt;/div&gt;
           </description>
           <posit time="0800" lat="09-12-00 S" lon="157-53-15 E"/>
           <posit time="1200" lat="08-51-20 S" lon="157-30-45 E"/>
@@ -11621,8 +11814,14 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-04</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 4.  About 0530 the LSTs stood into Blanche Channel
+to unload, and the USS WALLER and USS SAUFLEY commenced patrolling
+off the entrance.  At the 1412 Condition Red was set at the Treasury
+Islands and both destroyers commenced patrolling at high speed.
+At 1420 a (9) nine charge pattern was dropped on what was later
+decided to be a false contact.  Condition Green was set at 1435
+and normal patrol was resumed.  The LSTs stood out at 1500 and
+the Task Unit set course for Guadalcanal.&lt;/div&gt;
           </description>
           <posit time="0800" lat="07-28-40 S" lon="155-23-20 E"/>
           <posit time="1200" lat="07-30-40 S" lon="155-21-00 E"/>
@@ -11636,8 +11835,15 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-05</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 5.  En route to Guadalcanal in company with Task Unit
+THIRTY ONE POINT ONE POINT THREE.  At 0930 in accordance with
+Commander Task Force THIRTY ONE's despatch 042100 of December,
+the SAUFLEY left the formation and proceeded at 32 knots towards
+Purvis Bay to investigate a sound contact reported one-half
+mile northwest of Bungana Island.  Arrived at 1430 and begun
+investigation of the contact assisted by two local patrol craft
+and a PBY.  At 1434 one (9) nine charge pattern was dropped on
+the contact.  Old fuel oil came to the surface.&lt;/div&gt;
           </description>
           <posit time="0800" lat="08-48-00 S" lon="157-38-25 E"/>
           <posit time="1200" lat="08-47-15 S" lon="159-08-00 E"/>
@@ -11646,16 +11852,25 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-06</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 6.  Continued investigation of the sound contact
+dropping one (5) five charge pattern at 0903 and patrolled off
+the area until 1500 when the SAUFLEY proceeded to anchorage in
+Purvis Bay.  From the nature of the contact and as the result
+of inquiries of the local authorities, it is believed that this
+target was the submerged wreck of the USS AARON WARD.&lt;/div&gt;
+&lt;p&gt;At 2255, pursuant to Bureau of Naval Personnel,
+despatch 150758 of October 1943, Commander Bert Franklin Brown,
+USN, file #60319, was relieved as Commanding Officer of the
+SAUFLEY by Lieutenant Commander Dale Eugene Cochran, USN.&lt;/p&gt;
           </description>
           <posit time="2000" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
         <item>
           <date>1943-12-07</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 7.  Underway at 0633 from Port Purvis, Florida Island
+in accordance with Commander South Pacific's despatch 050345 of
+December, proceeding to Noumea, New Caledonia.&lt;/div&gt;
           </description>
           <posit time="1200" lat="09-48-40 S" lon="161-00-45 E"/>
           <posit time="2000" lat="13-00-10 S" lon="161-27-25 E"/>
@@ -11663,8 +11878,8 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-08</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 8.  En route from Port Purvis, Florida Island, to
+Noumea, New Caledonia.&lt;/div&gt;
           </description>
           <posit time="1200" lat="19-00-00 S" lon="162-31-00 E"/>
           <posit time="2000" lat="20-58-00 S" lon="164-53-00 E"/>
@@ -11672,8 +11887,10 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-09</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 9.  Arrived at Noumea, New Caledonia, at 0800 after
+refueling and receiving passengers aboard, stood out of the harbor
+and set course for Sydney, Australia, in accordance with Commander
+South Pacific's despatch 070515 of December.&lt;/div&gt;
           </description>
           <posit time="0800" lat="22-01-30 S" lon="166-25-15 E"/>
           <posit time="1200" lat="22-03-00 S" lon="166-25-55 E"/>
@@ -11687,8 +11904,8 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-10</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 10.  En route from Noumea, New Caledonia to Sydney,
+Australia.&lt;/div&gt;
           </description>
           <posit time="0800" lat="27-46-00 S" lon="160-07-00 E"/>
           <posit time="1200" lat="28-54-15 S" lon="158-48-30 E"/>
@@ -11697,32 +11914,35 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-11</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 11.  Arrived at Sydney, Australia and moored at
+Woolloomooloo.  Commenced eight days unrestricted availability
+with liberty and recreation for the crew.&lt;/div&gt;
           </description>
           <posit time="2000" lat="33-51-50 S" lon="151-13-23 E" type="estimated" comment="Woolloomooloo Bay"/>
         </item>
         <item>
           <date>1943-12-12</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 12-18.  Liberty and recreation at Sydney Australia.
+The SAUFLEY was depermed the afternoon of 17 December and ran
+the degaussing calibration range 18 December.&lt;/div&gt;
           </description>
           <posit time="1200" lat="33-51-50 S" lon="151-13-23 E" type="estimated" comment="Woolloomooloo Bay"/>
         </item>
         <item>
           <date>1943-12-19</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 19.  In accordance with Commander South Pacific's
+orders 170427 of December 1943, the SAUFLEY got underway at
+1100 and set course for Noumea, New Caledonia.&lt;/div&gt;
           </description>
           <posit time="2000" lat="31-52-30 S" lon="154-19-00 E"/>
         </item>
         <item>
           <date>1943-12-20</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 20.  En route from Sydney, Australia to Noumea New
+Caledonia.&lt;/div&gt;
           </description>
           <posit time="0800" lat="28-35-00 S" lon="158-12-40 E"/>
           <posit time="1200" lat="27-24-10 S" lon="159-30-55 E"/>
@@ -11731,8 +11951,8 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-21</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 21.  Arrived at Noumea, New Caledonia, fueled, and
+departed for Purvis Bay, Florida Island.&lt;/div&gt;
           </description>
           <posit time="0800" lat="22-41-00 S" lon="165-57-40 E"/>
           <posit time="2000" lat="22-20-30 S" lon="165-14-00 E"/>
@@ -11740,8 +11960,8 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-22</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 22.  En route from Noumea, New Caledonia to Purvis Bay
+Florida Island.&lt;/div&gt;
           </description>
           <posit time="0800" lat="18-44-00 S" lon="161-52-30 E"/>
           <posit time="1200" lat="17-19-30 S" lon="161-31-30 E"/>
@@ -11755,8 +11975,16 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-23</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 23.  Arrived at Port Purvis at noon, fueled, then
+proceeded to Lunga Point, Guadalcanal in accordance with Commander
+Task Force THIRTY ONE's despatch 300315 of December,
+and reported to Task Unit THIRTY TWO POINT FOUR POINT TWO,
+for duty, consisting of the USS GEORGE CLYMER (Officer in
+Tactical Command), USS CRESCENT CITY, USS FULLER, USS LIBRA,
+USS ALCHIBA, USS CONWAY (Commander Destroyer Division FORTY FOUR,
+Commander Screen), USS PRINGLE, USS RENSHAW, USS HUDSON,
+USS ANTHONY, and USS SAUFLEY, was formed at 2330 and course set
+for Empress Augusta Bay, Bougainville, British Solomon Islands.&lt;/div&gt;
           </description>
           <posit time="0800" lat="09-19-00 S" lon="160-17-15 E"/>
           <posit time="1200" lat="09-08-30 S" lon="160-14-00 E"/>
@@ -11765,8 +11993,10 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-24</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 24.  En route from Lunga Point, Guadalcanal to
+Empress Augusta Bay, Bougainville, in company with Task Unit
+THIRTY TWO POINT FOUR POINT TWO.  The USS SIOUX joined the
+formation at 1700.&lt;/div&gt;
           </description>
           <posit time="0800" lat="09-08-20 S" lon="158-18-30 E"/>
           <posit time="1200" lat="08-57-00 S" lon="157-22-30 E"/>
@@ -11775,8 +12005,11 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-25</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 25.  Arrived off Torokina Point, Bougainville at
+0700, at which time the screen of Task Unit THIRTY TWO POINT FOUR
+POINT TWO commenced patrolling seaward while the transports and cargo
+ships unloaded.  At 1540 the convoy reformed and set course for
+Guadalcanal.&lt;/div&gt;
           </description>
           <posit time="0800" lat="06-08-30 S" lon="155-00-45 E"/>
           <posit time="1200" lat="06-15-30 S" lon="155-01-15 E"/>
@@ -11785,8 +12018,9 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-26</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 26.  En route from Empress Augusta Bay, Bougainville
+to Guadalcanal in company with Task Unit THIRTY TWO POINT FOUR 
+POINT TWO.&lt;/div&gt;
           </description>
           <posit time="0800" lat="08-33-40 S" lon="157-08-15 E"/>
           <posit time="1200" lat="08-49-15 S" lon="157-58-15 E"/>
@@ -11795,8 +12029,11 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-27</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 27.  Arrived off Koli Point, Guadalcanal prior to
+sunrise without incident and commenced patrolling to seaward
+of the transports and cargo ships.  0730, in accordance with
+verbal orders from Commander Destroyer Squadron TWENTY TWO,
+proceeded to anchorage in Purvis Bay, Florida Island.&lt;/div&gt;
           </description>
         </item>
       </items>
@@ -11807,16 +12044,19 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-28</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 28.  Anchored in Purvis Bay, Florida Island.&lt;/div&gt;
           </description>
           <posit time="1200" lat="09-09-01 S" lon="160-17-18 E" type="estimated" comment="Purvis Bay, Solomon Islands"/>
         </item>
         <item>
           <date>1943-12-29</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 29.  Underway at 0630 in obedience to Commander
+Task Force THIRTY ONE's despatch 261044 of December and proceeded
+to Kukum, Guadalcanal where rendezvous was made with
+LST 390, LST 399, and SC 760.  Course was set for Ferguson Passage,
+New Georgia Group.  Lieutenant Commander D.E. COCHRAN in the
+SAUFLEY Officer in Tactical Command.&lt;/div&gt;
           </description>
           <posit time="0800" lat="09-23-00 S" lon="159-58-15 E"/>
           <posit time="1200" lat="09-15-45 S" lon="159-21-00 E"/>
@@ -11825,8 +12065,17 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-30</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 30.  En route from Kukum, Guadalcanal to Ferguson
+Passage at 0600 where SC 760 and LST 390 continued on to Vila,
+Kolombangara, and the SAUFLEY reversed course and escorted
+LST 399 to Munda Harbor, thereafter patrolling in Blanche Channel
+between Rendova and New Georgia.  At 1730 proceeding to rendezvous
+at Ferguson passage with SC 760 and LST 390 returning from Vila
+at 1900.  At 2000 SC 760 left the formation in the vicinity of
+Munda to carry out basic orders after the USS MENOMINEE joined
+the formation.  Course was set for the area south of Simbo Island
+to effect a rendezvous with Task Group THIRTY ONE POINT SIX
+en route from Guadalcanal to Empress Augusta Bay, Bougainville.&lt;/div&gt;
           </description>
           <posit time="0800" lat="08-23-40 S" lon="157-11-30 E"/>
           <posit time="1200" lat="08-34-10 S" lon="157-28-15 E"/>
@@ -11835,8 +12084,15 @@ for night.&lt;/p&gt;
         <item>
           <date>1943-12-31</date>
           <description>
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;December 31.  The formation arrived south of Simbo Island
+at 0330 and commenced patrolling the area awaiting the arrival
+of Task Unit THIRTY ONE POINT SIX.  At 1040 joined up with
+Task Unit THIRTY ONE POINT SIX which consisted of the USS CONWAY,
+(Commander Destroyer Squadron FORTY FOUR, Commander Task Group
+THIRTY ONE POINT SIX), USS HUDSON, USS ANTHONY, USS PRINGLE,
+USS RENSHAW, USS SAUFLEY, LST 166, LST 397, LST 398, LST 446, LST 447,
+LST 390, LST 334, LST 343, USS SERPENS and USS MENOMINEE.  The Task
+Group then continued on toward Empress Augusta Bay, Bougainville.&lt;/div&gt;
           </description>
           <posit time="0800" lat="08-31-00 S" lon="156-34-00 E"/>
           <posit time="1200" lat="08-29-00 S" lon="156-27-00 E"/>
