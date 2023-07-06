@@ -27,6 +27,13 @@ check_saufley_spelling <- function(path_to_xml, word_list, ship_names)
       }
     }
   }
+  
+  # Drop ordinal numbers
+  for (i in seq_along(X_descriptions))
+  {
+    X_descriptions[i] <- gsub("[0-9]+[t][h]", "", X_descriptions[i])
+    X_descriptions[i] <- gsub("[0-9]+[r][d]", "", X_descriptions[i])
+  }
 
   # Check Spelling with custom dictionary
   temp_spelling <- hunspell::hunspell(X_descriptions, format = "xml", ignore = word_list)

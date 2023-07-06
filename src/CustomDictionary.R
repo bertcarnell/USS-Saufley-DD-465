@@ -17,7 +17,9 @@ create_word_list <- function() return(c(
   "Doveli", "Malo", "Segond", "Bougainville", "Woolloomooloo", "Macquarie", "Barakoma",
   "Nepean", "Gizo", "Kukum", "Sakao", "Visu", "Choiseul", "Kakasa", "Aoba", "Kolombangara",
   "Bogacio", "Malaupaina", "Tetipari", "Bulari", "Aruligo", "Simbo", "Buraki", "Sumboli",
-  "Laifa", "Torokina", "Brougham", "Hathorn",
+  "Laifa", "Torokina", "Brougham", "Hathorn", "Doma", "Nura", "Tetere", "Barahun",
+  "Borpop", "Nabuto", "Namarodu", "Feni", "Buka", "Reini", "Jaba", "Puruata",
+  "Kiape", "Laruma", "Magine", "Emirau", "Rua", "Sura", 
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -48,11 +50,13 @@ create_word_list <- function() return(c(
   "george", "rds", "stbd", "despatch", "zag", "superheaters", "prelanding",
   "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD", "FD", "SG", "SC",
   "torpedoman", "exploder", "oiler", "reberth", "DG", "flashless", "PhM",
-  "NPM", "depermed",
+  "NPM", "depermed", "rebricking", 
   # command terms
+  #  CDD - Commander Destroyer Division
+  #  CDS - Commander Destroyer Squadron
   "Comdesron", "ComDesRon", "Desron", "SOPA", "ComTaskFor", "ComTaskForce", "ComTask", "DesDis",
   "CTF", "CDS", "COMSERONSOPAC", "ComSeronsoPac", "CTG", "Comsopac", "ComSoPac", "CTU", "USNR",
-  "CIC", "ComTrans",
+  "CIC", "ComTrans", "CDD", "USMCR",
   # compass
   "PSC", "PSG", "PGC", "PGS", "pgc", "psc",
   # People
@@ -60,7 +64,8 @@ create_word_list <- function() return(c(
   "ILSEMANN", "GRIGGS", "LAMIMAN", "Beaty", "MALPASS", "Homonhon", "Nyquist",
   "Peyton", "PEYTON", "Tolman", "SCHUTZ", "Ainsworth", "Briscoe", "KILAND",
   "ROSENDAHL", "NEVILLE", "CONOLLY", "WR", "WASHBURNE", "HURFF", "MULKEY", 
-  "Hanard", "COULLING", "Stalfa"
+  "Hanard", "COULLING", "Stalfa", "PAHL", "BLACKLEDGE", "REIFSNIDER", "DICKENSON",
+  "MacAinsh", "Conniff", "Kianowski", "WADSWORTH", "Claxton"
 ))
 
 # Radars
