@@ -68,6 +68,16 @@
 			</Link>
 		</NetworkLink>
 		<NetworkLink>
+			<name>1944 Track</name>
+			<TimeSpan>
+				<begin>1944-01-01T00:00:00Z</begin>
+				<end>1944-12-31T23:59:59Z</end>
+			</TimeSpan>
+			<Link>
+			  <href>test1944.kml </href>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
 			<name>1945 Track</name>
 			<TimeSpan>
 				<begin>1945-01-01T00:00:00Z</begin>

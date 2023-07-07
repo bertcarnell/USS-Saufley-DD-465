@@ -11006,11 +11006,50 @@ for night.&lt;/p&gt;
       <file>1168.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-06-01</date>
+          <description>
+&lt;div&gt;June 1.  At 0430 the SAUFLEY got underway in accordance
+with Commander Task Group FIFTY ONE POINT ONE's Operation Order
+A258-44, and stood out of Pearl Harbor with the USS WALLER
+(Captain PETERSON - CDS-22 - Commander Screen), USS PRINGLE,
+USS CANFIELD, and USS DIONNE. These ships covered the sortie
+of the following ships of Task Group FIFTY ONE POINT EIGHTEEN
+from Pearl Harbor: Transport Division SEVEN, USS CAVALIER, USS J. F. BELL, 
+USS HEYWOOD, USS WINGED ARROW, USS FOMALHAUT, and
+Transport Division THIRTY TWO, USS FREMONT (Rear Admiral BLANDY,
+CTG-51.1 - Officer in Tactical Command), USS HARRIS, USS CUSTER,
+USS HERALD OF THE MORNING, and USS AURIGA. These ships formed
+up as Task Group FIFTY ONE POINT EIGHTEEN (Joint Expeditionary
+Force Reserve) and set course for Kwajalein, Marshall Islands,
+as a staging point for the attack on Saipan Island, Marianas
+Islands.&lt;/div&gt;
+          </description>
+          <posit time="1200" lat="20-41-15 N" lon="158-13-15 W"/>
+          <posit time="2000" lat="19-40-15 N" lon="159-33-00 W"/>
+        </item>
+        <item>
+          <date>1944-06-02</date>
+          <description>
+&lt;div&gt;June 2.  Enroute from Pearl Harbor to Kwajalein Atoll in
+company with Task Group FIFTY ONE POINT EIGHTEEN. At 1400
+changed to +10 time zone.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="18-47-00 N" lon="162-07-00 W"/>
+          <posit time="1200" lat="18-38-30 N" lon="162-46-00 W"/>
+          <posit time="2000" lat="17-52-15 N" lon="164-31-00 W"/>
+        </item>
+        <item>
+          <date>1944-06-03</date>
+          <description>
+&lt;div&gt;June 3.  Enroute from Pearl Harbor to Kwajalein Atoll in
+company with Task Group FIFTY ONE POINT EIGHTEEN. At 1300
+conducted surprise simulated submarine exercise. At 1500 changed
+to 111 time zone. At 1600 test fired machine guns, expending
+32 rounds of 40MM, and 63 rounds of 20MM.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="17-02-00 N" lon="167-11-15 W"/>
+          <posit time="1200" lat="16-35-30 N" lon="167-54-00 W"/>
+          <posit time="2000" lat="15-55-15 N" lon="169-47-30 W"/>
         </item>
       </items>
     </image>
@@ -11018,11 +11057,62 @@ for night.&lt;/p&gt;
       <file>1169.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-06-04</date>
+          <description>
+&lt;div&gt;June 4.  Enroute from Pearl Harbor to Kwajalein Atoll in
+company with Task Group FIFTY ONE POINT EIGHTEEN. . At 1500
+Changed to +12 time zone.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-12-00 N" lon="172-32-00 W"/>
+          <posit time="1200" lat="14-57-30 N" lon="173-22-00 W"/>
+          <posit time="2000" lat="14-25-00 N" lon="175-18-00 W"/>
+        </item>
+        <item>
+          <date>1944-06-05</date>
+          <description>
+&lt;div&gt;June 5.  Enroute from Pearl Harbor to Kwajalein Atoll in
+company with Task Group FIFTY ONE POINT EIGHTEEN. 1400 Test
+fired Mark 32 projectiles. Expended 24 rounds. 1500 Changed
+to -11 time zone. At 2400 changed to June 7, local date.&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="13-45-30 N" lon="177-53-00 W"/>
+          <posit time="1200" lat="13-27-00 N" lon="178-44-30 W"/>
+          <posit time="2000" lat="12-54-30 N" lon="179-22-10 W"/>
+        </item>
+        <item>
+          <date>1944-06-07</date>
+          <description>
+&lt;div&gt;June 7.  Enroute from Pearl Harbor to Kwajalein Atoll in
+company with Task Group FIFTY ONE POINT EIGHTEEN.&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="12-12-30 N" lon="176-55-30 E"/>
+          <posit time="1200" lat="12-04-15 N" lon="176-10-00 E"/>
+          <posit time="2000" lat="12-39-45 N" lon="174-25-45 E"/>
+        </item>
+        <item>
+          <date>1944-06-08</date>
+          <description>
+&lt;div&gt;June 8.  Enroute from Pearl Harbor to Kwajalein Atoll in
+company with Task Group FIFTY ONE POINT EIGHTEEN&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="11-01-00 N" lon="171-55-00 E"/>
+          <posit time="1200" lat="10-53-00 N" lon="171-04-00 E"/>
+          <posit time="2000" lat="10-37-00 N" lon="169-21-30 E"/>
+        </item>
+        <item>
+          <date>1944-06-09</date>
+          <description>
+&lt;div&gt;June 9.  Enroute from Pearl Harbor to Kwajalein Atoll in
+company with Task Group FIFTY ONE POINT EIGHTEEN. At 1130 the
+Task Group entered Kwajalein Atoll through Gea Pass. The SAUFLEY
+proceeded to fuel from the USS SCHUYLKILL and then anchored in
+assigned berth.&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="08-46-15 N" lon="167-57-00 E"/>
         </item>
       </items>
     </image>
@@ -11030,11 +11120,69 @@ for night.&lt;/p&gt;
       <file>1170.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-06-10</date>
+          <description>
+&lt;div&gt;June 10.  Anchored in Kwajalein Atoll, Marshall Islands.&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+        </item>
+        <item>
+          <date>1944-06-11</date>
+          <description>
+&lt;div&gt;June 11.  The screen of Task Group FIFTY ONE POINT EIGHTEEN
+got underway at 1400 to screen the sortie of the main body of
+Task Group FIFTY ONE POINT EIGHTEEN plus the USS CHICKASAW from
+Gea Pass. At 1500 the formation set course for Saipan Island,
+Marianas. At 1915 the SAUFLEY dropped out of the formation to
+investigate a sound contact. At 1925 a nine charge pattern was
+dropped, and at 1943 a five charge pattern was dropped. At 2345
+the SAUFLEY was relieved by the USS FRANKS in the vicinity of
+the contact. The SAUFLEY then set course to rejoin the formation.&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="09-01-00 N" lon="167-15-30 E"/>
+        </item>
+        <item>
+          <date>1944-06-12</date>
+          <description>
+&lt;div&gt;June 12.  Enroute from Kwajalein to Saipan Island in company
+with Task Group fifty ONE POINT EIGHTEEN. The SAUFLEY rejoined
+the formation at 0330.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-17-00 N" lon="164-59-00 E"/>
+          <posit time="1200" lat="10-42-00 N" lon="164-18-30 E"/>
+          <posit time="2000" lat="11-38-00 N" lon="162-55-00 E"/>
+        </item>
+        <item>
+          <date>1944-06-13</date>
+          <description>
+&lt;div&gt;June 13.  Enroute from Kwajalein to Saipan Island in company
+with Task Group FIFTY ONE POINT EIGHTEEN.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="12-24-00 N" lon="160-27-00 E"/>
+          <posit time="1200" lat="12-35-20 N" lon="159-40-30 E"/>
+          <posit time="2000" lat="13-00-00 N" lon="158-03-50 E"/>
+        </item>
+        <item>
+          <date>1944-06-14</date>
+          <description>
+&lt;div&gt;June 14.  Enroute from Kwajalein to Saipan Island in company
+with Task Group FIFTY ONE POINT EIGHTEEN.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="13-31-00 N" lon="155-18-00 E"/>
+          <posit time="1200" lat="13-34-20 N" lon="154-31-00 E"/>
+          <posit time="2000" lat="13-52-00 N" lon="152-44-30 E"/>
+        </item>
+        <item>
+          <date>1944-06-15</date>
+          <description>
+&lt;div&gt;June 15.  Enroute from Kwajalein to Saipan Island in company
+with Task Group FIFTY ONE POINT EIGHTEEN. At 1100 test fired
+automatic weapons, expending 62 rounds of 20MM, and 35 rounds of
+40MM.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="14-20-00 N" lon="150-07-00 E"/>
+          <posit time="1200" lat="14-30-30 N" lon="149-20-30 E"/>
+          <posit time="2000" lat="15-06-30 N" lon="147-46-30 E"/>
         </item>
       </items>
     </image>
@@ -11042,11 +11190,62 @@ for night.&lt;/p&gt;
       <file>1171.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-06-16</date>
+          <description>
+&lt;div&gt;June 16.  Enroute from Kwajalein to Saipan Island in
+company with Task Group FIFTY ONE POINT EIGHTEEN. At 1630 the
+transports stood in toward the transport unloading area West of
+Saipan to unload troops and supplies as reinforcements for forces
+already ashore. The screen of Task Group FIFTY ONE POINT EIGHTEEN
+patrolled assigned sectors to seaward of the unloading area. At
+2200 various transports of Task Group FIFTY ONE POINT EIGHTEEN
+got underway and retired to the Northwest, escorted by the screen
+of Task Group FIFTY ONE POINT EIGHTEEN.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-53-00 N" lon="145-29-30 E"/>
+          <posit time="1200" lat="15-31-40 N" lon="145-52-15 E"/>
+          <posit time="2000" lat="15-14-00 N" lon="145-45-30 E"/>
+        </item>
+        <item>
+          <date>1944-06-17</date>
+          <description>
+&lt;div&gt;June 17.  Task Group FIFTY ONE POINT EIGHTEEN returned to
+the transport area at 0530. The transports anchored and resumed
+unloading operations. The SAUFLEY reported to Commander Task
+Unit FIFTY TWO POINT TWO POINT ONE in the USS LOUISVILLE to act
+as fire support ship in fire support sector six. At 0825 the
+SAUFLEY commenced bombardment of Aslito Airfield as directed by
+a shore fire control party. Bombardment was completed at 0849,
+having expended 104 rounds of 5"/38 ammunition. ,At 1800 unidentified 
+aircraft were reported Southeast of Saipan. At 1900 enemy
+aircraft were over the transport area, and were taken under fire
+by the transports and landing craft. At 1944 there were no
+longer any unidentified aircraft in the area.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-20-00 N" lon="145-57-15 E"/>
+          <posit time="1200" lat="15-03-40 N" lon="145-54-30 E"/>
+          <posit time="2000" lat="15-00-15 N" lon="145-57-15 E"/>
+        </item>
+        <item>
+          <date>1944-06-18</date>
+          <description>
+&lt;div&gt;June 18.  Patrolling East of Magicienne Bay, Saipan on
+fire support mission. At 0120 commenced scheduled harassing
+illumination of area 140-A, completing at 0520, having expended
+22 rounds of 5"/38 star shells.&lt;/div&gt;
+&lt;p&gt;At 1757 unidentified planes were reported approaching 
+from the Southwest. The SAUFLEY, USS PRINGLE, and USS WALLER formed
+an anti-aircraft screen on the USS LOUISVILLE. At 1820 when
+Southwest of Saipan 32 rounds of 5"/38 ammunition were expended
+against several enemy aircraft, who were shortly thereafter shot
+down by friendly fighters. At 1900 there were no longer any
+unidentified aircraft in the area. At 2251 commenced scheduled
+harassing illumination of area 151-D at intervals controlled by
+the shore fire control party.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="14-59-45 N" lon="146-02-30 E"/>
+          <posit time="1200" lat="14-58-45 N" lon="146-04-30 E"/>
+          <posit time="2000" lat="15-04-30 N" lon="146-31-30 E"/>
         </item>
       </items>
     </image>
@@ -11054,11 +11253,63 @@ for night.&lt;/p&gt;
       <file>1172.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-06-19</date>
+          <description>
+&lt;div&gt;June 19.  Completed illumination mission at 0502, having
+expended 32 rounds of 5"/38 star shells.&lt;/div&gt;
+&lt;p&gt;At 0739 the SAUFLEY moored alongside the USS
+MARYLAND to fuel, completing at 0830. The SAUFLEY then proceeded
+to fire support sector #6. At 0913 unidentified aircraft were
+reported approaching from the Northeast. At 0921 fired on a
+single engined Japanese aircraft flying North over Saipan Channel
+expending 32 rounds of 5"/38 ammunition.&lt;/p&gt;
+&lt;p&gt;At 1020 the SAUFLEY proceeded to her assigned
+patrol station, screening ships in the transport area, proceeded
+to fire support sector #6 at 1400 to relieve the USS SHAW of her
+fire support mission.&lt;/p&gt;
+&lt;p&gt;At 1551 the SAUFLEY opened fire at a target on
+Naftan Point assigned by the shore fire control party. The
+bombardment was completed at 1624, having expended 48 rounds of
+5"/38 ammunition. The SAUFLEY then proceeded to take station
+West of the airfield at Gurguan Point and at 1700 commenced
+bombardment of the airstrip and revetment areas. At 1714 fire
+was shifted to small craft in the harbor off the town of Tinian.
+One of these was seen to explode, and another to smoke. At
+1748 fire was again shifted to the airfield. The bombardment
+was completed by 1854, having expended 397 rounds of 40MM,
+and 158 rounds of 5"/38 ammunition. The SAUFLEY then resumed her
+anti-submarine patrol West of the Transport area. At 2250
+proceeded to fire support sector #6.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-09-30 N" lon="145-41-00 E"/>
+          <posit time="1200" lat="15-15-30 N" lon="145-45-30 E"/>
+          <posit time="2000" lat="15-06-45 N" lon="145-35-00 E"/>
+        </item>
+        <item>
+          <date>1944-06-20</date>
+          <description>
+&lt;div&gt;June 20.   At 0055 commenced star shell illumination of
+area 163-Y. At 0230 the SAUFLEY ceased illumination, having
+expended twelve 5"/38 star shells and having been relieved of
+fire support mission by the USS NORMAN SCOTT. Proceeded to area
+West of Gurguan Point, Tinian.&lt;/div&gt;
+&lt;p&gt;At 0415 commenced bombardment of the airfield
+and small craft in Tinian Harbor. Completed bombardment at
+0554 having expended 97 rounds of 5"/38, and one 5"/38 star
+shell. Returned to fire support sector #6.&lt;/p&gt;
+&lt;p&gt;At 1241 commenced bombardment of areas in the
+vicinity of Magicienne Bay assigned by the Shore fire control
+party. This bombardment was completed at 1527, having expended
+301 rounds of 5"/38 ammunition. All targets were reported
+destroyed. Continued patrolling in fire support sector #6.
+At 1630 the SAUFLEY was relieved by the USS EATON of the fire
+support mission and reported to Commander Task Group FIFTY TWO
+POINT TWO POINT FIVE for duty in the screen covering ships in
+the transport area.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-04-00 N" lon="145-42-00 E"/>
+          <posit time="1200" lat="15-05-15 N" lon="145-43-45 E"/>
+          <posit time="2000" lat="15-08-00 N" lon="145-41-45 E"/>
         </item>
       </items>
     </image>
@@ -11066,11 +11317,60 @@ for night.&lt;/p&gt;
       <file>1173.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-06-21</date>
+          <description>
+&lt;div&gt;June 21.  At 0346 the SAUFLEY proceeded to take station
+South of Naftan Point as fire support ship, and at 0908
+commenced bombardment of an enemy gun emplacement in area 108-L
+in accordance with orders from the Shore fire control party.
+The emplacement was reported destroyed at 0919. 81 rounds of
+5"/38 ammunition were expended. At 1019 commenced bombardment
+of area 108-G. This target was reported destroyed at 1029.
+50 rounds of 5"/38 ammunition were expended. At 1050 the SAUFLEY
+was relieved of the fire support mission by the USS CONWAY and
+proceeded towards transport area. Fueled from the USS GEORGE F.
+ELLIOT at 1205 and joined the transport area screen.&lt;/div&gt;
+&lt;p&gt;At 1830 the SAUFLEY joined up with Task Group
+FIFTY ONE POINT EIGHTEEN consisting of the following ships:
+USS FREMONT (Officer in Tactical Command - Rear Admiral BLANDY)
+USS CUSTER, USS STORM KING, USS LA SALLE, USS BELLATRIX, USS
+GEORGE F. ELLIOT, USS SAUFLEY, USS PERRY, USS BARON and USS ACREE, 
+and commenced retirement to the North in accordance with
+Commander Task Group FIFTY TWO POINT TWO'S despatch 211620.
+At 1912 five rounds of 5"/38 ammunition were expended against
+air flashes believed to have been an anti-aircraft gun on Saipan
+Island. No results were observed. Continued retirement with
+Task Group FIFTY ONE POINT EIGHTEEN.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-06-00 N" lon="145-48-30 E"/>
+          <posit time="1200" lat="15-08-30 N" lon="145-40-45 E"/>
+          <posit time="2000" lat="15-20-30 N" lon="145-39-30 E"/>
+        </item>
+        <item>
+          <date>1944-06-22</date>
+          <description>
+&lt;div&gt;June 22.  Steaming Northwest of Saipan Island in company
+with Task Group FIFTY ONE POINT EIGHTEEN. At 0935 rendezvoused
+with Task Group FIFTY TWO POINT FOUR. The USS LA SALLE, USS GEORGE
+F. ELLIOT, USS STORY KING, and the USS BELLATRIX joined Task Group
+FIFTY TWO POINT FOUR, while the USS HERALD OF THE MORNING, USS
+CAVALIER, the USS J. F. BELL, and the USS AURIGA transferred to
+Task Group FIFTY ONE POINT EIGHTEEN. The USS PERRY was detached
+at 1245.&lt;/div&gt;
+&lt;p&gt;At 1800 Task Group FIFTY ONE POINT EIGHTEEN
+rendezvoused with Task Group SIXTEEN POINT SEVEN for fueling
+purposes. The SAUFLEY fueled from the USS MARIA at 1850, and
+was followed by the other ships of the Task Unit.&lt;/p&gt;
+&lt;p&gt;The two Task Forces separated at 2100, Task Group
+FIFTY ONE POINT EIGHTEEN retired to the Northwest, and Task
+Group SIXTEEN POINT SEVEN retired to the South. The screen of
+Task Group FIFTY ONE POINT EIGHTEEN now consisted of the following 
+ships: The USS BENNION, USS SIGOURNEY, USS BARON, USS ACREE,
+USS CHANDLER and the USS SAUFLEY.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="16-10-00 N" lon="147-15-00 E"/>
+          <posit time="1200" lat="16-14-00 N" lon="147-25-00 E"/>
+          <posit time="2000" lat="15-29-00 N" lon="147-28-00 E"/>
         </item>
       </items>
     </image>
@@ -11078,11 +11378,45 @@ for night.&lt;/p&gt;
       <file>1174.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-06-23</date>
+          <description>
+&lt;div&gt;June 23.  Steaming in company with Task Group fifty ONE
+POINT EIGHTEEN in the area Northeast of Saipan Island. At 1140
+in accordance with Commander Task Group FIFTY ONE POINT EIGHTEEN'S
+despatch 231128 set course to rendezvous with the USS MARYLAND
+enroute from Saipan to Eniwetok, Marshall Islands.&lt;/div&gt;
+&lt;p&gt;The SAUFLEY rendezvoused with the MARYLAND and
+went alongside at 1545. Commander Battleship Division FOUR and
+his staff were transferred to the SAUFLEY by breeches buoy. Upon
+completion of this operation at 1650 the SAUFLEY set course to
+rendezvous with the USS COLORADO West of Saipan Island.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="16-05-00 N" lon="147-02-00 E"/>
+          <posit time="1200" lat="15-36-00 N" lon="146-55-00 E"/>
+          <posit time="2000" lat="15-17-00 N" lon="147-16-30 E"/>
+        </item>
+        <item>
+          <date>1944-06-24</date>
+          <description>
+&lt;div&gt;June 24.  Steaming West of Saipan Island proceeding to
+rendezvous with the USS COLORADO. The SAUFLEY rendezvoused with
+and joined up with Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX
+at 0300 and took station in the anti-submarine screen. Task Unit
+FIFTY TWO POINT SEVENTEEN POINT SIX consisted of the following
+ships: the USS COLORADO, USS INDIANAPOLIS, USS REMEY, USS TISDALE,
+and the USS WADLEIGH, and was approaching Saipan following a night
+retirement to the West.&lt;/div&gt;
+&lt;p&gt;At 0840 the SAUFLEY moored alongside the USS COLORADO, 
+which was lying to in the transport area. Commander
+Battleship Division FOUR and his staff transferred to the USS COLORADO, 
+and the SAUFLEY fueled. Upon completion at 1000 set
+course to rejoin Task Group fifty ONE POINT EIGHTEEN in the area
+Northeast of Saipan. The SAUFLEY rejoined the screen of Task
+Group FIFTY ONE POINT EIGHTEEN at 1755.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-07-45 N" lon="145-40-30 E"/>
+          <posit time="1200" lat="15-30-00 N" lon="145-57-45 E"/>
+          <posit time="2000" lat="15-19-45 N" lon="145-38-50 E"/>
         </item>
       </items>
     </image>
@@ -11090,11 +11424,78 @@ for night.&lt;/p&gt;
       <file>1175.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-06-25</date>
+          <description>
+&lt;div&gt;June 25.  Approaching Saipan from the Northeast in company
+with Task Group FIFTY ONE POINT EIGHTEEN. At 0600 the transports
+proceeded to anchorages in the transport area, and the SAUFLEY
+proceeded to patrol radar picket station #1 in accordance with
+orders from Commander Destroyer Squadron FIFTY SIX. At 1800
+moved into transport area screen station #3.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-26-20 N" lon="145-38-20 E"/>
+          <posit time="1200" lat="15-25-00 N" lon="145-30-45 E"/>
+          <posit time="2000" lat="15-19-45 N" lon="145-38-50 E"/>
+        </item>
+        <item>
+          <date>1944-06-26</date>
+          <description>
+&lt;div&gt;June 26.  Patrolling station #3 in the transport area screen
+West of Saipan. At 1330 proceeded to relieve the USS PATTERSON
+in station #19. At about 2030 enemy aircraft were reported in
+the area. The SAUFLEY took one of these under fire at 2238, and
+expended 86 rounds of 5"/38 ammunition with no observed results.
+At 2320 there were no unidentified aircraft in the area.&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-17-00 N" lon="145-34-30 E"/>
+          <posit time="1200" lat="15-16-30 N" lon="145-35-00 E"/>
+          <posit time="2000" lat="15-02-15 N" lon="145-48-00 E"/>
+        </item>
+        <item>
+          <date>1944-06-27</date>
+          <description>
+&lt;div&gt;June 27.  Patrolling station #19 South of Naftan Point,
+Saipan Island. The SAUFLEY was relieved on station by the USS WADLEIGH 
+and proceeded to anchor in berth #27. LCT258 came
+alongside at 1615 and transferred 122 rounds of 5"/38 star
+shell ammunition to the SAUFLEY.&lt;/div&gt;
+&lt;p&gt;The SAUFLEY then proceeded to take station West
+of Gurguan Point airfield on Tinian and at 2033 commenced intermittent 
+illumination and harassing fire of Tinian Town. Fire
+was checked at 2058, and again at 2320 due to the presence of
+enemy aircraft in the area.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-02-00 N" lon="145-55-00 E"/>
+          <posit time="1200" lat="15-04-20 N" lon="145-46-45 E"/>
+          <posit time="2000" lat="14-57-00 N" lon="145-34-30 E"/>
+        </item>
+        <item>
+          <date>1944-06-28</date>
+          <description>
+&lt;div&gt;June 28.  Patrolling West of Tinian, conducting harassing
+illumination of and bombardment of Tinian Town. This mission
+was completed at 0547, 42 starshells and 35 rounds of 5"/38
+ammunition having been expended. The SAUFLEY then proceeded to
+patrol transport area screen station #8, where she was relieved by
+the USS TWINING at 1000. After orders to go alongside the USS ROCKY MOUNT 
+for star shells had been cancelled, the SAUFLEY
+proceeded to patrol station #6.&lt;/div&gt;
+&lt;p&gt;At 1720 the USS WADLEIGH relieved the SAUFLEY on
+station #6. The SAUFLEY then proceeded to join up with Task
+Group FIFTY TWO POINT SEVENTEEN POINT SIX, consisting of the
+following ships: USS MONTPELIER (Rear Admiral HAYLER - Officer
+in Tactical Command - Commander Task Unit FIFTY TWO POINT SEVENTEEN 
+POINT SIX) USS BIRMINGHAM, USS CLEVELAND, USS INDIANAPOLIS,
+USS MUGFORD (Commander Destroyer Division TWELVE - Commander
+Screen) USS CONYNGHAM, USS BAGLEY, USS SIGOURNEY, USS SAUFLEY,
+and USS STOCKHAM. Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX
+then commenced night retirement to the Northwest along route
+Brown.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-00-45 N" lon="145-36-00 E"/>
+          <posit time="1200" lat="15-02-30 N" lon="145-36-45 E"/>
+          <posit time="2000" lat="15-26-00 N" lon="145-00-00 E"/>
         </item>
       </items>
     </image>
@@ -11102,25 +11503,52 @@ for night.&lt;/p&gt;
       <file>1176.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-06-29</date>
+          <description>
+&lt;div&gt;June 29.  Steaming West of Saipan with Task Unit FIFTY
+TWO POINT SEVENTEEN POINT SIX. At 0140 unidentified aircraft
+were reported in the area. At 0228 there were no longer any
+unidentified aircraft in the area. The Task Unit returned to
+Saipan at dawn. The SAUFLEY was detached and proceeded to
+patrol station #14. At 1030 the SAUFLEY proceeded to and relieved
+the USS CASSIN YOUNG in station #19.&lt;/div&gt;
+&lt;p&gt;The SAUFLEY left station #19 at 1255 and proceeded
+to berth #27 where she fueled from the USS SUAMICO. Upon completion 
+of fueling the SAUFLEY proceeded to fire support sector #5 and
+reported for a fire support mission. At 1817 commenced intermittent 
+star shell illumination of area assigned by the shore fire
+control party.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-05-00 N" lon="145-40-30 E"/>
+          <posit time="1200" lat="14-59-30 N" lon="145-51-00 E"/>
+          <posit time="2000" lat="15-12-15 N" lon="145-50-30 E"/>
+        </item>
+        <item>
+          <date>1944-06-30</date>
+          <description>
+&lt;div&gt;June 30.  Patrolling in fire support sector #5, conducting
+harassing illumination of assigned area. This mission was
+completed at 0530 having expended seventy six 5"/38 star shells.&lt;/div&gt;
+&lt;p&gt;At 0642 the SAUFLEY proceeded North of Saipan to
+patrol station #9. The USS CLEMSON relieved the SAUFLEY at 1555,
+and the SAUFLEY proceeded to join up with Task Group FIFTY TWO
+POINT SEVENTEEN POINT SIX, consisting of the following ships:
+USS LOUISVILLE (Rear Admiral OLDENDORF - Commander Task Unit
+FIFTY TWO POINT SEVENTEEN POINT SIX) USS INDIANAPOLIS, USS MONTPELIER, 
+USS CLEVELAND, USS SUAMICO, USS REMEY, USS SELFRIDGE,
+USS WADLEIGH, USS CONYNGHAM, USS PATTERSON + USS W. C. MILLER,
+Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX commenced night
+retirement on route White - 1. Unidentified aircraft were in
+the area from, 2006 until 2018.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-15-20 N" lon="145-46-00 E"/>
+          <posit time="1200" lat="15-16-20 N" lon="145-48-00 E"/>
+          <posit time="2000" lat="15-28-15 N" lon="145-58-15 E"/>
         </item>
       </items>
     </image>
     <image>
       <file>1177.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
   </images>
 </source>

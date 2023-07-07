@@ -19,7 +19,9 @@ create_word_list <- function() return(c(
   "Bogacio", "Malaupaina", "Tetipari", "Bulari", "Aruligo", "Simbo", "Buraki", "Sumboli",
   "Laifa", "Torokina", "Brougham", "Hathorn", "Doma", "Nura", "Tetere", "Barahun",
   "Borpop", "Nabuto", "Namarodu", "Feni", "Buka", "Reini", "Jaba", "Puruata",
-  "Kiape", "Laruma", "Magine", "Emirau", "Rua", "Sura", 
+  "Kiape", "Laruma", "Magine", "Emirau", "Rua", "Sura", "Mussau", "Ellice",
+  "Maalaea", "Lahaina", "Kahoolawe", "Kwajalein", "Saipan", "Gea", "Aslito",
+  "Magicienne", "Naftan", "Gurguan", "Tinian",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -50,7 +52,8 @@ create_word_list <- function() return(c(
   "george", "rds", "stbd", "despatch", "zag", "superheaters", "prelanding",
   "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD", "FD", "SG", "SC",
   "torpedoman", "exploder", "oiler", "reberth", "DG", "flashless", "PhM",
-  "NPM", "depermed", "rebricking", 
+  "NPM", "depermed", "rebricking", "Enroute", "enroute", "despatch", "Despatch",
+  "engined", "cancelled",
   # command terms
   #  CDD - Commander Destroyer Division
   #  CDS - Commander Destroyer Squadron
@@ -65,7 +68,8 @@ create_word_list <- function() return(c(
   "Peyton", "PEYTON", "Tolman", "SCHUTZ", "Ainsworth", "Briscoe", "KILAND",
   "ROSENDAHL", "NEVILLE", "CONOLLY", "WR", "WASHBURNE", "HURFF", "MULKEY", 
   "Hanard", "COULLING", "Stalfa", "PAHL", "BLACKLEDGE", "REIFSNIDER", "DICKENSON",
-  "MacAinsh", "Conniff", "Kianowski", "WADSWORTH", "Claxton"
+  "MacAinsh", "Conniff", "Kianowski", "WADSWORTH", "Claxton", "Blandy", "HAYLER",
+  "OLDENDORF"
 ))
 
 # Radars
