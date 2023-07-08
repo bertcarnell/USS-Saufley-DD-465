@@ -292,8 +292,7 @@ create_leaflet_plots <- function(latlon, outpath, b_save = TRUE)
   heatm <- leaflet(data = plot_data_full %>%
                           dplyr::filter(!is.na(lat) & !is.na(lon)),
                    options = leafletOptions(zoomControl = FALSE)) %>%
-    #leaflet::addProviderTiles(leaflet::providers$Esri.WorldGrayCanvas) %>%
-    leaflet::addProviderTiles(leaflet::providers$Stamen) %>%
+    leaflet::addProviderTiles(leaflet::providers$Esri.WorldGrayCanvas) %>%
     leaflet::addCircleMarkers(lng = ~lon, lat = ~lat, radius = 2, fill = TRUE, stroke = FALSE) %>%
     leaflet::fitBounds(lng1 = 90, lng2 = 220, lat1 = -38, lat2 = 38)
 

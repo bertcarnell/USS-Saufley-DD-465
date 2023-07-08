@@ -10642,7 +10642,7 @@ Cove, San Clemente Island.&lt;/div&gt;
         <item>
           <date>1944-10-22</date>
           <description>
-&lt;div&gt;October 22.  0615 Underway in company with USS CONWAY (Comander
+&lt;div&gt;October 22.  0615 Underway in company with USS CONWAY (Commander
 Destroyer Division FORTY FOUR, Officer in Tactical Command) and
 USS PHILIP from Wilson Cove, and proceeded to Pyramid Cove, San
 Clemente Island, to conduct shore bombardment exercises in accordance 
@@ -18312,11 +18312,24 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0460.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-12-01</date>
+          <description>
+&lt;div&gt;December 1. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-02</date>
+          <description>
+&lt;div&gt;December 2. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -18324,11 +18337,44 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0461.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-12-03</date>
+          <description>
+&lt;div&gt;December 3. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-04</date>
+          <description>
+&lt;div&gt;December 4. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-05</date>
+          <description>
+&lt;div&gt;December 5. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-06</date>
+          <description>
+&lt;div&gt;December 6. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -18336,11 +18382,74 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0462.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-12-07</date>
+          <description>
+&lt;div&gt;December 7. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-08</date>
+          <description>
+&lt;div&gt;December 8-17. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-18</date>
+          <description>
+&lt;div&gt;December 18. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-19</date>
+          <description>
+&lt;div&gt;December 19. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-20</date>
+          <description>
+&lt;div&gt;December 20. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-21</date>
+          <description>
+&lt;div&gt;December 21. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-22</date>
+          <description>
+&lt;div&gt;December 22. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -18348,11 +18457,64 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0463.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-12-23</date>
+          <description>
+&lt;div&gt;December 23. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-24</date>
+          <description>
+&lt;div&gt;December 24. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-25</date>
+          <description>
+&lt;div&gt;December 25. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-26</date>
+          <description>
+&lt;div&gt;December 26. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-27</date>
+          <description>
+&lt;div&gt;December 27. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-28</date>
+          <description>
+&lt;div&gt;December 28. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -18360,11 +18522,34 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0464.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-12-29</date>
+          <description>
+&lt;div&gt;December 29. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-30</date>
+          <description>
+&lt;div&gt;December 30. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1945-12-31</date>
+          <description>
+&lt;div&gt;December 31. &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="" lon=""/>
+          <posit time="1200" lat="" lon=""/>
+          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -18382,11 +18567,56 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0141.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-11-01</date>
+          <description>
+&lt;div&gt;November 1.  Steaming in company with Task Unit ONE HUNDRED
+SIXTEEN POINT ELEVEN POINT NINE composed of USS CONWAY (Officer
+in Tactical Command - Commander Destroyer Division FORTY FOUR-
+Captain DYER), USS PHILIP, and USS SAUFLEY enroute from San
+Diego, to Pearl Harbor, T. H. At 0235 detached from Task Unit
+ONE HUNDRED SIXTEEN POINT ELEVEN POINT NINE in accordance with
+Commander Hawaiian Sea Frontier's despatch 010549 and reported
+to USS ALTAHAMA as escort to Pearl Harbor. At 1225 detached
+by USS ALTAHAMA and proceeded into Pearl Harbor, fueled, and
+moored alongside USS CONWAY.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="21-38-45 N" lon="156-29-30 W"/>
+          <posit time="1200" lat="21-14-20 N" lon="157-40-00 W"/>
+        </item>
+        <item>
+          <date>1945-11-02</date>
+          <description>
+&lt;div&gt;November 2.  Moored alongside USS CONWAY in Pearl Harbor, T.H.&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+        </item>
+        <item>
+          <date>1945-11-03</date>
+          <description>
+&lt;div&gt;November 3.  Moored alongside USS CONWAY in Pearl Harbor, T.H.
+At 0654 underway with USS PRINGLE (Officer in Tactical Command -
+Commander Destroyer Squadron TWENTY TWO - Captain SMITH), USS
+WALLER, USS CONWAY, and USS RENSHAW in accordance with Commander
+Destroyer Pacific Fleet Speedletter serial OP-0253 for training
+exercises. At 1000 commenced training exercises South of Oahu,
+T.H.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="21-25-40 N" lon="157-55-40 W"/>
+          <posit time="1200" lat="20-34-10 N" lon="157-17-00 W"/>
+          <posit time="2000" lat="20-30-00 N" lon="157-10-30 W"/>
+        </item>
+        <item>
+          <date>1945-11-04</date>
+          <description>
+&lt;div&gt;November 4.  Steaming in company with USS PRINGLE (Officer in
+Tactical Command - Destroyer Squadron TWENTY TWO - Captain SMITH)
+USS WALLER, USS CONWAY and USS RENSHAW conducting training
+exercises South of Oahu Island, T. H. At 1616 in accordance
+with Destroyer Squadron TWENTY TWO dispatch 050130 USS RENSHAW
+and USS SAUFLEY detached and proceeded into Pearl Harbor, T. H.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="21-16-00 N" lon="157-45-00 W"/>
+          <posit time="1200" lat="21-09-45 N" lon="157-32-55 W"/>
         </item>
       </items>
     </image>
@@ -18394,11 +18624,47 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0142.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-11-05</date>
+          <description>
+&lt;div&gt;November 5.  Moored alongside USS RENSHAW in Pearl Harbor, T. H.
+At 0935 fueled ship. At 1310 took on board ammunition and
+torpedoes.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1945-11-06</date>
+          <description>
+&lt;div&gt;November 6.  Moored alongside USS RENSHAW in Pearl Harbor, T. H.
+At 0632 underway with USS COLORADO (Officer in Tactical Command),
+and USS RENSHAW in accordance with Conmander in Chief, Pacific
+Fleet secret dispatch 052153. Formed Task Unit TWELVE POINT FIVE
+POINT FIVE and set course for Ulithi, Caroline Islands. At 1930
+changed to 110 zone time.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="21-14-20 N" lon="157-55-00 W"/>
+          <posit time="1200" lat="20-18-30 N" lon="158-01-00 W"/>
+          <posit time="2000" lat="19-22-00 N" lon="159-49-30 W"/>
+        </item>
+        <item>
+          <date>1945-11-07</date>
+          <description>
+&lt;div&gt;November 7.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="19-40-00 N" lon="163-18-30 W"/>
+          <posit time="1200" lat="19-45-45 N" lon="164-25-00 W"/>
+          <posit time="2000" lat="19-28-30 N" lon="166-32-30 W"/>
+        </item>
+        <item>
+          <date>1945-11-08</date>
+          <description>
+&lt;div&gt;November 8.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
+1900 changed to +11 time zone.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="18-59-00 N" lon="170-02-00 W"/>
+          <posit time="1200" lat="18-45-00 N" lon="171-08-15 W"/>
+          <posit time="2000" lat="18-09-30 N" lon="173-33-30 W"/>
         </item>
       </items>
     </image>
@@ -18406,11 +18672,59 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0143.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-11-09</date>
+          <description>
+&lt;div&gt;November 9.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
+1900 changed to +12 zone time. At 2400 changed to -12 zone time
+and local date to November 11.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="17-26-45 N" lon="176-52-45 W"/>
+          <posit time="1200" lat="17-12-45 N" lon="177-59-30 W"/>
+          <posit time="2000" lat="16-43-40 N" lon="179-44-40 W"/>
+        </item>
+        <item>
+          <date>1945-11-11</date>
+          <description>
+&lt;div&gt;November 11.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-56-00 N" lon="176-16-00 E"/>
+          <posit time="1200" lat="15-40-00 N" lon="175-14-00 E"/>
+          <posit time="2000" lat="15-03-00 N" lon="173-05-00 E"/>
+        </item>
+        <item>
+          <date>1945-11-12</date>
+          <description>
+&lt;div&gt;November 12.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
+1055 fueled underway alongside USS COLORADO. At 1900 changed
+to -11 zone time.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="14-20-30 N" lon="169-44-30 E"/>
+          <posit time="1200" lat="14-57-40 N" lon="169-47-00 E"/>
+          <posit time="2000" lat="13-33-00 N" lon="168-08-00 E"/>
+        </item>
+        <item>
+          <date>1945-11-13</date>
+          <description>
+&lt;div&gt;November 13.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="12-34-30 N" lon="164-40-00 E"/>
+          <posit time="1200" lat="12-03-00 N" lon="163-43-30 E"/>
+          <posit time="2000" lat="10-52-00 N" lon="162-01-30 E"/>
+        </item>
+        <item>
+          <date>1945-11-14</date>
+          <description>
+&lt;div&gt;November 14.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
+1930 changed to -10 zone time.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-37-00 N" lon="158-29-30 E"/>
+          <posit time="1200" lat="10-34-00 N" lon="157-27-00 E"/>
+          <posit time="2000" lat="10-32-30 N" lon="155-00-00 E"/>
         </item>
       </items>
     </image>
@@ -18418,11 +18732,48 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0144.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-11-15</date>
+          <description>
+&lt;div&gt;November 15.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-21-20 N" lon="151-59-00 E"/>
+          <posit time="1200" lat="10-21-00 N" lon="151-05-00 E"/>
+          <posit time="2000" lat="10-16-50 N" lon="149-02-00 E"/>
+        </item>
+        <item>
+          <date>1945-11-16</date>
+          <description>
+&lt;div&gt;November 16.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.
+1930 changed to -9 zone time.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-15-30 N" lon="145-51-00 E"/>
+          <posit time="1200" lat="10-09-00 N" lon="145-03-00 E"/>
+          <posit time="2000" lat="09-58-30 N" lon="142-40-00 E"/>
+        </item>
+        <item>
+          <date>1945-11-17</date>
+          <description>
+&lt;div&gt;November 17.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
+0816 entered Ulithi, fueled, took on ammunition, and moored
+alongside USS RENSHAW at 1425.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-59-00 N" lon="139-54-50 E"/>
+        </item>
+        <item>
+          <date>1945-11-18</date>
+          <description>
+&lt;div&gt;November 18.  Moored alongside USS RENSHAW in Ulithi, Caroline
+Islands. At 0510 underway with USS COLORADO and USS RENSHAW in
+accordance with Commander Task Unit TWELVE POINT FIVE POINT FIVE
+dispatch 170639. Took departure from Ulithi for Leyte, Philippine
+Islands.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-11-20 N" lon="139-57-00 E"/>
+          <posit time="1200" lat="10-14-50 N" lon="138-39-30 E"/>
+          <posit time="2000" lat="10-16-30 N" lon="136-24-00 E"/>
         </item>
       </items>
     </image>
@@ -18430,11 +18781,45 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0145.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-11-19</date>
+          <description>
+&lt;div&gt;November 19.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Ulithi, Caroline Islands to Leyte, Philippine Islands.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-23-00 N" lon="133-12-00 E"/>
+          <posit time="1200" lat="10-31-30 N" lon="131-54-00 E"/>
+          <posit time="2000" lat="10-35-30 N" lon="129-45-00 E"/>
+        </item>
+        <item>
+          <date>1945-11-20</date>
+          <description>
+&lt;div&gt;November 20.  Enroute with Task Unit TWELVE POINT FIVE POINT
+FIVE from Ulithi, Caroline Islands to Leyte, Philippine Islands.
+At 0750 USS TRATHEN joined formation. Task Unit proceeded into
+Leyte Gulf. At 1149 Task Unit TWELVE POINT FIVE POINT FIVE
+dissolved and all three ships became part of Task Group SEVENTY
+SEVEN POINT TWO (Rear Admiral RUDDOCK - Officer in Tactical Command
+in USS MARYLAND). SAUFLEY joined anti-submarine screen of Task
+Group SEVENTY SEVEN POINT TWO.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-39-30 N" lon="126-11-00 E"/>
+          <posit time="1200" lat="10-50-00 N" lon="125-17-00 E"/>
+          <posit time="2000" lat="10-52-30 N" lon="125-25-00 E"/>
+        </item>
+        <item>
+          <date>1945-11-21</date>
+          <description>
+&lt;div&gt;November 21.  Underway in Leyte Gulf, Philippine Islands with
+ships of Task Group SEVENTY SEVEN POINT TWO. SAUFLEY on station
+in anti-submarine screen. During morning SAUFLEY screened Task
+Group fueling operations and at 1045 fueled from USS CARIBOU.
+Upon completion of fueling SAUFLEY proceeded to patrol station Dog
+and relieved USS MACDONOUGH. Alerts at various times during the
+day caused by unidentified aircraft in vicinity.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-40-15 N" lon="125-16-30 E"/>
+          <posit time="1200" lat="10-52-10 N" lon="125-15-30 E"/>
+          <posit time="2000" lat="10-15-00 N" lon="125-20-30 E"/>
         </item>
       </items>
     </image>
@@ -18442,11 +18827,53 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0146.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-11-22</date>
+          <description>
+&lt;div&gt;November 22.  Patrolling on station Dog in Surigao Straits,
+Philippine Islands in company with USS MUGFORD. Alerts throughout 
+the day caused by unidentified aircraft in the area. At
+1610 SAUFLEY fired on enemy plane identified as a Kate which
+passed close ahead of ship. Sixteen rounds of 5"/38 AA Common
+and 40 rounds of 40MM expended. No casualties. No damage
+observed to plane which disappeared to Southwest low over the
+water. (See SAUFLEY action report serial 0564 of 9 December
+1944). At 1759 observed single, unidentified enemy plane drop
+bomb near USS MUGFORD and disappear to the West over Leyte
+Island.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-15-00 N" lon="125-20-00 E"/>
+          <posit time="1200" lat="10-15-30 N" lon="125-22-00 E"/>
+          <posit time="2000" lat="10-14-00 N" lon="125-19-30 E"/>
+        </item>
+        <item>
+          <date>1945-11-23</date>
+          <description>
+&lt;div&gt;November 23.  Patrolling on station Dog in Surigao Straits,
+Philippine Islands, in company with USS MUGFORD. Alerts
+throughout the day caused by unidentified aircraft in the area.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-15-15 N" lon="125-23-30 E"/>
+          <posit time="1200" lat="10-14-00 N" lon="125-25-00 E"/>
+          <posit time="2000" lat="10-14-30 N" lon="125-24-30 E"/>
+        </item>
+        <item>
+          <date>1945-11-24</date>
+          <description>
+&lt;div&gt;November 24.  Patrolling on station Dog in Surigao Straits,
+Philippine Islands in company with USS MUGFORD. At 1235 SAUFLEY
+relieved by USS O'BANNON and proceeded to join Task Group
+SEVENTY SEVEN POINT TWO. At 1430 went alongside USS PENNSYLVANIA
+and received provisions. Combat Air Patrol destroyed two enemy
+planes attacking nearby shipping during this time. Upon completion
+alongside USS PENNSYLVANIA proceeded to USS CARIBOU and fueled.
+After fueling joined anti-submarine screen of Task Group SEVENTY
+SEVEN POINT TWO. At 1933 during an alert fired on low flying
+plane closing formation from the East. No results observed. See
+SAUFLEY action report serial 0560 of 9 December 1944.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-15-00 N" lon="125-20-00 E"/>
+          <posit time="1200" lat="10-15-30 N" lon="125-22-00 E"/>
+          <posit time="2000" lat="10-45-00 N" lon="125-20-30 E"/>
         </item>
       </items>
     </image>
@@ -18454,11 +18881,65 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0147.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-11-25</date>
+          <description>
+&lt;div&gt;November 25.  Steaming with ships of Task Group SEVENTY SEVEN
+POINT TWO in Leyte Gulf, Philippine Islands (Officer in Tactical
+Command - Rear Admiral RUDDOCK in USS MARYLAND). At 0800 Task
+Group commenced fueling operations At 1250 proceeded to patrol
+station Baker Charlie and relieved USS SIGOURNEY as directed by
+Screen Commander of Task Group SEVENTY SEVEN POINT TWO. Alerts
+at various times during day caused by enemy planes in the area.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-45-50 N" lon="125-30-00 E"/>
+          <posit time="1200" lat="10-55-00 N" lon="125-30-30 E"/>
+          <posit time="2000" lat="10-31-30 N" lon="125-40-10 E"/>
+        </item>
+        <item>
+          <date>1945-11-26</date>
+          <description>
+&lt;div&gt;November 26.  Patrolling on station Baker Charlie East of Leyte
+Gulf, Philippine Islands. At 1241 relieved by USS SIGOURNEY
+proceeded into Leyte Gulf, and joined anti-submarine screening
+Task Group SEVENTY SEVEN POINT TWO. Frequent alerts during day
+caused by enemy planes in the area.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-30-30 N" lon="125-38-10 E"/>
+          <posit time="1200" lat="10-32-30 N" lon="125-39-00 E"/>
+          <posit time="2000" lat="10-43-00 N" lon="125-20-30 E"/>
+        </item>
+        <item>
+          <date>1945-11-27</date>
+          <description>
+&lt;div&gt;November 27.  Steaming in Leyte Gulf, Philippine Islands with
+ships of Task Group SEVENTY SEVEN POINT TWO (officer in Tactical
+Command - Rear Admiral RUDDOCK in USS MARYLAND). At 0853 proceeded 
+to go alongside USS CARIBOU and fuel. Upon completion of
+fueling rejoined screen at 0954 as directed by Screen Conmander
+of Task Group SEVENTY SEVEN POINT TWO. At 1137 numerous enemy
+planes identified as Vals, Jills and Kates attacked Task Group
+SEVENTY SEVEN POINT TWO. Observed two suicide dive bombers hit
+on USS ST LOUIS. SAUFLEY took under fire various attacking planes
+as opportunity permitted. Fired with several other ships upon
+torpedo plane coming in from portside. Plane hit and crashed into
+water at 1224. During attack SAUFLEY expended 39 rounds of
+5"/38 AA Common projectiles, 30 special projectiles, 185 rounds
+of 40MM projectiles, and 480 rounds of 20MM projectiles. In all,
+three planes were taken under fire by this ship and hits observed
+on all of them. See SAUFLEY action report serial 0561 of
+9 December 1944. Attack terminated at 1230
+At 1814 departed from Task Group SEVENTY SEVEN
+POINT TWO and in accordance with Commander Destroyer Squadron
+TWENTY TWO Operation Order 1-44 formed up with Destroyer Division
+FORTY THREE composed of USS WALLER (Officer in Tactical Command -
+Captain SMITH - Commander Destroyer Squadron TWENTY TWO), USS
+RENSHAW, USS PRINGLE and USS SAUFLEY and proceeded to Ormoc Bay,
+Leyte Island for shore bombardment and anti-shipping sweep. At
+2339 commenced bombardment of designated targets on the beach.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-48-20 N" lon="125-30-00 E"/>
+          <posit time="1200" lat="10-52-10 N" lon="125-28-15 E"/>
+          <posit time="2000" lat="09-49-40 N" lon="125-21-10 E"/>
         </item>
       </items>
     </image>
@@ -18466,11 +18947,37 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0148.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-11-28</date>
+          <description>
+&lt;div&gt;November 28.  November 28. Steaming in company with USS WALLER (Officer in
+Tactical Command - Captain SMITH - Commander Destroyer Squadron -
+TWENTY TWO) USS PRINGLE, and USS RENSHAW executing bombardment
+and anti-shipping sweep in Ormoc Bay, Leyte, Philippine Islands.
+At 0037 completed bombardment of designated targets, having
+expended 200 rounds of 5"/38 AA Common projectiles.&lt;/div&gt;
+&lt;p&gt;At 0132 the division opened fire on a surface
+contact believed to be an enemy submarine. Contact visually
+identified as small Japanese submarine at 0140 and observed
+to sink shortly thereafter. Survivors were observed in the water.
+The SAUFLEY expended 57 rounds of 5"/38 AA Common projectiles,
+3 rounds of 5"/38 illuminating projectiles, and 50 rounds of
+40MM ammunition. No casualties. See SAUFLEY action report
+serial 0565 of 10 December 1944. At 0200 the division withdrew
+from Ormoc Bay and proceeded South around Leyte Island.&lt;/p&gt;
+&lt;p&gt;The division rejoined Task Group SEVENTY SEVEN
+POINT TWO at 0710 and all ships took designated stations in anti-
+submarine screen. At 1127 proceeded into San Pedro Bay as
+directed by the Screen Commander of Task Group SEVENTY SEVEN
+POINT TWO and fueled from the USS ARETHUSA.&lt;/p&gt;
+&lt;p&gt;Upon completion of fueling, SAUFLEY proceeded to
+picket station Easy in accordance with orders from Commander
+Destroyer Squadron TWENTY ONE and commenced patrolling station.&lt;/p&gt;
+&lt;p&gt;Frequent alerts during the day caused by unidentified 
+aircraft in the area.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="10-40-30 N" lon="125-20-10 E"/>
+          <posit time="1200" lat="10-50-00 N" lon="125-18-10 E"/>
+          <posit time="2000" lat="10-23-20 N" lon="126-03-16 E"/>
         </item>
       </items>
     </image>
@@ -18478,25 +18985,56 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0149.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1945-11-29</date>
+          <description>
+&lt;div&gt;November 29.  Patrolling on picket station Easy Southeast
+of Homonhon Island, Philippine Islands. At 0645 proceeded to
+picket station Baker Charlie as instructed by Commander Destroyer 
+Squadron TWENTY ONE and relieved the USS TAYLOR.&lt;/div&gt;
+&lt;p&gt;At 1755 USS AULICK observed to commence firing
+upon an air target not visible from the SAUFLEY. SAUFLEY
+commenced firing with machine guns at 1755 on a single engine Japanese 
+plane diving on ship from port side. This plane crashed
+close off starboard bow. Second plane at this time dove in from
+the port quarter and crashed into the ship near the waterline
+below the port wing of the bridge. At 1759 machine guns opened
+fire on third plane coming in astern. This plane dropped bombs
+which landed in water close aboard amidships on the starboard
+side and was then observed to catch fire and crash into water
+on the starboard side. During this attack the SAUFLEY expended 284
+rounds of 40MM anmunition and 480 rounds of 20MM ammunition.
+Hits were observed on all the attacking planes and caused them
+to crash. See SAUFLEY action report serial 0562 of 9 December
+1944.&lt;/p&gt;
+&lt;p&gt;As a result of the attack the SAUFLEY suffered
+considerable hull damage on the starboard side of the bow just
+below the waterline and minor damage on the port side of main
+deck and superstructure deck below the bridge.&lt;/p&gt;
+&lt;p&gt;Personnel casualties were light and one man was
+lost over the side from the concussion of the plane explosion.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="10-24-00 N" lon="125-20-20 E"/>
+          <posit time="1200" lat="10-23-45 N" lon="125-21-10 E"/>
+          <posit time="2000" lat="10-23-20 N" lon="125-20-30 E"/>
+        </item>
+        <item>
+          <date>1945-11-30</date>
+          <description>
+&lt;div&gt;November 30.  Patrolling in picket station Baker between
+Homonhon Island and Dinagat Island, Philippine Islands. At
+1235 SAUFLEY relieved by USS SUMNER and proceeded into Leyte Gulf
+to join Task Group SEVENTY SEVEN POINT TWO. Joined Task Group
+SEVENTY SEVEN POINT TWO at 1400 and took station in anti-submarine
+screen.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="10-30-20 N" lon="125-40-20 E"/>
+          <posit time="1200" lat="10-30-30 N" lon="125-40-10 E"/>
+          <posit time="2000" lat="10-38-15 N" lon="125-22-40 E"/>
         </item>
       </items>
     </image>
     <image>
       <file>0150.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
   </images>
 </source>
