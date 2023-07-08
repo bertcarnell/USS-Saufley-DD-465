@@ -10652,11 +10652,13 @@ for night.&lt;/p&gt;
       <file>0119.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-09-01</date>
+          <description>
+&lt;div&gt;September 1. - 30. This vessel was undergoing scheduled overhaul
+at the Bethlehem Steel Company's Docks, Central Basin, San
+Francisco, California in accordance with Commander Service Force,
+Pacific Fleet, dispatch 252348 of August 1944.&lt;/div&gt;
+          </description>
         </item>
       </items>
     </image>
@@ -10674,11 +10676,46 @@ for night.&lt;/p&gt;
       <file>0923.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-08-01</date>
+          <description>
+&lt;div&gt;August 1.  Patrolling picket station Charlie, 25 miles
+Southwest of Tinian Island. At 0550 closed the transport area
+and relieved the USS PRICHETT on station #3. At 1225 the
+SAUFLEY was relieved on station by the USS PHILIP and proceeded
+to anchor in the transport area to receive 114 rounds of 5"/38
+star shells from the USS MAZAMA. Underway at 1846 and proceeded
+to patrol station #32. At 2130 proceeded to station 14 Able to
+act as stand-by fire support ship.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="16-16-15 N" lon="145-37-00 E"/>
+          <posit time="1200" lat="15-16-00 N" lon="145-36-15 E"/>
+          <posit time="2000" lat="15-04-45 N" lon="145-31-45 E"/>
+        </item>
+        <item>
+          <date>1944-08-02</date>
+          <description>
+&lt;div&gt;August 2.  Patrolling station #14 Able, west of Tinian Island, 
+as stand-by fire support ship. At 0635 proceeded to patrol
+station #32 Able, and at 0815 proceeded to relieve the USS CONY
+on station 10 Able. At 1530 proceeded to station #2.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="14-58-00 N" lon="145-36-00 E"/>
+          <posit time="1200" lat="14-51-45 N" lon="145-29-00 E"/>
+          <posit time="2000" lat="14-58-30 N" lon="145-28-45 E"/>
+        </item>
+        <item>
+          <date>1944-08-03</date>
+          <description>
+&lt;div&gt;August 3.  Patrolling station #2 west of Tinian Island. At
+1100 the SAUFLEY was relieved on station by the USS BAGLEY and
+proceeded to take station astern of the USS PATUXENT prior to
+fueling. At 1250 commenced fueling. At 1330 completed fueling.
+Proceeded to relieve the USS EATON in station #13 at 1348. At
+1758 proceeded to station #5 of screening plan Xray.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-00-00 N" lon="145-24-45 E"/>
+          <posit time="1200" lat="15-04-45 N" lon="145-29-15 E"/>
+          <posit time="2000" lat="15-16-45 N" lon="145-36-50 E"/>
         </item>
       </items>
     </image>
@@ -10686,11 +10723,49 @@ for night.&lt;/p&gt;
       <file>0924.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-08-04</date>
+          <description>
+&lt;div&gt;August 4.  Patrolling station #5 west of Saipan Island. At
+1837 the SAUFLEY was relieved on station by the USS WADLEIGH, and
+proceeded to fire support sector #3. At 2045 commenced harassing
+illumination of areas on the east coast of Tinian at the rate of
+to star shells per hour.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-18-15 N" lon="145-44-45 E"/>
+          <posit time="1200" lat="15-17-00 N" lon="145-38-00 E"/>
+          <posit time="2000" lat="14-55-30 N" lon="145-37-30 E"/>
+        </item>
+        <item>
+          <date>1944-08-05</date>
+          <description>
+&lt;div&gt;August 5.  Patrolling fire support sector #3 west of Tinian
+Island conducting harassing illumination of areas on the east
+coast of Tinian Island. Illumination was completed at 0547. 72
+rounds of 5"/38 star shell ammunition having been expended. A
+Japanese prisoner was recovered from the water at 0640 and the
+SAUFLEY proceeded to go alongside the USS GEMSBOK to fuel. Upon
+completing fueling the SAUFLEY anchored in the transport area.
+Underway at 1655 and proceeded to patrol radar picket station Able,
+20 miles northwest of Agingan Point, Saipan Island.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-08-40 N" lon="145-44-30 E"/>
+          <posit time="1200" lat="15-09-50 N" lon="145-40-40 E"/>
+          <posit time="2000" lat="15-21-30 N" lon="145-29-30 E"/>
+        </item>
+        <item>
+          <date>1944-08-06</date>
+          <description>
+&lt;div&gt;August 6.  Patrolling radar picket station Able, northwest
+of Saipan Island. At 1000 closed the transport area to anchor and
+at 1008 transferred the Prisoner of War to the Provost Marshall on
+Saipan Island. At 1044 underway and proceeded to relieve the USS CABANA 
+on station #5. At 1110 the SAUFLEY was relieved on station
+by the USS DIONNE, and proceeded to patrol radar picket station
+Able&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-08-40 N" lon="145-46-30 E"/>
+          <posit time="1200" lat="15-09-50 N" lon="145-36-20 E"/>
+          <posit time="2000" lat="15-21-30 N" lon="145-32-15 E"/>
         </item>
       </items>
     </image>
@@ -10698,11 +10773,54 @@ for night.&lt;/p&gt;
       <file>0925.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-08-07</date>
+          <description>
+&lt;div&gt;August 7.  Patrolling radar picket station Able northwest of
+Saipan Island. At 0630 proceeded to relieve the USS CABANA in
+station #4. At 1337 the SAUFLEY was relieved on station by the
+USS REMEY, and proceeded to go alongside the USS WHIPPET to fuel.
+At 1738 relieved the USS BAGLEY on station 6 Able.&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-13-40 N" lon="145-34-30 E"/>
+          <posit time="1200" lat="15-12-00 N" lon="145-33-30 E"/>
+          <posit time="2000" lat="15-05-30 N" lon="145-33-00 E"/>
+        </item>
+        <item>
+          <date>1944-08-08</date>
+          <description>
+&lt;div&gt;August 8.  Patrolling station 6 Able. At 1800 the SAUFLEY
+was relieved on station by the USS PATTERSON, and proceeded to
+relieve the USS YARNALL on station 12 Able.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-03-45 N" lon="145-27-30 E"/>
+          <posit time="1200" lat="15-03-45 N" lon="145-27-30 E"/>
+          <posit time="2000" lat="14-56-20 N" lon="145-30-00 E"/>
+        </item>
+        <item>
+          <date>1944-08-09</date>
+          <description>
+&lt;div&gt;August 9.  Patrolling station 12 Able southwest of Tinian
+Island. At 1009 the SAUFLEY was relieved on station by the USS YARNALL 
+and proceeded to go alongside the USS PECOS to fuel. At
+1700 proceeded to enter Tanapag Harbor and go alongside YC 1039
+to receive provisions. Underway again at 1845 and proceeded to
+relieve the USS LEVY on station #40&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="14-53-00 N" lon="145-30-30 E"/>
+          <posit time="1200" lat="15-09-00 N" lon="145-36-10 E"/>
+          <posit time="2000" lat="15-08-00 N" lon="145-46-00 E"/>
+        </item>
+        <item>
+          <date>1944-08-10</date>
+          <description>
+&lt;div&gt;August 10.  Patrolling station #4 west of Saipan Island. 0916
+proceeded to patrol stations 10 Able and 12 Able. At 1723 the USS PRINGLE 
+commenced patrolling station 10 Able.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-10-00 N" lon="145-24-00 E"/>
+          <posit time="1200" lat="15-10-00 N" lon="145-27-00 E"/>
+          <posit time="2000" lat="15-10-00 N" lon="145-27-30 E"/>
         </item>
       </items>
     </image>
@@ -10710,11 +10828,50 @@ for night.&lt;/p&gt;
       <file>0926.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-08-11</date>
+          <description>
+&lt;div&gt;August 11.  Patrolling station 12 Able west of Tinian Island.
+At 0620 relieved the USS PRINGLE on station 10 Able. Commenced
+patrolling both stations. At 0900 included station 14 Able in the
+patrol and at 1330 recovered two Japanese Prisoners of War from the
+water. At 1530 closed the transport area to fuel from the USS PECOS
+and transfer the prisoners to the Provost Marshall on Saipan Island.&lt;/div&gt;
+&lt;p&gt;Upon completion of fueling the SAUFLEY proceeded to
+moor alongside YC 1039 for provisions. At 1835 proceeded to patrol
+station 12 Able. &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="14-56-00 N" lon="145-29-00 E"/>
+          <posit time="1200" lat="14-55-00 N" lon="145-24-00 E"/>
+          <posit time="2000" lat="14-55-00 N" lon="145-20-30 E"/>
+        </item>
+        <item>
+          <date>1944-08-12</date>
+          <description>
+&lt;div&gt;August 12.  Patrolling station 12 Able west of Tinian Island.
+At 0640 extended patrol to include station 14 Able.&lt;/div&gt;
+&lt;p&gt;At 1400 proceeded to close transport area, and at
+1700, in accordance with Commander Task Force FIFTY ONE dispatch
+120102 of August, formed Task Unit FIFTY ONE POINT NINETEEN POINT
+FOUR consisting of the following ships, USS CAMBRIA (Rear Admiral
+Hill, Officer in Tactical Command), USS YOUNG AMERICA, USS TYPHOON,
+SS US VICTORY, SS METEOR, SS JEAN LAFITTE, USS CASCO, USS CONWAY,
+USS EATON, USS SAUFLEY, USS RENSHAW, USS PHILIP and USS BAGLEY.
+The formation set course for Eniwetok, Marshall Islands.&lt;/p&gt;
+          </description>
+          <posit time="0800" lat="15-02-00 N" lon="145-29-30 E"/>
+          <posit time="1200" lat="15-54-00 N" lon="145-34-00 E"/>
+          <posit time="2000" lat="14-58-00 N" lon="146-17-30 E"/>
+        </item>
+        <item>
+          <date>1944-08-13</date>
+          <description>
+&lt;div&gt;August 13.  Enroute from Saipan Island, Marianas to Eniwetok,
+Marshall Islands, in company with Task Unit FIFTY ONE POINT NINETEEN 
+POINT FOUR.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="14-45-20 N" lon="148-39-45 E"/>
+          <posit time="1200" lat="14-41-45 N" lon="149-12-15 E"/>
+          <posit time="2000" lat="14-16-30 N" lon="150-38-00 E"/>
         </item>
       </items>
     </image>
@@ -10722,11 +10879,58 @@ for night.&lt;/p&gt;
       <file>0927.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-08-14</date>
+          <description>
+&lt;div&gt;August 14.  Enroute from Saipan Island, Marianas to Eniwetok,
+Marshall Islands, in company with Task Unit FIFTY ONE POINT NINETEEN 
+POINT FOUR.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="13-57-00 N" lon="152-41-00 E"/>
+          <posit time="1200" lat="13-51-00 N" lon="153-23-30 E"/>
+          <posit time="2000" lat="13-33-15 N" lon="155-05-00 E"/>
+        </item>
+        <item>
+          <date>1944-08-15</date>
+          <description>
+&lt;div&gt;August 15.  Enroute from Saipan Island, Marianas to Eniwetok,
+Marshall Islands, in company with Task Unit FIFTY ONE POINT NINETEEN 
+POINT FOUR.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="13-06-20 N" lon="157-41-15 E"/>
+          <posit time="1200" lat="12-55-30 N" lon="158-30-30 E"/>
+          <posit time="2000" lat="12-33-00 N" lon="160-16-00 E"/>
+        </item>
+        <item>
+          <date>1944-08-16</date>
+          <description>
+&lt;div&gt;August 16.  Task Unit FIFTY ONE POINT NINETEEN POINT FOUR
+entered Eniwetok Atoll during the morning then fueled and anchored.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="11-28-00 N" lon="162-35-00 E"/>
+          <posit time="1200" lat="11-28-00 N" lon="162-21-30 E"/>
+          <posit time="2000" lat="" lon=""/>
+        </item>
+        <item>
+          <date>1944-08-17</date>
+          <description>
+&lt;div&gt;August 17.  Task Unit Fifty ONE POINT NINETEEN POINT FOUR, less
+the USS CASCO and the USS BAGLEY got underway from Eniwetok, and
+set course for Pearl Harbor, T.H.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="11-27-00 N" lon="162-20-15 E"/>
+          <posit time="1200" lat="11-27-00 N" lon="162-56-15 E"/>
+          <posit time="2000" lat="11-50-00 N" lon="164-34-30 E"/>
+        </item>
+        <item>
+          <date>1944-08-18</date>
+          <description>
+&lt;div&gt;August 18.  Enroute from Eniwetok, Marshall Islands to Pearl
+Harbor, T.H. in company with Task Unit FIFTY ONE POINT NINETEEN
+POINT FOUR.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="12-36-00 N" lon="166-51-30 E"/>
+          <posit time="1200" lat="12-46-30 N" lon="167-40-20 E"/>
+          <posit time="2000" lat="13-04-30 N" lon="169-22-10 E"/>
         </item>
       </items>
     </image>
@@ -10734,11 +10938,60 @@ for night.&lt;/p&gt;
       <file>0928.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-08-19</date>
+          <description>
+&lt;div&gt;August 19.  Enroute from Eniwetok, Marshall Islands to Pearl
+Harbor, T.H. in company with Task Unit FIFTY ONE POINT NINETEEN
+POINT FOUR.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="13-32-30 N" lon="171-46-30 E"/>
+          <posit time="1200" lat="13-46-00 N" lon="172-37-00 E"/>
+          <posit time="2000" lat="14-15-30 N" lon="174-05-00 E"/>
+        </item>
+        <item>
+          <date>1944-08-20</date>
+          <description>
+&lt;div&gt;August 20-19.  Enroute from Eniwetok, Marshall Islands to Pearl
+Harbor, T.H. in company with Task Unit FIFTY ONE POINT NINETEEN
+POINT FOUR. At 0100 changed local date from August 20th to August
+19th.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="14-54-30 N" lon="176-32-00 E"/>
+          <posit time="1200" lat="15-07-30 N" lon="177-18-30 E"/>
+          <posit time="2000" lat="15-24-00 N" lon="178-59-10 E"/>
+        </item>
+        <item>
+          <date>1944-08-20</date>
+          <description>
+&lt;div&gt;August 20.  Enroute from Eniwetok, Marshall Islands to Pearl
+Harbor, T.H. in company with Task Unit FIFTY ONE POINT NINETEEN POINT
+FOUR.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="15-56-00 N" lon="178-27-00 W"/>
+          <posit time="1200" lat="16-07-00 N" lon="177-18-30 W"/>
+          <posit time="2000" lat="16-27-40 N" lon="175-59-00 W"/>
+        </item>
+        <item>
+          <date>1944-08-21</date>
+          <description>
+&lt;div&gt;August 21.  Enroute from Eniwetok, Marshall Islands to Pearl
+Harbor, T.H. in company with Task Unit FIFTY ONE POINT NINETEEN POINT
+FOUR.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="17-09-00 N" lon="173-19-00 W"/>
+          <posit time="1200" lat="17-21-00 N" lon="172-30-10 W"/>
+          <posit time="2000" lat="17-49-00 N" lon="170-43-45 W"/>
+        </item>
+        <item>
+          <date>1944-08-22</date>
+          <description>
+&lt;div&gt;August 22.  Enroute from Eniwetok, Marshall Islands to Pearl
+Harbor, T.H. in company with Task Unit FIFTY ONE POINT NINETEEN POINT
+FOUR.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="18-30-30 N" lon="168-13-10 W"/>
+          <posit time="1200" lat="18-39-40 N" lon="167-06-20 W"/>
+          <posit time="2000" lat="18-52-15 N" lon="165-27-20 W"/>
         </item>
       </items>
     </image>
@@ -10746,11 +10999,49 @@ for night.&lt;/p&gt;
       <file>0929.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-08-23</date>
+          <description>
+&lt;div&gt;August 23.  Enroute from Eniwetok, Marshall Islands to Pearl
+Harbor, T.H. in company with Task Unit FIFTY ONE POINT NINETEEN POINT
+FOUR.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="19-14-00 N" lon="163-02-00 W"/>
+          <posit time="1200" lat="19-23-30 N" lon="162-06-00 W"/>
+          <posit time="2000" lat="19-41-50 N" lon="160-25-50 W"/>
+        </item>
+        <item>
+          <date>1944-08-24</date>
+          <description>
+&lt;div&gt;August 24.  Enroute from Eniwetok, Marshall Islands to Pearl
+Harbor, T.H. in company with Task Unit FIFTY ONE POINT NINETEEN POINT
+FOUR. At 0230 Commander Destroyer Squadron FOURTEEN with the USS GANSEVOORT, 
+USS BANCROFT, USS EDWARDS, and USS CALDWELL relieved
+Commander Destroyer Squadron FORTY FOUR in the USS CONWAY, THE USS PHILIP, 
+USS RENSHAW, and USS SAUFLEY.
+&lt;/div&gt;
+&lt;p&gt;These ships set course for Pearl Harbor and entered
+during the morning for Logistics. &lt;/p&gt;
+&lt;p&gt;At 1700 the SAUFLEY in company with the USS WALLER
+(Commander Destroyer Squadron TWENTY TWO), USS PHILIP, USS RENSHAW,
+and USS CONWAY got underway and stood out of Pearl Harbor in accordance 
+with Commander Hawaiian Sea Frontier's Confidential Letter Serial
+0184. The formation set course for San Francisco, California, and the
+Navy Yard, Mare Island. &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="21-09-00 N" lon="157-44-00 W"/>
+          <posit time="2000" lat="21-19-15 N" lon="157-29-50 W"/>
+        </item>
+        <item>
+          <date>1944-08-25</date>
+          <description>
+&lt;div&gt;August 25.  Enroute from Pearl Harbor, T.H. to San Francisco,
+California, in company with ships of Destroyer Squadron TWENTY TWO.
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+          </description>
+          <posit time="0800" lat="23-22-00 N" lon="155-01-30 W"/>
+          <posit time="1200" lat="24-05-00 N" lon="154-03-00 W"/>
+          <posit time="2000" lat="25-17-00 N" lon="152-01-30 W"/>
         </item>
       </items>
     </image>
@@ -10758,11 +11049,57 @@ for night.&lt;/p&gt;
       <file>0930.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-08-26</date>
+          <description>
+&lt;div&gt;August 26.  Enroute from Pearl Harbor, T.H. to San Francisco, 
+in company with ships of Destroyer Squadron TWENTY TWO,
+(Task Group 15.1)&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="27-07-30 N" lon="148-58-00 W"/>
+          <posit time="1200" lat="27-38-40 N" lon="148-06-30 W"/>
+          <posit time="2000" lat="29-01-30 N" lon="146-02-30 W"/>
+        </item>
+        <item>
+          <date>1944-08-27</date>
+          <description>
+&lt;div&gt;August 27.  Enroute from Pearl Harbor, T.H. to San Francisco 
+in company with ships of Destroyer Squadron TWENTY TWO.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="30-38-00 N" lon="143-03-30 W"/>
+          <posit time="1200" lat="31-09-30 N" lon="142-03-00 W"/>
+          <posit time="2000" lat="32-14-00 N" lon="139-46-00 W"/>
+        </item>
+        <item>
+          <date>1944-08-28</date>
+          <description>
+&lt;div&gt;August 28.  Enroute from Pearl Harbor, T.H. to San Francisco 
+in company with ships of Destroyer Squadron TWENTY TWO.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="33-28-00 N" lon="136-37-00 W"/>
+          <posit time="1200" lat="33-58-30 N" lon="135-20-00 W"/>
+          <posit time="2000" lat="35-06-45 N" lon="132-52-45 W"/>
+        </item>
+        <item>
+          <date>1944-08-29</date>
+          <description>
+&lt;div&gt;August 29.  Enroute from Pearl Harbor, T.H. to San Francisco 
+in company with ships of Destroyer Squadron TWENTY TWO.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="36-33-00 N" lon="129-04-00 W"/>
+          <posit time="1200" lat="36-47-00 N" lon="127-46-00 W"/>
+          <posit time="2000" lat="37-34-30 N" lon="125-32-00 W"/>
+        </item>
+        <item>
+          <date>1944-08-30</date>
+          <description>
+&lt;div&gt;August 30.  The SAUFLEY as a unit of Task Group FIFTEEN
+POINT ONE entered San Francisco Harbor at 0830. The Task Group
+was there dissolved. After an agricultural inspection off Treasure
+Island, the SAUFLEY proceeded to the Naval Ammunition Depot, Mare
+Island and transferred main battery and machine gun ammunition, as
+well as depth and impulse charges. The SAUFLEY then proceeded to
+moor to the Bethlehem Steel Company docks at Central Basin, San Francisco.&lt;/div&gt;
+          </description>
         </item>
       </items>
     </image>
@@ -10770,11 +11107,12 @@ for night.&lt;/p&gt;
       <file>0931.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-08-31</date>
+          <description>
+&lt;div&gt;August 31.  Moored at the Bethlehem Steel Company's docks
+at Central Basin, San Francisco. Commenced scheduled yard availability 
+in accordance with COMSERVPAC dispatch 252348 of August.&lt;/div&gt;
+          </description>
         </item>
       </items>
     </image>
@@ -10790,207 +11128,54 @@ for night.&lt;/p&gt;
   <images>
     <image>
       <file>0888.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0889.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0890.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0891.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0892.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0893.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0894.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0895.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0896.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0897.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0898.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0899.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0900.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0901.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0902.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0903.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
     <image>
       <file>0904.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
     </image>
   </images>
 </source>

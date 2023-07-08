@@ -30,6 +30,7 @@ if (FALSE)
   source("src/create_saufley_maps.R")
   latlon <- create_latlon_list("docs")
   create_saufley_google_earth(latlon, file.path("src", "kml"))
+  create_leaflet_plots(latlon, file.path("src", "leaflet"), b_save = FALSE)
 }
 
 create_latlon_list <- function(path_to_xml)
@@ -170,7 +171,9 @@ create_saufley_google_earth <- function(latlon, outpath)
                                           paste0(list.files(outpath, pattern = "[2-5][.]kml")))))
 }
 
-create_leaflet_year_plot <- function(plot_data_full, output_file_base, str_date_start, str_date_end)
+create_leaflet_year_plot <- function(plot_data_full, output_file_base, 
+                                     str_date_start, str_date_end,
+                                     b_save = TRUE)
 {
   # plot_data_full <- do.call("rbind", latlon)
   # plot_data_full$datetime <- with(plot_data_full, paste0(date, ": ", time))
@@ -250,10 +253,16 @@ create_leaflet_year_plot <- function(plot_data_full, output_file_base, str_date_
     posit <- i+1
   }
   
-  htmlwidgets::saveWidget(myear, paste0(output_file_base, ".html"), selfcontained = FALSE)
+  if (b_save)
+  {
+    htmlwidgets::saveWidget(myear, paste0(output_file_base, ".html"), selfcontained = FALSE)
+  } else 
+  {
+    print(myear)
+  }
 }
 
-create_leaflet_plots <- function(latlon, outpath)
+create_leaflet_plots <- function(latlon, outpath, b_save = TRUE)
 {
   assertthat::assert_that(webshot::is_phantomjs_installed(),
                           msg = "Phantom_js must be installed, run 'webshot::install_phantomjs()'")
@@ -262,27 +271,52 @@ create_leaflet_plots <- function(latlon, outpath)
     dir.create(outpath)
   }
 
+  # add 360 to the negative longitudes so the plot wraps across the international
+  #   dateline
+  latlon <- lapply(latlon, function(x) {
+    ind <- which(x$lon < 0)
+    if (length(ind > 0))
+    {
+      x$lon[ind] <- x$lon[ind] + 360
+    }
+    return(x)
+  })
+  
   plot_data_full <- do.call("rbind", latlon)
   plot_data_full$datetime <- with(plot_data_full, paste0(date, ": ", time))
 
   ### Overall Heatmap
-  leaflet(data = plot_data_full %>%
-            dplyr::filter(!is.na(lat) & !is.na(lon)),
-          options = leafletOptions(zoomControl = FALSE)) %>%
-    leaflet::addProviderTiles(leaflet::providers$Esri.WorldGrayCanvas) %>%
+  heatm <- leaflet(data = plot_data_full %>%
+                          dplyr::filter(!is.na(lat) & !is.na(lon)),
+                   options = leafletOptions(zoomControl = FALSE)) %>%
+    #leaflet::addProviderTiles(leaflet::providers$Esri.WorldGrayCanvas) %>%
+    leaflet::addProviderTiles(leaflet::providers$Stamen) %>%
     leaflet::addCircleMarkers(lng = ~lon, lat = ~lat, radius = 2, fill = TRUE, stroke = FALSE) %>%
-    leaflet::fitBounds(lng1 = 80, lng2 = 180, lat1 = -35, lat2 = 38) %>%
-    htmlwidgets::saveWidget(file.path(outpath, "location_heatmap.html"), selfcontained = TRUE)
-  
-  webshot::webshot(url = file.path(outpath, "location_heatmap.html"), 
-                   file = file.path(outpath, "location_heatmap.png"), 
-                   zoom = 10, vwidth = 1000, vheight = 150)
-  
+    leaflet::fitBounds(lng1 = 90, lng2 = 220, lat1 = -38, lat2 = 38)
+
   ### Yearly Plots
-  create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1942"), "1942-01-01", "1942-12-31")
-  create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1943"), "1943-01-01", "1943-12-31")
-  create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1944"), "1944-01-01", "1944-12-31")
-  create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1945"), "1945-01-01", "1945-12-31")
+  create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1942"), 
+                           "1942-01-01", "1942-12-31", b_save)
+  create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1943"), 
+                           "1943-01-01", "1943-12-31", b_save)
+  create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1944"), 
+                           "1944-01-01", "1944-12-31", b_save)
+  create_leaflet_year_plot(plot_data_full, file.path(outpath, "map1945"), 
+                           "1945-01-01", "1945-12-31", b_save)
+  
+  if (b_save)
+  {
+    heatm %>%
+      htmlwidgets::saveWidget(file.path(outpath, "location_heatmap.html"), 
+                              selfcontained = TRUE)
+    
+    webshot::webshot(url = file.path(outpath, "location_heatmap.html"), 
+                     file = file.path(outpath, "location_heatmap.png"), 
+                     zoom = 10, vwidth = 1000, vheight = 150)
+  } else
+  {
+    print(heatm)
+  }
 }
 
 

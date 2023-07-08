@@ -21,7 +21,7 @@ create_word_list <- function() return(c(
   "Borpop", "Nabuto", "Namarodu", "Feni", "Buka", "Reini", "Jaba", "Puruata",
   "Kiape", "Laruma", "Magine", "Emirau", "Rua", "Sura", "Mussau", "Ellice",
   "Maalaea", "Lahaina", "Kahoolawe", "Kwajalein", "Saipan", "Gea", "Aslito",
-  "Magicienne", "Naftan", "Gurguan", "Tinian",
+  "Magicienne", "Naftan", "Gurguan", "Tinian", "Agingan", "Tanapag",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -42,7 +42,7 @@ create_word_list <- function() return(c(
   # ARD - Auxilliary Repair Dock
   # DDs - Destroyers
   "LSM", "FS", "MTB", "LST", "APD", "YMS", "DMS", "LCI", "LCV", "LCT", "LCS",
-  "PBY", "AMS", "TP", "ARD", "YF", "DDs", "YP",
+  "PBY", "AMS", "TP", "ARD", "YF", "DDs", "YP", "YC",
   # Ship terms
   # SPD - Smokeless Powder stabilized with Diphenolamine
   # DG - degaussing
@@ -59,7 +59,7 @@ create_word_list <- function() return(c(
   #  CDS - Commander Destroyer Squadron
   "Comdesron", "ComDesRon", "Desron", "SOPA", "ComTaskFor", "ComTaskForce", "ComTask", "DesDis",
   "CTF", "CDS", "COMSERONSOPAC", "ComSeronsoPac", "CTG", "Comsopac", "ComSoPac", "CTU", "USNR",
-  "CIC", "ComTrans", "CDD", "USMCR",
+  "CIC", "ComTrans", "CDD", "USMCR", "COMSERVPAC",
   # compass
   "PSC", "PSG", "PGC", "PGS", "pgc", "psc",
   # People
