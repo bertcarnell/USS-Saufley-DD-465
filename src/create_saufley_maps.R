@@ -85,6 +85,7 @@ create_saufley_google_earth <- function(latlon, outpath)
   # loop over years
   for (k in seq_along(available_years))
   {
+    cat("\n", available_years[k])
     # k <- 2
     ind <- which(lubridate::year(first_dates) == available_years[k])
     
@@ -102,12 +103,14 @@ create_saufley_google_earth <- function(latlon, outpath)
     
     for (i in include_series[ind][ord])
     {
+      cat("\n", as.character(latlon[[i]]$date[1]), "\n")
       # i <- 21
       plot_data <- latlon[[i]]
       plot_coords <- plot_data %>% dplyr::select(lon, lat) # must go lon then lat (x then y)
       
       if (any(is.na(as.matrix(plot_coords))))
       {
+        cat("\nSkipping Output of ", as.character(latlon[[i]]$date[1]), "\n")
         next
       }
       

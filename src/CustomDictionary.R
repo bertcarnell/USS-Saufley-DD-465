@@ -21,7 +21,7 @@ create_word_list <- function() return(c(
   "Borpop", "Nabuto", "Namarodu", "Feni", "Buka", "Reini", "Jaba", "Puruata",
   "Kiape", "Laruma", "Magine", "Emirau", "Rua", "Sura", "Mussau", "Ellice",
   "Maalaea", "Lahaina", "Kahoolawe", "Kwajalein", "Saipan", "Gea", "Aslito",
-  "Magicienne", "Naftan", "Gurguan", "Tinian", "Agingan", "Tanapag",
+  "Magicienne", "Naftan", "Gurguan", "Tinian", "Agingan", "Tanapag", "Clemente",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations

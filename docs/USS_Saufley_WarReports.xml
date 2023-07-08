@@ -10582,11 +10582,57 @@ for night.&lt;/p&gt;
       <file>0309.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-10-01</date>
+          <description>
+&lt;div&gt;October 1-12.  Undergoing Navy Yard Availability at Bethlehem
+Ship Building Company, San Francisco, California pursuant to
+Commander Service Force Pacific's dispatch 240215 of August.
+&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1944-10-13</date>
+          <description>
+&lt;div&gt;October 13-18.  October 13-18. Readiness for sea period San Francisco Bay area
+in accordance with Commander Service Force Pacific's dispatch
+240215 of August.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1944-10-19</date>
+          <description>
+&lt;div&gt;October 19.  Anchored in berth #4 anchorage area 12, San
+Francisco Bay. 1728 Got underway for San Diego, California in
+company with the USS CONWAY (Commander Destroyer Division FORTY
+FOUR, Officer in Tactical Command) and USS PHILIP, in accordance
+with Commander Destroyer Squadron TWENTY TWO'S mailgram 182150
+of October.&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="37-32-00 N" lon="123-00-00 W"/>
+        </item>
+        <item>
+          <date>1944-10-20</date>
+          <description>
+&lt;div&gt;October 20.  Enroute from San Francisco to San Diego, California.
+1328 Test fired 40MM machine guns expending 25 rounds of ammunition.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="34-55-00 N" lon="121-54-45 W"/>
+          <posit time="1200" lat="34-04-15 N" lon="121-18-00 W"/>
+          <posit time="2000" lat="32-57-50 N" lon="119-27-10 W"/>
+        </item>
+        <item>
+          <date>1944-10-21</date>
+          <description>
+&lt;div&gt;October 21.  Enroute from San Francisco to San Diego, California.
+0712 Entered San Diego Harbor and proceeded to moor to buoy #25 in
+nest with USS CONWAY and USS PHILIP. 1814 Underway in accordance
+with Commander Amphibious Training Pacific's dispatch 202216 of
+October in company with the USS CONWAY and USS PHILIP (Officer in
+Tactical Command, Commander Destroyer Division FORTY FOUR in USS CONWAY) 
+for San Clemente Island. 2221 Anchored in berth #5, Wilson
+Cove, San Clemente Island.&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="32-36-10 N" lon="117-35-10 W"/>
         </item>
       </items>
     </image>
@@ -10594,11 +10640,58 @@ for night.&lt;/p&gt;
       <file>0310.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-10-22</date>
+          <description>
+&lt;div&gt;October 22.  0615 Underway in company with USS CONWAY (Comander
+Destroyer Division FORTY FOUR, Officer in Tactical Command) and
+USS PHILIP from Wilson Cove, and proceeded to Pyramid Cove, San
+Clemente Island, to conduct shore bombardment exercises in accordance 
+with Commander Task Group THIRTEEN POINT NINETEEN Training
+Operation Order A959-44. 0725 Arrived in Pyramid Cove. 0920
+Commenced shore bombardment exercises, consisting of various
+exercises in accordance with Commander Task Group THIRTEEN POINT
+NINETEEN Training Operation Order A959-44. 2155 Completed shore
+bombardment having expended 81 rounds of 5"/38 Caliber AA Common,
+24 rounds of 5"/38 Caliber illuminating projectiles and 380 rounds
+of 40MM ammunition. Proceeded to anchor in Wilson Cove.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="32-48-30 N" lon="118-24-10 W"/>
+          <posit time="1200" lat="32-48-45 N" lon="118-24-30 W"/>
+          <posit time="2000" lat="32-48-15 N" lon="118-24-30 W"/>
+        </item>
+        <item>
+          <date>1944-10-23</date>
+          <description>
+&lt;div&gt;October 23.  0705 Underway from anchorage in Wilson Cove and
+proceeded in company with USS CONWAY and USS PHILIP to Pyramid
+Cove. 0830 Arrived in Pyramid Cove, joined the USS SAN FRANCISCO,
+and USS KALK and commenced shore bombardment exercises in accordance 
+with Commander Task Group THIRTEEN POINT NINETEEN Training
+Order A959-44. 1705 Completed shore bombardment exercises having
+expended 71 rounds of 5"/38 Caliber AA Common ammunition, and 27
+rounds of 40MM ammunition. 1752 Anchored in Pyramid Cove.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="32-48-30 N" lon="118-24-15 W"/>
+          <posit time="1200" lat="32-48-45 N" lon="118-24-30 W"/>
+          <posit time="2000" lat="32-07-50 N" lon="118-32-15 W"/>
+        </item>
+        <item>
+          <date>1944-10-24</date>
+          <description>
+&lt;div&gt;October 24.  0605 Underway from Pyramid Cove, San Clemente
+Island, and proceeded to San Diego, California. 1029 Moored to
+Broadway Pier, San Diego, California. 1230 Rear Admiral R. O.
+DAVIS with staff came on board and hoisted his flag. 1300
+Underway from San Diego and proceeded to Pyramid Cove, San
+Clemente Island in accordance with Commander Amphibious Training
+Pacific's dispatch 202301 of October. 1648 Arrived in Pyramid
+Cove. Rear Admiral R. 0. DAVIS left ship with his staff, and
+transferred his flag to the USS AMERICAN LEGION. 1720 Anchored
+in Pyramid Cove.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="32-40-15 N" lon="117-11-30 W"/>
+          <posit time="1200" lat="32-40-15 N" lon="117-11-30 W"/>
+          <posit time="2000" lat="32-16-40 N" lon="119-04-50 W"/>
         </item>
       </items>
     </image>
@@ -10606,11 +10699,41 @@ for night.&lt;/p&gt;
       <file>0311.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-10-25</date>
+          <description>
+&lt;div&gt;October 25.  Underway in accordance with Commander Amphibious
+Training Pacific Commander Task Force dispatch 201216 of October
+and proceeded to fire support area #2 to act as fire support
+ship for landing operations. 1215 Completed exercises having
+expended 75 rounds of 5"/38 Caliber ammunition. 1242 Rear Admiral
+R.O. DAVIS with his staff came on board and hoisted his flag.
+1253 Took departure from Pyramid Cove, San Clemente Island, for
+San Diego, California. 1624 Arrived in San Diego, and Rear
+Admiral R.O. DAVIS with his staff left ship.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="32-48-20 N" lon="118-23-30 W"/>
+          <posit time="1200" lat="32-48-20 N" lon="118-23-30 W"/>
+        </item>
+        <item>
+          <date>1944-10-26</date>
+          <description>
+&lt;div&gt;October 26.  1307 Underway in company with USS CONWAY (Commander
+Destroyer Division FORTY FOUR, Officer in Tactical Command) and
+USS PHILIP from San Diego, in accordance with Commander ELEVENTH
+Naval District's Serial 0-5330 dated October 26, 1944, and took
+departure for Pearl Harbor.&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="32-16-40 N" lon="119-04-50 W"/>
+        </item>
+        <item>
+          <date>1944-10-27</date>
+          <description>
+&lt;div&gt;October 27.  Enroute from San Diego to Pearl Harbor.
+1430 Conducted radar calibration and tracking exercises.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="32-45-30 N" lon="123-04-00 W"/>
+          <posit time="1200" lat="32-31-45 N" lon="124-17-30 W"/>
+          <posit time="2000" lat="32-05-00 N" lon="126-55-45 W"/>
         </item>
       </items>
     </image>
@@ -10618,11 +10741,40 @@ for night.&lt;/p&gt;
       <file>0312.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-10-28</date>
+          <description>
+&lt;div&gt;October 28.  Enroute from San Diego to Pearl Harbor. 1146
+Conducted simulated air attack, expending 4 rounds of 5"/38
+Caliber AA ammunition. 1900 Conducted night torpedo attack and
+illumination exercise expending 10 rounds of 5"/38 Caliber
+illuminating ammunition.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="31-08-30 N" lon="130-52-00 W"/>
+          <posit time="1200" lat="31-02-00 N" lon="131-50-00 W"/>
+          <posit time="2000" lat="30-48-00 N" lon="134-04-30 W"/>
+        </item>
+        <item>
+          <date>1944-10-29</date>
+          <description>
+&lt;div&gt;October 29.  Enroute from San Diego to Pearl Harbor. 0900
+Conducted tactical exercises. 1900 Conducted simulated torpedo
+attack.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="29-45-45 N" lon="137-33-00 W"/>
+          <posit time="1200" lat="29-20-30 N" lon="138-36-00 W"/>
+          <posit time="2000" lat="28-38-00 N" lon="140-52-30 W"/>
+        </item>
+        <item>
+          <date>1944-10-30</date>
+          <description>
+&lt;div&gt;October 30.  Enroute from San Diego to Pearl Harbor. 0805
+Conducted simulated torpedo exercises. 1531 Expended 4 rounds
+of 5"/38 Caliber AA Common ammunition at bursts fired by
+USS CONWAY.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="27-25-00 N" lon="143-51-00 W"/>
+          <posit time="1200" lat="27-03-00 N" lon="144-36-45 W"/>
+          <posit time="2000" lat="25-59-30 N" lon="146-57-30 W"/>
         </item>
       </items>
     </image>
@@ -10630,11 +10782,14 @@ for night.&lt;/p&gt;
       <file>0313.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1944-10-31</date>
+          <description>
+&lt;div&gt;October 31.  Enroute from San Diego to Pearl Harbor.
+1000 Exercised at tactics.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="24-44-30 N" lon="150-11-30 W"/>
+          <posit time="1200" lat="24-23-30 N" lon="151-13-30 W"/>
+          <posit time="2000" lat="23-22-00 N" lon="153-23-00 W"/>
         </item>
       </items>
     </image>
@@ -10908,7 +11063,6 @@ entered Eniwetok Atoll during the morning then fueled and anchored.&lt;/div&gt;
           </description>
           <posit time="0800" lat="11-28-00 N" lon="162-35-00 E"/>
           <posit time="1200" lat="11-28-00 N" lon="162-21-30 E"/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
           <date>1944-08-17</date>
