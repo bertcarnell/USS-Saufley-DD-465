@@ -3868,7 +3868,7 @@ plane came down in spirals to the water after being hit by machine gun fire.&lt;
         <item>
           <date>1943-10-02</date>
           <description>
-&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with USS LAVALETTE, USS GRAYON and USS RADFORD on various
+&lt;div&gt;&lt;b&gt;0000-0400&lt;/b&gt;Steaming in company with USS LAVALLETTE, USS GRAYSON and USS RADFORD on various
 courses and speeds as ordered by Officer in Tactical Command in USS RADFORD.
 Boilers #1, #2, #3, and #4 in use.  Conducting sweep north and west of Vella 
 Lavella Island in search of enemy surface units.  0130 Steadied on base course
@@ -18312,24 +18312,51 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0460.jpg</file>
       <items>
         <item>
-          <date>1945-12-01</date>
+          <date>1944-12-01</date>
           <description>
-&lt;div&gt;December 1. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 1.  Steaming in company with ships of Task Group
+SEVENTY SEVEN POINT TWO in Leyte Gulf, Philippine Islands.
+(Officer in Tactical Command - Rear Admiral RUDDOCK in USS WEST
+VIRGINIA). At 1155 directed by Screen Commander of Task Group
+SEVENTY SEVEN POINT TWO to go alongside USS MARYLAND and fuel.
+Upon completion of fueling at 1347, proceeded to go alongside
+USS RUTILICUS for provisions. Enemy aircraft in the area prevented 
+provisioning at this time, so SAUFLEY ordered to join
+anti-submarine screen of Task Group SEVENTY SEVEN POINT TWO.&lt;/div&gt;
+&lt;p&gt;While Task Group was maneuvering away from sound
+contact made by USS EATON, SAUFLEY picked up a contact at 1700
+on starboard bow. SAUFLEY immediately proceeded to investigate and
+develop the contact. First depth charge attack made at 1705.
+Final attack made at 1915, after which time no contact could be
+regained although area was searched thoroughly (See SAUFLEY Action
+Report Serial 0576 of 6 December 1944). SAUFLEY continued to
+search area of contact until 2115 at which time SAUFLEY proceeded
+as directed by Commander Philippine Sea Frontier to join special
+anti- submarine screen patrolling between Manicani Island and
+Hingatungan Point, Leyte Island.&lt;/p&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="10-31-20 N" lon="125-40-10 E"/>
+          <posit time="1200" lat="10-28-30 N" lon="125-38-00 E"/>
+          <posit time="2000" lat="10-40-20 N" lon="125-39-10 E"/>
         </item>
         <item>
-          <date>1945-12-02</date>
+          <date>1944-12-02</date>
           <description>
-&lt;div&gt;December 2. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 2.  Patrolling in Leyte Gulf, Philippine Islands
+between Manicani Island and Hingatungan Point, Leyte Island in
+company with USS SMITH, USS MAHAN, and USS LAMSON. At 0642
+relieved on station and proceeded to join anti-submarine screen
+of Task Group SEVENTY SEVEN POINT TWO. SAUFLEY reported to USS MARYLAND 
+for duty at 0855 as directed by screen commander of
+Task Group SEVENTY SEVEN POINT TWO.&lt;/div&gt;
+&lt;p&gt;At 0905 in accordance with Commander Task Force
+SEVENTY SEVEN's dispatch 301354 departed Leyte Gulf for Manus
+Island, Admiralty Islands in company with USS MARYLAND (Officer
+in Tactical Command) and USS AULICK.&lt;/p&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="10-40-05 N" lon="125-30-10 E"/>
+          <posit time="1200" lat="10-22-40 N" lon="126-05-30 E"/>
+          <posit time="2000" lat="09-03-00 N" lon="128-15-30 E"/>
         </item>
       </items>
     </image>
@@ -18337,44 +18364,52 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0461.jpg</file>
       <items>
         <item>
-          <date>1945-12-03</date>
+          <date>1944-12-03</date>
           <description>
-&lt;div&gt;December 3. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 3.  Enroute from Leyte Gulf, Philippine Islands to
+Manus Island, Admiralty Islands in company with USS MARYLAND
+(Officer in Tactical Command) and USS AULICK.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="07-50-00 N" lon="130-42-30 E"/>
+          <posit time="1200" lat="07-24-50 N" lon="131-42-00 E"/>
+          <posit time="2000" lat="06-46-40 N" lon="133-43-00 E"/>
         </item>
         <item>
-          <date>1945-12-04</date>
+          <date>1944-12-04</date>
           <description>
-&lt;div&gt;December 4. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 4.  Enroute from Leyte Gulf, Philippine Islands to
+Manus Island, Admiralty Islands in company with USS MARYLAND
+(Officer in Tactical Command) and USS AULICK.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="05-09-00 N" lon="136-11-00 E"/>
+          <posit time="1200" lat="04-39-30 N" lon="137-02-00 E"/>
+          <posit time="2000" lat="03-33-30 N" lon="138-56-00 E"/>
         </item>
         <item>
-          <date>1945-12-05</date>
+          <date>1944-12-05</date>
           <description>
-&lt;div&gt;December 5. &lt;/div&gt;
+&lt;div&gt;December 5.  Enroute from Leyte Gulf, Philippine Islands to
+Manus Island, Admiralty Islands in company with USS MARYLAND
+(Officer in Tactical Command) and USS AULICK&lt;/div&gt;
 &lt;p&gt; &lt;/p&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="01-55-30 N" lon="141-42-30 E"/>
+          <posit time="1200" lat="01-23-00 N" lon="142-35-00 E"/>
+          <posit time="2000" lat="00-21-00 N" lon="144-33-00 E"/>
         </item>
         <item>
-          <date>1945-12-06</date>
+          <date>1944-12-06</date>
           <description>
-&lt;div&gt;December 6. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 6.  Enroute from Leyte Gulf, Philippine Islands to
+Manus Island, Admiralty Islands in company with USS MARYLAND
+(Officer in Tactical Command) and USS AULICK. At 1157 detached
+by USS MARYLAND and proceeded into Seeadler Harbor, Manus Island
+fueled and anchored in berth Easy-5. SAUFLEY assigned at anchor
+availability by Commander Task Group THIRTY NINE POINT ONE to
+determine battle damage repairs required.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="01-00-00 S" lon="147-10-00 E"/>
+          <posit time="1200" lat="01-58-10 S" lon="147-19-30 E"/>
         </item>
       </items>
     </image>
@@ -18382,74 +18417,65 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0462.jpg</file>
       <items>
         <item>
-          <date>1945-12-07</date>
+          <date>1944-12-07</date>
           <description>
-&lt;div&gt;December 7. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 7.  Anchored in Seeadler Harbor, Manus Island determining 
+battle damage repairs required. Senior Officer Present
+Afloat in USS ARGONNE. At 1023 got underway and went alongside
+USS PIEDMONT for repair of battle damage.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
-          <date>1945-12-08</date>
+          <date>1944-12-08</date>
           <description>
-&lt;div&gt;December 8-17. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 8-17.   Alongside USS PIEDMONT in Seeadler Harbor, Manus
+Islands for repair of battle damage. December 9, Senior Officer
+Present Afloat shifted from USS ARGONNE to USS SIERRA.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
-          <date>1945-12-18</date>
+          <date>1944-12-18</date>
           <description>
-&lt;div&gt;December 18. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 18.  Moored alongside USS PIEDMONT in Seeadler Harbor,
+Manus Island. Senior Officer Present Afloat in USS SIERRA.
+During the morning proceeded to Lombrum Point Cove for crane
+services. At 1230 underway from Lombrum Point Cove and went
+alongside ABSD-2 where #1 gun and housing was replaced by one
+removed from USS KILLEN.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
-          <date>1945-12-19</date>
+          <date>1944-12-19</date>
           <description>
-&lt;div&gt;December 19. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 19.  Moored alongside ABSD-2 in Seeadler Harbor, Manus
+Island. Senior Officer Present Afloat in USS SIERRA. At 0634
+underway and proceeded to go alongside USS PIEDMONT.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
-          <date>1945-12-20</date>
+          <date>1944-12-20</date>
           <description>
-&lt;div&gt;December 20. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 20.  Moored alongside USS PIEDMONT in Seeadler Harbor,
+Manus Island. Senior Officer Present Afloat in USS SIERRA.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
-          <date>1945-12-21</date>
+          <date>1944-12-21</date>
           <description>
-&lt;div&gt;December 21. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 21.  Moored alongside USS PIEDMONT in Seeadler Harbor,
+Manus Island. Senior Officer Present Afloat in USS SIERRA. At
+0959 got underway from USS PIEDMONT and proceeded to assigned
+anchorage. Senior Officer Present Afloat became Commander Task
+Force SEVENTY NINE in USS MOUNT OLYMPUS with Administrative Senior
+Officer Present Afloat remaining in USS SIERRA.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
-          <date>1945-12-22</date>
+          <date>1944-12-22</date>
           <description>
-&lt;div&gt;December 22. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 22.  Anchored in Seeadler Harbor, Manus Island. Senior
+Officer Present Afloat Commander Task Force SEVENTY NINE in USS MOUNT OLYMPUS.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
       </items>
     </image>
@@ -18457,64 +18483,65 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0463.jpg</file>
       <items>
         <item>
-          <date>1945-12-23</date>
+          <date>1944-12-23</date>
           <description>
-&lt;div&gt;December 23. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 23.  Anchored in Seeadler Harbor, Manus Island. Senior
+Officer Present Afloat Commander Task Force SEVENTY NINE in USS MOUNT OLYMPUS. 
+At 0800 proceeded out of port for underway test
+of new gun and anti-aircraft firing practice. In the afternoon
+returned to Seeadler Harbor and anchored at 1528.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
-          <date>1945-12-24</date>
+          <date>1944-12-24</date>
           <description>
-&lt;div&gt;December 24. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 24.  Anchored in Seeadler Harbor, Manus Island. Senior
+Officer Present Afloat Commander Task Force SEVENTY NINE in USS MOUNT OLYMPUS. 
+During the morning got underway and fueled. Upon
+completion of fueling anchored in berth 331.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
-          <date>1945-12-25</date>
+          <date>1944-12-25</date>
           <description>
-&lt;div&gt;December 25. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 25.  Anchored in Seeadler Harbor, Manus Island. Senior
+officer Present Afloat Commander Task Force SEVENTY NINE in USS MOUNT OLYMPUS.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
-          <date>1945-12-26</date>
+          <date>1944-12-26</date>
           <description>
-&lt;div&gt;December 26. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 26.  Anchored in Seeadler Harbor, Manus Island. Senior
+Officer Present Afloat Commander Task Force SEVENTY NINE in USS MOUNT OLYMPUS. 
+At 1500 underway in accordance with Commander
+Task Force SEVENTY NINE'S secret dispatch 260224. Joined USS OLMSTED 
+at 1630 and took departure from Seeadler Harbor, Manus
+Island for Aitape, New Guinea. (Officer in Tactical Command -
+Commander Transport Division FIVE in USS OLMSTED).&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="2000" lat="01-39-50 S" lon="146-41-55 E"/>
         </item>
         <item>
-          <date>1945-12-27</date>
+          <date>1944-12-27</date>
           <description>
-&lt;div&gt;December 27. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 27.  Enroute from Manus Island to Aitape, New Guinea
+in company with USS OLMSTED. (Officer in Tactical Command -
+Commander Transport Division FIVE in USS OLMSTED). Entered
+Aitape in afternoon and anchored in Aitape Road at 1538.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="02-30-00 S" lon="143-53-00 E"/>
+          <posit time="1200" lat="02-56-00 S" lon="142-54-30 E"/>
         </item>
         <item>
-          <date>1945-12-28</date>
+          <date>1944-12-28</date>
           <description>
-&lt;div&gt;December 28. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 28.  Anchored in Aitape Road, New Guinea. At 1000
+underway with USS OLMSTED (Officer in Tactical Command - Commander
+Transport Division FIVE) and departed Aitape for Seeadler Harbor,
+Manus Island.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="1200" lat="02-44-10 S" lon="143-05-00 E"/>
+          <posit time="2000" lat="02-23-00 S" lon="144-15-00 E"/>
         </item>
       </items>
     </image>
@@ -18522,34 +18549,42 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0464.jpg</file>
       <items>
         <item>
-          <date>1945-12-29</date>
+          <date>1944-12-29</date>
           <description>
-&lt;div&gt;December 29. &lt;/div&gt;
+&lt;div&gt;December 29.  Enroute from Aitape Road, New Guinea to Seeadler
+Harbor, Manus Island in company with USS OLMSTED (Officer in
+Tactical Command - Commander Transport Division FIVE). At sunrise 
+conducted AA gunnery exercises. Instructed to search for
+survivors of Utility tow plane down in water at 0915. USS OLMSTED 
+proceeded into port. At 0945 recovered one survivor of
+plane from water. Continued search with no results until 1120.
+At which time directed by Commander Utility Squadron TWO to
+discontinue search. SAUFLEY proceeded into Seeadler Harbor,
+fueled, and anchored in berth 338.&lt;/div&gt;
 &lt;p&gt; &lt;/p&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="0800" lat="01-43-00 S" lon="147-00-00 E"/>
+          <posit time="1200" lat="01-54-00 S" lon="147-21-00 E"/>
         </item>
         <item>
-          <date>1945-12-30</date>
+          <date>1944-12-30</date>
           <description>
-&lt;div&gt;December 30. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 30.  Anchored in Seeadler Harbor, Manus Island. Senior
+Officer Present Afloat Commander Task Force SEVENTY NINE in USS
+MOUNT OLYMPUS.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
         </item>
         <item>
-          <date>1945-12-31</date>
+          <date>1944-12-31</date>
           <description>
-&lt;div&gt;December 31. &lt;/div&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;December 31.  Anchored in Seeadler Harbor, Manus Island. Senior
+Officer Present Afloat Commander Task Force SEVENTY NINE in USS MOUNT OLYMPUS. 
+At 1115 underway in accordance with Commander
+Task Group SEVENTY SEVEN POINT NINE'S visual dispatch 310104 and
+proceeded out of harbor enroute to Humboldt Bay, Hollandia.&lt;/div&gt;
           </description>
-          <posit time="0800" lat="" lon=""/>
-          <posit time="1200" lat="" lon=""/>
-          <posit time="2000" lat="" lon=""/>
+          <posit time="1200" lat="01-48-40 S" lon="147-05-00 E"/>
+          <posit time="2000" lat="02-03-00 S" lon="144-10-00 E"/>
         </item>
       </items>
     </image>
@@ -18567,7 +18602,7 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
       <file>0141.jpg</file>
       <items>
         <item>
-          <date>1945-11-01</date>
+          <date>1944-11-01</date>
           <description>
 &lt;div&gt;November 1.  Steaming in company with Task Unit ONE HUNDRED
 SIXTEEN POINT ELEVEN POINT NINE composed of USS CONWAY (Officer
@@ -18584,14 +18619,14 @@ moored alongside USS CONWAY.&lt;/div&gt;
           <posit time="1200" lat="21-14-20 N" lon="157-40-00 W"/>
         </item>
         <item>
-          <date>1945-11-02</date>
+          <date>1944-11-02</date>
           <description>
 &lt;div&gt;November 2.  Moored alongside USS CONWAY in Pearl Harbor, T.H.&lt;/div&gt;
 &lt;p&gt; &lt;/p&gt;
           </description>
         </item>
         <item>
-          <date>1945-11-03</date>
+          <date>1944-11-03</date>
           <description>
 &lt;div&gt;November 3.  Moored alongside USS CONWAY in Pearl Harbor, T.H.
 At 0654 underway with USS PRINGLE (Officer in Tactical Command -
@@ -18606,7 +18641,7 @@ T.H.&lt;/div&gt;
           <posit time="2000" lat="20-30-00 N" lon="157-10-30 W"/>
         </item>
         <item>
-          <date>1945-11-04</date>
+          <date>1944-11-04</date>
           <description>
 &lt;div&gt;November 4.  Steaming in company with USS PRINGLE (Officer in
 Tactical Command - Destroyer Squadron TWENTY TWO - Captain SMITH)
@@ -18624,7 +18659,7 @@ and USS SAUFLEY detached and proceeded into Pearl Harbor, T. H.&lt;/div&gt;
       <file>0142.jpg</file>
       <items>
         <item>
-          <date>1945-11-05</date>
+          <date>1944-11-05</date>
           <description>
 &lt;div&gt;November 5.  Moored alongside USS RENSHAW in Pearl Harbor, T. H.
 At 0935 fueled ship. At 1310 took on board ammunition and
@@ -18632,11 +18667,11 @@ torpedoes.&lt;/div&gt;
           </description>
         </item>
         <item>
-          <date>1945-11-06</date>
+          <date>1944-11-06</date>
           <description>
 &lt;div&gt;November 6.  Moored alongside USS RENSHAW in Pearl Harbor, T. H.
 At 0632 underway with USS COLORADO (Officer in Tactical Command),
-and USS RENSHAW in accordance with Conmander in Chief, Pacific
+and USS RENSHAW in accordance with Commander in Chief, Pacific
 Fleet secret dispatch 052153. Formed Task Unit TWELVE POINT FIVE
 POINT FIVE and set course for Ulithi, Caroline Islands. At 1930
 changed to 110 zone time.&lt;/div&gt;
@@ -18646,7 +18681,7 @@ changed to 110 zone time.&lt;/div&gt;
           <posit time="2000" lat="19-22-00 N" lon="159-49-30 W"/>
         </item>
         <item>
-          <date>1945-11-07</date>
+          <date>1944-11-07</date>
           <description>
 &lt;div&gt;November 7.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
@@ -18656,7 +18691,7 @@ FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
           <posit time="2000" lat="19-28-30 N" lon="166-32-30 W"/>
         </item>
         <item>
-          <date>1945-11-08</date>
+          <date>1944-11-08</date>
           <description>
 &lt;div&gt;November 8.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
@@ -18672,7 +18707,7 @@ FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
       <file>0143.jpg</file>
       <items>
         <item>
-          <date>1945-11-09</date>
+          <date>1944-11-09</date>
           <description>
 &lt;div&gt;November 9.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
@@ -18684,7 +18719,7 @@ and local date to November 11.&lt;/div&gt;
           <posit time="2000" lat="16-43-40 N" lon="179-44-40 W"/>
         </item>
         <item>
-          <date>1945-11-11</date>
+          <date>1944-11-11</date>
           <description>
 &lt;div&gt;November 11.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
@@ -18694,7 +18729,7 @@ FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
           <posit time="2000" lat="15-03-00 N" lon="173-05-00 E"/>
         </item>
         <item>
-          <date>1945-11-12</date>
+          <date>1944-11-12</date>
           <description>
 &lt;div&gt;November 12.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
@@ -18706,7 +18741,7 @@ to -11 zone time.&lt;/div&gt;
           <posit time="2000" lat="13-33-00 N" lon="168-08-00 E"/>
         </item>
         <item>
-          <date>1945-11-13</date>
+          <date>1944-11-13</date>
           <description>
 &lt;div&gt;November 13.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
@@ -18716,7 +18751,7 @@ FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
           <posit time="2000" lat="10-52-00 N" lon="162-01-30 E"/>
         </item>
         <item>
-          <date>1945-11-14</date>
+          <date>1944-11-14</date>
           <description>
 &lt;div&gt;November 14.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
@@ -18732,7 +18767,7 @@ FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
       <file>0144.jpg</file>
       <items>
         <item>
-          <date>1945-11-15</date>
+          <date>1944-11-15</date>
           <description>
 &lt;div&gt;November 15.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
@@ -18742,7 +18777,7 @@ FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.&lt;/div&gt;
           <posit time="2000" lat="10-16-50 N" lon="149-02-00 E"/>
         </item>
         <item>
-          <date>1945-11-16</date>
+          <date>1944-11-16</date>
           <description>
 &lt;div&gt;November 16.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.
@@ -18753,7 +18788,7 @@ FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands.
           <posit time="2000" lat="09-58-30 N" lon="142-40-00 E"/>
         </item>
         <item>
-          <date>1945-11-17</date>
+          <date>1944-11-17</date>
           <description>
 &lt;div&gt;November 17.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
@@ -18763,7 +18798,7 @@ alongside USS RENSHAW at 1425.&lt;/div&gt;
           <posit time="0800" lat="09-59-00 N" lon="139-54-50 E"/>
         </item>
         <item>
-          <date>1945-11-18</date>
+          <date>1944-11-18</date>
           <description>
 &lt;div&gt;November 18.  Moored alongside USS RENSHAW in Ulithi, Caroline
 Islands. At 0510 underway with USS COLORADO and USS RENSHAW in
@@ -18781,7 +18816,7 @@ Islands.&lt;/div&gt;
       <file>0145.jpg</file>
       <items>
         <item>
-          <date>1945-11-19</date>
+          <date>1944-11-19</date>
           <description>
 &lt;div&gt;November 19.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Ulithi, Caroline Islands to Leyte, Philippine Islands.&lt;/div&gt;
@@ -18791,7 +18826,7 @@ FIVE from Ulithi, Caroline Islands to Leyte, Philippine Islands.&lt;/div&gt;
           <posit time="2000" lat="10-35-30 N" lon="129-45-00 E"/>
         </item>
         <item>
-          <date>1945-11-20</date>
+          <date>1944-11-20</date>
           <description>
 &lt;div&gt;November 20.  Enroute with Task Unit TWELVE POINT FIVE POINT
 FIVE from Ulithi, Caroline Islands to Leyte, Philippine Islands.
@@ -18807,7 +18842,7 @@ Group SEVENTY SEVEN POINT TWO.&lt;/div&gt;
           <posit time="2000" lat="10-52-30 N" lon="125-25-00 E"/>
         </item>
         <item>
-          <date>1945-11-21</date>
+          <date>1944-11-21</date>
           <description>
 &lt;div&gt;November 21.  Underway in Leyte Gulf, Philippine Islands with
 ships of Task Group SEVENTY SEVEN POINT TWO. SAUFLEY on station
@@ -18827,7 +18862,7 @@ day caused by unidentified aircraft in vicinity.&lt;/div&gt;
       <file>0146.jpg</file>
       <items>
         <item>
-          <date>1945-11-22</date>
+          <date>1944-11-22</date>
           <description>
 &lt;div&gt;November 22.  Patrolling on station Dog in Surigao Straits,
 Philippine Islands in company with USS MUGFORD. Alerts throughout 
@@ -18846,7 +18881,7 @@ Island.&lt;/div&gt;
           <posit time="2000" lat="10-14-00 N" lon="125-19-30 E"/>
         </item>
         <item>
-          <date>1945-11-23</date>
+          <date>1944-11-23</date>
           <description>
 &lt;div&gt;November 23.  Patrolling on station Dog in Surigao Straits,
 Philippine Islands, in company with USS MUGFORD. Alerts
@@ -18857,7 +18892,7 @@ throughout the day caused by unidentified aircraft in the area.&lt;/div&gt;
           <posit time="2000" lat="10-14-30 N" lon="125-24-30 E"/>
         </item>
         <item>
-          <date>1945-11-24</date>
+          <date>1944-11-24</date>
           <description>
 &lt;div&gt;November 24.  Patrolling on station Dog in Surigao Straits,
 Philippine Islands in company with USS MUGFORD. At 1235 SAUFLEY
@@ -18881,7 +18916,7 @@ SAUFLEY action report serial 0560 of 9 December 1944.&lt;/div&gt;
       <file>0147.jpg</file>
       <items>
         <item>
-          <date>1945-11-25</date>
+          <date>1944-11-25</date>
           <description>
 &lt;div&gt;November 25.  Steaming with ships of Task Group SEVENTY SEVEN
 POINT TWO in Leyte Gulf, Philippine Islands (Officer in Tactical
@@ -18896,7 +18931,7 @@ at various times during day caused by enemy planes in the area.&lt;/div&gt;
           <posit time="2000" lat="10-31-30 N" lon="125-40-10 E"/>
         </item>
         <item>
-          <date>1945-11-26</date>
+          <date>1944-11-26</date>
           <description>
 &lt;div&gt;November 26.  Patrolling on station Baker Charlie East of Leyte
 Gulf, Philippine Islands. At 1241 relieved by USS SIGOURNEY
@@ -18909,13 +18944,13 @@ caused by enemy planes in the area.&lt;/div&gt;
           <posit time="2000" lat="10-43-00 N" lon="125-20-30 E"/>
         </item>
         <item>
-          <date>1945-11-27</date>
+          <date>1944-11-27</date>
           <description>
 &lt;div&gt;November 27.  Steaming in Leyte Gulf, Philippine Islands with
 ships of Task Group SEVENTY SEVEN POINT TWO (officer in Tactical
 Command - Rear Admiral RUDDOCK in USS MARYLAND). At 0853 proceeded 
 to go alongside USS CARIBOU and fuel. Upon completion of
-fueling rejoined screen at 0954 as directed by Screen Conmander
+fueling rejoined screen at 0954 as directed by Screen Commander
 of Task Group SEVENTY SEVEN POINT TWO. At 1137 numerous enemy
 planes identified as Vals, Jills and Kates attacked Task Group
 SEVENTY SEVEN POINT TWO. Observed two suicide dive bombers hit
@@ -18932,8 +18967,8 @@ At 1814 departed from Task Group SEVENTY SEVEN
 POINT TWO and in accordance with Commander Destroyer Squadron
 TWENTY TWO Operation Order 1-44 formed up with Destroyer Division
 FORTY THREE composed of USS WALLER (Officer in Tactical Command -
-Captain SMITH - Commander Destroyer Squadron TWENTY TWO), USS
-RENSHAW, USS PRINGLE and USS SAUFLEY and proceeded to Ormoc Bay,
+Captain SMITH - Commander Destroyer Squadron TWENTY TWO), USS RENSHAW, 
+USS PRINGLE and USS SAUFLEY and proceeded to Ormoc Bay,
 Leyte Island for shore bombardment and anti-shipping sweep. At
 2339 commenced bombardment of designated targets on the beach.&lt;/div&gt;
           </description>
@@ -18947,7 +18982,7 @@ Leyte Island for shore bombardment and anti-shipping sweep. At
       <file>0148.jpg</file>
       <items>
         <item>
-          <date>1945-11-28</date>
+          <date>1944-11-28</date>
           <description>
 &lt;div&gt;November 28.  November 28. Steaming in company with USS WALLER (Officer in
 Tactical Command - Captain SMITH - Commander Destroyer Squadron -
@@ -18985,7 +19020,7 @@ aircraft in the area.&lt;/p&gt;
       <file>0149.jpg</file>
       <items>
         <item>
-          <date>1945-11-29</date>
+          <date>1944-11-29</date>
           <description>
 &lt;div&gt;November 29.  Patrolling on picket station Easy Southeast
 of Homonhon Island, Philippine Islands. At 0645 proceeded to
@@ -19002,7 +19037,7 @@ fire on third plane coming in astern. This plane dropped bombs
 which landed in water close aboard amidships on the starboard
 side and was then observed to catch fire and crash into water
 on the starboard side. During this attack the SAUFLEY expended 284
-rounds of 40MM anmunition and 480 rounds of 20MM ammunition.
+rounds of 40MM ammunition and 480 rounds of 20MM ammunition.
 Hits were observed on all the attacking planes and caused them
 to crash. See SAUFLEY action report serial 0562 of 9 December
 1944.&lt;/p&gt;
@@ -19018,7 +19053,7 @@ lost over the side from the concussion of the plane explosion.&lt;/p&gt;
           <posit time="2000" lat="10-23-20 N" lon="125-20-30 E"/>
         </item>
         <item>
-          <date>1945-11-30</date>
+          <date>1944-11-30</date>
           <description>
 &lt;div&gt;November 30.  Patrolling in picket station Baker between
 Homonhon Island and Dinagat Island, Philippine Islands. At
@@ -20799,11 +20834,63 @@ under #1 boiler.  Boiler #3 in use for auxiliary purposes.&lt;/div&gt;
       <file>0174.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1942-08-29</date>
+          <description>
+&lt;div&gt;August 29.  The USS SAUFLEY was commissioned in the United
+States Navy at 1145 this date by Rear Admiral E. J. MARQUART
+in a ceremony conducted at the Brooklyn Navy Yard, where the
+SAUFLEY was fitting out.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="40-42-14 N" lon="073-58-27 W" type="estimated" comment="Brookly Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-08-30</date>
+          <description>
+&lt;div&gt;August 30-31. Fitting out in the Brooklyn Navy Yard.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="40-42-14 N" lon="073-58-27 W" type="estimated" comment="Brookly Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-09-01</date>
+          <description>
+&lt;div&gt;September 1-23. Fitting out and preparing for sea in the
+Brooklyn Navy Yard.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="40-42-14 N" lon="073-58-27 W" type="estimated" comment="Brookly Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-09-24</date>
+          <description>
+&lt;div&gt;September 24.  The SAUFLEY got underway at 0711 and proceeded
+to anchor in Graves End Bay to take on ammunition. Upon completion 
+of this operation at 1800, the SAUFLEY proceeded to Bayonne,
+New Jersey, for deperming operations.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="40-35-40 N" lon="074-00-48 W" type="estimated" comment="Gravesend Bay"/>
+        </item>
+        <item>
+          <date>1942-09-25</date>
+          <description>
+&lt;div&gt;September 25.  Moored alongside the dock at the Navy Yard,
+Bayonne, conducting deperming operations. Underway at 0738 and
+proceeded by way of Hellgate to Long Island Sound where the
+Ship's compass was compensated. This operation was completed by
+1700, and the SAUFLEY proceeded to anchor in Oyster Bay, Long
+Island Sound.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="40-39-42 N" lon="074-04-00 W" type="estimated" comment="Bayonne, New Jersey Navy Yard"/>
+          <posit time="2000" lat="40-56-10 N" lon="073-30-57 W" type="estimated" comment="Oyster Bay, Long Island, NY"/>
+        </item>
+        <item>
+          <date>1942-09-26</date>
+          <description>
+&lt;div&gt;September 26.  Underway at 0730 and calibrated the RDF from
+0800 until 1000. Aircraft tracking drills were held from 1100
+to 1145, and from 1210 to 1410. Abandon Ship Drill was held at
+1545. The SAUFLEY then proceeded via Hellgate to moor along-
+side the dock at 35th Street, Brooklyn.&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="40-45-35 N" lon="074-00-25 W" type="estimated" comment="35th Street Dock, Brooklyn"/>
         </item>
       </items>
     </image>
@@ -20811,11 +20898,83 @@ under #1 boiler.  Boiler #3 in use for auxiliary purposes.&lt;/div&gt;
       <file>0175.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1942-09-27</date>
+          <description>
+&lt;div&gt;September 27. Moored to the dock at 35th Street, Brooklyn.
+The SAUFLEY got underway at 0710 and proceeded to the Brooklyn
+Navy Yard.&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="40-42-14 N" lon="073-58-27 W" type="estimated" comment="Brookly Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-09-28</date>
+          <description>
+&lt;div&gt;September 28. Moored in the Brooklyn Navy Yard. Underway at
+0607, proceeded out of New York Harbor, took departure from
+Ambrose Lightship, and set course for Casco Bay, Maine. Beginning 
+at 0925, ten depth charges were dropped to test the depth
+charge racks. At 1040 the main battery was test fired. Four
+depth charges were dropped at 1210 for test purposes, and at
+1358 the machine guns were test fired.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-09-29</date>
+          <description>
+&lt;div&gt;September 29. Enroute from Brooklyn Navy Yard to Casco Bay,
+Maine, where the SAUFLEY anchored at 1600, and fueled.&lt;/div&gt;
+          </description>
+          <posit time="1600" lat="43-41-47 N" lon="069-59-39 W" type="estimated" comment="Casco Bay, Maine"/>
+        </item>
+        <item>
+          <date>1942-09-30</date>
+          <description>
+&lt;div&gt;September 30. Anchored in Casco Bay, Maine. Underway at
+0805 and proceeded out of the harbor. Main Battery tracking
+drills were held during the morning. At noon the SAUFLEY
+returned to the harbor and anchored.&lt;/div&gt;
+          </description>
+          <posit time="1200" lat="43-41-47 N" lon="069-59-39 W" type="estimated" comment="Casco Bay, Maine"/>
+        </item>
+        <item>
+          <date>1942-10-01</date>
+          <description>
+&lt;div&gt;October 1.  Aircraft tracking drills for main battery and
+machine guns held during the morning, followed by Radar calibration
+exercises, and various emergency drills. The degaussing range
+was run during the afternoon.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-02</date>
+          <description>
+&lt;div&gt;Conducted anti-submarine training exercises
+with the aid of a friendly submarine.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-03</date>
+          <description>
+&lt;div&gt;Main Battery and machine gun tracking exercises
+were held during the morning, and 16 rounds of 5"/38 ammunition
+were expended during a Short Range Battle Practice. During the
+afternoon anti-submarine training exercises were held with the
+aid of a friendly submarine.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-04</date>
+          <description>
+&lt;div&gt;Screened the USS INDIANA in company with the
+USS TAYLOR, and USS PARKER, while the INDIANA conducted various
+training exercises during the day. Sixteen (16) rounds of 5"/38
+ammunition were expended during a Local Control Battle practice
+on October 5, and 320 rounds of 20MM ammunition were expended
+during a machine gun battle practice on October 6. The formation
+proceeded to the anchorage the morning of October 7. The SAUFLEY
+shortly thereafter at 0900 got underway, and proceeded out of the
+harbor for training exercises, returning to anchor that night.&lt;/div&gt;
+          </description>
         </item>
       </items>
     </image>
@@ -20823,11 +20982,83 @@ under #1 boiler.  Boiler #3 in use for auxiliary purposes.&lt;/div&gt;
       <file>0176.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1942-10-08</date>
+          <description>
+&lt;div&gt;October 8.  Fired a Main Battery AA practice in the morning,
+and held anti-submarine exercises during the afternoon.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-09</date>
+          <description>
+&lt;div&gt;October 9.  Held anti-submarine exercises throughout the day.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-10</date>
+          <description>
+&lt;div&gt;October 10.  Conducted anti-submarine exercises during the
+morning, and held a Battle Torpedo Practice during the afternoon.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-11</date>
+          <description>
+&lt;div&gt;October 11.  Anchored in Casco Bay, Maine.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="43-41-47 N" lon="069-59-39 W" type="estimated" comment="Casco Bay, Maine"/>
+        </item>
+        <item>
+          <date>1942-10-12</date>
+          <description>
+&lt;div&gt;October 12.  Conducted a AA Machine Gun sleeve firing exercise
+during the afternoon, and remained underway to fire a Night
+Battle Practice, using a towed target.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-13</date>
+          <description>
+&lt;div&gt;October 13.  Shortly after midnight commenced full power trial
+runs. These and other maneuvering trials were completed by noon.
+During the afternoon 20 rounds of 5"/38 ammunition were expended
+during a shore bombardment exercise. Returned to anchorage for
+the night.&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="43-41-47 N" lon="069-59-39 W" type="estimated" comment="Casco Bay, Maine"/>
+        </item>
+        <item>
+          <date>1942-10-14</date>
+          <description>
+&lt;div&gt;October 14.  The SAUFLEY formed up with the USS RHIND and the
+USS MASSACHUSETTS, and screened the latter vessel during various
+exercises conducted in the training area. The formation remained
+underway that night.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-15</date>
+          <description>
+&lt;div&gt;October 15.  The SAUFLEY was detached about 0730 when the formation 
+returned to anchor, and formed up with the USS PRAIRIE and
+the USS CHAMPLIN. The formation then set course for Argentia,
+Newfoundland.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-16</date>
+          <description>
+&lt;div&gt;October 16.  Enroute from Casco Bay, Maine to Argentia, Newfoundland, 
+in company with the USS PRAIRIE and USS CHAMPLIN.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-17</date>
+          <description>
+&lt;div&gt;October 17.  The formation anchored in Little Placentia Harbor,
+Argentia, Newfoundland, shortly before noon, and fueled.&lt;/div&gt;
+          </description>
+          <posit time="1200" lat="47-17-22 N" lon="054-12-56 W" type="estimated" comment="Little Placentia Harbor, Argentia, Newfoundland"/>
         </item>
       </items>
     </image>
@@ -20835,11 +21066,99 @@ under #1 boiler.  Boiler #3 in use for auxiliary purposes.&lt;/div&gt;
       <file>0177.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1942-10-18</date>
+          <description>
+&lt;div&gt;October 18.  The SAUFLEY joined up with the USS CHAMPLIN and
+the USS CHATEAU THIERRY, and the formation set course for the
+Cape Cod Canal.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-19</date>
+          <description>
+&lt;div&gt;October 19-20. Enroute from Argentia, Newfoundland to the Cape
+Cod Canal in company with the USS CHATEAU THIERRY, and USS CHAMPLIN.
+The SAUFLEY was detached off the entrance to the Canal the night
+of the 20th.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-21</date>
+          <description>
+&lt;div&gt;October 21.  Proceeded through the Cape Cod Canal shortly after
+sunrise, and set course for New York, via Long Island Sound.
+The RDF was calibrated off the Stratford Shoals
+Light house enroute, and the SAUFLEY moored in the Brooklyn Navy
+Yard late that afternoon.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="41-46-07 N" lon="070-33-53 W" type="estimated" comment="Cape Cod Canal"/>
+        </item>
+        <item>
+          <date>1942-10-22</date>
+          <description>
+&lt;div&gt;October 22-26. Moored in the Brooklyn Navy Yard.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="40-42-14 N" lon="073-58-27 W" type="estimated" comment="Brookly Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-10-27</date>
+          <description>
+&lt;div&gt;October 27.  The SAUFLEY got underway and proceeded to Graves
+End to take on ammunition, then set course for Norfolk, Virginia.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-28</date>
+          <description>
+&lt;div&gt;October 28.  Moored to the dock at Naval Operating Base,
+Norfolk, Virginia.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="36-57-38 N" lon="076-20-22 W" type="estimated" comment="Norfolk, Virginia Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-10-29</date>
+          <description>
+&lt;div&gt;October 29.  Joined up with the USS TERROR and set course for
+New York.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-10-30</date>
+          <description>
+&lt;div&gt;October 30.  Upon arrival in New York Harbor, the SAUFLEY was
+detached and proceeded to moor in the Brooklyn Navy Yard.&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="40-42-14 N" lon="073-58-27 W" type="estimated" comment="Brookly Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-10-31</date>
+          <description>
+&lt;div&gt;October 31.  Moored in the Brooklyn Navy Yard.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="40-42-14 N" lon="073-58-27 W" type="estimated" comment="Brookly Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-11-01</date>
+          <description>
+&lt;div&gt;November 1-2. Moored in t he Brooklyn Navy Yard.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="40-42-14 N" lon="073-58-27 W" type="estimated" comment="Brookly Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-11-03</date>
+          <description>
+&lt;div&gt;November 3.  The SAUFLEY got underway at noon and proceeded
+to Graves End where she joined up with the USS MEMPHIS. The
+two ships set course for Norfolk, Virginia.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-11-04</date>
+          <description>
+&lt;div&gt;November 4.  The SAUFLEY was detached upon arrival at the
+Naval Operating Base, Norfolk and moored to the dock.&lt;/div&gt;
+          </description>
+          <posit time="2000" lat="36-57-38 N" lon="076-20-22 W" type="estimated" comment="Norfolk, Virginia Navy Yard"/>
         </item>
       </items>
     </image>
@@ -20847,11 +21166,96 @@ under #1 boiler.  Boiler #3 in use for auxiliary purposes.&lt;/div&gt;
       <file>0178.jpg</file>
       <items>
         <item>
-          <date></date>
-
-
-
-          <description></description>
+          <date>1942-11-05</date>
+          <description>
+&lt;div&gt;November 5.  Moored at the Naval Operating Base, Norfolk,
+Virginia.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="36-57-38 N" lon="076-20-22 W" type="estimated" comment="Norfolk, Virginia Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-11-06</date>
+          <description>
+&lt;div&gt;November 6.  Got underway with the USS KEOKUK and set course
+for New York.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-11-07</date>
+          <description>
+&lt;div&gt;November 7.  The SAUFLEY was detached off Ambrose light ship
+at 1800, and set course for Norfolk, Virginia.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-11-08</date>
+          <description>
+&lt;div&gt;November 8.  Moored to the dock at the Naval Operating Base,
+Norfolk, Virginia, at 1230.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="36-57-38 N" lon="076-20-22 W" type="estimated" comment="Norfolk, Virginia Navy Yard"/>
+        </item>
+        <item>
+          <date>1942-11-09</date>
+          <description>
+&lt;div&gt;November 9.  The SAUFLEY got underway at 1240 and joined up with
+the USS INDIANA, USS COLOMBIA, USS CHAMPLIN and USS DE HAVEN. The
+formation set course for the Panama Canal Zone, ultimate destination
+the South Pacific Area.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-11-10</date>
+          <description>
+&lt;div&gt;November 10-12. Enroute from Norfolk, Virginia, to the Panama
+Canal Zone.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-11-13</date>
+          <description>
+&lt;div&gt;November 13. Passed through the Canal and moored at the Naval
+Coaling docks, Balboa. The USS CHAMPLIN was detached upon the arrival
+of the formation at the Atlantic end of the Canal.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="09-19-00 N" lon="079-55-12 W" type="estimated" comment="Panama Canal"/>
+          <posit time="2000" lat="08-54-25 N" lon="079-34-04 W" type="estimated" comment="Balboa, Panama"/>
+        </item>
+        <item>
+          <date>1942-11-14</date>
+          <description>
+&lt;div&gt;November 14.  The formation got underway and set course for
+Tongatabu, of the Tonga Island Group.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-11-15</date>
+          <description>
+&lt;div&gt;November 15-27. Enroute from the Panama Canal Zone to Tongatabu,
+in company with the USS INDIANA, USS COLOMBIA, and USS DE HAVEN.&lt;/div&gt;
+          </description>
+        </item>
+        <item>
+          <date>1942-11-28</date>
+          <description>
+&lt;div&gt;November 28.  The formation anchored in Tongatabu Harbor and
+fueled.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="21-04-44 S" lon="175-11-22 W" type="estimated" comment="Tongatabu Harbor"/>
+        </item>
+        <item>
+          <date>1942-11-29</date>
+          <description>
+&lt;div&gt;November 29.  Anchored in Tongatabu Harbor.&lt;/div&gt;
+          </description>
+          <posit time="0800" lat="21-04-44 S" lon="175-11-22 W" type="estimated" comment="Tongatabu Harbor"/>
+        </item>
+        <item>
+          <date>1942-11-30</date>
+          <description>
+&lt;div&gt;November 30. The formation got underway and set course for
+Noumea, New Caledonia.&lt;/div&gt;
+          </description>
         </item>
       </items>
     </image>

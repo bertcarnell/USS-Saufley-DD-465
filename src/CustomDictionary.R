@@ -22,6 +22,8 @@ create_word_list <- function() return(c(
   "Kiape", "Laruma", "Magine", "Emirau", "Rua", "Sura", "Mussau", "Ellice",
   "Maalaea", "Lahaina", "Kahoolawe", "Kwajalein", "Saipan", "Gea", "Aslito",
   "Magicienne", "Naftan", "Gurguan", "Tinian", "Agingan", "Tanapag", "Clemente",
+  "Ormoc", "Dinagat", "Manicani", "Hingatungan", "Lombrum", "Aitape", "Hollandia",
+  "Hellgate", "Casco", "Placentia", "Argentia", "Stratford",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -41,11 +43,14 @@ create_word_list <- function() return(c(
   # LT - Large Tug (Army)
   # ARD - Auxilliary Repair Dock
   # DDs - Destroyers
+  # ABSD - Advanced Base Sectional Dock
   "LSM", "FS", "MTB", "LST", "APD", "YMS", "DMS", "LCI", "LCV", "LCT", "LCS",
-  "PBY", "AMS", "TP", "ARD", "YF", "DDs", "YP", "YC",
+  "PBY", "AMS", "TP", "ARD", "YF", "DDs", "YP", "YC", "ABSD",
   # Ship terms
   # SPD - Smokeless Powder stabilized with Diphenolamine
   # DG - degaussing
+  # RDF Radio Direction Finder
+  # Japanese Planes:  Vals, Jills, Zekes, Kates
   "mailgram", "starshell", "starshells", "fuzed", "conn", "Afirm", "afirm",
   "zigzagging", "zig", "zagging", "minesweeping", "xray", "speedletter",
   "degaussing", "pre", "mersig",  "portside", "Countermarched", "yds",
@@ -53,7 +58,8 @@ create_word_list <- function() return(c(
   "drydock", "Vals", "Zekes", "Hypo", "DS", "SPD", "FD", "SG", "SC",
   "torpedoman", "exploder", "oiler", "reberth", "DG", "flashless", "PhM",
   "NPM", "depermed", "rebricking", "Enroute", "enroute", "despatch", "Despatch",
-  "engined", "cancelled",
+  "engined", "cancelled", "Jills", "Kates",
+  "blackcats", "superheater", "deperming", "RDF", "Ambrose",
   # command terms
   #  CDD - Commander Destroyer Division
   #  CDS - Commander Destroyer Squadron
@@ -69,7 +75,7 @@ create_word_list <- function() return(c(
   "ROSENDAHL", "NEVILLE", "CONOLLY", "WR", "WASHBURNE", "HURFF", "MULKEY", 
   "Hanard", "COULLING", "Stalfa", "PAHL", "BLACKLEDGE", "REIFSNIDER", "DICKENSON",
   "MacAinsh", "Conniff", "Kianowski", "WADSWORTH", "Claxton", "Blandy", "HAYLER",
-  "OLDENDORF"
+  "OLDENDORF", "RUDDOCK", "MEE", "RUTTER", "MARQUART"
 ))
 
 # Radars

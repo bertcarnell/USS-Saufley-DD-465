@@ -3,6 +3,1100 @@
     <name>1942</name>
     <open>1</open>
     <Folder>
+      <name>1942-08 Locations</name>
+      <Style id="pnt1">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt2">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt3">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt4">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt5">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt6">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt7">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt8">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt9">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt10">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt11">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt12">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt13">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt14">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt15">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt16">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt17">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt18">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt19">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt20">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt21">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt22">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt23">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt24">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt25">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt26">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00a5ff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>29 0800</name>
+        <styleUrl>#pnt1</styleUrl>
+        <TimeSpan>
+          <begin>1942-08-29T08:00:00Z</begin>
+          <end>1942-08-29T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-08-29: 0800</h3>
+
+<div>August 29.  The USS SAUFLEY was commissioned in the United
+States Navy at 1145 this date by Rear Admiral E. J. MARQUART
+in a ceremony conducted at the Brooklyn Navy Yard, where the
+SAUFLEY was fitting out.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.97417,40.70389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 0800</name>
+        <styleUrl>#pnt2</styleUrl>
+        <TimeSpan>
+          <begin>1942-08-30T08:00:00Z</begin>
+          <end>1942-08-30T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-08-30: 0800</h3>
+
+<div>August 30-31. Fitting out in the Brooklyn Navy Yard.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.97417,40.70389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>01 0800</name>
+        <styleUrl>#pnt3</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-01T08:00:00Z</begin>
+          <end>1942-09-01T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-09-01: 0800</h3>
+
+<div>September 1-23. Fitting out and preparing for sea in the
+Brooklyn Navy Yard.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.97417,40.70389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 0800</name>
+        <styleUrl>#pnt4</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-24T08:00:00Z</begin>
+          <end>1942-09-24T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-09-24: 0800</h3>
+
+<div>September 24.  The SAUFLEY got underway at 0711 and proceeded
+to anchor in Graves End Bay to take on ammunition. Upon completion 
+of this operation at 1800, the SAUFLEY proceeded to Bayonne,
+New Jersey, for deperming operations.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-74.01333,40.59444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 0800</name>
+        <styleUrl>#pnt5</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-25T08:00:00Z</begin>
+          <end>1942-09-25T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-09-25: 0800</h3>
+
+<div>September 25.  Moored alongside the dock at the Navy Yard,
+Bayonne, conducting deperming operations. Underway at 0738 and
+proceeded by way of Hellgate to Long Island Sound where the
+Ship's compass was compensated. This operation was completed by
+1700, and the SAUFLEY proceeded to anchor in Oyster Bay, Long
+Island Sound.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-74.06667,40.66167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 2000</name>
+        <styleUrl>#pnt6</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-25T20:00:00Z</begin>
+          <end>1942-09-25T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-09-25: 2000</h3>
+
+<div>September 25.  Moored alongside the dock at the Navy Yard,
+Bayonne, conducting deperming operations. Underway at 0738 and
+proceeded by way of Hellgate to Long Island Sound where the
+Ship's compass was compensated. This operation was completed by
+1700, and the SAUFLEY proceeded to anchor in Oyster Bay, Long
+Island Sound.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.51583,40.93611,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26 2000</name>
+        <styleUrl>#pnt7</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-26T20:00:00Z</begin>
+          <end>1942-09-26T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-09-26: 2000</h3>
+
+<div>September 26.  Underway at 0730 and calibrated the RDF from
+0800 until 1000. Aircraft tracking drills were held from 1100
+to 1145, and from 1210 to 1410. Abandon Ship Drill was held at
+1545. The SAUFLEY then proceeded via Hellgate to moor along-
+side the dock at 35th Street, Brooklyn.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-74.00694,40.75972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27 2000</name>
+        <styleUrl>#pnt8</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-27T20:00:00Z</begin>
+          <end>1942-09-27T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-09-27: 2000</h3>
+
+<div>September 27. Moored to the dock at 35th Street, Brooklyn.
+The SAUFLEY got underway at 0710 and proceeded to the Brooklyn
+Navy Yard.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.97417,40.70389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29 1600</name>
+        <styleUrl>#pnt9</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-29T16:00:00Z</begin>
+          <end>1942-09-29T16:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-09-29: 1600</h3>
+
+<div>September 29. Enroute from Brooklyn Navy Yard to Casco Bay,
+Maine, where the SAUFLEY anchored at 1600, and fueled.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-69.99417,43.69639,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 1200</name>
+        <styleUrl>#pnt10</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-30T12:00:00Z</begin>
+          <end>1942-09-30T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-09-30: 1200</h3>
+
+<div>September 30. Anchored in Casco Bay, Maine. Underway at
+0805 and proceeded out of the harbor. Main Battery tracking
+drills were held during the morning. At noon the SAUFLEY
+returned to the harbor and anchored.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-69.99417,43.69639,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 0800</name>
+        <styleUrl>#pnt11</styleUrl>
+        <TimeSpan>
+          <begin>1942-10-11T08:00:00Z</begin>
+          <end>1942-10-11T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-10-11: 0800</h3>
+
+<div>October 11.  Anchored in Casco Bay, Maine.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-69.99417,43.69639,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 2000</name>
+        <styleUrl>#pnt12</styleUrl>
+        <TimeSpan>
+          <begin>1942-10-13T20:00:00Z</begin>
+          <end>1942-10-13T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-10-13: 2000</h3>
+
+<div>October 13.  Shortly after midnight commenced full power trial
+runs. These and other maneuvering trials were completed by noon.
+During the afternoon 20 rounds of 5"/38 ammunition were expended
+during a shore bombardment exercise. Returned to anchorage for
+the night.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-69.99417,43.69639,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 1200</name>
+        <styleUrl>#pnt13</styleUrl>
+        <TimeSpan>
+          <begin>1942-10-17T12:00:00Z</begin>
+          <end>1942-10-17T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-10-17: 1200</h3>
+
+<div>October 17.  The formation anchored in Little Placentia Harbor,
+Argentia, Newfoundland, shortly before noon, and fueled.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-54.21556,47.28944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21 0800</name>
+        <styleUrl>#pnt14</styleUrl>
+        <TimeSpan>
+          <begin>1942-10-21T08:00:00Z</begin>
+          <end>1942-10-21T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-10-21: 0800</h3>
+
+<div>October 21.  Proceeded through the Cape Cod Canal shortly after
+sunrise, and set course for New York, via Long Island Sound.
+The RDF was calibrated off the Stratford Shoals
+Light house enroute, and the SAUFLEY moored in the Brooklyn Navy
+Yard late that afternoon.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-70.56472,41.76861,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22 0800</name>
+        <styleUrl>#pnt15</styleUrl>
+        <TimeSpan>
+          <begin>1942-10-22T08:00:00Z</begin>
+          <end>1942-10-22T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-10-22: 0800</h3>
+
+<div>October 22-26. Moored in the Brooklyn Navy Yard.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.97417,40.70389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 0800</name>
+        <styleUrl>#pnt16</styleUrl>
+        <TimeSpan>
+          <begin>1942-10-28T08:00:00Z</begin>
+          <end>1942-10-28T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-10-28: 0800</h3>
+
+<div>October 28.  Moored to the dock at Naval Operating Base,
+Norfolk, Virginia.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-76.33944,36.96056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 2000</name>
+        <styleUrl>#pnt17</styleUrl>
+        <TimeSpan>
+          <begin>1942-10-30T20:00:00Z</begin>
+          <end>1942-10-30T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-10-30: 2000</h3>
+
+<div>October 30.  Upon arrival in New York Harbor, the SAUFLEY was
+detached and proceeded to moor in the Brooklyn Navy Yard.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.97417,40.70389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31 0800</name>
+        <styleUrl>#pnt18</styleUrl>
+        <TimeSpan>
+          <begin>1942-10-31T08:00:00Z</begin>
+          <end>1942-10-31T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-10-31: 0800</h3>
+
+<div>October 31.  Moored in the Brooklyn Navy Yard.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.97417,40.70389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>01 0800</name>
+        <styleUrl>#pnt19</styleUrl>
+        <TimeSpan>
+          <begin>1942-11-01T08:00:00Z</begin>
+          <end>1942-11-01T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-11-01: 0800</h3>
+
+<div>November 1-2. Moored in t he Brooklyn Navy Yard.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.97417,40.70389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 2000</name>
+        <styleUrl>#pnt20</styleUrl>
+        <TimeSpan>
+          <begin>1942-11-04T20:00:00Z</begin>
+          <end>1942-11-04T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-11-04: 2000</h3>
+
+<div>November 4.  The SAUFLEY was detached upon arrival at the
+Naval Operating Base, Norfolk and moored to the dock.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-76.33944,36.96056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 0800</name>
+        <styleUrl>#pnt21</styleUrl>
+        <TimeSpan>
+          <begin>1942-11-05T08:00:00Z</begin>
+          <end>1942-11-05T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-11-05: 0800</h3>
+
+<div>November 5.  Moored at the Naval Operating Base, Norfolk,
+Virginia.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-76.33944,36.96056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 0800</name>
+        <styleUrl>#pnt22</styleUrl>
+        <TimeSpan>
+          <begin>1942-11-08T08:00:00Z</begin>
+          <end>1942-11-08T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-11-08: 0800</h3>
+
+<div>November 8.  Moored to the dock at the Naval Operating Base,
+Norfolk, Virginia, at 1230.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-76.33944,36.96056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 0800</name>
+        <styleUrl>#pnt23</styleUrl>
+        <TimeSpan>
+          <begin>1942-11-13T08:00:00Z</begin>
+          <end>1942-11-13T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-11-13: 0800</h3>
+
+<div>November 13. Passed through the Canal and moored at the Naval
+Coaling docks, Balboa. The USS CHAMPLIN was detached upon the arrival
+of the formation at the Atlantic end of the Canal.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.92000,9.31667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 2000</name>
+        <styleUrl>#pnt24</styleUrl>
+        <TimeSpan>
+          <begin>1942-11-13T20:00:00Z</begin>
+          <end>1942-11-13T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-11-13: 2000</h3>
+
+<div>November 13. Passed through the Canal and moored at the Naval
+Coaling docks, Balboa. The USS CHAMPLIN was detached upon the arrival
+of the formation at the Atlantic end of the Canal.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.56778,8.90694,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 0800</name>
+        <styleUrl>#pnt25</styleUrl>
+        <TimeSpan>
+          <begin>1942-11-28T08:00:00Z</begin>
+          <end>1942-11-28T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-11-28: 0800</h3>
+
+<div>November 28.  The formation anchored in Tongatabu Harbor and
+fueled.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-175.18944,-21.07889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29 0800</name>
+        <styleUrl>#pnt26</styleUrl>
+        <TimeSpan>
+          <begin>1942-11-29T08:00:00Z</begin>
+          <end>1942-11-29T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1942-11-29: 0800</h3>
+
+<div>November 29.  Anchored in Tongatabu Harbor.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-175.18944,-21.07889,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>1942-08 Routes</name>
+      <Style id="line1">
+        <LineStyle>
+          <color>#ff00a5ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line2">
+        <LineStyle>
+          <color>#ff00a5ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line3">
+        <LineStyle>
+          <color>#ff00a5ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line4">
+        <LineStyle>
+          <color>#ff00a5ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line5">
+        <LineStyle>
+          <color>#ff00a5ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line6">
+        <LineStyle>
+          <color>#ff00a5ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line7">
+        <LineStyle>
+          <color>#ff00a5ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line8">
+        <LineStyle>
+          <color>#ff00a5ff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>29 0800</name>
+        <styleUrl>#line1</styleUrl>
+        <TimeSpan>
+          <begin>1942-08-29T08:00:00Z</begin>
+          <end>1942-08-29T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.9741666666667,40.7038888888889,0
+ -73.9741666666667,40.7038888888889,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>24 0800</name>
+        <styleUrl>#line2</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-24T08:00:00Z</begin>
+          <end>1942-09-24T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-74.0133333333333,40.5944444444444,0
+ -74.0666666666667,40.6616666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>25 0800</name>
+        <styleUrl>#line3</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-25T08:00:00Z</begin>
+          <end>1942-09-25T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-74.0666666666667,40.6616666666667,0
+ -73.5158333333333,40.9361111111111,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>25 2000</name>
+        <styleUrl>#line4</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-25T20:00:00Z</begin>
+          <end>1942-09-25T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.5158333333333,40.9361111111111,0
+ -74.0069444444444,40.7597222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>26 2000</name>
+        <styleUrl>#line5</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-26T20:00:00Z</begin>
+          <end>1942-09-26T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-74.0069444444444,40.7597222222222,0
+ -73.9741666666667,40.7038888888889,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>27 2000</name>
+        <styleUrl>#line6</styleUrl>
+        <TimeSpan>
+          <begin>1942-09-27T20:00:00Z</begin>
+          <end>1942-09-27T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-73.9741666666667,40.7038888888889,0
+ -69.9941666666667,43.6963888888889,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>21 0800</name>
+        <styleUrl>#line7</styleUrl>
+        <TimeSpan>
+          <begin>1942-10-21T08:00:00Z</begin>
+          <end>1942-10-21T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-70.5647222222222,41.7686111111111,0
+ -73.9741666666667,40.7038888888889,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13 0800</name>
+        <styleUrl>#line8</styleUrl>
+        <TimeSpan>
+          <begin>1942-11-13T08:00:00Z</begin>
+          <end>1942-11-13T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-79.92,9.31666666666667,0
+ -79.5677777777778,8.90694444444444,0</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
       <name>1942-12 Locations</name>
       <Style id="pnt1">
         <LabelStyle>
