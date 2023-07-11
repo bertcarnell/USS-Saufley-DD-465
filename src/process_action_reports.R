@@ -91,6 +91,8 @@ save(s3files, s3files_groups, s3files_jobids,
 
 ################################################################################
 
+load("ActionReports.Rdata")
+
 unique(sapply(results[[1]]$Blocks, function(x) x$BlockType))
 
 ################################################################################
@@ -123,7 +125,6 @@ add_div_to_times <- function(x) {
 }
 
 ################################################################################
-load("ActionReports.Rdata")
 
 s3files_short <- sapply(s3files, function(x) {
   gsub(".*[/]", "", x)
@@ -134,12 +135,11 @@ results_lines <- lapply(results, get_lines)
 # group up the results_lines and process in groups
 
 ugroups <- unique(s3files_groups)
-subjects <- character(length(ugroups))
 results_groups <- vector("list", length(ugroups))
-output <- character(1)
-counter <- 1
 for (i in seq_along(ugroups))
 {
+  i <- 1
+  
   ind_group <- which(s3files_groups == ugroups[i])
   ind_subj <- grep("^[sS]ubje[ce]t[ ]*:$", results_lines[[ind_group[1]]])
   ind_ref <- grep("^Reference[s]*:$", results_lines[[ind_group[1]]])
@@ -161,7 +161,13 @@ for (i in seq_along(ugroups))
   if (results_groups[[i]]$Subject == "War Diary.")
     next
 
-  output[counter] <- results_groups[[i]]$Subject
+  output_file <- file.path("src", "output", paste0(ugroups[i], ".md"))
+  
+  output <- character()
+  output <- c(output, "# USS SAUFLEY AFTER ACTION REPORT")
+  output <- c(output, "")
+  output <- c(output, paste("#", results_groups[[i]]$Subject))
+  output <- c(output, "")
   output[counter+1] <- "<images>"
   counter <- counter + 2
   for (j in ind_group) {

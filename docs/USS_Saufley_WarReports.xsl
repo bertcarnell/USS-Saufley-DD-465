@@ -57,23 +57,33 @@
             </div>
             <hr/>
             <div id="report_zone">
+                <xsl:variable name="baseurl">https://catalog.archives.gov/id/</xsl:variable>
                 <xsl:for-each select="dataroot/source">
                     <!-- Sort the sources by date -->
                     <xsl:sort select="date"/>
-                    <xsl:variable name="dateurl"><xsl:value-of select="url"/></xsl:variable>
-                    <xsl:variable name="dateurlshort"><xsl:value-of select="substring($dateurl, 1, string-length($dateurl) - 8)"/></xsl:variable>
+                    <xsl:variable name="naidurl"><xsl:value-of select="naid"/></xsl:variable>
+                    <!--<xsl:variable name="dateurl"><xsl:value-of select="url"/></xsl:variable>-->
+                    <!--<xsl:variable name="dateurlshort"><xsl:value-of select="substring($dateurl, 1, string-length($dateurl) - 8)"/></xsl:variable>-->
                     <xsl:if test="type = 'War Diary'">
                         <h3><xsl:value-of select="dateLabel"/></h3>
                         <ul>
                             <xsl:for-each select="images/image">
-                                <xsl:variable name="imagefilename"><xsl:value-of select="file"/></xsl:variable>
-                                <xsl:variable name="fullfilename"><xsl:value-of select="concat($dateurlshort, $imagefilename)"/></xsl:variable>
+                                <!--<xsl:variable name="imagefilename"><xsl:value-of select="file"/></xsl:variable>-->
+                                <!--<xsl:variable name="fullfilename"><xsl:value-of select="concat($dateurlshort, $imagefilename)"/></xsl:variable>-->
+                                <!--https://catalog.archives.gov/id/78599654-->
+                                <xsl:variable name="objectnum"><xsl:value-of select="objectPage"/></xsl:variable>
+                                <xsl:variable name="fullurl"><xsl:value-of select="concat($baseurl, $naidurl, '?objectPage=', $objectnum)"/></xsl:variable>
                                 <xsl:if test="items">
                                     <xsl:for-each select="items/item">
-                                        <li><a href="{$fullfilename}" target="_blank" rel="noopener noreferrer"><xsl:value-of select="date"/></a></li>
+                                        <!--<li><a href="{$fullfilename}" target="_blank" rel="noopener noreferrer"><xsl:value-of select="date"/></a></li>-->
+                                        <li><a href="{$fullurl}" target="_blank" rel="noopener noreferrer"><xsl:value-of select="date"/></a></li>
                                         <div><xsl:value-of disable-output-escaping="yes" select="description"/></div>
                                         <p></p>
                                     </xsl:for-each>
+                                </xsl:if>
+                                <xsl:if test="not(items)">
+                                    <li><a href="{$fullurl}" target="_blank" rel="noopener noreferrer">(image)</a></li>
+                                    <p></p>
                                 </xsl:if>
                             </xsl:for-each>
                         </ul>

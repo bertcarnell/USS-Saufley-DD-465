@@ -8,10 +8,12 @@
   <date>19450201</date>
   <dateLabel>FEB 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1477_200343/images/0313.jpg</url>
+  <naid>139933475</naid>
   <directory>saufley_images/1_19450201</directory>
   <images>
     <image>
       <file>0313.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-02-01</date>
@@ -66,6 +68,7 @@ NINETEEN at Caminawit Point),&lt;/p&gt;
     </image>
     <image>
       <file>0314.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-02-03</date>
@@ -122,6 +125,7 @@ FS184 and FS309 and took departure from Nasugbu for Mindoro,&lt;/div&gt;
     </image>
     <image>
       <file>0315.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-02-08</date>
@@ -165,6 +169,7 @@ Task Group SEVENTY EIGHT POINT TWO despatch 080245.&lt;/div&gt;
     </image>
     <image>
       <file>0316.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-02-10</date>
@@ -228,6 +233,7 @@ Corregidor Island.&lt;/div&gt;
     </image>
     <image>
       <file>0317.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1945-02-15</date>
@@ -284,6 +290,7 @@ screening 6 LST's and 7 LSM's enroute to Subic Bay.&lt;/p&gt;
     </image>
     <image>
       <file>0318.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1945-02-17</date>
@@ -370,9 +377,11 @@ EIGHT POINT THREE POINT FIVE.
     </image>
     <image>
       <file>0319.jpg</file>
+      <objectPage>7</objectPage>
     </image>
     <image>
       <file>0320.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1945-02-19</date>
@@ -416,6 +425,7 @@ anchored.&lt;/p&gt;
     </image>
     <image>
       <file>0321.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1945-02-21</date>
@@ -477,6 +487,7 @@ La Monja Island.  Took station astern of USS CONVERSE at 2100.&lt;/div&gt;
     </image>
     <image>
       <file>0322.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1945-02-23</date>
@@ -522,6 +533,7 @@ in berth #146 at 1657.&lt;/div&gt;
     </image>
     <image>
       <file>0323.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1945-02-25</date>
@@ -588,6 +600,7 @@ EIGHT for duty.&lt;/p&gt;
     </image>
     <image>
       <file>0324.jpg</file>
+      <objectPage>12</objectPage>
       <items>
         <item>
           <date>1945-02-27</date>
@@ -623,357 +636,17 @@ took departure from Mindoro for Lubang Island, Philippine Islands.
   </images>
 </source>
 <source>
-  <name>USS SAUFLEY - Rep of ops in the invasion of Basilan Is, Philippines on 3/16/45</name>
-  <type>After Action</type>
-  <date>19450316</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1498_200314/images/0135.jpg</url>
-  <directory>saufley_images/2_19450316</directory>
-  <images>
-    <image>
-      <file>0135.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0136.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0137.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0138.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0139.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0140.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0141.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0142.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0143.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep of shore bombardment &amp; A/S act in Ormoc Bay, Leyte Is, Philippines, night of 11/27-28/44</name>
-  <type>After Action</type>
-  <date>19441127</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1465_200311/images/0878.jpg</url>
-  <directory>saufley_images/3_19441127</directory>
-  <images>
-    <image>
-      <file>0878.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0879.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0880.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0881.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0882.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0883.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep of ops in support of the invaison of Zamboanga Peninsula, Mindanao Is, Philippines 3/10-16/45</name>
-  <type>After Action</type>
-  <date>19450310</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1515_200296/images/0418.jpg</url>
-  <directory>saufley_images/4_19450310</directory>
-  <images>
-    <image>
-      <file>0418.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0419.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0420.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0421.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0422.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0423.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0424.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0425.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0426.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0427.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0428.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
   <name>USS SAUFLEY - War Diary, 10/1-31/45</name>
   <type>War Diary</type>
   <date>19451001</date>
   <dateLabel>OCT 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0001/A_1986/A_1986/images/0258.jpg</url>
+  <naid>77594006</naid>
   <directory>saufley_images/5_19451001</directory>
   <images>
     <image>
       <file>0258.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-10-01</date>
@@ -1026,6 +699,7 @@ over all Japanese arms and munitions.&lt;/p&gt;
     </image>
     <image>
       <file>0259.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-10-08</date>
@@ -1071,6 +745,7 @@ that the Fatu Channel inland approaches were secure.&lt;/p&gt;
     </image>
     <image>
       <file>0260.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-10-11</date>
@@ -1132,6 +807,7 @@ Archipelago, China.&lt;/p&gt;
     </image>
     <image>
       <file>0261.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-10-18</date>
@@ -1175,6 +851,7 @@ in company with YMS 197.  Anchored at 1732 in Yangtze River mouth.&lt;/p&gt;
     </image>
     <image>
       <file>0262.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1945-10-21</date>
@@ -1224,6 +901,7 @@ River, Shanghai.&lt;/p&gt;
     </image>
     <image>
       <file>0263.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1945-10-26</date>
@@ -1244,10 +922,12 @@ U.S.S. NASHVILLE.)&lt;/div&gt;
   <date>19450901</date>
   <dateLabel>SEP 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0001/A_1961/A_1961/images/0601.jpg</url>
+  <naid>77573140</naid>
   <directory>saufley_images/6_19450901</directory>
   <images>
     <image>
       <file>0601.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-09-01</date>
@@ -1301,6 +981,7 @@ Enroute to Buckner Bay, Okinawa Shima.&lt;/p&gt;
     </image>
     <image>
       <file>0602.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-09-04</date>
@@ -1341,6 +1022,7 @@ visual despatch 040438.&lt;/p&gt;
     </image>
     <image>
       <file>0603.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-09-06</date>
@@ -1404,6 +1086,7 @@ and USS COMPETENT.&lt;/p&gt;
     </image>
     <image>
       <file>0604.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-09-10</date>
@@ -1440,6 +1123,7 @@ River, China.  Task Unit anchored at intervals.&lt;/div&gt;
     </image>
     <image>
       <file>0605.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1945-09-26</date>
@@ -1500,6 +1184,7 @@ Shanghai, China.&lt;/p&gt;
     </image>
     <image>
       <file>0606.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1945-09-30</date>
@@ -1515,163 +1200,17 @@ SEVENTY THREE in USS NASHVILLE).&lt;/div&gt;
   </images>
 </source>
 <source>
-  <name>USS SAUFLEY - Rep Of Action, 8/23/43</name>
-  <type>After Action</type>
-  <date>19430823</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0516/images/0966.jpg</url>
-  <directory>saufley_images/7_19430823</directory>
-  <images>
-    <image>
-      <file>0966.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0967.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep Of Action, 8/31/43</name>
-  <type>After Action</type>
-  <date>19430831</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0516/images/0970.jpg</url>
-  <directory>saufley_images/8_19430831</directory>
-  <images>
-    <image>
-      <file>0970.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0971.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0972.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep Of Action, 8/26/43</name>
-  <type>After Action</type>
-  <date>19430826</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0516/images/0975.jpg</url>
-  <directory>saufley_images/9_19430826</directory>
-  <images>
-    <image>
-      <file>0975.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0976.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep Of AA Action, 8/15/43</name>
-  <type>After Action</type>
-  <date>19430815</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0516/images/0957.jpg</url>
-  <directory>saufley_images/10_19430815</directory>
-  <images>
-    <image>
-      <file>0957.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0958.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
   <name>USS SAUFLEY - War Diary, 6/1-30/43</name>
   <type>War Diary</type>
   <date>19430601</date>
   <dateLabel>JUN 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0479/images/0879.jpg</url>
+  <naid>78137773</naid>
   <directory>saufley_images/11_19430601</directory>
   <images>
     <image>
       <file>0879.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-06-01</date>
@@ -1690,6 +1229,7 @@ Efate, New Hebrides.  Boiler #3 in use for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0880.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1943-06-02</date>
@@ -1738,6 +1278,7 @@ duty, moored to listening buoy Hilliard channel. Standing by with boilers #2 and
     </image>
     <image>
       <file>0881.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-06-03</date>
@@ -1776,6 +1317,7 @@ Draft forward 12'1",. Draft aft 14'2", Received 13,460 gallons fuel oil at 60 F.
     </image>
     <image>
       <file>0882.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-06-04</date>
@@ -1825,6 +1367,7 @@ in berth #13, 90 fathom of chain to port anchor. 1718 Died out fires in #4 boile
     </image>
     <image>
       <file>0883.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-06-05</date>
@@ -1870,6 +1413,7 @@ boiler #2, boiler #8 shifted to auxiliary steam line.&lt;/div&gt;
     </image>
     <image>
       <file>0884.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-06-06</date>
@@ -1899,6 +1443,7 @@ screen 30 degrees on each bow of S.S. KOTA AGOENG. Steadied on course
     </image>
     <image>
       <file>0885.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-06-07</date>
@@ -1930,6 +1475,7 @@ changed speed to 14.5 knots.  2000 Position, Latitude 17-41-00 S, longitude
     </image>
     <image>
       <file>0886.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1943-06-08</date>
@@ -1984,9 +1530,11 @@ Ceased zigzagging. 2000 Position; latitude 17-44-00 S., Longitude 168-38-00 E.&l
     </image>
     <image>
       <file>0887.jpg</file>
+      <objectPage>9</objectPage>
     </image>
     <image>
       <file>0888.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-06-09</date>
@@ -2052,9 +1600,11 @@ zigzagging on plan #10. 2030 Ceased zigzagging, resumed base course.
     </image>
     <image>
       <file>0889.jpg</file>
+      <objectPage>11</objectPage>
     </image>
     <image>
       <file>0890.jpg</file>
+      <objectPage>12</objectPage>
       <items>
         <item>
           <date>1943-06-10</date>
@@ -2112,9 +1662,11 @@ auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0891.jpg</file>
+      <objectPage>13</objectPage>
     </image>
     <image>
       <file>0892.jpg</file>
+      <objectPage>14</objectPage>
       <items>
         <item>
           <date>1943-06-11</date>
@@ -2139,6 +1691,7 @@ Afirm in 11 fathom of water.&lt;/div&gt;
     </image>
     <image>
       <file>0893.jpg</file>
+      <objectPage>15</objectPage>
       <items>
         <item>
           <date>1943-06-12</date>
@@ -2157,6 +1710,7 @@ to U.S.S. PRINGLE.&lt;/div&gt;
     </image>
     <image>
       <file>0894.jpg</file>
+      <objectPage>16</objectPage>
       <items>
         <item>
           <date>1943-06-13</date>
@@ -2178,6 +1732,7 @@ the starboard anchor.&lt;/div&gt;
     </image>
     <image>
       <file>0895.jpg</file>
+      <objectPage>17</objectPage>
       <items>
         <item>
           <date>1943-06-14</date>
@@ -2214,6 +1769,7 @@ for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0896.jpg</file>
+      <objectPage>18</objectPage>
       <items>
         <item>
           <date>1943-06-15</date>
@@ -2233,6 +1789,7 @@ purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0897.jpg</file>
+      <objectPage>19</objectPage>
       <items>
         <item>
           <date>1943-06-16</date>
@@ -2282,9 +1839,11 @@ chain.  Assumed ready duty.&lt;/div&gt;
     </image>
     <image>
       <file>0898.jpg</file>
+      <objectPage>20</objectPage>
     </image>
     <image>
       <file>0899.jpg</file>
+      <objectPage>21</objectPage>
       <items>
         <item>
           <date>1943-06-17</date>
@@ -2330,6 +1889,7 @@ secured.&lt;/div&gt;
     </image>
     <image>
       <file>0900.jpg</file>
+      <objectPage>22</objectPage>
       <items>
         <item>
           <date>1943-06-18</date>
@@ -2379,6 +1939,7 @@ moored alongside to port.&lt;/div&gt;
     </image>
     <image>
       <file>0901.jpg</file>
+      <objectPage>23</objectPage>
       <items>
         <item>
           <date>1943-06-19</date>
@@ -2402,6 +1963,7 @@ Moored to ready-duty buoy, Hilliard Channel, Efate, New Hebrides.&lt;/div&gt;
     </image>
     <image>
       <file>0902.jpg</file>
+      <objectPage>24</objectPage>
       <items>
         <item>
           <date>1943-06-20</date>
@@ -2425,6 +1987,7 @@ between point xray and Nguna Island.&lt;/div&gt;
     </image>
     <image>
       <file>0903.jpg</file>
+      <objectPage>25</objectPage>
       <items>
         <item>
           <date>1943-06-21</date>
@@ -2462,6 +2025,7 @@ Havannah Harbor, Efate, New Hebrides.  0925 U.S.S. PHILIP moored to port side.
     </image>
     <image>
       <file>0904.jpg</file>
+      <objectPage>26</objectPage>
       <items>
         <item>
           <date>1943-06-22</date>
@@ -2480,6 +2044,7 @@ to port anchor chain.  U.S.S. PHILIP moored starboard side to port.  Boiler
     </image>
     <image>
       <file>0905.jpg</file>
+      <objectPage>27</objectPage>
       <items>
         <item>
           <date>1943-06-23</date>
@@ -2498,6 +2063,7 @@ auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0906.jpg</file>
+      <objectPage>28</objectPage>
       <items>
         <item>
           <date>1943-06-24</date>
@@ -2516,6 +2082,7 @@ control.  1044 Secured from General Quarters.&lt;/div&gt;
     </image>
     <image>
       <file>0907.jpg</file>
+      <objectPage>29</objectPage>
       <items>
         <item>
           <date>1943-06-25</date>
@@ -2555,6 +2122,7 @@ New Hebrides with 6 fathoms of chain.&lt;/div&gt;
     </image>
     <image>
       <file>0908.jpg</file>
+      <objectPage>30</objectPage>
       <items>
         <item>
           <date>1943-06-26</date>
@@ -2576,6 +2144,7 @@ New Hebrides.  0950 Secured boiler #1, cut boiler #3 in on auxiliary steam line.
     </image>
     <image>
       <file>0909.jpg</file>
+      <objectPage>31</objectPage>
       <items>
         <item>
           <date>1943-06-27</date>
@@ -2608,6 +2177,7 @@ course to 333(T), (PGC), 330(PSC).&lt;/div&gt;
     </image>
     <image>
       <file>0910.jpg</file>
+      <objectPage>32</objectPage>
       <items>
         <item>
           <date>1943-06-28</date>
@@ -2644,6 +2214,7 @@ Latitude 10-23-00 S, Longitude 163-01-00 E.&lt;/div&gt;
     </image>
     <image>
       <file>0911.jpg</file>
+      <objectPage>33</objectPage>
       <items>
         <item>
           <date>1943-06-29</date>
@@ -2689,6 +2260,7 @@ Condition of readiness I.&lt;/div&gt;
     </image>
     <image>
       <file>0912.jpg</file>
+      <objectPage>34</objectPage>
       <items>
         <item>
           <date>1943-06-30</date>
@@ -2737,205 +2309,17 @@ Longitude 161-47-00 E.&lt;/div&gt;
   </images>
 </source>
 <source>
-  <name>USS SAUFLEY - War History</name>
-  <type>War History</type>
-  <date>19460000</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0001/A_2089/A_2089/images/0055.jpg</url>
-  <directory>saufley_images/12_19460000</directory>
-  <images>
-    <image>
-      <file>0055.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0056.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0057.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0058.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0059.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0060.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0061.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0062.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0063.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0064.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0065.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0066.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0067.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0068.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0069.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
   <name>USS SAUFLEY - War Diary, 8/1-31/45</name>
   <type>War Diary</type>
   <date>19450801</date>
   <dateLabel>AUG 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0001/A_1896/A_1896/images/0157.jpg</url>
+  <naid>77512955</naid>
   <directory>saufley_images/13_19450801</directory>
   <images>
     <image>
       <file>0157.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-08-01</date>
@@ -2990,6 +2374,7 @@ of Samar Island.  Philippine Islands at 1844.&lt;/p&gt;
     </image>
     <image>
       <file>0158.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-08-05</date>
@@ -3044,6 +2429,7 @@ Anchorage, Ulithi Island, West Caroline Islands.&lt;/p&gt;
     </image>
     <image>
       <file>0159.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-08-08</date>
@@ -3086,6 +2472,7 @@ burst firing exercises.&lt;/p&gt;
     </image>
     <image>
       <file>0160.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-08-11</date>
@@ -3137,6 +2524,7 @@ Command, Commander KING).&lt;/div&gt;
     </image>
     <image>
       <file>0161.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1945-08-15</date>
@@ -3189,6 +2577,7 @@ on board during the afternoon.&lt;/p&gt;
     </image>
     <image>
       <file>0162.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1945-08-19</date>
@@ -3249,6 +2638,7 @@ dated 23 August 1945.  Steaming singly.&lt;/p&gt;
     </image>
     <image>
       <file>0163.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1945-08-24</date>
@@ -3306,10 +2696,12 @@ Force SEVENTY THREE in USS ST LOUIS).&lt;/div&gt;
   <date>19450701</date>
   <dateLabel>JUL 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0001/A_1796/A_1796/images/0577.jpg</url>
+  <naid>77474504</naid>
   <directory>saufley_images/14_19450701</directory>
   <images>
     <image>
       <file>0577.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-07-01</date>
@@ -3360,6 +2752,7 @@ illumination fire at 2044.&lt;/p&gt;
     </image>
     <image>
       <file>0578.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-07-03</date>
@@ -3402,6 +2795,7 @@ Task Unit SEVENTY EIGHT POINT TWO POINT FIFTEEN.&lt;/p&gt;
     </image>
     <image>
       <file>0579.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-07-04</date>
@@ -3454,6 +2848,7 @@ Phosphorous and 8 rounds of 5"/38 AA Common.  No casualties.
     </image>
     <image>
       <file>0580.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-07-06</date>
@@ -3475,6 +2870,7 @@ having expended 48 rounds of 5"/38 AA Common.  No casualties.
     </image>
     <image>
       <file>0581.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1945-07-07</date>
@@ -3527,6 +2923,7 @@ Station at 1945 and commenced patrolling.&lt;/p&gt;
     </image>
     <image>
       <file>0582.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1945-07-08</date>
@@ -3582,6 +2979,7 @@ stations with this ship and continued to develop contact.&lt;/p&gt;
     </image>
     <image>
       <file>0583.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1945-07-11</date>
@@ -3614,6 +3012,7 @@ POINT TWO POINT FIFTEEN.&lt;/p&gt;
     </image>
     <image>
       <file>0584.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1945-07-13</date>
@@ -3664,6 +3063,7 @@ Senior Officer Present Afloat.&lt;/p&gt;
     </image>
     <image>
       <file>0585.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1945-07-18</date>
@@ -3724,6 +3124,7 @@ to Commander Task Group SEVENTY SIX POINT THIRTEEN for duty.&lt;/div&gt;
     </image>
     <image>
       <file>0586.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1945-07-23</date>
@@ -3782,6 +3183,7 @@ port side to USS PHILIP at 1817.&lt;/p&gt;
     </image>
     <image>
       <file>0587.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1945-07-27</date>
@@ -3801,10 +3203,12 @@ by USS DIXIE.  (SOPA, Commander Service Squadron TEN in USS OCELOT).&lt;/div&gt;
   <date>19431001</date>
   <dateLabel>OCT 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0006/41e51d1b-923f-42d6-825a-a9fe3ceaf72f/export_WWII_WarDiaries_0665_170169/images/0542.jpg</url>
+  <naid>135986549</naid>
   <directory>saufley_images/15_19431001</directory>
   <images>
     <image>
       <file>0542.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-10-01</date>
@@ -3861,9 +3265,11 @@ plane came down in spirals to the water after being hit by machine gun fire.&lt;
     </image>
     <image>
       <file>0543.jpg</file>
+      <objectPage>2</objectPage>
     </image>
     <image>
       <file>0544.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-10-02</date>
@@ -3909,9 +3315,11 @@ starboard anchor. &lt;/div&gt;
     </image>
     <image>
       <file>0545.jpg</file>
+      <objectPage>4</objectPage>
     </image>
     <image>
       <file>0546.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-10-03</date>
@@ -3931,6 +3339,7 @@ notice.  Condition II set. &lt;/div&gt;
     </image>
     <image>
       <file>0547.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-10-04</date>
@@ -3958,6 +3367,7 @@ and USS LAVALLETTE.  2340 Ships joining formation; column astern. &lt;/div&gt;
     </image>
     <image>
       <file>0548.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-10-05</date>
@@ -3995,6 +3405,7 @@ chain to starboard anchor. &lt;/div&gt;
     </image>
     <image>
       <file>0549.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1943-10-06</date>
@@ -4030,6 +3441,7 @@ with Commander Task Force THIRTY ONE's 060706. &lt;/div&gt;
     </image>
     <image>
       <file>0550.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1943-10-07</date>
@@ -4059,6 +3471,7 @@ maneuvering to clear USS SELFRIDGE and escorts.&lt;/div&gt;
     </image>
     <image>
       <file>0551.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-10-08</date>
@@ -4102,6 +3515,7 @@ to 10 knots (096 RPM). &lt;/div&gt;
     </image>
     <image>
       <file>0552.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1943-10-09</date>
@@ -4143,6 +3557,7 @@ to 123(T), 123 (PGC), 120(PSC).&lt;/div&gt;
     </image>
     <image>
       <file>0553.jpg</file>
+      <objectPage>12</objectPage>
       <items>
         <item>
           <date>1943-10-10</date>
@@ -4175,6 +3590,7 @@ plan #8.  &lt;/div&gt;
     </image>
     <image>
       <file>0554.jpg</file>
+      <objectPage>13</objectPage>
       <items>
         <item>
           <date>1943-10-11</date>
@@ -4202,6 +3618,7 @@ plan #16.&lt;/div&gt;
     </image>
     <image>
       <file>0555.jpg</file>
+      <objectPage>14</objectPage>
       <items>
         <item>
           <date>1943-10-12</date>
@@ -4229,6 +3646,7 @@ Longitude 162-04-00 E. &lt;/div&gt;
     </image>
     <image>
       <file>0556.jpg</file>
+      <objectPage>15</objectPage>
       <items>
         <item>
           <date>1943-10-13</date>
@@ -4260,6 +3678,7 @@ USS SKYLARK joined search. &lt;/div&gt;
     </image>
     <image>
       <file>0557.jpg</file>
+      <objectPage>16</objectPage>
       <items>
         <item>
           <date>1943-10-14</date>
@@ -4290,6 +3709,7 @@ Secured #3 boiler.&lt;/div&gt;
     </image>
     <image>
       <file>0558.jpg</file>
+      <objectPage>17</objectPage>
       <items>
         <item>
           <date>1943-10-15</date>
@@ -4310,6 +3730,7 @@ to port side of USS HOVEY. &lt;/div&gt;
     </image>
     <image>
       <file>0559.jpg</file>
+      <objectPage>18</objectPage>
       <items>
         <item>
           <date>1943-10-16</date>
@@ -4329,6 +3750,7 @@ moored to port side.  Boiler #1 in use for auxiliary purposes. &lt;/div&gt;
     </image>
     <image>
       <file>0560.jpg</file>
+      <objectPage>19</objectPage>
       <items>
         <item>
           <date>1943-10-17</date>
@@ -4348,6 +3770,7 @@ Boiler #1 in use for auxiliary purposes. &lt;/div&gt;
     </image>
     <image>
       <file>0561.jpg</file>
+      <objectPage>20</objectPage>
       <items>
         <item>
           <date>1943-10-18</date>
@@ -4367,6 +3790,7 @@ in use for auxiliary purposes. &lt;/div&gt;
     </image>
     <image>
       <file>0562.jpg</file>
+      <objectPage>21</objectPage>
       <items>
         <item>
           <date>1943-10-19</date>
@@ -4394,6 +3818,7 @@ main generator.  1210 Keel resting on the blocks.  1310 Commenced receiving elec
     </image>
     <image>
       <file>0563.jpg</file>
+      <objectPage>22</objectPage>
       <items>
         <item>
           <date>1943-10-20</date>
@@ -4425,6 +3850,7 @@ zagging on plan #1. &lt;/div&gt;
     </image>
     <image>
       <file>0564.jpg</file>
+      <objectPage>23</objectPage>
       <items>
         <item>
           <date>1943-10-21</date>
@@ -4452,6 +3878,7 @@ a school of fish.  Resumed base course 320(T), 320(PGC), 306(PSC), and speed,
     </image>
     <image>
       <file>0565.jpg</file>
+      <objectPage>24</objectPage>
       <items>
         <item>
           <date>1943-10-22</date>
@@ -4474,6 +3901,7 @@ battery.  1113 Ceased firing, having expended 28 rounds 5"/38 Cal. ammunition. &
     </image>
     <image>
       <file>0566.jpg</file>
+      <objectPage>25</objectPage>
       <items>
         <item>
           <date>1943-10-23</date>
@@ -4509,6 +3937,7 @@ port anchor.  1150 Set Modified Condition II.  Main engines on 15 minutes notice
     </image>
     <image>
       <file>0567.jpg</file>
+      <objectPage>26</objectPage>
       <items>
         <item>
           <date>1943-10-24</date>
@@ -4535,6 +3964,7 @@ Steadied on base course 240(T), 240(PGC), 235(PSC).  Changed speed to 15 knots. 
     </image>
     <image>
       <file>0568.jpg</file>
+      <objectPage>27</objectPage>
       <items>
         <item>
           <date>1943-10-25</date>
@@ -4574,6 +4004,7 @@ Commenced patrolling off Guadalcanal between Kaufman Shoal and Lunga Point. &lt;
     </image>
     <image>
       <file>0569.jpg</file>
+      <objectPage>28</objectPage>
       <items>
         <item>
           <date>1943-10-26</date>
@@ -4603,6 +4034,7 @@ speed to 13 knots. &lt;/div&gt;
     </image>
     <image>
       <file>0570.jpg</file>
+      <objectPage>29</objectPage>
       <items>
         <item>
           <date>1943-10-27</date>
@@ -4644,6 +4076,7 @@ close to LST399.  Plane also dropped float light. &lt;/div&gt;
     </image>
     <image>
       <file>0571.jpg</file>
+      <objectPage>30</objectPage>
       <items>
         <item>
           <date>1943-10-28</date>
@@ -4669,6 +4102,7 @@ left Task Unit. &lt;/div&gt;
     </image>
     <image>
       <file>0572.jpg</file>
+      <objectPage>31</objectPage>
       <items>
         <item>
           <date>1943-10-29</date>
@@ -4706,6 +4140,7 @@ minutes notice.  1232 USS PHILIP moored along port side. &lt;/div&gt;
     </image>
     <image>
       <file>0573.jpg</file>
+      <objectPage>32</objectPage>
       <items>
         <item>
           <date>1943-10-30</date>
@@ -4733,6 +4168,7 @@ LCI331, LCI332, LCI335, LST71, LST460 and APC31. &lt;/div&gt;
     </image>
     <image>
       <file>0574.jpg</file>
+      <objectPage>33</objectPage>
       <items>
         <item>
           <date>1943-10-31</date>
@@ -4767,10 +4203,12 @@ Set modified general quarters. &lt;/div&gt;
   <date>19430801</date>
   <dateLabel>AUG 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0006/5fefb150-ba94-4390-ba5d-11772a17d6bd/export_WWII_WarDiaries_0543_169325/images/1043.jpg</url>
+  <naid>135945874</naid>
   <directory>saufley_images/16_19430801</directory>
   <images>
     <image>
       <file>1043.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-08-01</date>
@@ -4793,6 +4231,7 @@ for auxiliary purposes.  0745 USS RENSHAW moored alongside to starboard.&lt;/div
     </image>
     <image>
       <file>1044.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-08-02</date>
@@ -4829,6 +4268,7 @@ with plan #14.&lt;/div&gt;
     </image>
     <image>
       <file>1045.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1943-08-03</date>
@@ -4884,9 +4324,11 @@ steering various courses while taking screening station.  2147 Steadied on
     </image>
     <image>
       <file>1046.jpg</file>
+      <objectPage>3</objectPage>
     </image>
     <image>
       <file>1047.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-08-04</date>
@@ -4953,9 +4395,11 @@ longitude 164-02-00 E.&lt;/div&gt;
     </image>
     <image>
       <file>1048.jpg</file>
+      <objectPage>5</objectPage>
     </image>
     <image>
       <file>1049.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-08-05</date>
@@ -4998,6 +4442,7 @@ to starboard.&lt;/div&gt;
     </image>
     <image>
       <file>1050.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-08-06</date>
@@ -5017,6 +4462,7 @@ moored to starboard. Boiler #2 in use for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>1051.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1943-08-07</date>
@@ -5039,6 +4485,7 @@ fueling: 11'10" forward, 13'11" aft.  0908 Completed fueling having received
     </image>
     <image>
       <file>1052.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1943-08-08</date>
@@ -5076,6 +4523,7 @@ base course.  Fires lighted under boiler #4.  2306 Changed course to 170(T),
     </image>
     <image>
       <file>1053.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-08-09</date>
@@ -5112,6 +4560,7 @@ plan #8, patrolling at 17 knots (168 RPM) in screen.&lt;/div&gt;
     </image>
     <image>
       <file>1054.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1943-08-10</date>
@@ -5150,6 +4599,7 @@ East.&lt;/div&gt;
     </image>
     <image>
       <file>1055.jpg</file>
+      <objectPage>12</objectPage>
       <items>
         <item>
           <date>1943-08-11</date>
@@ -5183,6 +4633,7 @@ Latitude 11-37-30 S, Longitude 163-51-30 E.&lt;/div&gt;
     </image>
     <image>
       <file>1056.jpg</file>
+      <objectPage>13</objectPage>
       <items>
         <item>
           <date>1943-08-12</date>
@@ -5230,6 +4681,7 @@ chain to port anchor.&lt;/div&gt;
     </image>
     <image>
       <file>1057.jpg</file>
+      <objectPage>14</objectPage>
       <items>
         <item>
           <date>1943-08-13</date>
@@ -5249,6 +4701,7 @@ Guadalcanal.  2240 Secured from general quarters, set condition II.&lt;/div&gt;
     </image>
     <image>
       <file>1058.jpg</file>
+      <objectPage>15</objectPage>
       <items>
         <item>
           <date>1943-08-14</date>
@@ -5289,6 +4742,7 @@ patrolling station.&lt;/div&gt;
     </image>
     <image>
       <file>1059.jpg</file>
+      <objectPage>16</objectPage>
       <items>
         <item>
           <date>1943-08-15</date>
@@ -5339,9 +4793,11 @@ Resumed patrolling on base course 090(T), 090(PSC), 083(PGC).&lt;/div&gt;
     </image>
     <image>
       <file>1060.jpg</file>
+      <objectPage>17</objectPage>
     </image>
     <image>
       <file>1061.jpg</file>
+      <objectPage>18</objectPage>
       <items>
         <item>
           <date>1943-08-16</date>
@@ -5390,6 +4846,7 @@ at various speeds forming echelon with USS WALLER and USS PHILIP.&lt;/div&gt;
     </image>
     <image>
       <file>1062.jpg</file>
+      <objectPage>19</objectPage>
       <items>
         <item>
           <date>1943-08-17</date>
@@ -5434,6 +4891,7 @@ set modified condition I.  2357 Went to general quarters, enemy plane contact. &
     </image>
     <image>
       <file>1063.jpg</file>
+      <objectPage>20</objectPage>
       <items>
         <item>
           <date>1943-08-18</date>
@@ -5511,9 +4969,11 @@ making smoke.&lt;/div&gt;
     </image>
     <image>
       <file>1064.jpg</file>
+      <objectPage>21</objectPage>
     </image>
     <image>
       <file>1065.jpg</file>
+      <objectPage>22</objectPage>
       <items>
         <item>
           <date>1943-08-19</date>
@@ -5554,6 +5014,7 @@ fathoms of water, 60 fathoms of chain at water's edge.  2346 Secured #3 boiler.&
     </image>
     <image>
       <file>1066.jpg</file>
+      <objectPage>23</objectPage>
       <items>
         <item>
           <date>1943-08-20</date>
@@ -5573,6 +5034,7 @@ purposes.&lt;/div&gt;
     </image>
     <image>
       <file>1067.jpg</file>
+      <objectPage>24</objectPage>
       <items>
         <item>
           <date>1943-08-21</date>
@@ -5595,6 +5057,7 @@ anchor.  1051 Set condition II.  Boilers #1 and #4 in use.&lt;/div&gt;
     </image>
     <image>
       <file>1068.jpg</file>
+      <objectPage>25</objectPage>
       <items>
         <item>
           <date>1943-08-22</date>
@@ -5626,6 +5089,7 @@ Lavella and Choiseul Bay.&lt;/div&gt;
     </image>
     <image>
       <file>1069.jpg</file>
+      <objectPage>26</objectPage>
       <items>
         <item>
           <date>1943-08-23</date>
@@ -5672,6 +5136,7 @@ anchor.  Main engines on 15 minutes notice.&lt;/div&gt;
     </image>
     <image>
       <file>1070.jpg</file>
+      <objectPage>27</objectPage>
       <items>
         <item>
           <date>1943-08-24</date>
@@ -5704,6 +5169,7 @@ Secured special sea detail.&lt;/div&gt;
     </image>
     <image>
       <file>1071.jpg</file>
+      <objectPage>28</objectPage>
       <items>
         <item>
           <date>1943-08-25</date>
@@ -5742,6 +5208,7 @@ quarters.  2212 Set modified general quarters.&lt;/div&gt;
     </image>
     <image>
       <file>1072.jpg</file>
+      <objectPage>29</objectPage>
       <items>
         <item>
           <date>1943-08-26</date>
@@ -5785,6 +5252,7 @@ patrolling on station #1.  Speed 20 knots (201 RPM).  1859 Changed course to 120
     </image>
     <image>
       <file>1073.jpg</file>
+      <objectPage>30</objectPage>
       <items>
         <item>
           <date>1943-08-27</date>
@@ -5827,6 +5295,7 @@ in berth #7; 27 fathoms of water with 60 fathoms of chain to starboard anchor.&l
     </image>
     <image>
       <file>1074.jpg</file>
+      <objectPage>31</objectPage>
       <items>
         <item>
           <date>1943-08-28</date>
@@ -5853,6 +5322,7 @@ cut in on main steam line.&lt;/div&gt;
     </image>
     <image>
       <file>1075.jpg</file>
+      <objectPage>32</objectPage>
       <items>
         <item>
           <date>1943-08-29</date>
@@ -5882,6 +5352,7 @@ to 100(T), (PSG), 095(PSC).&lt;/div&gt;
     </image>
     <image>
       <file>1076.jpg</file>
+      <objectPage>33</objectPage>
       <items>
         <item>
           <date>1943-08-30</date>
@@ -5909,6 +5380,7 @@ plane heard and sighted on starboard hand - went to full general Quarters.&lt;/d
     </image>
     <image>
       <file>1077.jpg</file>
+      <objectPage>34</objectPage>
       <items>
         <item>
           <date>1943-08-31</date>
@@ -5951,6 +5423,7 @@ secured boilers #1 and #3.  1956 Changed speed to 11 knots (106 RPM).&lt;/div&gt
     </image>
     <image>
       <file>1078.jpg</file>
+      <objectPage>35</objectPage>
     </image>
   </images>
 </source>
@@ -5960,10 +5433,12 @@ secured boilers #1 and #3.  1956 Changed speed to 11 knots (106 RPM).&lt;/div&gt
   <date>19430501</date>
   <dateLabel>JUN 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0005/cfbaf8ee-9b67-4468-b300-da37fe421d13/export_WWII_WarDiaries_0391_167373/images/0672.jpg</url>
+  <naid>134240156</naid>
   <directory>saufley_images/17_19430501</directory>
   <images>
     <image>
       <file>0672.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-05-01</date>
@@ -5996,6 +5471,7 @@ one and three commenced.&lt;/div&gt;
     </image>
     <image>
       <file>0673.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1943-05-02</date>
@@ -6016,6 +5492,7 @@ water service from the dock.&lt;/div&gt;
     </image>
     <image>
       <file>0674.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-05-03</date>
@@ -6035,6 +5512,7 @@ Boiler #4 steaming for auxiliary purposes receiving fresh water form the dock.&l
     </image>
     <image>
       <file>0675.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-05-04</date>
@@ -6057,6 +5535,7 @@ Secured #4 boiler.&lt;/div&gt;
     </image>
     <image>
       <file>0676.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-05-05</date>
@@ -6077,6 +5556,7 @@ at 60 F.&lt;/div&gt;
     </image>
     <image>
       <file>0677.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-05-06</date>
@@ -6095,6 +5575,7 @@ Bay, Sydney Australia, receiving all services from the dock.&lt;/div&gt;
     </image>
     <image>
       <file>0678.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-05-07</date>
@@ -6116,6 +5597,7 @@ cal common, 540 cartridges 5"/38 cal.&lt;/div&gt;
     </image>
     <image>
       <file>0679.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1943-05-08</date>
@@ -6135,6 +5617,7 @@ services from the dock.  USS BAGLEY moored to starboard.&lt;/div&gt;
     </image>
     <image>
       <file>0680.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1943-05-09</date>
@@ -6153,6 +5636,7 @@ Bay, Sydney Australia receiving all services from the dock.&lt;/div&gt;
     </image>
     <image>
       <file>0681.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-05-10</date>
@@ -6174,6 +5658,7 @@ dock.  USS BAGLEY moored alongside to starboard.&lt;/div&gt;
     </image>
     <image>
       <file>0682.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1943-05-11</date>
@@ -6223,6 +5708,7 @@ to 045 (T) 045 PGC.  Commenced zig-zagging on plan #10.&lt;/div&gt;
     </image>
     <image>
       <file>0683.jpg</file>
+      <objectPage>12</objectPage>
       <items>
         <item>
           <date>1943-05-12</date>
@@ -6253,6 +5739,7 @@ of readiness II;  material condition Baker.&lt;/div&gt;
     </image>
     <image>
       <file>0684.jpg</file>
+      <objectPage>13</objectPage>
       <items>
         <item>
           <date>1943-05-13</date>
@@ -6293,6 +5780,7 @@ to be erratic;  commenced steering by magnetic compass, course
     </image>
     <image>
       <file>0685.jpg</file>
+      <objectPage>14</objectPage>
       <items>
         <item>
           <date>1943-05-14</date>
@@ -6337,6 +5825,7 @@ boiler in use for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0686.jpg</file>
+      <objectPage>15</objectPage>
       <items>
         <item>
           <date>1943-05-15</date>
@@ -6358,6 +5847,7 @@ use for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0687.jpg</file>
+      <objectPage>16</objectPage>
       <items>
         <item>
           <date>1943-05-16</date>
@@ -6394,6 +5884,7 @@ in assigned berth.&lt;/div&gt;
     </image>
     <image>
       <file>0688.jpg</file>
+      <objectPage>17</objectPage>
       <items>
         <item>
           <date>1943-05-17</date>
@@ -6447,9 +5938,11 @@ with modified mersig plan #10.&lt;/div&gt;
     </image>
     <image>
       <file>0689.jpg</file>
+      <objectPage>18</objectPage>
     </image>
     <image>
       <file>0690.jpg</file>
+      <objectPage>19</objectPage>
       <items>
         <item>
           <date>1943-05-18</date>
@@ -6518,9 +6011,11 @@ with mersig plan #10.&lt;/div&gt;
     </image>
     <image>
       <file>0691.jpg</file>
+      <objectPage>20</objectPage>
     </image>
     <image>
       <file>0692.jpg</file>
+      <objectPage>21</objectPage>
       <items>
         <item>
           <date>1943-05-19</date>
@@ -6561,6 +6056,7 @@ draft forward 12'5" draft aft 14'9".  1101 Underway from alongside USS LACKAWANN
     </image>
     <image>
       <file>0693.jpg</file>
+      <objectPage>22</objectPage>
       <items>
         <item>
           <date>1943-05-20</date>
@@ -6580,6 +6076,7 @@ auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0694.jpg</file>
+      <objectPage>23</objectPage>
       <items>
         <item>
           <date>1943-05-21</date>
@@ -6651,9 +6148,11 @@ anchor.  1930 Secured #4 boiler.  Boiler #2 in use for auxiliary purpose.&lt;/di
     </image>
     <image>
       <file>0695.jpg</file>
+      <objectPage>24</objectPage>
     </image>
     <image>
       <file>0696.jpg</file>
+      <objectPage>25</objectPage>
       <items>
         <item>
           <date>1943-05-22</date>
@@ -6681,6 +6180,7 @@ Assumed ready duty in accordance with Commander Destroyer Squadron
     </image>
     <image>
       <file>0697.jpg</file>
+      <objectPage>26</objectPage>
       <items>
         <item>
           <date>1943-05-23</date>
@@ -6713,6 +6213,7 @@ Pt george 060 (T) 061 (PGC) 046 (PSC)&lt;/div&gt;
     </image>
     <image>
       <file>0698.jpg</file>
+      <objectPage>27</objectPage>
       <items>
         <item>
           <date>1943-05-24</date>
@@ -6732,6 +6233,7 @@ Boiler #4 in use for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0699.jpg</file>
+      <objectPage>28</objectPage>
       <items>
         <item>
           <date>1943-05-25</date>
@@ -6751,6 +6253,7 @@ to relieve as ready duty ship.  1118 USS RENSHAW standing in.&lt;/div&gt;
     </image>
     <image>
       <file>0700.jpg</file>
+      <objectPage>29</objectPage>
       <items>
         <item>
           <date>1943-05-26</date>
@@ -6800,6 +6303,7 @@ in accordance with plan #10.&lt;/div&gt;
     </image>
     <image>
       <file>0701.jpg</file>
+      <objectPage>30</objectPage>
       <items>
         <item>
           <date>1943-05-27</date>
@@ -6851,6 +6355,7 @@ moored alongside to port.&lt;/div&gt;
     </image>
     <image>
       <file>0702.jpg</file>
+      <objectPage>31</objectPage>
       <items>
         <item>
           <date>1943-05-28</date>
@@ -6886,6 +6391,7 @@ Boiler #1 steaming for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0703.jpg</file>
+      <objectPage>32</objectPage>
       <items>
         <item>
           <date>1943-05-29</date>
@@ -6909,6 +6415,7 @@ Boilers #1 + #3 in use, ship in readiness for getting underway in five minutes.&
     </image>
     <image>
       <file>0704.jpg</file>
+      <objectPage>33</objectPage>
       <items>
         <item>
           <date>1943-05-30</date>
@@ -6934,6 +6441,7 @@ Moored starboard side to USS COLUMBIA in berth #4.
     </image>
     <image>
       <file>0705.jpg</file>
+      <objectPage>34</objectPage>
       <items>
         <item>
           <date>1943-05-31</date>
@@ -6959,13 +6467,16 @@ purposes.&lt;/div&gt;
   <date>19430301</date>
   <dateLabel>MAR 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0005/90db84e3-49b4-474c-9a32-47bb0f8d266d/export_WWII_WarDiaries_0363_166082/images/0418.jpg</url>
+  <naid>134210927</naid>
   <directory>saufley_images/18_19430301</directory>
   <images>
     <image>
       <file>0418.jpg</file>
+      <objectPage>1</objectPage>
     </image>
     <image>
       <file>0419.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1943-03-01</date>
@@ -6992,6 +6503,7 @@ Anchor in berth A-2 Tulagi Harbor.&lt;/div&gt;
     </image>
     <image>
       <file>0420.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-03-02</date>
@@ -7033,6 +6545,7 @@ Tulagi Harbor.&lt;/div&gt;
     </image>
     <image>
       <file>0421.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-03-03</date>
@@ -7074,6 +6587,7 @@ case).&lt;/div&gt;
     </image>
     <image>
       <file>0422.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-03-04</date>
@@ -7106,6 +6620,7 @@ the port anchor in berth D-3.&lt;/div&gt;
     </image>
     <image>
       <file>0423.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-03-05</date>
@@ -7142,6 +6657,7 @@ modified condition one resumed.&lt;/div&gt;
     </image>
     <image>
       <file>0424.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-03-06</date>
@@ -7181,6 +6697,7 @@ and 205 T, zig-zagging as before.&lt;/div&gt;
     </image>
     <image>
       <file>0425.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1943-03-07</date>
@@ -7208,6 +6725,7 @@ modified condition one.  2320 Alert sounded.&lt;/div&gt;
     </image>
     <image>
       <file>0426.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1943-03-08</date>
@@ -7241,6 +6759,7 @@ quarters reset.&lt;/div&gt;
     </image>
     <image>
       <file>0427.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-03-09</date>
@@ -7276,6 +6795,7 @@ standard 15 (144 r.p.m.) between Savo Island and Sealark channel.&lt;/div&gt;
     </image>
     <image>
       <file>0428.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1943-03-10</date>
@@ -7323,6 +6843,7 @@ Material condition "Baker".&lt;/div&gt;
     </image>
     <image>
       <file>0429.jpg</file>
+      <objectPage>12</objectPage>
       <items>
         <item>
           <date>1943-03-11</date>
@@ -7354,6 +6875,7 @@ and Florida Islands on courses
     </image>
     <image>
       <file>0430.jpg</file>
+      <objectPage>13</objectPage>
       <items>
         <item>
           <date>1943-03-12</date>
@@ -7388,6 +6910,7 @@ quarters.&lt;/div&gt;
     </image>
     <image>
       <file>0431.jpg</file>
+      <objectPage>14</objectPage>
       <items>
         <item>
           <date>1943-03-13</date>
@@ -7410,6 +6933,7 @@ courses, speed 10 knots.&lt;/div&gt;
     </image>
     <image>
       <file>0432.jpg</file>
+      <objectPage>15</objectPage>
       <items>
         <item>
           <date>1943-03-14</date>
@@ -7446,6 +6970,7 @@ Koli Point.&lt;/div&gt;
     </image>
     <image>
       <file>0433.jpg</file>
+      <objectPage>16</objectPage>
       <items>
         <item>
           <date>1943-03-15</date>
@@ -7479,6 +7004,7 @@ from 62.4.17 to 32-4-17.&lt;/div&gt;
     </image>
     <image>
       <file>0434.jpg</file>
+      <objectPage>17</objectPage>
       <items>
         <item>
           <date>1943-03-16</date>
@@ -7506,6 +7032,7 @@ AA protection.  1310  Resumed station.&lt;/div&gt;
     </image>
     <image>
       <file>0435.jpg</file>
+      <objectPage>18</objectPage>
       <items>
         <item>
           <date>1943-03-17</date>
@@ -7528,6 +7055,7 @@ II.&lt;/div&gt;
     </image>
     <image>
       <file>0436.jpg</file>
+      <objectPage>19</objectPage>
       <items>
         <item>
           <date>1943-03-18</date>
@@ -7548,30 +7076,39 @@ II.&lt;/div&gt;
     </image>
     <image>
       <file>0437.jpg</file>
+      <objectPage>20</objectPage>
     </image>
     <image>
       <file>0438.jpg</file>
+      <objectPage>21</objectPage>
     </image>
     <image>
       <file>0439.jpg</file>
+      <objectPage>22</objectPage>
     </image>
     <image>
       <file>0440.jpg</file>
+      <objectPage>23</objectPage>
     </image>
     <image>
       <file>0441.jpg</file>
+      <objectPage>24</objectPage>
     </image>
     <image>
       <file>0442.jpg</file>
+      <objectPage>25</objectPage>
     </image>
     <image>
       <file>0443.jpg</file>
+      <objectPage>26</objectPage>
     </image>
     <image>
       <file>0444.jpg</file>
+      <objectPage>27</objectPage>
     </image>
     <image>
       <file>0445.jpg</file>
+      <objectPage>28</objectPage>
       <items>
         <item>
           <date>1943-03-19</date>
@@ -7599,6 +7136,7 @@ on plan #11 as before.&lt;/div&gt;
     </image>
     <image>
       <file>0446.jpg</file>
+      <objectPage>29</objectPage>
       <items>
         <item>
           <date>1943-03-20</date>
@@ -7619,6 +7157,7 @@ U.S.S. FANNING in berth A-6.  CDS-6 Cmdr Nyquist shifted his pennant to USS FANN
     </image>
     <image>
       <file>0447.jpg</file>
+      <objectPage>30</objectPage>
       <items>
         <item>
           <date>1943-03-21</date>
@@ -7654,6 +7193,7 @@ course to 345 (T).&lt;/div&gt;
     </image>
     <image>
       <file>0448.jpg</file>
+      <objectPage>31</objectPage>
       <items>
         <item>
           <date>1943-03-22</date>
@@ -7686,6 +7226,7 @@ CTF 19 in USS WICHITA for duty.&lt;/div&gt;
     </image>
     <image>
       <file>0449.jpg</file>
+      <objectPage>32</objectPage>
       <items>
         <item>
           <date>1943-03-23</date>
@@ -7705,6 +7246,7 @@ under no #1 boiler for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0450.jpg</file>
+      <objectPage>33</objectPage>
       <items>
         <item>
           <date>1943-03-24</date>
@@ -7724,6 +7266,7 @@ auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0451.jpg</file>
+      <objectPage>34</objectPage>
       <items>
         <item>
           <date>1943-03-25</date>
@@ -7745,6 +7288,7 @@ from USS RIGEL.&lt;/div&gt;
     </image>
     <image>
       <file>0452.jpg</file>
+      <objectPage>35</objectPage>
       <items>
         <item>
           <date>1943-03-26</date>
@@ -7764,6 +7308,7 @@ no #1 boiler for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0453.jpg</file>
+      <objectPage>36</objectPage>
       <items>
         <item>
           <date>1943-03-27</date>
@@ -7784,6 +7329,7 @@ preparatory to receiving USS CONY on starboard side.&lt;/div&gt;
     </image>
     <image>
       <file>0454.jpg</file>
+      <objectPage>37</objectPage>
       <items>
         <item>
           <date>1943-03-28</date>
@@ -7803,6 +7349,7 @@ boiler in use for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0455.jpg</file>
+      <objectPage>38</objectPage>
       <items>
         <item>
           <date>1943-03-29</date>
@@ -7825,6 +7372,7 @@ USS LANG.&lt;/div&gt;
     </image>
     <image>
       <file>0456.jpg</file>
+      <objectPage>39</objectPage>
       <items>
         <item>
           <date>1943-03-30</date>
@@ -7848,6 +7396,7 @@ starboard side.&lt;/div&gt;
     </image>
     <image>
       <file>0457.jpg</file>
+      <objectPage>40</objectPage>
       <items>
         <item>
           <date>1943-03-31</date>
@@ -7878,10 +7427,12 @@ duty.&lt;/div&gt;
   <date>19430401</date>
   <dateLabel>APR 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0005/71b80040-a459-437e-98c4-b78a869ec314/export_WWII_WarDiaries_0339_165016/images/0425.jpg</url>
+  <naid>134184745</naid>
   <directory>saufley_images/19_19430401</directory>
   <images>
     <image>
       <file>0425.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-04-01</date>
@@ -7911,6 +7462,7 @@ fathoms of chain at water's edge.&lt;/div&gt;
       </items>
     </image>
     <image>
+      <objectPage>2</objectPage>
       <file>0426.jpg</file>
       <items>
         <item>
@@ -7955,6 +7507,7 @@ boiler in use for auxiliary purposes.  1955 USS CONY moored alongside to starboa
     </image>
     <image>
       <file>0427.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-04-03</date>
@@ -7993,6 +7546,7 @@ Efate Island.&lt;/div&gt;
     </image>
     <image>
       <file>0428.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-04-04</date>
@@ -8023,6 +7577,7 @@ zig-zagging.  1945 Changed course to 335 (T) 337 PGC 330 PSC.&lt;/div&gt;
     </image>
     <image>
       <file>0429.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-04-05</date>
@@ -8060,6 +7615,7 @@ speed to 15 knots.  1200 Ceased zig-zagging.&lt;/div&gt;
     </image>
     <image>
       <file>0430.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-04-06</date>
@@ -8098,6 +7654,7 @@ zig-zagging on plan #10.  1922 Changed course to
     </image>
     <image>
       <file>0431.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-04-07</date>
@@ -8136,6 +7693,7 @@ to 100 T, 101 p.g.c.&lt;/div&gt;
     </image>
     <image>
       <file>0432.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1943-04-08</date>
@@ -8186,6 +7744,7 @@ one hour to zone time -12.&lt;/div&gt;
     </image>
     <image>
       <file>0433.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1943-04-09</date>
@@ -8228,6 +7787,7 @@ commenced zig-zagging according to plan #8.
     </image>
     <image>
       <file>0434.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-04-10</date>
@@ -8262,6 +7822,7 @@ to plan #8.  2203 Ceased zig-zagging.  Resumed base course.&lt;/div&gt;
     </image>
     <image>
       <file>0435.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1943-04-11</date>
@@ -8306,6 +7867,7 @@ from general quarters.&lt;/div&gt;
     </image>
     <image>
       <file>0436.jpg</file>
+      <objectPage>12</objectPage>
       <items>
         <item>
           <date>1943-04-12</date>
@@ -8350,6 +7912,7 @@ course to 028 (T) 030 (PGC) 033 (PSC)  2100 Changed course to 118 (T)
     </image>
     <image>
       <file>0437.jpg</file>
+      <objectPage>13</objectPage>
       <items>
         <item>
           <date>1943-04-13</date>
@@ -8404,9 +7967,11 @@ Completed fueling having recorded 51930 gals.  Draft fwd 12'6" aft
     </image>
     <image>
       <file>0438.jpg</file>
+      <objectPage>14</objectPage>
     </image>
     <image>
       <file>0439.jpg</file>
+      <objectPage>15</objectPage>
       <items>
         <item>
           <date>1943-04-14</date>
@@ -8430,6 +7995,7 @@ in berth #5..&lt;/div&gt;
     </image>
     <image>
       <file>0440.jpg</file>
+      <objectPage>16</objectPage>
       <items>
         <item>
           <date>1943-04-15</date>
@@ -8448,6 +8014,7 @@ unauthorized absentees.&lt;/div&gt;
     </image>
     <image>
       <file>0441.jpg</file>
+      <objectPage>17</objectPage>
       <items>
         <item>
           <date>1943-04-16</date>
@@ -8468,6 +8035,7 @@ standing by on 30 minutes notice for getting underway.&lt;/div&gt;
     </image>
     <image>
       <file>0442.jpg</file>
+      <objectPage>18</objectPage>
       <items>
         <item>
           <date>1943-04-17</date>
@@ -8488,6 +8056,7 @@ from USS RIGEL.&lt;/div&gt;
     </image>
     <image>
       <file>0443.jpg</file>
+      <objectPage>19</objectPage>
       <items>
         <item>
           <date>1943-04-18</date>
@@ -8507,6 +8076,7 @@ to zone minus eleven (-11) time.&lt;/div&gt;
     </image>
     <image>
       <file>0444.jpg</file>
+      <objectPage>20</objectPage>
       <items>
         <item>
           <date>1943-04-19</date>
@@ -8546,6 +8116,7 @@ boiler.  #3 boiler in use for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0445.jpg</file>
+      <objectPage>21</objectPage>
       <items>
         <item>
           <date>1943-04-20</date>
@@ -8564,6 +8135,7 @@ to starboard, boiler #3 in use for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0446.jpg</file>
+      <objectPage>22</objectPage>
       <items>
         <item>
           <date>1943-04-21</date>
@@ -8609,6 +8181,7 @@ and axis to 100 (T).&lt;/div&gt;
     </image>
     <image>
       <file>0447.jpg</file>
+      <objectPage>23</objectPage>
       <items>
         <item>
           <date>1943-04-22</date>
@@ -8659,9 +8232,11 @@ moored alongside starboard side to.&lt;/div&gt;
     </image>
     <image>
       <file>0448.jpg</file>
+      <objectPage>24</objectPage>
     </image>
     <image>
       <file>0449.jpg</file>
+      <objectPage>25</objectPage>
       <items>
         <item>
           <date>1943-04-23</date>
@@ -8687,6 +8262,7 @@ auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0450.jpg</file>
+      <objectPage>26</objectPage>
       <items>
         <item>
           <date>1943-04-24</date>
@@ -8720,6 +8296,7 @@ standard speed 15 knots (144 r.p.m.)&lt;/div&gt;
     </image>
     <image>
       <file>0451.jpg</file>
+      <objectPage>27</objectPage>
       <items>
         <item>
           <date>1943-04-25</date>
@@ -8747,6 +8324,7 @@ PGC, 168 PSC.&lt;/div&gt;
     </image>
     <image>
       <file>0452.jpg</file>
+      <objectPage>28</objectPage>
       <items>
         <item>
           <date>1943-04-26</date>
@@ -8775,6 +8353,7 @@ sample, and ready boxes;  condition normal.&lt;/div&gt;
     </image>
     <image>
       <file>0453.jpg</file>
+      <objectPage>29</objectPage>
       <items>
         <item>
           <date>1943-04-27</date>
@@ -8800,6 +8379,7 @@ steering 221 T&lt;/div&gt;
     </image>
     <image>
       <file>0454.jpg</file>
+      <objectPage>30</objectPage>
       <items>
         <item>
           <date>1943-04-28</date>
@@ -8834,6 +8414,7 @@ Darkened ship.&lt;/div&gt;
     </image>
     <image>
       <file>0455.jpg</file>
+      <objectPage>31</objectPage>
       <items>
         <item>
           <date>1943-04-29</date>
@@ -8861,6 +8442,7 @@ to fire 3" surface practice.  1510 Completed exercises.&lt;/div&gt;
     </image>
     <image>
       <file>0456.jpg</file>
+      <objectPage>32</objectPage>
       <items>
         <item>
           <date>1943-04-30</date>
@@ -8909,10 +8491,12 @@ completed circling proceeding to normal patrol station on course
   <date>19430201</date>
   <dateLabel>FEB 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0005/71759fcb-70b4-456a-aa27-064a5b6628d5/export_WWII_WarDiaries_0284_164071/images/1030.jpg</url>
+  <naid>134134640</naid>
   <directory>saufley_images/20_19430201</directory>
   <images>
     <image>
       <file>1030.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-02-01</date>
@@ -8969,6 +8553,7 @@ yards/&lt;/li&gt;
     </image>
     <image>
       <file>1031.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1943-02-03</date>
@@ -9013,6 +8598,7 @@ disposition 11.&lt;/div&gt;
     </image>
     <image>
       <file>1032.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-02-05</date>
@@ -9060,6 +8646,7 @@ speed 10 knots.&lt;/li&gt;
     </image>
     <image>
       <file>1033.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-02-07</date>
@@ -9111,6 +8698,7 @@ disposition 2.&lt;/li&gt;
     </image>
     <image>
       <file>1034.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-02-09</date>
@@ -9160,6 +8748,7 @@ left formation.&lt;/li&gt;
     </image>
     <image>
       <file>1035.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-02-11</date>
@@ -9209,6 +8798,7 @@ formation.&lt;/li&gt;
     </image>
     <image>
       <file>1036.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-02-13</date>
@@ -9252,6 +8842,7 @@ zone time minus 11.&lt;/li&gt;
     </image>
     <image>
       <file>1037.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1943-02-15</date>
@@ -9288,6 +8879,7 @@ Pacific's secret despatch 142300.&lt;/li&gt;
     </image>
     <image>
       <file>1038.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1943-02-17</date>
@@ -9327,6 +8919,7 @@ with Commander South Pacific's Secret Despatch 142300.&lt;/li&gt;
     </image>
     <image>
       <file>1039.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-02-19</date>
@@ -9388,6 +8981,7 @@ Underway - returning to Tulagi.&lt;/li&gt;
     </image>
     <image>
       <file>1040.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1943-02-22</date>
@@ -9439,6 +9033,7 @@ Commenced debarkation of Sea Bees and Equipment.&lt;/li&gt;
     </image>
     <image>
       <file>1041.jpg</file>
+      <objectPage>12</objectPage>
       <items>
         <item>
           <date>1943-02-25</date>
@@ -9497,6 +9092,7 @@ screen for 5 LCT barges enroute to Russell Islands.&lt;/li&gt;
     </image>
     <image>
       <file>1042.jpg</file>
+      <objectPage>13</objectPage>
     </image>
   </images>
 </source>
@@ -9506,10 +9102,12 @@ screen for 5 LCT barges enroute to Russell Islands.&lt;/li&gt;
   <date>19430101</date>
   <dateLabel>JAN 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0005/c3c15a01-ffe9-4561-9f64-22c525576da7/export_WWII_WarDiaries_0248_167359/images/0087.jpg</url>
+  <naid>134102689</naid>
   <directory>saufley_images/21_19430101</directory>
   <images>
     <image>
       <file>0087.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-01-01</date>
@@ -9570,6 +9168,7 @@ Proceeding to Espiritu Santos.&lt;/li&gt;
     </image>
     <image>
       <file>0088.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1943-01-04</date>
@@ -9617,6 +9216,7 @@ with Harbor Defense Plan No. 2.&lt;/li&gt;
     </image>
     <image>
       <file>0089.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-01-07</date>
@@ -9665,6 +9265,7 @@ of Harbor Defense Plan No. 2.&lt;/li&gt;
     </image>
     <image>
       <file>0090.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-01-10</date>
@@ -9723,6 +9324,7 @@ in U.S.S. BALCH.&lt;/li&gt;
     </image>
     <image>
       <file>0091.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-01-15</date>
@@ -9784,6 +9386,7 @@ towed by carrier plane.&lt;/li&gt;
     </image>
     <image>
       <file>0092.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-01-21</date>
@@ -9838,6 +9441,7 @@ sleeve target towed by carrier based plane.&lt;/li&gt;
     </image>
     <image>
       <file>0093.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-01-23</date>
@@ -9887,6 +9491,7 @@ speed 20 knots, in special cruising dispositions 11S.&lt;/div&gt;
     </image>
     <image>
       <file>0094.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1943-01-25</date>
@@ -9913,6 +9518,7 @@ axis 190 (T), speed 20 knots, in special cruising disposition
     </image>
     <image>
       <file>0095.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1943-01-26</date>
@@ -9959,6 +9565,7 @@ dive-bombing and torpedo plane attack on disposition.&lt;/li&gt;
     </image>
     <image>
       <file>0096.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-01-29</date>
@@ -10003,6 +9610,7 @@ axis 240 (T), speed 20 knots, in special cruising disposition
     </image>
     <image>
       <file>0097.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1943-01-31</date>
@@ -10034,13 +9642,16 @@ on sleeve target towed by carrier based plane.&lt;/li&gt;
   <date>19421201</date>
   <dateLabel>DEC 1942</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0005/b7db54c9-de6f-426f-8683-c45c22d1d8e1/export_WWII_WarDiaries_0188_163421/images/0635.jpg</url>
+  <naid>134049750</naid>
   <directory>saufley_images/22_19421201</directory>
   <images>
     <image>
       <file>0635.jpg</file>
+      <objectPage>1</objectPage>
     </image>
     <image>
       <file>0636.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1942-12-01</date>
@@ -10060,6 +9671,7 @@ with above mentioned ships.&lt;/div&gt;
     </image>
     <image>
       <file>0637.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1942-12-02</date>
@@ -10078,6 +9690,7 @@ U.S.S. COLUMBIA and U.S.S. DEHAVEN to COMSOPAC.&lt;/div&gt;
     </image>
     <image>
       <file>0638.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1942-12-03</date>
@@ -10089,6 +9702,7 @@ U.S.S. COLUMBIA and U.S.S. DEHAVEN to COMSOPAC.&lt;/div&gt;
     </image>
     <image>
       <file>0639.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1942-12-04</date>
@@ -10100,6 +9714,7 @@ U.S.S. COLUMBIA and U.S.S. DEHAVEN to COMSOPAC.&lt;/div&gt;
     </image>
     <image>
       <file>0640.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1942-12-05</date>
@@ -10122,6 +9737,7 @@ Caledonia, to Lunga Point, Guadalcanal.&lt;/div&gt;
     </image>
     <image>
       <file>0641.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1942-12-06</date>
@@ -10142,6 +9758,7 @@ Lunga Point, Guadalcanal.&lt;/div&gt;
     </image>
     <image>
       <file>0642.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1942-12-07</date>
@@ -10161,6 +9778,7 @@ Lunga Point, Guadalcanal.&lt;/div&gt;
     </image>
     <image>
       <file>0643.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1942-12-08</date>
@@ -10175,6 +9793,7 @@ eastward to sea for the night in accordance with secret mailgram
     </image>
     <image>
       <file>0644.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1942-12-09</date>
@@ -10188,6 +9807,7 @@ night.  Patrolled outside harbor.&lt;/p&gt;
     </image>
     <image>
       <file>0645.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1942-12-10</date>
@@ -10203,6 +9823,7 @@ to Tulagi Bay for night.&lt;/p&gt;
     </image>
     <image>
       <file>0646.jpg</file>
+      <objectPage>12</objectPage>
       <items>
         <item>
           <date>1942-12-11</date>
@@ -10216,6 +9837,7 @@ for the night.&lt;/p&gt;
     </image>
     <image>
       <file>0647.jpg</file>
+      <objectPage>13</objectPage>
       <items>
         <item>
           <date>1942-12-12</date>
@@ -10268,6 +9890,7 @@ had caught fire and then blown up.  No survivors were found.&lt;/p&gt;
     </image>
     <image>
       <file>0648.jpg</file>
+      <objectPage>14</objectPage>
       <items>
         <item>
           <date>1942-12-13</date>
@@ -10292,6 +9915,7 @@ time rejoined convoy.&lt;/p&gt;
     </image>
     <image>
       <file>0649.jpg</file>
+      <objectPage>15</objectPage>
       <items>
         <item>
           <date>1942-12-14</date>
@@ -10312,6 +9936,7 @@ hour 23 minutes and unable to pick up further contact.&lt;/p&gt;
     </image>
     <image>
       <file>0650.jpg</file>
+      <objectPage>16</objectPage>
       <items>
         <item>
           <date>1942-12-15</date>
@@ -10327,6 +9952,7 @@ escorts to Espiritu Santos from Tulagi Bay.&lt;/p&gt;
     </image>
     <image>
       <file>0651.jpg</file>
+      <objectPage>17</objectPage>
       <items>
         <item>
           <date>1942-12-16</date>
@@ -10343,6 +9969,7 @@ Task Unit 66.7.1.&lt;/p&gt;
     </image>
     <image>
       <file>0652.jpg</file>
+      <objectPage>18</objectPage>
       <items>
         <item>
           <date>1942-12-17</date>
@@ -10367,6 +9994,7 @@ despatch 160352 from COMSOPAC.&lt;/p&gt;
     </image>
     <image>
       <file>0653.jpg</file>
+      <objectPage>19</objectPage>
       <items>
         <item>
           <date>1942-12-18</date>
@@ -10382,6 +10010,7 @@ patrolling area indicated by positions shown below.&lt;/p&gt;
     </image>
     <image>
       <file>0654.jpg</file>
+      <objectPage>20</objectPage>
       <items>
         <item>
           <date>1942-12-19</date>
@@ -10397,6 +10026,7 @@ area indicated by positions listed below.&lt;/p&gt;
     </image>
     <image>
       <file>0655.jpg</file>
+      <objectPage>21</objectPage>
       <items>
         <item>
           <date>1942-12-20</date>
@@ -10412,6 +10042,7 @@ and patrolling area indicated by positions shown below.&lt;/p&gt;
     </image>
     <image>
       <file>0656.jpg</file>
+      <objectPage>22</objectPage>
       <items>
         <item>
           <date>1942-12-21</date>
@@ -10427,6 +10058,7 @@ and patrolling area indicated by positions shown below.&lt;/p&gt;
     </image>
     <image>
       <file>0657.jpg</file>
+      <objectPage>23</objectPage>
       <items>
         <item>
           <date>1942-12-22</date>
@@ -10442,6 +10074,7 @@ and patrolling area indicated by positions shown below.&lt;/p&gt;
     </image>
     <image>
       <file>0658.jpg</file>
+      <objectPage>24</objectPage>
       <items>
         <item>
           <date>1942-12-23</date>
@@ -10453,6 +10086,7 @@ and patrolling area indicated by positions shown below.&lt;/p&gt;
     </image>
     <image>
       <file>0659.jpg</file>
+      <objectPage>25</objectPage>
       <items>
         <item>
           <date>1942-12-24</date>
@@ -10466,6 +10100,7 @@ Plan #2.&lt;/p&gt;
     </image>
     <image>
       <file>0660.jpg</file>
+      <objectPage>26</objectPage>
       <items>
         <item>
           <date>1942-12-25</date>
@@ -10478,6 +10113,7 @@ returned to mooring at Espiritu Santos Bay.&lt;/p&gt;
     </image>
     <image>
       <file>0661.jpg</file>
+      <objectPage>27</objectPage>
       <items>
         <item>
           <date>1942-12-26</date>
@@ -10489,6 +10125,7 @@ returned to mooring at Espiritu Santos Bay.&lt;/p&gt;
     </image>
     <image>
       <file>0662.jpg</file>
+      <objectPage>28</objectPage>
       <items>
         <item>
           <date>1942-12-27</date>
@@ -10510,6 +10147,7 @@ REPUBLIC - Captain T. G. Peyton.&lt;/p&gt;
     </image>
     <image>
       <file>0663.jpg</file>
+      <objectPage>29</objectPage>
       <items>
         <item>
           <date>1942-12-28</date>
@@ -10527,6 +10165,7 @@ Escorting and screening transports.&lt;/p&gt;
     </image>
     <image>
       <file>0664.jpg</file>
+      <objectPage>30</objectPage>
       <items>
         <item>
           <date>1942-12-29</date>
@@ -10543,6 +10182,7 @@ Escorting and screening transports.&lt;/p&gt;
     </image>
     <image>
       <file>0665.jpg</file>
+      <objectPage>31</objectPage>
       <items>
         <item>
           <date>1942-12-30</date>
@@ -10557,6 +10197,7 @@ patrol duty during night.&lt;/p&gt;
     </image>
     <image>
       <file>0666.jpg</file>
+      <objectPage>32</objectPage>
       <items>
         <item>
           <date>1942-12-31</date>
@@ -10576,10 +10217,12 @@ for night.&lt;/p&gt;
   <date>19441001</date>
   <dateLabel>OCT 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1290/images/0309.jpg</url>
+  <naid>78709196</naid>
   <directory>saufley_images/23_19441001</directory>
   <images>
     <image>
       <file>0309.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-10-01</date>
@@ -10638,6 +10281,7 @@ Cove, San Clemente Island.&lt;/div&gt;
     </image>
     <image>
       <file>0310.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1944-10-22</date>
@@ -10697,6 +10341,7 @@ in Pyramid Cove.&lt;/div&gt;
     </image>
     <image>
       <file>0311.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1944-10-25</date>
@@ -10739,6 +10384,7 @@ departure for Pearl Harbor.&lt;/div&gt;
     </image>
     <image>
       <file>0312.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1944-10-28</date>
@@ -10780,6 +10426,7 @@ USS CONWAY.&lt;/div&gt;
     </image>
     <image>
       <file>0313.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1944-10-31</date>
@@ -10801,10 +10448,12 @@ USS CONWAY.&lt;/div&gt;
   <date>19440901</date>
   <dateLabel>SEP 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1228/A_1228/images/0119.jpg</url>
+  <naid>78647533</naid>
   <directory>saufley_images/24_19440901</directory>
   <images>
     <image>
       <file>0119.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-09-01</date>
@@ -10825,10 +10474,12 @@ Pacific Fleet, dispatch 252348 of August 1944.&lt;/div&gt;
   <date>19440801</date>
   <dateLabel>AUG 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1129/A_1129/images/0923.jpg</url>
+  <naid>78609855</naid>
   <directory>saufley_images/25_19440801</directory>
   <images>
     <image>
       <file>0923.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-08-01</date>
@@ -10876,6 +10527,7 @@ Proceeded to relieve the USS EATON in station #13 at 1348. At
     </image>
     <image>
       <file>0924.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1944-08-04</date>
@@ -10926,6 +10578,7 @@ Able&lt;/div&gt;
     </image>
     <image>
       <file>0925.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1944-08-07</date>
@@ -10981,6 +10634,7 @@ commenced patrolling station 10 Able.&lt;/div&gt;
     </image>
     <image>
       <file>0926.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1944-08-11</date>
@@ -11032,6 +10686,7 @@ POINT FOUR.&lt;/div&gt;
     </image>
     <image>
       <file>0927.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1944-08-14</date>
@@ -11090,6 +10745,7 @@ POINT FOUR.&lt;/div&gt;
     </image>
     <image>
       <file>0928.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1944-08-19</date>
@@ -11151,6 +10807,7 @@ FOUR.&lt;/div&gt;
     </image>
     <image>
       <file>0929.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1944-08-23</date>
@@ -11201,6 +10858,7 @@ California, in company with ships of Destroyer Squadron TWENTY TWO.
     </image>
     <image>
       <file>0930.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1944-08-26</date>
@@ -11259,6 +10917,7 @@ moor to the Bethlehem Steel Company docks at Central Basin, San Francisco.&lt;/d
     </image>
     <image>
       <file>0931.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1944-08-31</date>
@@ -11278,58 +10937,76 @@ in accordance with COMSERVPAC dispatch 252348 of August.&lt;/div&gt;
   <date>19440701</date>
   <dateLabel>JUL 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1097/images/0888.jpg</url>
+  <naid>78572431</naid>
   <directory>saufley_images/26_19440701</directory>
   <images>
     <image>
       <file>0888.jpg</file>
+      <objectPage>1</objectPage>
     </image>
     <image>
       <file>0889.jpg</file>
+      <objectPage>2</objectPage>
     </image>
     <image>
       <file>0890.jpg</file>
+      <objectPage>3</objectPage>
     </image>
     <image>
       <file>0891.jpg</file>
+      <objectPage>4</objectPage>
     </image>
     <image>
       <file>0892.jpg</file>
+      <objectPage>5</objectPage>
     </image>
     <image>
       <file>0893.jpg</file>
+      <objectPage>6</objectPage>
     </image>
     <image>
       <file>0894.jpg</file>
+      <objectPage>7</objectPage>
     </image>
     <image>
       <file>0895.jpg</file>
+      <objectPage>8</objectPage>
     </image>
     <image>
       <file>0896.jpg</file>
+      <objectPage>9</objectPage>
     </image>
     <image>
       <file>0897.jpg</file>
+      <objectPage>10</objectPage>
     </image>
     <image>
       <file>0898.jpg</file>
+      <objectPage>11</objectPage>
     </image>
     <image>
       <file>0899.jpg</file>
+      <objectPage>12</objectPage>
     </image>
     <image>
       <file>0900.jpg</file>
+      <objectPage>13</objectPage>
     </image>
     <image>
       <file>0901.jpg</file>
+      <objectPage>14</objectPage>
     </image>
     <image>
       <file>0902.jpg</file>
+      <objectPage>15</objectPage>
     </image>
     <image>
       <file>0903.jpg</file>
+      <objectPage>16</objectPage>
     </image>
     <image>
       <file>0904.jpg</file>
+      <objectPage>17</objectPage>
     </image>
   </images>
 </source>
@@ -11339,10 +11016,12 @@ in accordance with COMSERVPAC dispatch 252348 of August.&lt;/div&gt;
   <date>19440601</date>
   <dateLabel>JUN 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1055/images/1168.jpg</url>
+  <naid>78527324</naid>
   <directory>saufley_images/27_19440601</directory>
   <images>
     <image>
       <file>1168.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-06-01</date>
@@ -11394,6 +11073,7 @@ to 111 time zone. At 1600 test fired machine guns, expending
     </image>
     <image>
       <file>1169.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1944-06-04</date>
@@ -11457,6 +11137,7 @@ assigned berth.&lt;/div&gt;
     </image>
     <image>
       <file>1170.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1944-06-10</date>
@@ -11527,6 +11208,7 @@ automatic weapons, expending 62 rounds of 20MM, and 35 rounds of
     </image>
     <image>
       <file>1171.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1944-06-16</date>
@@ -11590,6 +11272,7 @@ the shore fire control party.&lt;/p&gt;
     </image>
     <image>
       <file>1172.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1944-06-19</date>
@@ -11654,6 +11337,7 @@ the transport area.&lt;/p&gt;
     </image>
     <image>
       <file>1173.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1944-06-21</date>
@@ -11715,6 +11399,7 @@ USS CHANDLER and the USS SAUFLEY.&lt;/p&gt;
     </image>
     <image>
       <file>1174.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1944-06-23</date>
@@ -11761,6 +11446,7 @@ Group FIFTY ONE POINT EIGHTEEN at 1755.&lt;/p&gt;
     </image>
     <image>
       <file>1175.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1944-06-25</date>
@@ -11840,6 +11526,7 @@ Brown.&lt;/p&gt;
     </image>
     <image>
       <file>1176.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1944-06-29</date>
@@ -11888,6 +11575,7 @@ the area from, 2006 until 2018.&lt;/p&gt;
     </image>
     <image>
       <file>1177.jpg</file>
+      <objectPage>10</objectPage>
     </image>
   </images>
 </source>
@@ -11897,10 +11585,12 @@ the area from, 2006 until 2018.&lt;/p&gt;
   <date>19440501</date>
   <dateLabel>MAY 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1038/images/0744.jpg</url>
+  <naid>78509988</naid>
   <directory>saufley_images/28_19440501</directory>
   <images>
     <image>
       <file>0744.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-05-01</date>
@@ -11945,6 +11635,7 @@ Task Force THIRTY NINE.&lt;/div&gt;
     </image>
     <image>
       <file>0745.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1944-05-03</date>
@@ -12001,6 +11692,7 @@ THREE entered Funafuti for logistics.&lt;/div&gt;
     </image>
     <image>
       <file>0746.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1944-05-06</date>
@@ -12063,6 +11755,7 @@ and commenced search.&lt;/div&gt;
     </image>
     <image>
       <file>0747.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1944-05-11</date>
@@ -12144,6 +11837,7 @@ at 2330.&lt;/p&gt;
     </image>
     <image>
       <file>0748.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1944-05-16</date>
@@ -12206,6 +11900,7 @@ and the USS WADLEIGH joined the Task Group screen.&lt;/div&gt;
     </image>
     <image>
       <file>0749.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1944-05-20</date>
@@ -12258,6 +11953,7 @@ Westward escorted by the screen.&lt;/div&gt;
     </image>
     <image>
       <file>0750.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1944-05-23</date>
@@ -12312,10 +12008,12 @@ underway to go alongside the USS PIEDMONT for Tender availability.&lt;/div&gt;
   <date>19440401</date>
   <dateLabel>APR 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0957/A_0957/images/0833.jpg</url>
+  <naid>78426699</naid>
   <directory>saufley_images/29_19440401</directory>
   <images>
     <image>
       <file>0833.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-04-01</date>
@@ -12366,6 +12064,7 @@ THREE proceeded towards Emirau Island.&lt;/div&gt;
     </image>
     <image>
       <file>0834.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1944-04-04</date>
@@ -12430,6 +12129,7 @@ serial: 0405 of April.&lt;/p&gt;
     </image>
     <image>
       <file>0835.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1944-04-08</date>
@@ -12483,6 +12183,7 @@ the USS WALLER and resumed station in the formation.&lt;/div&gt;
     </image>
     <image>
       <file>0836.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1944-04-11</date>
@@ -12555,6 +12256,7 @@ the formation at 0300.&lt;/div&gt;
     </image>
     <image>
       <file>0837.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1944-04-16</date>
@@ -12646,10 +12348,12 @@ ship.&lt;/div&gt;
   <date>19440301</date>
   <dateLabel>MAR 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0917/A_0917/images/0256.jpg</url>
+  <naid>78392248</naid>
   <directory>saufley_images/30_19440301</directory>
   <images>
     <image>
       <file>0256.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-03-01</date>
@@ -12706,6 +12410,7 @@ Feni and Green Islands, and West of Buka.&lt;/p&gt;
     </image>
     <image>
       <file>0257.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1944-03-02</date>
@@ -12764,6 +12469,7 @@ for logistics.&lt;/div&gt;
     </image>
     <image>
       <file>0258.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1944-03-07</date>
@@ -12824,6 +12530,7 @@ SAUFLEY took the outer patrol.&lt;/div&gt;
     </image>
     <image>
       <file>0259.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1944-03-13</date>
@@ -12902,6 +12609,7 @@ in that area.&lt;/p&gt;
     </image>
     <image>
       <file>0260.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1944-03-16</date>
@@ -12936,6 +12644,7 @@ THIRTY ONE's Route chart number 4, Eastern Route.&lt;/div&gt;
     </image>
     <image>
       <file>0261.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1944-03-18</date>
@@ -13007,6 +12716,7 @@ and USS BRAINE were detached and left the formation.&lt;/p&gt;
     </image>
     <image>
       <file>0262.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1944-03-21</date>
@@ -13060,6 +12770,7 @@ logistics.&lt;/div&gt;
     </image>
     <image>
       <file>0263.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1944-03-24</date>
@@ -13121,6 +12832,7 @@ for fueling and berthing.&lt;/div&gt;
     </image>
     <image>
       <file>0264.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1944-03-30</date>
@@ -13140,10 +12852,12 @@ Bay, Florida Island.&lt;/div&gt;
   <date>19440201</date>
   <dateLabel>FEB 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0869_Redelivery/A_0869/images/0090.jpg</url>
+  <naid>78342531</naid>
   <directory>saufley_images/31_19440201</directory>
   <images>
     <image>
       <file>0090.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-02-01</date>
@@ -13212,6 +12926,7 @@ set for Barakoma, Vella Lavella for loading.&lt;/div&gt;
     </image>
     <image>
       <file>0091.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1944-02-13</date>
@@ -13276,6 +12991,7 @@ POINT FOUR POINT TWO formed up and set course for Guadalcanal.&lt;/p&gt;
     </image>
     <image>
       <file>0092.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1944-02-16</date>
@@ -13347,6 +13063,7 @@ for Green Island.&lt;/div&gt;
     </image>
     <image>
       <file>0093.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1944-02-23</date>
@@ -13422,6 +13139,7 @@ Florida Island for fueling and berthing.&lt;/div&gt;
     </image>
     <image>
       <file>0094.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1944-02-28</date>
@@ -13478,10 +13196,12 @@ SAUFLEY Secret Action Report DD465/A16-3 Serial 0375 of 2 March
   <date>19440101</date>
   <dateLabel>JAN 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0827_Redelivery/A_0827/images/0439.jpg</url>
+  <naid>78305734</naid>
   <directory>saufley_images/32_19440101</directory>
   <images>
     <image>
       <file>0439.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-01-01</date>
@@ -13518,6 +13238,7 @@ to Guadalcanal in company with Task Group THIRTY ONE POINT SIX.&lt;/div&gt;
     </image>
     <image>
       <file>0440.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1944-01-03</date>
@@ -13582,6 +13303,7 @@ the USS SAUFLEY proceeded to anchor in Purvis Bay.&lt;/div&gt;
     </image>
     <image>
       <file>0441.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1944-01-07</date>
@@ -13653,6 +13375,7 @@ formed up and set course for Guadalcanal.&lt;/div&gt;
     </image>
     <image>
       <file>0442.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1944-01-13</date>
@@ -13719,6 +13442,7 @@ LCI 359, LCI 435.  Set course for Munda Bar, New Georgia.&lt;/div&gt;
     </image>
     <image>
       <file>0443.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1944-01-18</date>
@@ -13775,6 +13499,7 @@ Guadalcanal.&lt;/div&gt;
     </image>
     <image>
       <file>0444.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1944-01-21</date>
@@ -13844,6 +13569,7 @@ USS SAUFLEY fueled and moored alongside the USS RENSHAW.&lt;/div&gt;
     </image>
     <image>
       <file>0445.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1944-01-26</date>
@@ -13915,6 +13641,7 @@ SS BONNEVILLE formed up and set course for Guadalcanal.&lt;/p&gt;
     </image>
     <image>
       <file>0446.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1944-01-31</date>
@@ -13939,10 +13666,12 @@ the formation.&lt;/div&gt;
   <date>19431201</date>
   <dateLabel>DEC 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0775_Redelivery/A_0775/images/0519.jpg</url>
+  <naid>78259201</naid>
   <directory>saufley_images/33_19431201</directory>
   <images>
     <image>
       <file>0519.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-12-01</date>
@@ -13994,6 +13723,7 @@ the Task Unit set course for Guadalcanal.&lt;/div&gt;
     </image>
     <image>
       <file>0520.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1943-12-05</date>
@@ -14063,6 +13793,7 @@ South Pacific's despatch 070515 of December.&lt;/div&gt;
     </image>
     <image>
       <file>0521.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-12-10</date>
@@ -14134,6 +13865,7 @@ Florida Island.&lt;/div&gt;
     </image>
     <image>
       <file>0522.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-12-23</date>
@@ -14203,6 +13935,7 @@ proceeded to anchorage in Purvis Bay, Florida Island.&lt;/div&gt;
     </image>
     <image>
       <file>0523.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-12-28</date>
@@ -14271,10 +14004,12 @@ Group then continued on toward Empress Augusta Bay, Bougainville.&lt;/div&gt;
   <date>19431101</date>
   <dateLabel>NOV 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0757_Redelivery/A_0757/images/0115.jpg</url>
+  <naid>78234359</naid>
   <directory>saufley_images/34_19431101</directory>
   <images>
     <image>
       <file>0115.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-11-01</date>
@@ -14301,6 +14036,7 @@ bow of LCI's.  Base course 180(T), USS PRINGLE on port bow.&lt;/div&gt;
     </image>
     <image>
       <file>0116.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1943-11-02</date>
@@ -14331,6 +14067,7 @@ moored alongside to port.&lt;/div&gt;
     </image>
     <image>
       <file>0117.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-11-03</date>
@@ -14350,6 +14087,7 @@ Condition II set.  USS RENSHAW moored to port side. &lt;/div&gt;
     </image>
     <image>
       <file>0118.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-11-04</date>
@@ -14380,6 +14118,7 @@ station and commenced patrolling.  1820 Sighted four surface craft 190(T), range
     </image>
     <image>
       <file>0119.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-11-05</date>
@@ -14410,6 +14149,7 @@ modified condition I. &lt;/div&gt;
     </image>
     <image>
       <file>0120.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-11-06</date>
@@ -14453,6 +14193,7 @@ courses and speeds as evasive tactics.&lt;/div&gt;
     </image>
     <image>
       <file>0121.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-11-07</date>
@@ -14483,6 +14224,7 @@ Took station on port bow of APDs.  1725 Changed course to 112(T), (PGC), 104(PSC
     </image>
     <image>
       <file>0122.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1943-11-08</date>
@@ -14517,6 +14259,7 @@ port anchor.  1825 USS PRINGLE moored to starboard side. &lt;/div&gt;
     </image>
     <image>
       <file>0123.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1943-11-09</date>
@@ -14547,6 +14290,7 @@ Changed course to 260(T), (PGC), 248 1/2(PSC).&lt;/div&gt;
     </image>
     <image>
       <file>0124.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-11-10</date>
@@ -14580,6 +14324,7 @@ radar contact 339(T), range 12 miles.  1925 Contact identified as friendly.
     </image>
     <image>
       <file>0125.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1943-11-11</date>
@@ -14633,9 +14378,11 @@ USS SPENCE joined formation and took screen position, in place of USS EATON, #4.
     </image>
     <image>
       <file>0126.jpg</file>
+      <objectPage>12</objectPage>
     </image>
     <image>
       <file>0127.jpg</file>
+      <objectPage>13</objectPage>
       <items>
         <item>
           <date>1943-11-12</date>
@@ -14662,6 +14409,7 @@ under #2 boiler.&lt;/div&gt;
     </image>
     <image>
       <file>0128.jpg</file>
+      <objectPage>14</objectPage>
       <items>
         <item>
           <date>1943-11-13</date>
@@ -14700,6 +14448,7 @@ the port anchor.  1828 USS WALLER came alongside to port.&lt;/div&gt;
     </image>
     <image>
       <file>0129.jpg</file>
+      <objectPage>15</objectPage>
       <items>
         <item>
           <date>1943-11-14</date>
@@ -14718,6 +14467,7 @@ to the port anchor.  USS WALLER moored to port.  Boilers #2 and #3 in use for au
     </image>
     <image>
       <file>0130.jpg</file>
+      <objectPage>16</objectPage>
       <items>
         <item>
           <date>1943-11-15</date>
@@ -14753,6 +14503,7 @@ firing AA battery on sleeve.  1102 Changed course to 230(T), (PGC), 226(PSC).&lt
     </image>
     <image>
       <file>0131.jpg</file>
+      <objectPage>17</objectPage>
       <items>
         <item>
           <date>1943-11-16</date>
@@ -14789,6 +14540,7 @@ to 000(T), (PGC), 352(PSC).&lt;/div&gt;
     </image>
     <image>
       <file>0132.jpg</file>
+      <objectPage>18</objectPage>
       <items>
         <item>
           <date>1943-11-17</date>
@@ -14828,6 +14580,7 @@ course 217(T), (PGC), 214(PSC), speed 6 knots (55 RPM).&lt;/div&gt;
     </image>
     <image>
       <file>0133.jpg</file>
+      <objectPage>19</objectPage>
       <items>
         <item>
           <date>1943-11-18</date>
@@ -14851,6 +14604,7 @@ condition I.  0656 Set condition II, material condition baker.&lt;/div&gt;
     </image>
     <image>
       <file>0134.jpg</file>
+      <objectPage>20</objectPage>
       <items>
         <item>
           <date>1943-11-19</date>
@@ -14883,6 +14637,7 @@ boilers on 30 minutes notice.&lt;/div&gt;
     </image>
     <image>
       <file>0135.jpg</file>
+      <objectPage>21</objectPage>
       <items>
         <item>
           <date>1943-11-20</date>
@@ -14901,6 +14656,7 @@ chain to the port anchor.  Boiler #4 in use for auxiliary purposes.  USS SIGOURN
     </image>
     <image>
       <file>0136.jpg</file>
+      <objectPage>22</objectPage>
       <items>
         <item>
           <date>1943-11-21</date>
@@ -14932,6 +14688,7 @@ station.&lt;/div&gt;
     </image>
     <image>
       <file>0137.jpg</file>
+      <objectPage>23</objectPage>
       <items>
         <item>
           <date>1943-11-22</date>
@@ -14964,6 +14721,7 @@ ahead of formation, distance 7 miles.  2331 On station, changed speed to 8 knots
     </image>
     <image>
       <file>0138.jpg</file>
+      <objectPage>24</objectPage>
       <items>
         <item>
           <date>1943-11-23</date>
@@ -14998,6 +14756,7 @@ speed to 10.5 knots (100 RPM), Patrolling station #3, 5040.&lt;/div&gt;
     </image>
     <image>
       <file>0139.jpg</file>
+      <objectPage>25</objectPage>
       <items>
         <item>
           <date>1943-11-24</date>
@@ -15022,6 +14781,7 @@ Changed speed to 10 knots (95 RPM), ceased patrolling.&lt;/div&gt;
     </image>
     <image>
       <file>0140.jpg</file>
+      <objectPage>26</objectPage>
       <items>
         <item>
           <date>1943-11-25</date>
@@ -15067,9 +14827,11 @@ Island abeam to starboard.  2233 Changed base course to 089(T), (PGC), 085(PSC).
     </image>
     <image>
       <file>0141.jpg</file>
+      <objectPage>27</objectPage>
     </image>
     <image>
       <file>0142.jpg</file>
+      <objectPage>28</objectPage>
       <items>
         <item>
           <date>1943-11-26</date>
@@ -15106,6 +14868,7 @@ auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0143.jpg</file>
+      <objectPage>29</objectPage>
       <items>
         <item>
           <date>1943-11-27</date>
@@ -15126,6 +14889,7 @@ on one hours notice.&lt;/div&gt;
     </image>
     <image>
       <file>0144.jpg</file>
+      <objectPage>30</objectPage>
       <items>
         <item>
           <date>1943-11-28</date>
@@ -15146,6 +14910,7 @@ on one hours notice. &lt;/div&gt;
     </image>
     <image>
       <file>0145.jpg</file>
+      <objectPage>31</objectPage>
       <items>
         <item>
           <date>1943-11-29</date>
@@ -15166,6 +14931,7 @@ on one hours notice. &lt;/div&gt;
     </image>
     <image>
       <file>0146.jpg</file>
+      <objectPage>32</objectPage>
       <items>
         <item>
           <date>1943-11-30</date>
@@ -15192,10 +14958,12 @@ on one hours notice. &lt;/div&gt;
   <date>19430901</date>
   <dateLabel>SEP 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0590/images/0799.jpg</url>
+  <naid>78199242</naid>
   <directory>saufley_images/35_19430901</directory>
   <images>
     <image>
       <file>0799.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-09-01</date>
@@ -15229,6 +14997,7 @@ on one hours notice. &lt;/div&gt;
     </image>
     <image>
       <file>0800.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1943-09-02</date>
@@ -15251,6 +15020,7 @@ under #2 boiler.  Boiler #4 in use for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0801.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-09-03</date>
@@ -15269,6 +15039,7 @@ fathoms of chain to starboard anchor.  Boiler #4 in use for auxiliary purposes.&
     </image>
     <image>
       <file>0802.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-09-04</date>
@@ -15288,6 +15059,7 @@ to starboard anchor.  Boiler #4 in use for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0803.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-09-05</date>
@@ -15307,6 +15079,7 @@ purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0804.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-09-06</date>
@@ -15325,6 +15098,7 @@ chain to the starboard anchor.  Boiler #3 in use for auxiliary purposes.&lt;/div
     </image>
     <image>
       <file>0805.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-09-07</date>
@@ -15354,6 +15128,7 @@ Changed course to 296(T), (PGC), 285 1/2 (PSC).&lt;/div&gt;
     </image>
     <image>
       <file>0806.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1943-09-08</date>
@@ -15396,6 +15171,7 @@ of water, 60 fathoms of chain to the starboard anchor.&lt;/div&gt;
     </image>
     <image>
       <file>0807.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1943-09-09</date>
@@ -15430,6 +15206,7 @@ on various courses.  Changed speed to 10 knots (96 RPM).&lt;/div&gt;
     </image>
     <image>
       <file>0808.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-09-10</date>
@@ -15452,6 +15229,7 @@ from Lunga Point to Koli Point.  1835 Commenced patrolling off Koli Point.&lt;/d
     </image>
     <image>
       <file>0809.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1943-09-11</date>
@@ -15469,6 +15247,7 @@ Screening Task Unit THIRTY TWO POINT FOUR POINT NINE.  Boilers #2 and #3 in use.
     </image>
     <image>
       <file>0810.jpg</file>
+      <objectPage>13</objectPage>
       <items>
         <item>
           <date>1943-09-12</date>
@@ -15486,6 +15265,7 @@ Screening Task Unit THIRTY TWO POINT FOUR POINT NINE.  Boilers #2 and #3 in use.
     </image>
     <image>
       <file>0811.jpg</file>
+      <objectPage>14</objectPage>
       <items>
         <item>
           <date>1943-09-13</date>
@@ -15515,6 +15295,7 @@ quarters.  Set condition II, material condition Baker.&lt;/div&gt;
     </image>
     <image>
       <file>0812.jpg</file>
+      <objectPage>15</objectPage>
       <items>
         <item>
           <date>1943-09-14</date>
@@ -15544,6 +15325,7 @@ in accordance with Plan #17.&lt;/div&gt;
     </image>
     <image>
       <file>0813.jpg</file>
+      <objectPage>16</objectPage>
       <items>
         <item>
           <date>1943-09-15</date>
@@ -15596,6 +15378,7 @@ Latitude 10-57-15 S.&lt;/div&gt;
     </image>
     <image>
       <file>0814.jpg</file>
+      <objectPage>17</objectPage>
       <items>
         <item>
           <date>1943-09-16</date>
@@ -15631,6 +15414,7 @@ Changed base course to 126(T), (PGC), 117(PSC).&lt;/div&gt;
     </image>
     <image>
       <file>0815.jpg</file>
+      <objectPage>18</objectPage>
       <items>
         <item>
           <date>1943-09-17</date>
@@ -15659,6 +15443,7 @@ services from USS WHITNEY.&lt;/div&gt;
     </image>
     <image>
       <file>0816.jpg</file>
+      <objectPage>19</objectPage>
       <items>
         <item>
           <date>1943-09-18</date>
@@ -15677,6 +15462,7 @@ Segond Channel, Espiritu Santo.  Receiving all services from USS WHITNEY.&lt;/di
     </image>
     <image>
       <file>0817.jpg</file>
+      <objectPage>20</objectPage>
       <items>
         <item>
           <date>1943-09-19</date>
@@ -15696,6 +15482,7 @@ and electrical services from USS WHITNEY.  Receiving steam from USS CLAXTON.&lt;
     </image>
     <image>
       <file>0818.jpg</file>
+      <objectPage>21</objectPage>
       <items>
         <item>
           <date>1943-09-20</date>
@@ -15715,6 +15502,7 @@ services from the USS WHITNEY.&lt;/div&gt;
     </image>
     <image>
       <file>0819.jpg</file>
+      <objectPage>22</objectPage>
       <items>
         <item>
           <date>1943-09-21</date>
@@ -15735,6 +15523,7 @@ on board 26,041 gallons standard Navy fuel oil at 60 F.&lt;/div&gt;
     </image>
     <image>
       <file>0820.jpg</file>
+      <objectPage>23</objectPage>
       <items>
         <item>
           <date>1943-09-22</date>
@@ -15754,6 +15543,7 @@ port.  Receiving all services from USS WHITNEY.&lt;/div&gt;
     </image>
     <image>
       <file>0821.jpg</file>
+      <objectPage>24</objectPage>
       <items>
         <item>
           <date>1943-09-23</date>
@@ -15774,6 +15564,7 @@ side.&lt;/div&gt;
     </image>
     <image>
       <file>0822.jpg</file>
+      <objectPage>25</objectPage>
       <items>
         <item>
           <date>1943-09-24</date>
@@ -15797,6 +15588,7 @@ chain to the starboard anchor.  Assumed listening watch.&lt;/div&gt;
     </image>
     <image>
       <file>0823.jpg</file>
+      <objectPage>26</objectPage>
       <items>
         <item>
           <date>1943-09-25</date>
@@ -15816,6 +15608,7 @@ with Task Dog of Harbor Defense Plan.  Boiler #1 in use for auxiliary purposes.&
     </image>
     <image>
       <file>0824.jpg</file>
+      <objectPage>27</objectPage>
       <items>
         <item>
           <date>1943-09-26</date>
@@ -15847,6 +15640,7 @@ Speed 18 knots.  1740 Commenced zigzagging in accordance with plan #11.
     </image>
     <image>
       <file>0825.jpg</file>
+      <objectPage>28</objectPage>
       <items>
         <item>
           <date>1943-09-27</date>
@@ -15869,6 +15663,7 @@ Boilers #1 and #3 in use.&lt;/div&gt;
     </image>
     <image>
       <file>0826.jpg</file>
+      <objectPage>29</objectPage>
       <items>
         <item>
           <date>1943-09-28</date>
@@ -15908,6 +15703,7 @@ fathoms of chain to starboard anchor.&lt;/div&gt;
     </image>
     <image>
       <file>0827.jpg</file>
+      <objectPage>30</objectPage>
       <items>
         <item>
           <date>1943-09-29</date>
@@ -15940,6 +15736,7 @@ fathoms of water with 45 fathoms of chain to starboard anchor.  Main engines on 
     </image>
     <image>
       <file>0828.jpg</file>
+      <objectPage>31</objectPage>
       <items>
         <item>
           <date>1943-09-30</date>
@@ -15985,10 +15782,12 @@ ordered by Officer in Tactical Command.&lt;/div&gt;
   <date>19451101</date>
   <dateLabel>NOV 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_2003_216991/images/0200.jpg</url>
+  <naid>140082785</naid>
   <directory>saufley_images/36_19451101</directory>
   <images>
     <image>
       <file>0200.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-11-01</date>
@@ -16036,6 +15835,7 @@ moored to USS ORVETTA in the Whangpoo River, Shanghai, China.&lt;/p&gt;
     </image>
     <image>
       <file>0201.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-11-12</date>
@@ -16070,6 +15870,7 @@ Okinawa Gunto.&lt;/p&gt;
     </image>
     <image>
       <file>0202.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-11-14</date>
@@ -16128,6 +15929,7 @@ at 1245.&lt;/p&gt;
     </image>
     <image>
       <file>0203.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-11-20</date>
@@ -16177,10 +15979,12 @@ PAUL.)&lt;/div&gt;
   <date>19450501</date>
   <dateLabel>MAY 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1635_201346/images/0539.jpg</url>
+  <naid>140021135</naid>
   <directory>saufley_images/37_19450501</directory>
   <images>
     <image>
       <file>0539.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-05-01</date>
@@ -16217,6 +16021,7 @@ Islands, at 1150.&lt;/div&gt;
     </image>
     <image>
       <file>0540.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-05-03</date>
@@ -16283,6 +16088,7 @@ and 2 YMSs.&lt;/div&gt;
     </image>
     <image>
       <file>0541.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-05-08</date>
@@ -16315,6 +16121,7 @@ Island. (SOPA Rear Admiral ROYAL in USS ROCKY MOUNT).&lt;/div&gt;
     </image>
     <image>
       <file>0542.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-05-10</date>
@@ -16378,6 +16185,7 @@ Sound contact evaluated as non-submarine; rejoined formation.&lt;/div&gt;
     </image>
     <image>
       <file>0543.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1945-05-19</date>
@@ -16440,6 +16248,7 @@ despatch 270053.&lt;/div&gt;
     </image>
     <image>
       <file>0544.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1945-05-30</date>
@@ -16476,10 +16285,12 @@ USS PHILIP at 1543.  (SOPA Rear Admiral ROYAL in USS ROCKY MOUNT).&lt;/div&gt;
   <date>19450401</date>
   <dateLabel>APR 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1593_200938/images/0390.jpg</url>
+  <naid>139999014</naid>
   <directory>saufley_images/38_19450401</directory>
   <images>
     <image>
       <file>0390.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-04-01</date>
@@ -16521,6 +16332,7 @@ during night retirement to the Southward into Celebes Sea.&lt;/p&gt;
     </image>
     <image>
       <file>0391.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-04-03</date>
@@ -16564,6 +16376,7 @@ U.S.S. SAUFLEY and U.S.S. PHILIP screening 2 LSMs, 1 LST and
     </image>
     <image>
       <file>0392.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-04-05</date>
@@ -16636,6 +16449,7 @@ the Eastward at 1904 escorting one LST and 6 LCTs.&lt;/p&gt;
     </image>
     <image>
       <file>0393.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-04-10</date>
@@ -16663,6 +16477,7 @@ Zamboanga escorting LST 459 and LSM 38.&lt;/p&gt;
     </image>
     <image>
       <file>0394.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1945-04-11</date>
@@ -16728,6 +16543,7 @@ Relieved of ready duty at 1200 by U.S.S. PHILIP.&lt;/div&gt;
     </image>
     <image>
       <file>0395.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1945-04-17</date>
@@ -16792,6 +16608,7 @@ U.S.S. POCOMOKE.&lt;/div&gt;
     </image>
     <image>
       <file>0396.jpg</file>
+      <objectPage>7</objectPage>
     </image>
   </images>
 </source>
@@ -16801,10 +16618,12 @@ U.S.S. POCOMOKE.&lt;/div&gt;
   <date>19450301</date>
   <dateLabel>MAR 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1518_200302/images/0424.jpg</url>
+  <naid>139966275</naid>
   <directory>saufley_images/39_19450301</directory>
   <images>
     <image>
       <file>0424.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-03-01</date>
@@ -16848,6 +16667,7 @@ Underway at 1825 to fuel.  Returned to anchorage at 1950.&lt;/p&gt;
     </image>
     <image>
       <file>0425.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-03-03</date>
@@ -16903,6 +16723,7 @@ U.S.S. ROCKY MOUNT).&lt;/div&gt;
     </image>
     <image>
       <file>0426.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-03-09</date>
@@ -16975,6 +16796,7 @@ speed of ten (10) knots.&lt;/p&gt;
     </image>
     <image>
       <file>0427.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-03-12</date>
@@ -17004,6 +16826,7 @@ Zamboanga Peninsula.&lt;/p&gt;
     </image>
     <image>
       <file>0428.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1945-03-13</date>
@@ -17046,6 +16869,7 @@ screening station West of Caldera Point.&lt;/p&gt;
     </image>
     <image>
       <file>0429.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1945-03-15</date>
@@ -17095,6 +16919,7 @@ orders and took station in anti-submarine screen.&lt;/p&gt;
     </image>
     <image>
       <file>0430.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1945-03-17</date>
@@ -17137,6 +16962,7 @@ for Mindoro at 1650.&lt;/div&gt;
     </image>
     <image>
       <file>0431.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1945-03-19</date>
@@ -17193,6 +17019,7 @@ This Task Unit departed Mindoro for Zamboanga at 1208.&lt;/div&gt;
     </image>
     <image>
       <file>0432.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1945-03-23</date>
@@ -17235,6 +17062,7 @@ Afloat and became Commander Task Group SEVENTY SIX POINT TEN.&lt;/p&gt;
     </image>
     <image>
       <file>0433.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1945-03-25</date>
@@ -17293,6 +17121,7 @@ Commander Task Unit SEVENTY SIX POINT TEN POINT TWO despatch
     </image>
     <image>
       <file>0434.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1945-03-30</date>
@@ -17330,10 +17159,12 @@ Island, Sulu Archipelago.&lt;/div&gt;
   <date>19450601</date>
   <dateLabel>JUN 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0003/200279/A_1762/A_1762/images/0184.jpg</url>
+  <naid>101752106</naid>
   <directory>saufley_images/40_19450601</directory>
   <images>
     <image>
       <file>0184.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-06-01</date>
@@ -17379,6 +17210,7 @@ for Brunei Bay, British North Borneo.&lt;/div&gt;
     </image>
     <image>
       <file>0185.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-06-04</date>
@@ -17437,6 +17269,7 @@ Tactical Command.&lt;/p&gt;
     </image>
     <image>
       <file>0186.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-06-08</date>
@@ -17479,6 +17312,7 @@ Command, Commander THOMPSON) and USS SAUFLEY.&lt;/div&gt;
     </image>
     <image>
       <file>0187.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-06-11</date>
@@ -17524,6 +17358,7 @@ USS SAUFLEY.&lt;/div&gt;
     </image>
     <image>
       <file>0188.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1945-06-14</date>
@@ -17570,6 +17405,7 @@ Unit SEVENTY EIGHT POINT ONE POINT FIVE.&lt;/div&gt;
     </image>
     <image>
       <file>0189.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1945-06-16</date>
@@ -17630,6 +17466,7 @@ Halmahera Group.&lt;/p&gt;
     </image>
     <image>
       <file>0190.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1945-06-19</date>
@@ -17670,6 +17507,7 @@ fueled, and anchored at 1017.&lt;/p&gt;
     </image>
     <image>
       <file>0191.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1945-06-22</date>
@@ -17716,6 +17554,7 @@ with this group and anchored at 1745.&lt;/p&gt;
     </image>
     <image>
       <file>0192.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1945-06-25</date>
@@ -17768,6 +17607,7 @@ SEVENTY EIGHT POINT TWO, Rear Admiral NOBLE in USS WASATCH).&lt;/div&gt;
     </image>
     <image>
       <file>0193.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1945-06-29</date>
@@ -17803,10 +17643,12 @@ SEVENTY EIGHT POINT TWO, Rear Admiral NOBLE in USS WASATCH).&lt;/div&gt;
   <date>19450101</date>
   <dateLabel>JAN 1945</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1398_200139/images/0612.jpg</url>
+  <naid>139853281</naid>
   <directory>saufley_images/41_19450101</directory>
   <images>
     <image>
       <file>0612.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1945-01-01</date>
@@ -17860,6 +17702,7 @@ enemy submarines.&lt;/div&gt;
     </image>
     <image>
       <file>0613.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1945-01-04</date>
@@ -17902,6 +17745,7 @@ Commander Task Group SEVENTY NINE POINT TWO.&lt;/div&gt;
     </image>
     <image>
       <file>0614.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1945-01-06</date>
@@ -17960,6 +17804,7 @@ area clear of enemy planes.  (See SAUFLEY Action Report serial
     </image>
     <image>
       <file>0615.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1945-01-09</date>
@@ -18016,6 +17861,7 @@ and disappeared.&lt;/div&gt;
     </image>
     <image>
       <file>0616.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1945-01-12</date>
@@ -18056,6 +17902,7 @@ one survivor from the sea at 0840.&lt;/div&gt;
     </image>
     <image>
       <file>0617.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1945-01-14</date>
@@ -18130,6 +17977,7 @@ Morotai Island.&lt;/div&gt;
     </image>
     <image>
       <file>0618.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1945-01-19</date>
@@ -18182,6 +18030,7 @@ to anchorage at 1857.&lt;/div&gt;
     </image>
     <image>
       <file>0619.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1945-01-22</date>
@@ -18223,6 +18072,7 @@ despatch 242228 of January.&lt;/div&gt;
     </image>
     <image>
       <file>0620.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1945-01-27</date>
@@ -18297,6 +18147,7 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
     </image>
     <image>
       <file>0621.jpg</file>
+      <objectPage>10</objectPage>
     </image>
   </images>
 </source>
@@ -18306,10 +18157,12 @@ SEVENTY EIGHT POINT TWO - Rear Admiral FECHTELER) and USS CONYNGHAM.&lt;/div&gt;
   <date>19441201</date>
   <dateLabel>DEC 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1360_200106/images/0460.jpg</url>
+  <naid>139820334</naid>
   <directory>saufley_images/42_19441201</directory>
   <images>
     <image>
       <file>0460.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-12-01</date>
@@ -18362,6 +18215,7 @@ in Tactical Command) and USS AULICK.&lt;/p&gt;
     </image>
     <image>
       <file>0461.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1944-12-03</date>
@@ -18415,6 +18269,7 @@ determine battle damage repairs required.&lt;/div&gt;
     </image>
     <image>
       <file>0462.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1944-12-07</date>
@@ -18481,6 +18336,7 @@ Officer Present Afloat Commander Task Force SEVENTY NINE in USS MOUNT OLYMPUS.&l
     </image>
     <image>
       <file>0463.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1944-12-23</date>
@@ -18547,6 +18403,7 @@ Manus Island.&lt;/div&gt;
     </image>
     <image>
       <file>0464.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1944-12-29</date>
@@ -18596,10 +18453,12 @@ proceeded out of harbor enroute to Humboldt Bay, Hollandia.&lt;/div&gt;
   <date>19441101</date>
   <dateLabel>NOV 1944</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1308_198883/images/0141.jpg</url>
+  <naid>139772008</naid>
   <directory>saufley_images/43_19441101</directory>
   <images>
     <image>
       <file>0141.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1944-11-01</date>
@@ -18657,6 +18516,7 @@ and USS SAUFLEY detached and proceeded into Pearl Harbor, T. H.&lt;/div&gt;
     </image>
     <image>
       <file>0142.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1944-11-05</date>
@@ -18705,6 +18565,7 @@ FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
     </image>
     <image>
       <file>0143.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1944-11-09</date>
@@ -18765,6 +18626,7 @@ FIVE from Pearl Harbor, T. H. to Ulithi, Caroline Islands. At
     </image>
     <image>
       <file>0144.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1944-11-15</date>
@@ -18814,6 +18676,7 @@ Islands.&lt;/div&gt;
     </image>
     <image>
       <file>0145.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1944-11-19</date>
@@ -18860,6 +18723,7 @@ day caused by unidentified aircraft in vicinity.&lt;/div&gt;
     </image>
     <image>
       <file>0146.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1944-11-22</date>
@@ -18914,6 +18778,7 @@ SAUFLEY action report serial 0560 of 9 December 1944.&lt;/div&gt;
     </image>
     <image>
       <file>0147.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1944-11-25</date>
@@ -18980,6 +18845,7 @@ Leyte Island for shore bombardment and anti-shipping sweep. At
     </image>
     <image>
       <file>0148.jpg</file>
+      <objectPage>8</objectPage>
       <items>
         <item>
           <date>1944-11-28</date>
@@ -19018,6 +18884,7 @@ aircraft in the area.&lt;/p&gt;
     </image>
     <image>
       <file>0149.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1944-11-29</date>
@@ -19070,344 +18937,7 @@ screen.&lt;/div&gt;
     </image>
     <image>
       <file>0150.jpg</file>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep Of Act During period of 8/16-19/43</name>
-  <type>After Action</type>
-  <date>19430816</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0516/images/0961.jpg</url>
-  <directory>saufley_images/44_19430816</directory>
-  <images>
-    <image>
-      <file>0961.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0962.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0963.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Bombardment of Munda, 7/12/43 with Task Force 19</name>
-  <type>After Action</type>
-  <date>19430712</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0439/A_0439/images/1353.jpg</url>
-  <directory>saufley_images/45_19430712</directory>
-  <images>
-    <image>
-      <file>1353.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1357a.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Action Report, initial landing on Treasury Is, 10/27/43</name>
-  <type>After Action</type>
-  <date>19431027</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0006/16461cc8-9d06-4795-8712-ac5bb695ba85/export_WWII_WarDiaries_0643_170814/images/0873.jpg</url>
-  <directory>saufley_images/46_19431027</directory>
-  <images>
-    <image>
-      <file>0873.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0874.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - A/S Act Rep, 9/15/43, Occup Of Vella Lavella</name>
-  <type>After Action</type>
-  <date>19430915</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0006/5fefb150-ba94-4390-ba5d-11772a17d6bd/export_WWII_WarDiaries_0548_169286/images/0785.jpg</url>
-  <directory>saufley_images/47_19430915</directory>
-  <images>
-    <image>
-      <file>0785.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0786.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0787.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0788.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0789.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0790.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0791.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0792.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0793.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0794.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0795.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0796.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0797.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0798.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - AA Act Rep, 11/17/43, Empress Augusta Bay Area</name>
-  <type>After Action</type>
-  <date>19431117</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0005/fd546055-827e-4253-8894-a2864567fb17/export_WWII_WarDiaries_0679_170032/images/0960.jpg</url>
-  <directory>saufley_images/48_19431117</directory>
-  <images>
-    <image>
-      <file>0960.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0961.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0962.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
+      <objectPage>10</objectPage>
     </image>
   </images>
 </source>
@@ -19417,10 +18947,12 @@ screen.&lt;/div&gt;
   <date>19430701</date>
   <dateLabel>JUL 1943</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0005/80dd94bc-ec17-4ffe-a5a3-7613491dac10/export_WWII_WarDiaries_0463_167650/images/0481.jpg</url>
+  <naid>134302284</naid>
   <directory>saufley_images/49_19430701</directory>
   <images>
     <image>
       <file>0481.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1943-07-01</date>
@@ -19454,6 +18986,7 @@ and USS RENSHAW in screening position 45 on port bow of the leading cruiser
     </image>
     <image>
       <file>0482.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1943-07-02</date>
@@ -19488,6 +19021,7 @@ Speed 17 knots.  1700 Ceased zigzagging.  1732 Commenced zigzagging on plan 12.
     </image>
     <image>
       <file>0483.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1943-07-03</date>
@@ -19525,6 +19059,7 @@ screening station to assume station for exercise.&lt;/div&gt;
     </image>
     <image>
       <file>0484.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1943-07-04</date>
@@ -19556,6 +19091,7 @@ on plan #10.  1930 Ceased zigzagging.&lt;/div&gt;
     </image>
     <image>
       <file>0485.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1943-07-05</date>
@@ -19599,6 +19135,7 @@ knots (222 RPM).  2215 Secured boiler #1.  2225 Secured boiler #4.&lt;/div&gt;
     </image>
     <image>
       <file>0486.jpg</file>
+      <objectPage>6</objectPage>
       <items>
         <item>
           <date>1943-07-06</date>
@@ -19640,6 +19177,7 @@ take station 4 in task Force NINETEEN screen.  1817 Changed speed to 27 knots.
     </image>
     <image>
       <file>0487.jpg</file>
+      <objectPage>7</objectPage>
       <items>
         <item>
           <date>1943-07-07</date>
@@ -19692,9 +19230,11 @@ battle formation.&lt;/div&gt;
     </image>
     <image>
       <file>0488.jpg</file>
+      <objectPage>8</objectPage>
     </image>
     <image>
       <file>0489.jpg</file>
+      <objectPage>9</objectPage>
       <items>
         <item>
           <date>1943-07-08</date>
@@ -19734,6 +19274,7 @@ quarters.&lt;/div&gt;
     </image>
     <image>
       <file>0490.jpg</file>
+      <objectPage>10</objectPage>
       <items>
         <item>
           <date>1943-07-08</date>
@@ -19777,6 +19318,7 @@ about three hundred (300) feet.&lt;/p&gt;
     </image>
     <image>
       <file>0491.jpg</file>
+      <objectPage>11</objectPage>
       <items>
         <item>
           <date>1943-07-08</date>
@@ -19827,6 +19369,7 @@ and accordingly shallow depth settings are required.&lt;/p&gt;
     </image>
     <image>
       <file>0492.jpg</file>
+      <objectPage>12</objectPage>
       <items>
         <item>
           <date>1943-07-08</date>
@@ -19880,6 +19423,7 @@ of the early salvos.&lt;/p&gt;
     </image>
     <image>
       <file>0493.jpg</file>
+      <objectPage>13</objectPage>
       <items>
         <item>
           <date>1943-07-08</date>
@@ -19895,6 +19439,7 @@ did not echo range until after the submarine submerged.&lt;/p&gt;
     </image>
     <image>
       <file>0494.jpg</file>
+      <objectPage>14</objectPage>
       <items>
         <item>
           <date>1943-07-08</date>
@@ -19932,6 +19477,7 @@ CIC commenced tracking.&lt;/div&gt;
     </image>
     <image>
       <file>0495.jpg</file>
+      <objectPage>15</objectPage>
       <items>
         <item>
           <date>1943-07-08</date>
@@ -19964,6 +19510,7 @@ yards.  No other echoes could be obtained however.&lt;/div&gt;
     </image>
     <image>
       <file>0496.jpg</file>
+      <objectPage>16</objectPage>
       <items>
         <item>
           <date>1943-07-09</date>
@@ -19991,6 +19538,7 @@ of chain to port anchor in 10 fathoms of water.&lt;/div&gt;
     </image>
     <image>
       <file>0497.jpg</file>
+      <objectPage>17</objectPage>
       <items>
         <item>
           <date>1943-07-10</date>
@@ -20019,6 +19567,7 @@ speed 26 knots.  1820 Changed speed to 20 knots.  1831 Deployed into
     </image>
     <image>
       <file>0498.jpg</file>
+      <objectPage>18</objectPage>
       <items>
         <item>
           <date>1943-07-11</date>
@@ -20068,6 +19617,7 @@ at general quarters.&lt;/div&gt;
     </image>
     <image>
       <file>0499.jpg</file>
+      <objectPage>19</objectPage>
       <items>
         <item>
           <date>1943-07-12</date>
@@ -20121,9 +19671,11 @@ accordance with plan #38.  1438 Ceased zigzagging.  1440 Changed course to 121(T
     </image>
     <image>
       <file>0500.jpg</file>
+      <objectPage>20</objectPage>
     </image>
     <image>
       <file>0501.jpg</file>
+      <objectPage>21</objectPage>
       <items>
         <item>
           <date>1943-07-13</date>
@@ -20159,6 +19711,7 @@ Changed course to 320(T), 320(PSG), 317(PSC).  Changed speed to 20 knots (201 RP
     </image>
     <image>
       <file>0502.jpg</file>
+      <objectPage>22</objectPage>
       <items>
         <item>
           <date>1943-07-14</date>
@@ -20204,6 +19757,7 @@ AA common - no casualties.&lt;/div&gt;
     </image>
     <image>
       <file>0503.jpg</file>
+      <objectPage>23</objectPage>
       <items>
         <item>
           <date>1943-07-15</date>
@@ -20247,6 +19801,7 @@ bearings, Point George 304(T), 304(PGC), 296(PSC), Point King 039 1/2 (T), 039 1
     </image>
     <image>
       <file>0504.jpg</file>
+      <objectPage>24</objectPage>
       <items>
         <item>
           <date>1943-07-16</date>
@@ -20267,6 +19822,7 @@ quarters.  Returned ship to half hours notice for getting underway.&lt;/div&gt;
     </image>
     <image>
       <file>0505.jpg</file>
+      <objectPage>25</objectPage>
       <items>
         <item>
           <date>1943-07-17</date>
@@ -20305,6 +19861,7 @@ and USS LANG took station on starboard beam.  1806 Changed course to 302(T), 302
     </image>
     <image>
       <file>0506.jpg</file>
+      <objectPage>26</objectPage>
       <items>
         <item>
           <date>1943-07-18</date>
@@ -20353,6 +19910,7 @@ Changed course to 102(T), 102(PGC), 096 1/2(PSC).  2313 Changed course to 121 1/
     </image>
     <image>
       <file>0507.jpg</file>
+      <objectPage>27</objectPage>
       <items>
         <item>
           <date>1943-07-19</date>
@@ -20378,6 +19936,7 @@ from general quarters, set condition II, material condition baker.&lt;/div&gt;
     </image>
     <image>
       <file>0508.jpg</file>
+      <objectPage>28</objectPage>
       <items>
         <item>
           <date>1943-07-20</date>
@@ -20419,6 +19978,7 @@ Espiritu Harbor.  2350 Passed through submarine nets.&lt;/div&gt;
     </image>
     <image>
       <file>0509.jpg</file>
+      <objectPage>29</objectPage>
       <items>
         <item>
           <date>1943-07-21</date>
@@ -20460,6 +20020,7 @@ Longitude 163-00-00 E.&lt;/div&gt;
     </image>
     <image>
       <file>0510.jpg</file>
+      <objectPage>30</objectPage>
       <items>
         <item>
           <date>1943-07-22</date>
@@ -20505,6 +20066,7 @@ with plan #10.  2000 Position:  Latitude 13-20-00 E., Longitude 160-00-00.&lt;/d
     </image>
     <image>
       <file>0511.jpg</file>
+      <objectPage>31</objectPage>
       <items>
         <item>
           <date>1943-07-23</date>
@@ -20544,6 +20106,7 @@ speeds to new berth.  1910 Moored to starboard side of USS RENSHAW (DD499), bert
     </image>
     <image>
       <file>0512.jpg</file>
+      <objectPage>32</objectPage>
       <items>
         <item>
           <date>1943-07-24</date>
@@ -20563,6 +20126,7 @@ purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0513.jpg</file>
+      <objectPage>33</objectPage>
       <items>
         <item>
           <date>1943-07-25</date>
@@ -20581,6 +20145,7 @@ New Hebrides Islands.  Boilers #1 steaming for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0514.jpg</file>
+      <objectPage>34</objectPage>
       <items>
         <item>
           <date>1943-07-26</date>
@@ -20599,6 +20164,7 @@ New Hebrides Islands.  Boiler #1 steaming for auxiliary purposes.&lt;/div&gt;
     </image>
     <image>
       <file>0515.jpg</file>
+      <objectPage>35</objectPage>
       <items>
         <item>
           <date>1943-07-27</date>
@@ -20619,6 +20185,7 @@ aft 13'8".  0845 Completed fueling, Draft forward 12'4", aft 14'1".  Received
     </image>
     <image>
       <file>0516.jpg</file>
+      <objectPage>36</objectPage>
       <items>
         <item>
           <date>1943-07-28</date>
@@ -20653,6 +20220,7 @@ accordance with plan #38.&lt;/div&gt;
     </image>
     <image>
       <file>0517.jpg</file>
+      <objectPage>37</objectPage>
       <items>
         <item>
           <date>1943-07-29</date>
@@ -20700,6 +20268,7 @@ Changed speed to 18 knots.  1525 Commenced zigzagging in accordance with plan #1
     </image>
     <image>
       <file>0518.jpg</file>
+      <objectPage>38</objectPage>
       <items>
         <item>
           <date>1943-07-30</date>
@@ -20737,6 +20306,7 @@ Longitude 159-42-00 E.&lt;/div&gt;
     </image>
     <image>
       <file>0519.jpg</file>
+      <objectPage>39</objectPage>
       <items>
         <item>
           <date>1943-07-31</date>
@@ -20777,61 +20347,17 @@ under #1 boiler.  Boiler #3 in use for auxiliary purposes.&lt;/div&gt;
   </images>
 </source>
 <source>
-  <name>USS SAUFLEY - Act Rep, Surface &amp; Air, off Kolombangara Is K 7/18/43</name>
-  <type>After Action</type>
-  <date>19430718</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0005/80dd94bc-ec17-4ffe-a5a3-7613491dac10/export_WWII_WarDiaries_0437_167415/images/0004.jpg</url>
-  <directory>saufley_images/50_19430718</directory>
-  <images>
-    <image>
-      <file>0004.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0005.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0006.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
   <name>USS SAUFLEY - War Diary, 8/29/42 to 11/30/42</name>
   <type>War Diary</type>
   <date>19420829</date>
   <dateLabel>AUG-NOV 1942</dateLabel>
   <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1121/images/0174.jpg</url>
+  <naid>78599654</naid>
   <directory>saufley_images/51_19420829</directory>
   <images>
     <image>
       <file>0174.jpg</file>
+      <objectPage>1</objectPage>
       <items>
         <item>
           <date>1942-08-29</date>
@@ -20896,6 +20422,7 @@ side the dock at 35th Street, Brooklyn.&lt;/div&gt;
     </image>
     <image>
       <file>0175.jpg</file>
+      <objectPage>2</objectPage>
       <items>
         <item>
           <date>1942-09-27</date>
@@ -20980,6 +20507,7 @@ harbor for training exercises, returning to anchor that night.&lt;/div&gt;
     </image>
     <image>
       <file>0176.jpg</file>
+      <objectPage>3</objectPage>
       <items>
         <item>
           <date>1942-10-08</date>
@@ -21064,6 +20592,7 @@ Argentia, Newfoundland, shortly before noon, and fueled.&lt;/div&gt;
     </image>
     <image>
       <file>0177.jpg</file>
+      <objectPage>4</objectPage>
       <items>
         <item>
           <date>1942-10-18</date>
@@ -21164,6 +20693,7 @@ Naval Operating Base, Norfolk and moored to the dock.&lt;/div&gt;
     </image>
     <image>
       <file>0178.jpg</file>
+      <objectPage>5</objectPage>
       <items>
         <item>
           <date>1942-11-05</date>
@@ -21256,2066 +20786,6 @@ fueled.&lt;/div&gt;
 &lt;div&gt;November 30. The formation got underway and set course for
 Noumea, New Caledonia.&lt;/div&gt;
           </description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep of opers in support of the assault landings at Balipapan, Borneo, 7/1-19/45</name>
-  <type>After Action</type>
-  <date>19450701</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0001/A_Splicing_Reel_03/A_Splicing_Reel_03/images/0009.jpg</url>
-  <directory>saufley_images/52_19450701</directory>
-  <images>
-    <image>
-      <file>0009.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0010.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0011.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0012.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep of AA Act in Leyte Gulf, Philippines on 11/24/44</name>
-  <type>After Action</type>
-  <date>19441124</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1291/images/0711.jpg</url>
-  <directory>saufley_images/53_19441124</directory>
-  <images>
-    <image>
-      <file>0711.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0712.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0713.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep of AA Act in Leyte Gulf, Philippines on 11/27/44</name>
-  <type>After Action</type>
-  <date>19441127</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1291/images/0716.jpg</url>
-  <directory>saufley_images/54_19441127</directory>
-  <images>
-    <image>
-      <file>0716.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0717.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0718.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0719.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0720.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0721.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep of AA Act in Leyte Gulf, Philippines on 11/29/44</name>
-  <type>After Action</type>
-  <date>19441129</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1291/images/0724.jpg</url>
-  <directory>saufley_images/55_19441129</directory>
-  <images>
-    <image>
-      <file>0724.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0725.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0726.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0727.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0728.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0729.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0730.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0731.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0732.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep of AA Act in Surigao Straits, Phillipines on 11/24/44</name>
-  <type>After Action</type>
-  <date>19441124</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1291/images/0736.jpg</url>
-  <directory>saufley_images/56_19441124</directory>
-  <images>
-    <image>
-      <file>0736.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0737.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0738.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep of Bombardments &amp; Harassing Fire Missions Against Tinian Is During the Period 7/16-20/44, Marianas</name>
-  <type>After Action</type>
-  <date>19440716</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1141/A_1141/images/1012.jpg</url>
-  <directory>saufley_images/57_19440716</directory>
-  <images>
-    <image>
-      <file>1012.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1013.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1014.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1015.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1016.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1017.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1018.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1019.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1020.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1021.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1022.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1023.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1024.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1025.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1026.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1027.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1028.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>1029.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Report of Bombardments and Starshell Illumination of Tinian Island, Marianas - Period 7/27/44 to 8/5/44</name>
-  <type>After Action</type>
-  <date>19440727</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1131/A_1131/images/0969.jpg</url>
-  <directory>saufley_images/58_19440727</directory>
-  <images>
-    <image>
-      <file>0969.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0970.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0971.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0972.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0973.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0974.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0975.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0976.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0977.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0978.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0979.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0980.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0981.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0982.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0983.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0984.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Report of Operations, Period 6/11/44 to 7/9/44-Invasion of Saipan Island, Marianas</name>
-  <type>After Action</type>
-  <date>19440611</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1085/images/0876.jpg</url>
-  <directory>saufley_images/59_19440611</directory>
-  <images>
-    <image>
-      <file>0876.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0877.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0878.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0879.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0880.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0881.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0882.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0883.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0884.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0885.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0886.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0887.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0888.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0889.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0890.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0891.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0892.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - AA Act Reps, 6/17,18,19 &amp; 26/44, off Saipan Island, Marianas</name>
-  <type>After Action</type>
-  <date>19440617</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_1063/images/0706.jpg</url>
-  <directory>saufley_images/60_19440617</directory>
-  <images>
-    <image>
-      <file>0706.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0707.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0708.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0709.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0710.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0711.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0712.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0713.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0714.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0715.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0716.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0717.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0718.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Report of Bombardment of New Ireland Areas, Night of 2/29/44-3/1/44</name>
-  <type>After Action</type>
-  <date>19440229</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0000/A_0854/A_0854/images/0827.jpg</url>
-  <directory>saufley_images/61_19440229</directory>
-  <images>
-    <image>
-      <file>0827.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0828.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0829.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0830.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0831.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0832.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0833.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0834.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep of opers in support of the assault landings at Balipapan, Borneo, 7/1-19/45</name>
-  <type>After Action</type>
-  <date>19450701</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0003/200279/A_1764/A_1764/images/0902.jpg</url>
-  <directory>saufley_images/62_19450701</directory>
-  <images>
-    <image>
-      <file>0902.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0903.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0904.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0905.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0906.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0907.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0908.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0909.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0910.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0911.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0912.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0913.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0914.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0915.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0916.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0917.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0918.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0919.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0920.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0921.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0922.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0923.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0924.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0925.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0926.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0927.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0928.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0929.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0930.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0931.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0932.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0933.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0934.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0935.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0936.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0937.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0938.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0939.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0940.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0941.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Rep of AA acts Off West coast of Luzon Is, Philippines on 1/8, 10 &amp; 12/45</name>
-  <type>After Action</type>
-  <date>19450108</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1362_200123/images/0065.jpg</url>
-  <directory>saufley_images/63_19450108</directory>
-  <images>
-    <image>
-      <file>0065.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0066.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0067.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0068.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0069.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0070.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0071.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0072.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0073.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0074.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0075.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0076.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0077.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Summary Rep of enemy air attacks off Green Island, night of 2/14-15/44</name>
-  <type>After Action</type>
-  <date>19440214</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0002/A_1830/A_1830/images/0711.jpg</url>
-  <directory>saufley_images/64_19440214</directory>
-  <images>
-    <image>
-      <file>0711.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0712.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0713.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-  </images>
-</source>
-<source>
-  <name>USS SAUFLEY - Report of action &amp; destruction of Jap "Q" boat &amp; bombardment of San Diego Point, Nasugbu Bay, Luzon Island, Philippines on 2/1/45</name>
-  <type>After Action</type>
-  <date>19450201</date>
-  <dateLabel></dateLabel>
-  <url>https://catalog.archives.gov/catalogmedia/lz/microfilm-publications/WWII_WarDiaries/0007/export_WWII_WarDiaries_1408_200161/images/0566.jpg</url>
-  <directory>saufley_images/65_19450201</directory>
-  <images>
-    <image>
-      <file>0566.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0567.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0568.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0569.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0570.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0571.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
-        </item>
-      </items>
-    </image>
-    <image>
-      <file>0572.jpg</file>
-      <items>
-        <item>
-          <date></date>
-
-
-
-          <description></description>
         </item>
       </items>
     </image>

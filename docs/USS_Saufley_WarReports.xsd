@@ -16,6 +16,7 @@
                 <xsd:element name="date" minOccurs="1" maxOccurs="1" type="xsd:int"/>
                 <xsd:element name="dateLabel" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                 <xsd:element name="url" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+                <xsd:element name="naid" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                 <xsd:element name="directory" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                 <xsd:element name="images" minOccurs="1" type="_images"/>
             </xsd:all>
@@ -36,6 +37,7 @@
     <xsd:complexType name="_image">
       <xsd:all>
         <xsd:element name="file" minOccurs="1" maxOccurs="1" type="xsd:string"/>
+        <xsd:element name="objectPage" minOccurs="1" maxOccurs="1" type="xsd:integer"/>
         <xsd:element name="items" minOccurs="0" maxOccurs="1" type="_items"/>
       </xsd:all>
     </xsd:complexType>
