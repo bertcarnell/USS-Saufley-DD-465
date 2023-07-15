@@ -2,92 +2,94 @@ if (FALSE) {
   install.packages("paws")
 }
 
-################################################################################
-## Get Data
-
-require(paws)
-
-# secrets
-source("~/bertcarnell_aws_info.R")
-
-s3bucket <- "saufley-war-reports"
-
-# https://docs.aws.amazon.com/textract/latest/dg/API_Reference.html
-
-textract <- paws::textract()
-s3 <- paws::s3()
-
-s3files <- s3$list_objects(Bucket = s3bucket)
-s3files <- sapply(s3files$Contents, function(x) x$Key, USE.NAMES = FALSE)
-
-s3files_groups <- sapply(s3files, function(x) gsub("[/].*", "", x), USE.NAMES = FALSE)
-
-# start all the textract text extractions and save the jobids
-
-s3files_jobids <- character(length(s3files))
-
-for (i in seq_along(s3files))
-{
-  cat(paste("\nTrying", i, s3files[i]))
+if (FALSE) {
+  ################################################################################
+  ## Get Data
   
-  # catch connection errors and loop until a successful submission
-  resp <- NULL
-  while (is.null(resp))
+  require(paws)
+  
+  # secrets
+  source("~/bertcarnell_aws_info.R")
+  
+  s3bucket <- "saufley-war-reports"
+  
+  # https://docs.aws.amazon.com/textract/latest/dg/API_Reference.html
+  
+  textract <- paws::textract()
+  s3 <- paws::s3()
+  
+  s3files <- s3$list_objects(Bucket = s3bucket)
+  s3files <- sapply(s3files$Contents, function(x) x$Key, USE.NAMES = FALSE)
+  
+  s3files_groups <- sapply(s3files, function(x) gsub("[/].*", "", x), USE.NAMES = FALSE)
+  
+  # start all the textract text extractions and save the jobids
+  
+  s3files_jobids <- character(length(s3files))
+  
+  for (i in seq_along(s3files))
   {
-    tryCatch({
-    resp <- textract$start_document_text_detection(
-      DocumentLocation = list(
-        S3Object = list(Bucket = s3bucket, Name = s3files[i])
-      ))
-    }, error = function(e) print(e))
-    Sys.sleep(1)
-  }
-  s3files_jobids[i] <- resp$JobId
-}
-
-# get results from all jobs
-
-stopifnot(all(!is.na(s3files_jobids)))
-
-results <- vector("list", length = length(s3files))
-for (i in seq_along(s3files))
-{
-  cat(paste("\nTrying", i, s3files[i]))
-  bdone <- FALSE
-  while(!bdone)
-  {
-    while (is.null(results[[i]]))
+    cat(paste("\nTrying", i, s3files[i]))
+    
+    # catch connection errors and loop until a successful submission
+    resp <- NULL
+    while (is.null(resp))
     {
       tryCatch({
-        results[[i]] <- textract$get_document_text_detection(
-          JobId = s3files_jobids[i]
-      )}, error = function(e) print(e))
+      resp <- textract$start_document_text_detection(
+        DocumentLocation = list(
+          S3Object = list(Bucket = s3bucket, Name = s3files[i])
+        ))
+      }, error = function(e) print(e))
       Sys.sleep(1)
     }
-    if (results[[i]]$JobStatus != "IN_PROGRESS")
+    s3files_jobids[i] <- resp$JobId
+  }
+  
+  # get results from all jobs
+  
+  stopifnot(all(!is.na(s3files_jobids)))
+  
+  results <- vector("list", length = length(s3files))
+  for (i in seq_along(s3files))
+  {
+    cat(paste("\nTrying", i, s3files[i]))
+    bdone <- FALSE
+    while(!bdone)
     {
-      bdone <- TRUE
+      while (is.null(results[[i]]))
+      {
+        tryCatch({
+          results[[i]] <- textract$get_document_text_detection(
+            JobId = s3files_jobids[i]
+        )}, error = function(e) print(e))
+        Sys.sleep(1)
+      }
+      if (results[[i]]$JobStatus != "IN_PROGRESS")
+      {
+        bdone <- TRUE
+      }
+      Sys.sleep(1)
     }
-    Sys.sleep(1)
+    # check that there are not multiple parts
+    if (length(results[[i]]$NextToken) != 0) {
+      cat(paste("\n\tMulti-part in ", i, s3files[i]))
+    }
   }
-  # check that there are not multiple parts
-  if (length(results[[i]]$NextToken) != 0) {
-    cat(paste("\n\tMulti-part in ", i, s3files[i]))
-  }
+  
+  stopifnot(all(!is.null(results)))
+  
+  # 58 failed because it is a text file
+  stopifnot(all(sapply(results, function(x) x$JobStatus)[-58] == "SUCCEEDED"))
+  
+  stopifnot(all(sapply(results[-58], function(x) length(x$Warnings) == 0)))
+  stopifnot(all(sapply(results[-58], function(x) length(x$StatusMessage) == 0)))
+  stopifnot(all(sapply(results[-58], function(x) length(x$NextToken) == 0)))
+  stopifnot(all(sapply(results[-58], function(x) x$DocumentMetadata$Pages) == 1))
+  
+  save(s3files, s3files_groups, s3files_jobids,
+       results, file = "ActionReports.Rdata")
 }
-
-stopifnot(all(!is.null(results)))
-
-# 58 failed because it is a text file
-stopifnot(all(sapply(results, function(x) x$JobStatus)[-58] == "SUCCEEDED"))
-
-stopifnot(all(sapply(results[-58], function(x) length(x$Warnings) == 0)))
-stopifnot(all(sapply(results[-58], function(x) length(x$StatusMessage) == 0)))
-stopifnot(all(sapply(results[-58], function(x) length(x$NextToken) == 0)))
-stopifnot(all(sapply(results[-58], function(x) x$DocumentMetadata$Pages) == 1))
-
-save(s3files, s3files_groups, s3files_jobids,
-     results, file = "ActionReports.Rdata")
 
 ################################################################################
 
@@ -202,5 +204,6 @@ writeLines(output, con = file.path("src", "output", "AfterAction.txt"))
 
 writeLines(unlist(results_groups[[which(sapply(results_groups, function(x) x$Subject == "War Diary."))]]$Text),
            file.path("src", "output", "WarDiary.txt"))
+
 
 

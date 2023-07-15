@@ -30,6 +30,19 @@ X[grep("[.][ ][ ][a-z]", X)]
 ##### Check for non-capitalized words after times (except for yds and yards)
 X[grep("[.][ ]+[0-9][0-9][0-9][0-9][ ][a-xz]", X)]
 
+# check that the objectPages are sequential
+X <- xml2::read_xml(file.path("docs", "USS_Saufley_WarReports.xml"))
+temp <- as.integer(xml2::xml_text(xml2::xml_find_all(X, ".//source/images/image/objectPage")))
+temp2 <- xml2::xml_text(xml2::xml_find_all(X, ".//source/images/image/file"))
+for (i in 2:length(temp))
+{
+  if (temp[i] != temp[i-1] + 1 & temp[i] != 1)
+  {
+    print(temp2[(i-1):(i+1)])
+    stop(paste("error", i))
+  }
+}
+
 ### Create Maps
 source("src/War Report Utilities.R")
 source("src/create_saufley_maps.R")
