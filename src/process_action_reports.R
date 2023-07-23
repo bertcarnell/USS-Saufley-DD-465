@@ -79,16 +79,13 @@ if (FALSE) {
   
   stopifnot(all(!is.null(results)))
   
-  # 58 failed because it is a text file
-  stopifnot(all(sapply(results, function(x) x$JobStatus)[-58] == "SUCCEEDED"))
-  
-  stopifnot(all(sapply(results[-58], function(x) length(x$Warnings) == 0)))
-  stopifnot(all(sapply(results[-58], function(x) length(x$StatusMessage) == 0)))
-  stopifnot(all(sapply(results[-58], function(x) length(x$NextToken) == 0)))
-  stopifnot(all(sapply(results[-58], function(x) x$DocumentMetadata$Pages) == 1))
+  stopifnot(all(sapply(results, function(x) length(x$Warnings) == 0)))
+  stopifnot(all(sapply(results, function(x) length(x$StatusMessage) == 0)))
+  stopifnot(all(sapply(results, function(x) length(x$NextToken) == 0)))
+  stopifnot(all(sapply(results, function(x) x$DocumentMetadata$Pages) == 1))
   
   save(s3files, s3files_groups, s3files_jobids,
-       results, file = "ActionReports.Rdata")
+       results, file = "ActionReports2.Rdata")
 }
 
 ################################################################################
@@ -105,24 +102,8 @@ get_lines <- function(textract_result) {
 }
 
 add_div_to_begin_end <- function(x) {
-  x[1] <- paste0("&lt;div&gt;", x[1])
-  x[length(x)] <- paste0(x[length(x)], "&lt;/div&gt;")
-  return(x)
-}
-
-add_div_to_parts <- function(x) {
-  ind <- grep("^[0-9]+[.]$", trimws(x))
-  if (length(ind) > 0) x[ind] <- paste0("&lt;/div&gt;&lt;div&gt;", x[ind])
-  ind <- grep("^[A-Z]+[.]$", trimws(x))
-  if (length(ind) > 0) x[ind] <- paste0("&lt;/div&gt;&lt;div&gt;", x[ind])
-  ind <- grep("^PART [IXV]+", trimws(x))
-  if (length(ind) > 0) x[ind] <- paste0("&lt;/div&gt;&lt;div&gt;", x[ind])
-  return(x)
-}
-
-add_div_to_times <- function(x) {
-  ind <- grep("^[0-2][0-9][0-5][0-9]$", trimws(x))
-  if (length(ind) > 0) x[ind] <- paste0("&lt;/div&gt;&lt;div&gt;", x[ind])
+  x[1] <- paste0("<div>", x[1])
+  x[length(x)] <- paste0(x[length(x)], "</div>")
   return(x)
 }
 
@@ -134,14 +115,28 @@ s3files_short <- sapply(s3files, function(x) {
 
 results_lines <- lapply(results, get_lines)
 
+results_lines2 <- lapply(results_lines, function(x) {
+  c(x, "", "", "", "", "")
+})
+
+if (!dir.exists(file.path("src", "output"))) 
+  dir.create(file.path("src", "output"))
+
+writeLines(unlist(results_lines2),
+           file.path("src", "output", "AfterAction2.txt"))
+
+
+
+
+
+
+
 # group up the results_lines and process in groups
 
 ugroups <- unique(s3files_groups)
 results_groups <- vector("list", length(ugroups))
 for (i in seq_along(ugroups))
 {
-  i <- 1
-  
   ind_group <- which(s3files_groups == ugroups[i])
   ind_subj <- grep("^[sS]ubje[ce]t[ ]*:$", results_lines[[ind_group[1]]])
   ind_ref <- grep("^Reference[s]*:$", results_lines[[ind_group[1]]])
