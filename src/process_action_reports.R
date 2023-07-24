@@ -85,7 +85,7 @@ if (FALSE) {
   stopifnot(all(sapply(results, function(x) x$DocumentMetadata$Pages) == 1))
   
   save(s3files, s3files_groups, s3files_jobids,
-       results, file = "ActionReports2.Rdata")
+       results, file = "ActionReports3.Rdata")
 }
 
 ################################################################################
@@ -123,7 +123,7 @@ if (!dir.exists(file.path("src", "output")))
   dir.create(file.path("src", "output"))
 
 writeLines(unlist(results_lines2),
-           file.path("src", "output", "AfterAction2.txt"))
+           file.path("src", "output", "AfterAction3.txt"))
 
 
 

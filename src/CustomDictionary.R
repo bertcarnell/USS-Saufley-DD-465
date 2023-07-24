@@ -23,7 +23,8 @@ create_word_list <- function() return(c(
   "Maalaea", "Lahaina", "Kahoolawe", "Kwajalein", "Saipan", "Gea", "Aslito",
   "Magicienne", "Naftan", "Gurguan", "Tinian", "Agingan", "Tanapag", "Clemente",
   "Ormoc", "Dinagat", "Manicani", "Hingatungan", "Lombrum", "Aitape", "Hollandia",
-  "Hellgate", "Casco", "Placentia", "Argentia", "Stratford",
+  "Hellgate", "Casco", "Placentia", "Argentia", "Stratford", "Haguman",
+  "Marpi",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations

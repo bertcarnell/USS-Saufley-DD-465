@@ -21958,6 +21958,5774 @@ the area from, 2006 until 2018.</p>
       </Placemark>
     </Folder>
     <Folder>
+      <name>1944-07 Locations</name>
+      <Style id="pnt1">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt2">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt3">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt4">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt5">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt6">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt7">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt8">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt9">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt10">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt11">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt12">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt13">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt14">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt15">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt16">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt17">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt18">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt19">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt20">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt21">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt22">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt23">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt24">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt25">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt26">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt27">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt28">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt29">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt30">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt31">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt32">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt33">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt34">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt35">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt36">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt37">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt38">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt39">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt40">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt41">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt42">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt43">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt44">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt45">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt46">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt47">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt48">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt49">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt50">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt51">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt52">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt53">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt54">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt55">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt56">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt57">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt58">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt59">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt60">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt61">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt62">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt63">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt64">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt65">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt66">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt67">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt68">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt69">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt70">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt71">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt72">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt73">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt74">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt75">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt76">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt77">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt78">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt79">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt80">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt81">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt82">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt83">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt84">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt85">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt86">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt87">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt88">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt89">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt90">
+        <LabelStyle>
+          <scale>0.5</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff00ffff</color>
+          <scale>0.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>01 0800</name>
+        <styleUrl>#pnt1</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-01T08:00:00Z</begin>
+          <end>1944-07-01T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-01: 0800</h3>
+
+<div>July 1.
+Steaming in company with Task Unit FIFTY TWO
+POINT TWELVE POINT SIX on night retirement Southwest of Saipan
+Island. The SAUFLEY was detached at 0558 and proceeded to join
+the transport area screen and relieve the USS PHILIP on station
+#3.</div>
+<p>The SAUFLEY was relieved on station by the USS MELVIN 
+at 1350, and proceeded to fire support sector #5 where
+she relieved the USS STOCKHAM. At 2024 commenced star shell
+illumination of areas North of Haguman Point as assigned by the
+Shore Fire Control Party. At 2330 ceased illumination having
+expended eight (8) 5"/38 star shells.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.72500,15.17083,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>01 1200</name>
+        <styleUrl>#pnt2</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-01T12:00:00Z</begin>
+          <end>1944-07-01T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-01: 1200</h3>
+
+<div>July 1.
+Steaming in company with Task Unit FIFTY TWO
+POINT TWELVE POINT SIX on night retirement Southwest of Saipan
+Island. The SAUFLEY was detached at 0558 and proceeded to join
+the transport area screen and relieve the USS PHILIP on station
+#3.</div>
+<p>The SAUFLEY was relieved on station by the USS MELVIN 
+at 1350, and proceeded to fire support sector #5 where
+she relieved the USS STOCKHAM. At 2024 commenced star shell
+illumination of areas North of Haguman Point as assigned by the
+Shore Fire Control Party. At 2330 ceased illumination having
+expended eight (8) 5"/38 star shells.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.60000,15.20000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>01 2000</name>
+        <styleUrl>#pnt3</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-01T20:00:00Z</begin>
+          <end>1944-07-01T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-01: 2000</h3>
+
+<div>July 1.
+Steaming in company with Task Unit FIFTY TWO
+POINT TWELVE POINT SIX on night retirement Southwest of Saipan
+Island. The SAUFLEY was detached at 0558 and proceeded to join
+the transport area screen and relieve the USS PHILIP on station
+#3.</div>
+<p>The SAUFLEY was relieved on station by the USS MELVIN 
+at 1350, and proceeded to fire support sector #5 where
+she relieved the USS STOCKHAM. At 2024 commenced star shell
+illumination of areas North of Haguman Point as assigned by the
+Shore Fire Control Party. At 2330 ceased illumination having
+expended eight (8) 5"/38 star shells.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.83750,15.18333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>02 0800</name>
+        <styleUrl>#pnt4</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-02T08:00:00Z</begin>
+          <end>1944-07-02T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-02: 0800</h3>
+
+<div>July 2.  Patrolling in Fire Support sector #5 East of
+Saipan Island. Unidentified aircraft were in the area from
+0037 until 0218.</div>
+<p>At 0818 commenced firing at targets assigned by
+the Shore Fire Control Party. At 1110 completed firing having
+expended 554 rounds of 5"/38 AA Common. The Shore Fire Control
+Party reported several enemy positions destroyed, and the area
+well covered.</p>
+<p>At 1307 the SAUFLEY was relieved by the USS SHAW,
+and proceeded to relieve the USS BAGLEY in transport area screening 
+station #9. At 1545 relieved by the USS SELFRIDGE and proceeded 
+to close the transport area.</p>
+<p>At 1830 joined up with Task Unit FIFTY TWO POINT
+TWELVE POINT SIX consisting of the following ships: USS KENNEBAGO,
+USS LOUISVILLE (Rear Admiral OLDENDORF - Commander Task Unit
+FIFTY TWO POINT TWELVE POINT SIX), USS INDIANAPOLIS, USS MONTPELIER,
+USS BIRMINGHAM, USS HALSEY POWELL (Commander Destroyer Squadron
+FIFTY THREE), USS WADLEIGH, USS SAUFLEY, USS RENSHAW, USS STOCKHAM,
+and USS W. C. MILLER, and commenced night retirement to the West
+of Saipan.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.85833,15.19167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>02 1200</name>
+        <styleUrl>#pnt5</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-02T12:00:00Z</begin>
+          <end>1944-07-02T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-02: 1200</h3>
+
+<div>July 2.  Patrolling in Fire Support sector #5 East of
+Saipan Island. Unidentified aircraft were in the area from
+0037 until 0218.</div>
+<p>At 0818 commenced firing at targets assigned by
+the Shore Fire Control Party. At 1110 completed firing having
+expended 554 rounds of 5"/38 AA Common. The Shore Fire Control
+Party reported several enemy positions destroyed, and the area
+well covered.</p>
+<p>At 1307 the SAUFLEY was relieved by the USS SHAW,
+and proceeded to relieve the USS BAGLEY in transport area screening 
+station #9. At 1545 relieved by the USS SELFRIDGE and proceeded 
+to close the transport area.</p>
+<p>At 1830 joined up with Task Unit FIFTY TWO POINT
+TWELVE POINT SIX consisting of the following ships: USS KENNEBAGO,
+USS LOUISVILLE (Rear Admiral OLDENDORF - Commander Task Unit
+FIFTY TWO POINT TWELVE POINT SIX), USS INDIANAPOLIS, USS MONTPELIER,
+USS BIRMINGHAM, USS HALSEY POWELL (Commander Destroyer Squadron
+FIFTY THREE), USS WADLEIGH, USS SAUFLEY, USS RENSHAW, USS STOCKHAM,
+and USS W. C. MILLER, and commenced night retirement to the West
+of Saipan.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.91250,15.17917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>02 2000</name>
+        <styleUrl>#pnt6</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-02T20:00:00Z</begin>
+          <end>1944-07-02T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-02: 2000</h3>
+
+<div>July 2.  Patrolling in Fire Support sector #5 East of
+Saipan Island. Unidentified aircraft were in the area from
+0037 until 0218.</div>
+<p>At 0818 commenced firing at targets assigned by
+the Shore Fire Control Party. At 1110 completed firing having
+expended 554 rounds of 5"/38 AA Common. The Shore Fire Control
+Party reported several enemy positions destroyed, and the area
+well covered.</p>
+<p>At 1307 the SAUFLEY was relieved by the USS SHAW,
+and proceeded to relieve the USS BAGLEY in transport area screening 
+station #9. At 1545 relieved by the USS SELFRIDGE and proceeded 
+to close the transport area.</p>
+<p>At 1830 joined up with Task Unit FIFTY TWO POINT
+TWELVE POINT SIX consisting of the following ships: USS KENNEBAGO,
+USS LOUISVILLE (Rear Admiral OLDENDORF - Commander Task Unit
+FIFTY TWO POINT TWELVE POINT SIX), USS INDIANAPOLIS, USS MONTPELIER,
+USS BIRMINGHAM, USS HALSEY POWELL (Commander Destroyer Squadron
+FIFTY THREE), USS WADLEIGH, USS SAUFLEY, USS RENSHAW, USS STOCKHAM,
+and USS W. C. MILLER, and commenced night retirement to the West
+of Saipan.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.20000,15.52917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03 0800</name>
+        <styleUrl>#pnt7</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-03T08:00:00Z</begin>
+          <end>1944-07-03T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-03: 0800</h3>
+
+<div>July 3.  Steaming in company with Task Unit FIFTY TWO
+POINT TWELVE POINT SIX on night retirement West of Saipan. The
+SAUFLEY was detached at 0700 and proceeded to patrol station #7
+of the transport area screen. At 0800 relieved the USS BENNION
+and screened the USS CLEVELAND during that ship's bombardment
+of positions on Saipan. The SAUFLEY was released by the USS CLEVELAND 
+at 1230 and proceeded to patrol station #14. At 1623
+proceeded to patrol station #5 in accordance with orders from
+Commander Destroyer Squadron FIFTY SIX.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.68750,15.13333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03 1200</name>
+        <styleUrl>#pnt8</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-03T12:00:00Z</begin>
+          <end>1944-07-03T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-03: 1200</h3>
+
+<div>July 3.  Steaming in company with Task Unit FIFTY TWO
+POINT TWELVE POINT SIX on night retirement West of Saipan. The
+SAUFLEY was detached at 0700 and proceeded to patrol station #7
+of the transport area screen. At 0800 relieved the USS BENNION
+and screened the USS CLEVELAND during that ship's bombardment
+of positions on Saipan. The SAUFLEY was released by the USS CLEVELAND 
+at 1230 and proceeded to patrol station #14. At 1623
+proceeded to patrol station #5 in accordance with orders from
+Commander Destroyer Squadron FIFTY SIX.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.66667,15.15556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03 2000</name>
+        <styleUrl>#pnt9</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-03T20:00:00Z</begin>
+          <end>1944-07-03T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-03: 2000</h3>
+
+<div>July 3.  Steaming in company with Task Unit FIFTY TWO
+POINT TWELVE POINT SIX on night retirement West of Saipan. The
+SAUFLEY was detached at 0700 and proceeded to patrol station #7
+of the transport area screen. At 0800 relieved the USS BENNION
+and screened the USS CLEVELAND during that ship's bombardment
+of positions on Saipan. The SAUFLEY was released by the USS CLEVELAND 
+at 1230 and proceeded to patrol station #14. At 1623
+proceeded to patrol station #5 in accordance with orders from
+Commander Destroyer Squadron FIFTY SIX.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.59444,15.30417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 0800</name>
+        <styleUrl>#pnt10</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-04T08:00:00Z</begin>
+          <end>1944-07-04T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-04: 0800</h3>
+
+<div>July 4.  Patrolling station #5 of transport area screen
+West of Saipan. At 0845 the SAUFLEY went alongside the USS MAZAMA 
+to replenish ammunition. At 1220 completed taking on
+ammunition, having received 1455 rounds of 5"/38 ammunition.
+Proceeded to Saipan Channel and assumed standby fire support
+duty.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.67778,15.16667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 1200</name>
+        <styleUrl>#pnt11</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-04T12:00:00Z</begin>
+          <end>1944-07-04T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-04: 1200</h3>
+
+<div>July 4.  Patrolling station #5 of transport area screen
+West of Saipan. At 0845 the SAUFLEY went alongside the USS MAZAMA 
+to replenish ammunition. At 1220 completed taking on
+ammunition, having received 1455 rounds of 5"/38 ammunition.
+Proceeded to Saipan Channel and assumed standby fire support
+duty.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.67778,15.16667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04 2000</name>
+        <styleUrl>#pnt12</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-04T20:00:00Z</begin>
+          <end>1944-07-04T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-04: 2000</h3>
+
+<div>July 4.  Patrolling station #5 of transport area screen
+West of Saipan. At 0845 the SAUFLEY went alongside the USS MAZAMA 
+to replenish ammunition. At 1220 completed taking on
+ammunition, having received 1455 rounds of 5"/38 ammunition.
+Proceeded to Saipan Channel and assumed standby fire support
+duty.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.72222,15.05000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 0800</name>
+        <styleUrl>#pnt13</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-05T08:00:00Z</begin>
+          <end>1944-07-05T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-05: 0800</h3>
+
+<div>July 5.  Patrolling Saipan Channel as standby Fire Support
+Ship. At 0700 proceeded to patrol station #15, and at 0840
+proceeded towards station 15A, where the SAUFLEY relieved the
+USS MELVIN at 0945. The SAUFLEY was relieved on station by the
+USS MUGFORD at 1220 and closed the transport area for fueling
+assignment. At 1405 moored alongside the USS GEMSBOK and commenced 
+fueling. Completing at 1515. The SAUFLEY went alongside
+the USS CLEVELAND and received 100 rounds of 5"/38 star shells,
+then proceeded to relieve the USS WADLEIGH in Fire Support Sector
+#5.</div>
+<p>At 1915 commenced star shell illumination of
+areas assigned by the Shore Fire Control party. Illumination
+was checked temporarily at 2000 when enemy aircraft were
+reported in the area. Illumination was resumed at 2043 after
+all clear was given.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.70417,15.21667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 1200</name>
+        <styleUrl>#pnt14</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-05T12:00:00Z</begin>
+          <end>1944-07-05T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-05: 1200</h3>
+
+<div>July 5.  Patrolling Saipan Channel as standby Fire Support
+Ship. At 0700 proceeded to patrol station #15, and at 0840
+proceeded towards station 15A, where the SAUFLEY relieved the
+USS MELVIN at 0945. The SAUFLEY was relieved on station by the
+USS MUGFORD at 1220 and closed the transport area for fueling
+assignment. At 1405 moored alongside the USS GEMSBOK and commenced 
+fueling. Completing at 1515. The SAUFLEY went alongside
+the USS CLEVELAND and received 100 rounds of 5"/38 star shells,
+then proceeded to relieve the USS WADLEIGH in Fire Support Sector
+#5.</div>
+<p>At 1915 commenced star shell illumination of
+areas assigned by the Shore Fire Control party. Illumination
+was checked temporarily at 2000 when enemy aircraft were
+reported in the area. Illumination was resumed at 2043 after
+all clear was given.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.95000,15.33333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05 2000</name>
+        <styleUrl>#pnt15</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-05T20:00:00Z</begin>
+          <end>1944-07-05T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-05: 2000</h3>
+
+<div>July 5.  Patrolling Saipan Channel as standby Fire Support
+Ship. At 0700 proceeded to patrol station #15, and at 0840
+proceeded towards station 15A, where the SAUFLEY relieved the
+USS MELVIN at 0945. The SAUFLEY was relieved on station by the
+USS MUGFORD at 1220 and closed the transport area for fueling
+assignment. At 1405 moored alongside the USS GEMSBOK and commenced 
+fueling. Completing at 1515. The SAUFLEY went alongside
+the USS CLEVELAND and received 100 rounds of 5"/38 star shells,
+then proceeded to relieve the USS WADLEIGH in Fire Support Sector
+#5.</div>
+<p>At 1915 commenced star shell illumination of
+areas assigned by the Shore Fire Control party. Illumination
+was checked temporarily at 2000 when enemy aircraft were
+reported in the area. Illumination was resumed at 2043 after
+all clear was given.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.91667,15.13333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 0800</name>
+        <styleUrl>#pnt16</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-06T08:00:00Z</begin>
+          <end>1944-07-06T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-06: 0800</h3>
+
+<div>July 6.  Conducting star shell illumination of assigned
+areas from fire support sector #5. At 0535 ceased illumination,
+having expended 53 rounds of 5"/38 star shells.</div>
+<p>At 0800 commenced bombardment of areas assigned
+by the Shore Fire Control party. This bombardment was completed
+at 1015, having expended 340 rounds of 5"/38 ammunition.</p>
+<p>Another bombardment of targets assigned by the
+Shore Fire Control party was conducted from 1314 to 1422. 134
+rounds of 5"/38 ammunition were expended.</p>
+<p>The SAUFLEY was relieved of the fire support
+mission by the USS RALPH TALBOT at 1610, and at 1835 joined up
+with Task Unit FIFTY TWO POINT TWELVE POINT SIX consisting of
+the following ships: USS LOUISVILLE (Rear Admiral OLDENDORF -
+Commander Task Unit FIFTY TWO POINT TWELVE POINT SIX), USS
+INDIANAPOLIS, USS MONTPELIER, USS BIRMINGHAM, USS HALSEY POWELL,
+USS YARNALL, USS MUGFORD, USS SAUFLEY, USS SIGOURNEY, and USS TISDALE. 
+Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX commenced
+night retirement to the Northwest.</p>
+<p>Unidentified aircraft were in the area from 2118
+to 2126.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.90833,15.25833,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 1200</name>
+        <styleUrl>#pnt17</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-06T12:00:00Z</begin>
+          <end>1944-07-06T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-06: 1200</h3>
+
+<div>July 6.  Conducting star shell illumination of assigned
+areas from fire support sector #5. At 0535 ceased illumination,
+having expended 53 rounds of 5"/38 star shells.</div>
+<p>At 0800 commenced bombardment of areas assigned
+by the Shore Fire Control party. This bombardment was completed
+at 1015, having expended 340 rounds of 5"/38 ammunition.</p>
+<p>Another bombardment of targets assigned by the
+Shore Fire Control party was conducted from 1314 to 1422. 134
+rounds of 5"/38 ammunition were expended.</p>
+<p>The SAUFLEY was relieved of the fire support
+mission by the USS RALPH TALBOT at 1610, and at 1835 joined up
+with Task Unit FIFTY TWO POINT TWELVE POINT SIX consisting of
+the following ships: USS LOUISVILLE (Rear Admiral OLDENDORF -
+Commander Task Unit FIFTY TWO POINT TWELVE POINT SIX), USS
+INDIANAPOLIS, USS MONTPELIER, USS BIRMINGHAM, USS HALSEY POWELL,
+USS YARNALL, USS MUGFORD, USS SAUFLEY, USS SIGOURNEY, and USS TISDALE. 
+Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX commenced
+night retirement to the Northwest.</p>
+<p>Unidentified aircraft were in the area from 2118
+to 2126.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.97917,15.26667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06 2000</name>
+        <styleUrl>#pnt18</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-06T20:00:00Z</begin>
+          <end>1944-07-06T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-06: 2000</h3>
+
+<div>July 6.  Conducting star shell illumination of assigned
+areas from fire support sector #5. At 0535 ceased illumination,
+having expended 53 rounds of 5"/38 star shells.</div>
+<p>At 0800 commenced bombardment of areas assigned
+by the Shore Fire Control party. This bombardment was completed
+at 1015, having expended 340 rounds of 5"/38 ammunition.</p>
+<p>Another bombardment of targets assigned by the
+Shore Fire Control party was conducted from 1314 to 1422. 134
+rounds of 5"/38 ammunition were expended.</p>
+<p>The SAUFLEY was relieved of the fire support
+mission by the USS RALPH TALBOT at 1610, and at 1835 joined up
+with Task Unit FIFTY TWO POINT TWELVE POINT SIX consisting of
+the following ships: USS LOUISVILLE (Rear Admiral OLDENDORF -
+Commander Task Unit FIFTY TWO POINT TWELVE POINT SIX), USS
+INDIANAPOLIS, USS MONTPELIER, USS BIRMINGHAM, USS HALSEY POWELL,
+USS YARNALL, USS MUGFORD, USS SAUFLEY, USS SIGOURNEY, and USS TISDALE. 
+Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX commenced
+night retirement to the Northwest.</p>
+<p>Unidentified aircraft were in the area from 2118
+to 2126.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.30833,15.50000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 0800</name>
+        <styleUrl>#pnt19</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-07T08:00:00Z</begin>
+          <end>1944-07-07T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-07: 0800</h3>
+
+<div>July 7.  Steaming in company with Task Unit FIFTY TWO POINT
+SEVENTEEN POINT SIX conducting a night retirement Northwest of
+Saipan. At 0528 the SAUFLEY was detached and reported to the
+USS CLEVELAND. The SAUFLEY, with the USS MUGFORD and USS PRINGLE
+screened the CLEVELAND during that ship's bombardment of targets
+on the East coast of Saipan.</div>
+<p>The CLEVELAND completed her bombardment at 0953
+and the four ships set course for the transport area. At 1013
+in accordance with orders from Commander Task Force FIFTY TWO,
+the SAUFLEY was detached to rendezvous with and assist the USS REMEY 
+investigate a possible submarine contact bearing 010 (T),
+25 miles from Agingan Point. The USS TWINING relieved the USS REMEY 
+at 1315.</p>
+<p>One embarrassing depth charge was dropped on a
+possible contact at 1417. Contact subsequently believed false.</p>
+<p>At 1655 the SAUFLEY proceeded towards the transport 
+area, and at 1705 relieved the USS BAGLEY in transport area
+screening station #15, then proceeded to relieve the USS WADLEIGH
+in station #7.</p>
+<p>Unidentified aircraft were in the area from 2033
+until 2148.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.97222,15.19583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 1200</name>
+        <styleUrl>#pnt20</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-07T12:00:00Z</begin>
+          <end>1944-07-07T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-07: 1200</h3>
+
+<div>July 7.  Steaming in company with Task Unit FIFTY TWO POINT
+SEVENTEEN POINT SIX conducting a night retirement Northwest of
+Saipan. At 0528 the SAUFLEY was detached and reported to the
+USS CLEVELAND. The SAUFLEY, with the USS MUGFORD and USS PRINGLE
+screened the CLEVELAND during that ship's bombardment of targets
+on the East coast of Saipan.</div>
+<p>The CLEVELAND completed her bombardment at 0953
+and the four ships set course for the transport area. At 1013
+in accordance with orders from Commander Task Force FIFTY TWO,
+the SAUFLEY was detached to rendezvous with and assist the USS REMEY 
+investigate a possible submarine contact bearing 010 (T),
+25 miles from Agingan Point. The USS TWINING relieved the USS REMEY 
+at 1315.</p>
+<p>One embarrassing depth charge was dropped on a
+possible contact at 1417. Contact subsequently believed false.</p>
+<p>At 1655 the SAUFLEY proceeded towards the transport 
+area, and at 1705 relieved the USS BAGLEY in transport area
+screening station #15, then proceeded to relieve the USS WADLEIGH
+in station #7.</p>
+<p>Unidentified aircraft were in the area from 2033
+until 2148.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.71667,15.61667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07 2000</name>
+        <styleUrl>#pnt21</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-07T20:00:00Z</begin>
+          <end>1944-07-07T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-07: 2000</h3>
+
+<div>July 7.  Steaming in company with Task Unit FIFTY TWO POINT
+SEVENTEEN POINT SIX conducting a night retirement Northwest of
+Saipan. At 0528 the SAUFLEY was detached and reported to the
+USS CLEVELAND. The SAUFLEY, with the USS MUGFORD and USS PRINGLE
+screened the CLEVELAND during that ship's bombardment of targets
+on the East coast of Saipan.</div>
+<p>The CLEVELAND completed her bombardment at 0953
+and the four ships set course for the transport area. At 1013
+in accordance with orders from Commander Task Force FIFTY TWO,
+the SAUFLEY was detached to rendezvous with and assist the USS REMEY 
+investigate a possible submarine contact bearing 010 (T),
+25 miles from Agingan Point. The USS TWINING relieved the USS REMEY 
+at 1315.</p>
+<p>One embarrassing depth charge was dropped on a
+possible contact at 1417. Contact subsequently believed false.</p>
+<p>At 1655 the SAUFLEY proceeded towards the transport 
+area, and at 1705 relieved the USS BAGLEY in transport area
+screening station #15, then proceeded to relieve the USS WADLEIGH
+in station #7.</p>
+<p>Unidentified aircraft were in the area from 2033
+until 2148.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.69167,15.29444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 0800</name>
+        <styleUrl>#pnt22</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-08T08:00:00Z</begin>
+          <end>1944-07-08T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-08: 0800</h3>
+
+<div>July 8.  Patrolling transport area screening station #7.
+At 1145 relieved on station by the USS STOCKHAM, and proceeded
+to relieve the USS MUGFORD in fire support sector #5.</div>
+<p>At 1851 Commenced star shell illumination of area
+286"0" in accordance with instructions from the Shore Fire
+Control Party.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.70000,15.28889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 1200</name>
+        <styleUrl>#pnt23</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-08T12:00:00Z</begin>
+          <end>1944-07-08T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-08: 1200</h3>
+
+<div>July 8.  Patrolling transport area screening station #7.
+At 1145 relieved on station by the USS STOCKHAM, and proceeded
+to relieve the USS MUGFORD in fire support sector #5.</div>
+<p>At 1851 Commenced star shell illumination of area
+286"0" in accordance with instructions from the Shore Fire
+Control Party.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.72917,15.27917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08 2000</name>
+        <styleUrl>#pnt24</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-08T20:00:00Z</begin>
+          <end>1944-07-08T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-08: 2000</h3>
+
+<div>July 8.  Patrolling transport area screening station #7.
+At 1145 relieved on station by the USS STOCKHAM, and proceeded
+to relieve the USS MUGFORD in fire support sector #5.</div>
+<p>At 1851 Commenced star shell illumination of area
+286"0" in accordance with instructions from the Shore Fire
+Control Party.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.75417,15.28333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 0800</name>
+        <styleUrl>#pnt25</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-09T08:00:00Z</begin>
+          <end>1944-07-09T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-09: 0800</h3>
+
+<div>July 9.  Steaming in fire support sector #5, conducting
+intermittent star shell illumination. Ceased illumination at
+0529, having expended 71 rounds of 5"/38 star shell ammunition.</div>
+<p>At 0840 commenced bombardment of areas assigned
+by the Shore Fire Control Party. This bombardment was completed
+at 1008, having expended 109 rounds of 5"/38 ammunition. Proceeded 
+to take station about 3000 yards West of Marpi Point. Observed
+numerous Japanese soldiers hiding in caves along the water's edge.
+Due to the presence of our own troops on the ledge directly above,
+the enemy troops were not taken under fire.</p>
+<p>At 1340 the SAUFLEY was relieved by the USS CONY
+and proceeded to go alongside the USS GEMSBOK to fuel.</p>
+<p>Upon completion of fueling the SAUFLEY joined up
+with Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX consisting
+of the following ships: USS LOUISVILLE (Rear Admiral OLDENDORF -
+Commander Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX), USS INDIANAPOLIS, 
+USS MONTPELIER, USS BIRMINGHAM, USS REMEY, USS SAUFLEY, 
+USS ROBINSON, USS A. W. GRANT, USS BENHAM, and the USS W.C. MILLER. 
+Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX
+commenced night retirement to the West.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.83333,15.29167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 1200</name>
+        <styleUrl>#pnt26</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-09T12:00:00Z</begin>
+          <end>1944-07-09T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-09: 1200</h3>
+
+<div>July 9.  Steaming in fire support sector #5, conducting
+intermittent star shell illumination. Ceased illumination at
+0529, having expended 71 rounds of 5"/38 star shell ammunition.</div>
+<p>At 0840 commenced bombardment of areas assigned
+by the Shore Fire Control Party. This bombardment was completed
+at 1008, having expended 109 rounds of 5"/38 ammunition. Proceeded 
+to take station about 3000 yards West of Marpi Point. Observed
+numerous Japanese soldiers hiding in caves along the water's edge.
+Due to the presence of our own troops on the ledge directly above,
+the enemy troops were not taken under fire.</p>
+<p>At 1340 the SAUFLEY was relieved by the USS CONY
+and proceeded to go alongside the USS GEMSBOK to fuel.</p>
+<p>Upon completion of fueling the SAUFLEY joined up
+with Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX consisting
+of the following ships: USS LOUISVILLE (Rear Admiral OLDENDORF -
+Commander Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX), USS INDIANAPOLIS, 
+USS MONTPELIER, USS BIRMINGHAM, USS REMEY, USS SAUFLEY, 
+USS ROBINSON, USS A. W. GRANT, USS BENHAM, and the USS W.C. MILLER. 
+Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX
+commenced night retirement to the West.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.92500,15.26667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09 2000</name>
+        <styleUrl>#pnt27</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-09T20:00:00Z</begin>
+          <end>1944-07-09T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-09: 2000</h3>
+
+<div>July 9.  Steaming in fire support sector #5, conducting
+intermittent star shell illumination. Ceased illumination at
+0529, having expended 71 rounds of 5"/38 star shell ammunition.</div>
+<p>At 0840 commenced bombardment of areas assigned
+by the Shore Fire Control Party. This bombardment was completed
+at 1008, having expended 109 rounds of 5"/38 ammunition. Proceeded 
+to take station about 3000 yards West of Marpi Point. Observed
+numerous Japanese soldiers hiding in caves along the water's edge.
+Due to the presence of our own troops on the ledge directly above,
+the enemy troops were not taken under fire.</p>
+<p>At 1340 the SAUFLEY was relieved by the USS CONY
+and proceeded to go alongside the USS GEMSBOK to fuel.</p>
+<p>Upon completion of fueling the SAUFLEY joined up
+with Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX consisting
+of the following ships: USS LOUISVILLE (Rear Admiral OLDENDORF -
+Commander Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX), USS INDIANAPOLIS, 
+USS MONTPELIER, USS BIRMINGHAM, USS REMEY, USS SAUFLEY, 
+USS ROBINSON, USS A. W. GRANT, USS BENHAM, and the USS W.C. MILLER. 
+Task Unit FIFTY TWO POINT SEVENTEEN POINT SIX
+commenced night retirement to the West.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.44167,15.22500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 0800</name>
+        <styleUrl>#pnt28</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-10T08:00:00Z</begin>
+          <end>1944-07-10T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-10: 0800</h3>
+
+<div>July 10.  Steaming in company with Commander Task Unit FIFTY
+TWO POINT SEVENTEEN POINT SIX conducting night retirement West of
+Saipan. The SAUFLEY was detached at 0551 and proceeded to patrol
+station #15, and at 1131 proceeded to patrol station #7, both
+times in accordance with orders from Commander Destroyer Squadron
+FIFTY SIX.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.29583,15.28333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 1200</name>
+        <styleUrl>#pnt29</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-10T12:00:00Z</begin>
+          <end>1944-07-10T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-10: 1200</h3>
+
+<div>July 10.  Steaming in company with Commander Task Unit FIFTY
+TWO POINT SEVENTEEN POINT SIX conducting night retirement West of
+Saipan. The SAUFLEY was detached at 0551 and proceeded to patrol
+station #15, and at 1131 proceeded to patrol station #7, both
+times in accordance with orders from Commander Destroyer Squadron
+FIFTY SIX.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.70833,15.29167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 2000</name>
+        <styleUrl>#pnt30</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-10T20:00:00Z</begin>
+          <end>1944-07-10T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-10: 2000</h3>
+
+<div>July 10.  Steaming in company with Commander Task Unit FIFTY
+TWO POINT SEVENTEEN POINT SIX conducting night retirement West of
+Saipan. The SAUFLEY was detached at 0551 and proceeded to patrol
+station #15, and at 1131 proceeded to patrol station #7, both
+times in accordance with orders from Commander Destroyer Squadron
+FIFTY SIX.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.70000,15.30417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 0800</name>
+        <styleUrl>#pnt31</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-11T08:00:00Z</begin>
+          <end>1944-07-11T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-11: 0800</h3>
+
+<div>July 11.  Patrolling station #7 in transport area screen.
+At 0614 the SAUFLEY was relieved on station by the USS STOCKHAM
+and proceeded to anchor in the transport area. At 1035 got
+underway and proceeded to go alongside the USS CAPE SANDY to
+transfer empty cartridge cases.</div>
+<p>At 1307 proceeded North of Saipan and relieved
+the USS ALBERT W. GRANT on station #15-A.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.68333,15.16667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 2000</name>
+        <styleUrl>#pnt32</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-11T20:00:00Z</begin>
+          <end>1944-07-11T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-11: 2000</h3>
+
+<div>July 11.  Patrolling station #7 in transport area screen.
+At 0614 the SAUFLEY was relieved on station by the USS STOCKHAM
+and proceeded to anchor in the transport area. At 1035 got
+underway and proceeded to go alongside the USS CAPE SANDY to
+transfer empty cartridge cases.</div>
+<p>At 1307 proceeded North of Saipan and relieved
+the USS ALBERT W. GRANT on station #15-A.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.92917,15.34167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 0800</name>
+        <styleUrl>#pnt33</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-12T08:00:00Z</begin>
+          <end>1944-07-12T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-12: 0800</h3>
+
+<div>July 12.  Patrolling station #15-A North of Saipan. At
+1632 the SAUFLEY was relieved on station by the USS SIGOURNEY
+and proceeded toward the transport area. At 1812 joined up with
+Task Unit FIFTY TWO POINT EIGHTEEN POINT NINE, consisting of the
+following ships: The USS SALVADOR VICTORY, USS CAPE COD, USS CAPE
+FRIENDSHIP, USS MUGFORD (Commander Task Unit FIFTY TWO POINT
+EIGHTEEN POINT NINE), USS SAUFLEY, USS PATERSON, USS ACREE, and
+the USS TISDALE. Task Unit FIFTY TWO POINT EIGHTEEN POINT NINE
+set course for Eniwetok.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.85000,15.38333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 1200</name>
+        <styleUrl>#pnt34</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-12T12:00:00Z</begin>
+          <end>1944-07-12T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-12: 1200</h3>
+
+<div>July 12.  Patrolling station #15-A North of Saipan. At
+1632 the SAUFLEY was relieved on station by the USS SIGOURNEY
+and proceeded toward the transport area. At 1812 joined up with
+Task Unit FIFTY TWO POINT EIGHTEEN POINT NINE, consisting of the
+following ships: The USS SALVADOR VICTORY, USS CAPE COD, USS CAPE
+FRIENDSHIP, USS MUGFORD (Commander Task Unit FIFTY TWO POINT
+EIGHTEEN POINT NINE), USS SAUFLEY, USS PATERSON, USS ACREE, and
+the USS TISDALE. Task Unit FIFTY TWO POINT EIGHTEEN POINT NINE
+set course for Eniwetok.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.88333,15.40000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 2000</name>
+        <styleUrl>#pnt35</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-12T20:00:00Z</begin>
+          <end>1944-07-12T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-12: 2000</h3>
+
+<div>July 12.  Patrolling station #15-A North of Saipan. At
+1632 the SAUFLEY was relieved on station by the USS SIGOURNEY
+and proceeded toward the transport area. At 1812 joined up with
+Task Unit FIFTY TWO POINT EIGHTEEN POINT NINE, consisting of the
+following ships: The USS SALVADOR VICTORY, USS CAPE COD, USS CAPE
+FRIENDSHIP, USS MUGFORD (Commander Task Unit FIFTY TWO POINT
+EIGHTEEN POINT NINE), USS SAUFLEY, USS PATERSON, USS ACREE, and
+the USS TISDALE. Task Unit FIFTY TWO POINT EIGHTEEN POINT NINE
+set course for Eniwetok.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>146.01667,15.40833,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 0800</name>
+        <styleUrl>#pnt36</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-13T08:00:00Z</begin>
+          <end>1944-07-13T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-13: 0800</h3>
+
+<div>July 13.  Steaming in company with Task Unit FIFTY TWO POINT
+EIGHTEEN POINT NINE enroute from Saipan to Eniwetok. At 1200,
+in accordance with Commander Task Force FIFTY ONE POINT NINE
+despatch 120538, the SAUFLEY was detached to proceed and rendezvous 
+with Task Unit FIFTY SEVEN POINT EIGHTEEN POINT TWENTY,
+in Latitude 14-33-00 N, Longitude 150-52-00 E. At 1600 passed
+through rendezvous point but was unable to locate Task Unit FIFTY
+SEVEN POINT EIGHTEEN POINT TWENTY. Commenced search in area of
+of rendezvous point.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>148.60000,14.79167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 1200</name>
+        <styleUrl>#pnt37</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-13T12:00:00Z</begin>
+          <end>1944-07-13T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-13: 1200</h3>
+
+<div>July 13.  Steaming in company with Task Unit FIFTY TWO POINT
+EIGHTEEN POINT NINE enroute from Saipan to Eniwetok. At 1200,
+in accordance with Commander Task Force FIFTY ONE POINT NINE
+despatch 120538, the SAUFLEY was detached to proceed and rendezvous 
+with Task Unit FIFTY SEVEN POINT EIGHTEEN POINT TWENTY,
+in Latitude 14-33-00 N, Longitude 150-52-00 E. At 1600 passed
+through rendezvous point but was unable to locate Task Unit FIFTY
+SEVEN POINT EIGHTEEN POINT TWENTY. Commenced search in area of
+of rendezvous point.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>149.61667,14.59444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13 2000</name>
+        <styleUrl>#pnt38</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-13T20:00:00Z</begin>
+          <end>1944-07-13T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-13: 2000</h3>
+
+<div>July 13.  Steaming in company with Task Unit FIFTY TWO POINT
+EIGHTEEN POINT NINE enroute from Saipan to Eniwetok. At 1200,
+in accordance with Commander Task Force FIFTY ONE POINT NINE
+despatch 120538, the SAUFLEY was detached to proceed and rendezvous 
+with Task Unit FIFTY SEVEN POINT EIGHTEEN POINT TWENTY,
+in Latitude 14-33-00 N, Longitude 150-52-00 E. At 1600 passed
+through rendezvous point but was unable to locate Task Unit FIFTY
+SEVEN POINT EIGHTEEN POINT TWENTY. Commenced search in area of
+of rendezvous point.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>150.29167,15.07083,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14 0800</name>
+        <styleUrl>#pnt39</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-14T08:00:00Z</begin>
+          <end>1944-07-14T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-14: 0800</h3>
+
+<div>July 14.  Steaming in the vicinity Latitude 14-33-00 N.
+Longitude 150-52-00 E, searching for Task Unit FIFTY SEVEN POINT
+EIGHTEEN POINT TWENTY, enroute from Eniwetok to Saipan. 2145
+Discontinued search and set course for Saipan.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>148.52500,15.26667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14 1200</name>
+        <styleUrl>#pnt40</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-14T12:00:00Z</begin>
+          <end>1944-07-14T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-14: 1200</h3>
+
+<div>July 14.  Steaming in the vicinity Latitude 14-33-00 N.
+Longitude 150-52-00 E, searching for Task Unit FIFTY SEVEN POINT
+EIGHTEEN POINT TWENTY, enroute from Eniwetok to Saipan. 2145
+Discontinued search and set course for Saipan.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>149.35833,15.23333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14 2000</name>
+        <styleUrl>#pnt41</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-14T20:00:00Z</begin>
+          <end>1944-07-14T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-14: 2000</h3>
+
+<div>July 14.  Steaming in the vicinity Latitude 14-33-00 N.
+Longitude 150-52-00 E, searching for Task Unit FIFTY SEVEN POINT
+EIGHTEEN POINT TWENTY, enroute from Eniwetok to Saipan. 2145
+Discontinued search and set course for Saipan.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>149.44583,15.19167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15 0800</name>
+        <styleUrl>#pnt42</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-15T08:00:00Z</begin>
+          <end>1944-07-15T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-15: 0800</h3>
+
+<div>July 15.  Enroute to Saipan. At 1036 went alongside the
+USS GIANSAR to receive provisions. Upon completion proceeded
+to relieve the USS DEEDE on station #6.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.58333,15.33333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15 2000</name>
+        <styleUrl>#pnt43</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-15T20:00:00Z</begin>
+          <end>1944-07-15T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-15: 2000</h3>
+
+<div>July 15.  Enroute to Saipan. At 1036 went alongside the
+USS GIANSAR to receive provisions. Upon completion proceeded
+to relieve the USS DEEDE on station #6.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.54722,15.07917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 0800</name>
+        <styleUrl>#pnt44</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-16T08:00:00Z</begin>
+          <end>1944-07-16T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-16: 0800</h3>
+
+<div>July 16.  Patrolling station #6 in the transport area screen.
+At 0610 the SAUFLEY was relieved on station by the USS BAGLEY, and
+proceeded to go alongside the USS GEMSBOK to fuel.</div>
+<p>Upon completing fueling, the SAUFLEY proceeded to
+take station West of Tinian, and at 1255 commenced bombardment of
+targets designated in Commander Task Force FIFTY TWO'S mailgram
+151200 of July, and various targets of opportunity. This bombardment 
+was completed at 1813, 263 rounds of 5"/38 ammunition having
+been expended. The spotting plane assigned to this mission was
+forced to return to its field early in the afternoon due to engine
+trouble.</p>
+<p>At 2055 the SAUFLEY commenced an intermittent
+harassing bombardment of Tinian Town.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.67917,15.14583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 1200</name>
+        <styleUrl>#pnt45</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-16T12:00:00Z</begin>
+          <end>1944-07-16T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-16: 1200</h3>
+
+<div>July 16.  Patrolling station #6 in the transport area screen.
+At 0610 the SAUFLEY was relieved on station by the USS BAGLEY, and
+proceeded to go alongside the USS GEMSBOK to fuel.</div>
+<p>Upon completing fueling, the SAUFLEY proceeded to
+take station West of Tinian, and at 1255 commenced bombardment of
+targets designated in Commander Task Force FIFTY TWO'S mailgram
+151200 of July, and various targets of opportunity. This bombardment 
+was completed at 1813, 263 rounds of 5"/38 ammunition having
+been expended. The spotting plane assigned to this mission was
+forced to return to its field early in the afternoon due to engine
+trouble.</p>
+<p>At 2055 the SAUFLEY commenced an intermittent
+harassing bombardment of Tinian Town.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.57917,15.02917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 2000</name>
+        <styleUrl>#pnt46</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-16T20:00:00Z</begin>
+          <end>1944-07-16T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-16: 2000</h3>
+
+<div>July 16.  Patrolling station #6 in the transport area screen.
+At 0610 the SAUFLEY was relieved on station by the USS BAGLEY, and
+proceeded to go alongside the USS GEMSBOK to fuel.</div>
+<p>Upon completing fueling, the SAUFLEY proceeded to
+take station West of Tinian, and at 1255 commenced bombardment of
+targets designated in Commander Task Force FIFTY TWO'S mailgram
+151200 of July, and various targets of opportunity. This bombardment 
+was completed at 1813, 263 rounds of 5"/38 ammunition having
+been expended. The spotting plane assigned to this mission was
+forced to return to its field early in the afternoon due to engine
+trouble.</p>
+<p>At 2055 the SAUFLEY commenced an intermittent
+harassing bombardment of Tinian Town.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.56250,15.00833,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 0800</name>
+        <styleUrl>#pnt47</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-17T08:00:00Z</begin>
+          <end>1944-07-17T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-17: 0800</h3>
+
+<div>July 17.  Patrolling West of Tinian, conducting an intermittent 
+harassing bombardment of Tinian Town. This bombardment
+was completed at 0556, 75 rounds of 5"/38, and 120 rounds of
+40MM ammunition having been expended. Proceeded to patrol station
+#19 in the transport area screen.</div>
+<p>At 1315 the SAUFLEY closed the transport area to
+receive fresh and frozen provisions from YF412. Upon completion
+of this operation, transferred empty cartridge cases to the USS
+CAVALIER. The SAUFLEY then proceeded to relieve the USS DEEDE on
+station #6.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.80000,15.09167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 1200</name>
+        <styleUrl>#pnt48</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-17T12:00:00Z</begin>
+          <end>1944-07-17T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-17: 1200</h3>
+
+<div>July 17.  Patrolling West of Tinian, conducting an intermittent 
+harassing bombardment of Tinian Town. This bombardment
+was completed at 0556, 75 rounds of 5"/38, and 120 rounds of
+40MM ammunition having been expended. Proceeded to patrol station
+#19 in the transport area screen.</div>
+<p>At 1315 the SAUFLEY closed the transport area to
+receive fresh and frozen provisions from YF412. Upon completion
+of this operation, transferred empty cartridge cases to the USS
+CAVALIER. The SAUFLEY then proceeded to relieve the USS DEEDE on
+station #6.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.75000,15.03750,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 2000</name>
+        <styleUrl>#pnt49</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-17T20:00:00Z</begin>
+          <end>1944-07-17T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-17: 2000</h3>
+
+<div>July 17.  Patrolling West of Tinian, conducting an intermittent 
+harassing bombardment of Tinian Town. This bombardment
+was completed at 0556, 75 rounds of 5"/38, and 120 rounds of
+40MM ammunition having been expended. Proceeded to patrol station
+#19 in the transport area screen.</div>
+<p>At 1315 the SAUFLEY closed the transport area to
+receive fresh and frozen provisions from YF412. Upon completion
+of this operation, transferred empty cartridge cases to the USS
+CAVALIER. The SAUFLEY then proceeded to relieve the USS DEEDE on
+station #6.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.55000,15.07500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18 0800</name>
+        <styleUrl>#pnt50</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-18T08:00:00Z</begin>
+          <end>1944-07-18T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-18: 0800</h3>
+
+<div>July 18.
+Patrolling station #6 in the transport area screen.
+At 0605 relieved on station by the USS MONSSEN and proceeded to
+close the transport area where 923 rounds of 5"/38 ammunition were
+received from LST213. At 1250 proceeded to relieve the USS NORMAN
+SCOTT on station #9.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.69167,15.20000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18 1200</name>
+        <styleUrl>#pnt51</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-18T12:00:00Z</begin>
+          <end>1944-07-18T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-18: 1200</h3>
+
+<div>July 18.
+Patrolling station #6 in the transport area screen.
+At 0605 relieved on station by the USS MONSSEN and proceeded to
+close the transport area where 923 rounds of 5"/38 ammunition were
+received from LST213. At 1250 proceeded to relieve the USS NORMAN
+SCOTT on station #9.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.63333,15.22917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18 2000</name>
+        <styleUrl>#pnt52</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-18T20:00:00Z</begin>
+          <end>1944-07-18T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-18: 2000</h3>
+
+<div>July 18.
+Patrolling station #6 in the transport area screen.
+At 0605 relieved on station by the USS MONSSEN and proceeded to
+close the transport area where 923 rounds of 5"/38 ammunition were
+received from LST213. At 1250 proceeded to relieve the USS NORMAN
+SCOTT on station #9.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.73333,15.29583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 0800</name>
+        <styleUrl>#pnt53</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-19T08:00:00Z</begin>
+          <end>1944-07-19T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-19: 0800</h3>
+
+<div>July 19.  Patrolling station #9 in the transport area screen
+West of Saipan. At 0621 relieved on station by the USS CABANA, and
+closed the transport area where 145 rounds of 5"/38 star shell
+ammunition were received from LCM160. At 1035 the SAUFLEY proceeded
+to relieve the USS WADLEIGH on station #2. At 1445 the USS WADLEIGH
+relieved the SAUFLEY on station. Proceeded to anchor in Tanapag
+Harbor.</div>
+<p>At 1700 the SAUFLEY proceeded to take station as
+standby fire support ship in Saipan Channel, and at 2138 conducted
+a surprise bombardment of Yellow Beach, expending 25 rounds of 5"/38
+ammunition. 650 rounds of 20MM, and 270 rounds of 40MM ammunition.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.72917,15.24167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 1200</name>
+        <styleUrl>#pnt54</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-19T12:00:00Z</begin>
+          <end>1944-07-19T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-19: 1200</h3>
+
+<div>July 19.  Patrolling station #9 in the transport area screen
+West of Saipan. At 0621 relieved on station by the USS CABANA, and
+closed the transport area where 145 rounds of 5"/38 star shell
+ammunition were received from LCM160. At 1035 the SAUFLEY proceeded
+to relieve the USS WADLEIGH on station #2. At 1445 the USS WADLEIGH
+relieved the SAUFLEY on station. Proceeded to anchor in Tanapag
+Harbor.</div>
+<p>At 1700 the SAUFLEY proceeded to take station as
+standby fire support ship in Saipan Channel, and at 2138 conducted
+a surprise bombardment of Yellow Beach, expending 25 rounds of 5"/38
+ammunition. 650 rounds of 20MM, and 270 rounds of 40MM ammunition.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.49583,15.18750,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 2000</name>
+        <styleUrl>#pnt55</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-19T20:00:00Z</begin>
+          <end>1944-07-19T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-19: 2000</h3>
+
+<div>July 19.  Patrolling station #9 in the transport area screen
+West of Saipan. At 0621 relieved on station by the USS CABANA, and
+closed the transport area where 145 rounds of 5"/38 star shell
+ammunition were received from LCM160. At 1035 the SAUFLEY proceeded
+to relieve the USS WADLEIGH on station #2. At 1445 the USS WADLEIGH
+relieved the SAUFLEY on station. Proceeded to anchor in Tanapag
+Harbor.</div>
+<p>At 1700 the SAUFLEY proceeded to take station as
+standby fire support ship in Saipan Channel, and at 2138 conducted
+a surprise bombardment of Yellow Beach, expending 25 rounds of 5"/38
+ammunition. 650 rounds of 20MM, and 270 rounds of 40MM ammunition.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.75000,15.11667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20 0800</name>
+        <styleUrl>#pnt56</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-20T08:00:00Z</begin>
+          <end>1944-07-20T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-20: 0800</h3>
+
+<div>July 20.  Patrolling Saipan Channel as standby fire support
+ship. At 0625 proceeded to close the transport area and fuel from
+the USS LACKAWANNA. Upon completing fueling at 0930 the SAUFLEY
+proceeded to take station East of Tinian, and at 1136 commenced
+bombardment of targets assigned by Commander Task Force FIFTY TWO'S
+mailgram 192117. This bombardment was completed at 1538, 90 rounds
+of 5"/38 ammunition having been expended.</div>
+<p>At 1810 in accordance with Commander Task Force
+FIFTY ONE's dispatch 180402, the SAUFLEY joined up with Task Unit
+FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN, consisting of the following
+ships: USS MONTPELIER (Rear Admiral HAYLER - Commander Task Unit
+FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN), USS CLEVELAND, USS BIRMINGHAM, 
+USS ROCKY MOUNT, USS CUSTER, USS WALLER, USS MONAGHAN, USS FARRAGUT, 
+USS RENSHAW, USS PRINGLE, USS SAUFLEY, and USS BAGLEY.
+Task Unit FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN set course for
+Guam.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.75417,15.07500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20 1200</name>
+        <styleUrl>#pnt57</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-20T12:00:00Z</begin>
+          <end>1944-07-20T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-20: 1200</h3>
+
+<div>July 20.  Patrolling Saipan Channel as standby fire support
+ship. At 0625 proceeded to close the transport area and fuel from
+the USS LACKAWANNA. Upon completing fueling at 0930 the SAUFLEY
+proceeded to take station East of Tinian, and at 1136 commenced
+bombardment of targets assigned by Commander Task Force FIFTY TWO'S
+mailgram 192117. This bombardment was completed at 1538, 90 rounds
+of 5"/38 ammunition having been expended.</div>
+<p>At 1810 in accordance with Commander Task Force
+FIFTY ONE's dispatch 180402, the SAUFLEY joined up with Task Unit
+FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN, consisting of the following
+ships: USS MONTPELIER (Rear Admiral HAYLER - Commander Task Unit
+FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN), USS CLEVELAND, USS BIRMINGHAM, 
+USS ROCKY MOUNT, USS CUSTER, USS WALLER, USS MONAGHAN, USS FARRAGUT, 
+USS RENSHAW, USS PRINGLE, USS SAUFLEY, and USS BAGLEY.
+Task Unit FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN set course for
+Guam.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.68889,15.05000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20 2000</name>
+        <styleUrl>#pnt58</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-20T20:00:00Z</begin>
+          <end>1944-07-20T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-20: 2000</h3>
+
+<div>July 20.  Patrolling Saipan Channel as standby fire support
+ship. At 0625 proceeded to close the transport area and fuel from
+the USS LACKAWANNA. Upon completing fueling at 0930 the SAUFLEY
+proceeded to take station East of Tinian, and at 1136 commenced
+bombardment of targets assigned by Commander Task Force FIFTY TWO'S
+mailgram 192117. This bombardment was completed at 1538, 90 rounds
+of 5"/38 ammunition having been expended.</div>
+<p>At 1810 in accordance with Commander Task Force
+FIFTY ONE's dispatch 180402, the SAUFLEY joined up with Task Unit
+FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN, consisting of the following
+ships: USS MONTPELIER (Rear Admiral HAYLER - Commander Task Unit
+FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN), USS CLEVELAND, USS BIRMINGHAM, 
+USS ROCKY MOUNT, USS CUSTER, USS WALLER, USS MONAGHAN, USS FARRAGUT, 
+USS RENSHAW, USS PRINGLE, USS SAUFLEY, and USS BAGLEY.
+Task Unit FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN set course for
+Guam.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.30000,15.21250,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21 0800</name>
+        <styleUrl>#pnt59</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-21T08:00:00Z</begin>
+          <end>1944-07-21T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-21: 0800</h3>
+
+<div>July 21.  Enroute from Saipan to Guam in company with Task
+Unit FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN. At 0345 the USS MONTPELIER, 
+USS CLEVELAND, USS WALLER, USS PRINGLE and SAUFLEY left the formation
+and proceeded to the assigned fire support sector. The cruisers
+took stations for shore bombardment while the destroyers joined
+the transport area screen.</div>
+<p>At 1754 these ships formed up as Task Unit FIFTY
+ONE POINT EIGHTEEN POINT EIGHTEEN and set course for Saipan. At
+1840 the formation was joined by the USS BIRMINGHAM, USS BAGLEY,
+and USS RENSHAW.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>144.90000,13.53889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21 1200</name>
+        <styleUrl>#pnt60</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-21T12:00:00Z</begin>
+          <end>1944-07-21T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-21: 1200</h3>
+
+<div>July 21.  Enroute from Saipan to Guam in company with Task
+Unit FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN. At 0345 the USS MONTPELIER, 
+USS CLEVELAND, USS WALLER, USS PRINGLE and SAUFLEY left the formation
+and proceeded to the assigned fire support sector. The cruisers
+took stations for shore bombardment while the destroyers joined
+the transport area screen.</div>
+<p>At 1754 these ships formed up as Task Unit FIFTY
+ONE POINT EIGHTEEN POINT EIGHTEEN and set course for Saipan. At
+1840 the formation was joined by the USS BIRMINGHAM, USS BAGLEY,
+and USS RENSHAW.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>144.90000,13.55000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21 2000</name>
+        <styleUrl>#pnt61</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-21T20:00:00Z</begin>
+          <end>1944-07-21T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-21: 2000</h3>
+
+<div>July 21.  Enroute from Saipan to Guam in company with Task
+Unit FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN. At 0345 the USS MONTPELIER, 
+USS CLEVELAND, USS WALLER, USS PRINGLE and SAUFLEY left the formation
+and proceeded to the assigned fire support sector. The cruisers
+took stations for shore bombardment while the destroyers joined
+the transport area screen.</div>
+<p>At 1754 these ships formed up as Task Unit FIFTY
+ONE POINT EIGHTEEN POINT EIGHTEEN and set course for Saipan. At
+1840 the formation was joined by the USS BIRMINGHAM, USS BAGLEY,
+and USS RENSHAW.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>144.47083,13.88333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22 0800</name>
+        <styleUrl>#pnt62</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-22T08:00:00Z</begin>
+          <end>1944-07-22T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-22: 0800</h3>
+
+<div>July 22.  Enroute from Guam to Saipan in company with Task
+Unit FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN. The SAUFLEY was
+detached at 0545 and proceeded to go alongside the USS NEOSHO in
+the transport area West of Saipan to Fuel. Upon completion of
+fueling the SAUFLEY anchored in the transport area.</div>
+<p>Underway at 1725 and proceeded to relieve the USS
+BRYANT patrolling station #2.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.85000,15.15000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22 1200</name>
+        <styleUrl>#pnt63</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-22T12:00:00Z</begin>
+          <end>1944-07-22T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-22: 1200</h3>
+
+<div>July 22.  Enroute from Guam to Saipan in company with Task
+Unit FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN. The SAUFLEY was
+detached at 0545 and proceeded to go alongside the USS NEOSHO in
+the transport area West of Saipan to Fuel. Upon completion of
+fueling the SAUFLEY anchored in the transport area.</div>
+<p>Underway at 1725 and proceeded to relieve the USS
+BRYANT patrolling station #2.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.68333,15.16667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22 2000</name>
+        <styleUrl>#pnt64</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-22T20:00:00Z</begin>
+          <end>1944-07-22T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-22: 2000</h3>
+
+<div>July 22.  Enroute from Guam to Saipan in company with Task
+Unit FIFTY ONE POINT EIGHTEEN POINT EIGHTEEN. The SAUFLEY was
+detached at 0545 and proceeded to go alongside the USS NEOSHO in
+the transport area West of Saipan to Fuel. Upon completion of
+fueling the SAUFLEY anchored in the transport area.</div>
+<p>Underway at 1725 and proceeded to relieve the USS
+BRYANT patrolling station #2.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.50000,15.18333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23 0800</name>
+        <styleUrl>#pnt65</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-23T08:00:00Z</begin>
+          <end>1944-07-23T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-23: 0800</h3>
+
+<div>July 23.  Patrolling station #2 in the transport area screen
+West of Saipan. At 1625 shifted to patrol station #8 Able as
+established by appendix two (2) of attack order A112-44.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.52778,15.12222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23 1200</name>
+        <styleUrl>#pnt66</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-23T12:00:00Z</begin>
+          <end>1944-07-23T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-23: 1200</h3>
+
+<div>July 23.  Patrolling station #2 in the transport area screen
+West of Saipan. At 1625 shifted to patrol station #8 Able as
+established by appendix two (2) of attack order A112-44.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.52500,15.11111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23 2000</name>
+        <styleUrl>#pnt67</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-23T20:00:00Z</begin>
+          <end>1944-07-23T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-23: 2000</h3>
+
+<div>July 23.  Patrolling station #2 in the transport area screen
+West of Saipan. At 1625 shifted to patrol station #8 Able as
+established by appendix two (2) of attack order A112-44.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.46667,15.98333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 0800</name>
+        <styleUrl>#pnt68</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-24T08:00:00Z</begin>
+          <end>1944-07-24T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-24: 0800</h3>
+
+<div>July 24.
+Patrolling station #8 Able West of Tinian in the
+transport area screen. The initial landings on Tinian were made
+at approximately 0730 King.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.53333,14.99444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 1200</name>
+        <styleUrl>#pnt69</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-24T12:00:00Z</begin>
+          <end>1944-07-24T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-24: 1200</h3>
+
+<div>July 24.
+Patrolling station #8 Able West of Tinian in the
+transport area screen. The initial landings on Tinian were made
+at approximately 0730 King.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.51667,15.00000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24 2000</name>
+        <styleUrl>#pnt70</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-24T20:00:00Z</begin>
+          <end>1944-07-24T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-24: 2000</h3>
+
+<div>July 24.
+Patrolling station #8 Able West of Tinian in the
+transport area screen. The initial landings on Tinian were made
+at approximately 0730 King.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.51667,15.00417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 0800</name>
+        <styleUrl>#pnt71</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-25T08:00:00Z</begin>
+          <end>1944-07-25T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-25: 0800</h3>
+
+<div>July 25.
+Patrolling screening station #8 Able West of Tinian.
+At 1250 the SAUFLEY was relieved on station by the USS PHILIP, and
+proceeded to close the transport area and fuel from the USS GEMSBOK.
+Upon completing fueling proceeded to relieve the PHILIP on station
+#8 Able.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.50000,15.00000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 1200</name>
+        <styleUrl>#pnt72</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-25T12:00:00Z</begin>
+          <end>1944-07-25T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-25: 1200</h3>
+
+<div>July 25.
+Patrolling screening station #8 Able West of Tinian.
+At 1250 the SAUFLEY was relieved on station by the USS PHILIP, and
+proceeded to close the transport area and fuel from the USS GEMSBOK.
+Upon completing fueling proceeded to relieve the PHILIP on station
+#8 Able.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.48333,15.03333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 2000</name>
+        <styleUrl>#pnt73</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-25T20:00:00Z</begin>
+          <end>1944-07-25T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-25: 2000</h3>
+
+<div>July 25.
+Patrolling screening station #8 Able West of Tinian.
+At 1250 the SAUFLEY was relieved on station by the USS PHILIP, and
+proceeded to close the transport area and fuel from the USS GEMSBOK.
+Upon completing fueling proceeded to relieve the PHILIP on station
+#8 Able.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.48333,15.05000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26 0800</name>
+        <styleUrl>#pnt74</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-26T08:00:00Z</begin>
+          <end>1944-07-26T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-26: 0800</h3>
+
+<div>July 26.  Patrolling screening station #8 Able West of
+Tinian Island.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.52917,15.08333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26 1200</name>
+        <styleUrl>#pnt75</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-26T12:00:00Z</begin>
+          <end>1944-07-26T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-26: 1200</h3>
+
+<div>July 26.  Patrolling screening station #8 Able West of
+Tinian Island.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.53333,15.08889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26 2000</name>
+        <styleUrl>#pnt76</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-26T20:00:00Z</begin>
+          <end>1944-07-26T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-26: 2000</h3>
+
+<div>July 26.  Patrolling screening station #8 Able West of
+Tinian Island.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.47222,15.00556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27 0800</name>
+        <styleUrl>#pnt77</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-27T08:00:00Z</begin>
+          <end>1944-07-27T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-27: 0800</h3>
+
+<div>July 27.  Patrolling screening station #8 Able West of
+Tinian Island. At 1414 relieved by the USS RENSHAW. Closed the
+transport area and lay to awaiting further orders.</div>
+<p>At 1736 proceeded to take station in fire support
+sector #3 West of Tinian Town, and at 1938, in company with the
+USS PATTERSON, commenced an intermittent harassing bombardment of
+assigned targets on the Southern half of Tinian Island.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.52500,15.00833,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27 1200</name>
+        <styleUrl>#pnt78</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-27T12:00:00Z</begin>
+          <end>1944-07-27T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-27: 1200</h3>
+
+<div>July 27.  Patrolling screening station #8 Able West of
+Tinian Island. At 1414 relieved by the USS RENSHAW. Closed the
+transport area and lay to awaiting further orders.</div>
+<p>At 1736 proceeded to take station in fire support
+sector #3 West of Tinian Town, and at 1938, in company with the
+USS PATTERSON, commenced an intermittent harassing bombardment of
+assigned targets on the Southern half of Tinian Island.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.52500,15.02222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27 2000</name>
+        <styleUrl>#pnt79</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-27T20:00:00Z</begin>
+          <end>1944-07-27T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-27: 2000</h3>
+
+<div>July 27.  Patrolling screening station #8 Able West of
+Tinian Island. At 1414 relieved by the USS RENSHAW. Closed the
+transport area and lay to awaiting further orders.</div>
+<p>At 1736 proceeded to take station in fire support
+sector #3 West of Tinian Town, and at 1938, in company with the
+USS PATTERSON, commenced an intermittent harassing bombardment of
+assigned targets on the Southern half of Tinian Island.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.57222,14.96250,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 0800</name>
+        <styleUrl>#pnt80</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-28T08:00:00Z</begin>
+          <end>1944-07-28T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-28: 0800</h3>
+
+<div>July 28.  Steaming West of Tinian Town in company with the
+USS PATTERSON conducting an intermittent harassing bombardment of
+targets assigned by Commander Task Force FIFTY TWO. This bombardment 
+was completed at 0440, having expended 92 rounds of 5"/38
+ammunition.</div>
+<p>At 0600 the SAUFLEY proceeded to fire support
+sector #4 and screened the USS MONTPELIER during that ship's
+bombardment of targets on Tinian Island. This duty was completed
+at 1145, and the SAUFLEY remained in fire support sector #4 as
+standby for fire support mission. At 1655 the SAUFLEY was
+relieved of her fire support mission by the USS CONWAY, and
+proceeded to relieve the USS CONY on screening station #20.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.81667,14.93333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 1200</name>
+        <styleUrl>#pnt81</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-28T12:00:00Z</begin>
+          <end>1944-07-28T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-28: 1200</h3>
+
+<div>July 28.  Steaming West of Tinian Town in company with the
+USS PATTERSON conducting an intermittent harassing bombardment of
+targets assigned by Commander Task Force FIFTY TWO. This bombardment 
+was completed at 0440, having expended 92 rounds of 5"/38
+ammunition.</div>
+<p>At 0600 the SAUFLEY proceeded to fire support
+sector #4 and screened the USS MONTPELIER during that ship's
+bombardment of targets on Tinian Island. This duty was completed
+at 1145, and the SAUFLEY remained in fire support sector #4 as
+standby for fire support mission. At 1655 the SAUFLEY was
+relieved of her fire support mission by the USS CONWAY, and
+proceeded to relieve the USS CONY on screening station #20.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.81667,14.88333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 2000</name>
+        <styleUrl>#pnt82</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-28T20:00:00Z</begin>
+          <end>1944-07-28T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-28: 2000</h3>
+
+<div>July 28.  Steaming West of Tinian Town in company with the
+USS PATTERSON conducting an intermittent harassing bombardment of
+targets assigned by Commander Task Force FIFTY TWO. This bombardment 
+was completed at 0440, having expended 92 rounds of 5"/38
+ammunition.</div>
+<p>At 0600 the SAUFLEY proceeded to fire support
+sector #4 and screened the USS MONTPELIER during that ship's
+bombardment of targets on Tinian Island. This duty was completed
+at 1145, and the SAUFLEY remained in fire support sector #4 as
+standby for fire support mission. At 1655 the SAUFLEY was
+relieved of her fire support mission by the USS CONWAY, and
+proceeded to relieve the USS CONY on screening station #20.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.75000,14.95417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29 0800</name>
+        <styleUrl>#pnt83</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-29T08:00:00Z</begin>
+          <end>1944-07-29T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-29: 0800</h3>
+
+<div>July 29.  Patrolling on screening station #20 East of
+Tinian Island. At 0700 relieved on station by the USS PATTERSON,
+and closed the transport area.</div>
+<p>At 1326 proceeded to relieve the USS A.W. GRANT
+on station #4, and at 1556 was relieved on station #4 by the USS REMEY 
+and proceeded to patrol radar picket station Baker.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.68333,15.15000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29 1200</name>
+        <styleUrl>#pnt84</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-29T12:00:00Z</begin>
+          <end>1944-07-29T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-29: 1200</h3>
+
+<div>July 29.  Patrolling on screening station #20 East of
+Tinian Island. At 0700 relieved on station by the USS PATTERSON,
+and closed the transport area.</div>
+<p>At 1326 proceeded to relieve the USS A.W. GRANT
+on station #4, and at 1556 was relieved on station #4 by the USS REMEY 
+and proceeded to patrol radar picket station Baker.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.83333,14.95000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 0800</name>
+        <styleUrl>#pnt85</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-30T08:00:00Z</begin>
+          <end>1944-07-30T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-30: 0800</h3>
+
+<div>July 30.  Patrolling radar picket station Baker 25 miles
+Southeast of Tinian Island. At 0600 left picket station and
+proceeded to close the transport area to fuel from the USS WHIPPET.
+At 1040, upon completing fueling, proceeded to take station in fire
+support sector #5, and relieve the USS MCGOWAN. At 1947 commenced
+intermittent harassing illumination of area 539 "X", at the rate
+of 6 star shells per hour.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.83333,15.21667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 1200</name>
+        <styleUrl>#pnt86</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-30T12:00:00Z</begin>
+          <end>1944-07-30T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-30: 1200</h3>
+
+<div>July 30.  Patrolling radar picket station Baker 25 miles
+Southeast of Tinian Island. At 0600 left picket station and
+proceeded to close the transport area to fuel from the USS WHIPPET.
+At 1040, upon completing fueling, proceeded to take station in fire
+support sector #5, and relieve the USS MCGOWAN. At 1947 commenced
+intermittent harassing illumination of area 539 "X", at the rate
+of 6 star shells per hour.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.68333,15.18750,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 2000</name>
+        <styleUrl>#pnt87</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-30T20:00:00Z</begin>
+          <end>1944-07-30T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-30: 2000</h3>
+
+<div>July 30.  Patrolling radar picket station Baker 25 miles
+Southeast of Tinian Island. At 0600 left picket station and
+proceeded to close the transport area to fuel from the USS WHIPPET.
+At 1040, upon completing fueling, proceeded to take station in fire
+support sector #5, and relieve the USS MCGOWAN. At 1947 commenced
+intermittent harassing illumination of area 539 "X", at the rate
+of 6 star shells per hour.</div>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.70000,15.03750,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31 0800</name>
+        <styleUrl>#pnt88</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-31T08:00:00Z</begin>
+          <end>1944-07-31T08:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-31: 0800</h3>
+
+<div>July 31.  Patrolling in fire support sector #5, conducting a
+harassing illumination of area 539 "X". At 0545 ceased illuminating, 
+having expended 61 rounds of 5"/38 star shell ammunition.</div>
+<p>At 0813 commenced bombardment of various targets on
+the East coast of Tinian as assigned by the Shore Fire Control
+party. This bombardment was completed at 0855, 26 rounds of 5"/38
+ammunition having been expended.</p>
+<p>At 1320 the SAUFLEY was relieved of her fire
+support mission by the USS CONY, and proceeded to relieve the
+USS TISDALE in station #14 Able. At 2004 relieved on station by
+the USS INGERSOLL and proceeded to patrol radar picket station
+Charlie, 25 miles Southwest of Tinian Island.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.71667,14.90000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31 1200</name>
+        <styleUrl>#pnt89</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-31T12:00:00Z</begin>
+          <end>1944-07-31T12:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-31: 1200</h3>
+
+<div>July 31.  Patrolling in fire support sector #5, conducting a
+harassing illumination of area 539 "X". At 0545 ceased illuminating, 
+having expended 61 rounds of 5"/38 star shell ammunition.</div>
+<p>At 0813 commenced bombardment of various targets on
+the East coast of Tinian as assigned by the Shore Fire Control
+party. This bombardment was completed at 0855, 26 rounds of 5"/38
+ammunition having been expended.</p>
+<p>At 1320 the SAUFLEY was relieved of her fire
+support mission by the USS CONY, and proceeded to relieve the
+USS TISDALE in station #14 Able. At 2004 relieved on station by
+the USS INGERSOLL and proceeded to patrol radar picket station
+Charlie, 25 miles Southwest of Tinian Island.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.71667,14.90000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31 2000</name>
+        <styleUrl>#pnt90</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-31T20:00:00Z</begin>
+          <end>1944-07-31T20:01:00Z</end>
+        </TimeSpan>
+        <description><![CDATA[
+<h3>1944-07-31: 2000</h3>
+
+<div>July 31.  Patrolling in fire support sector #5, conducting a
+harassing illumination of area 539 "X". At 0545 ceased illuminating, 
+having expended 61 rounds of 5"/38 star shell ammunition.</div>
+<p>At 0813 commenced bombardment of various targets on
+the East coast of Tinian as assigned by the Shore Fire Control
+party. This bombardment was completed at 0855, 26 rounds of 5"/38
+ammunition having been expended.</p>
+<p>At 1320 the SAUFLEY was relieved of her fire
+support mission by the USS CONY, and proceeded to relieve the
+USS TISDALE in station #14 Able. At 2004 relieved on station by
+the USS INGERSOLL and proceeded to patrol radar picket station
+Charlie, 25 miles Southwest of Tinian Island.</p>
+          ]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.49583,14.84167,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>1944-07 Routes</name>
+      <Style id="line1">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line2">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line3">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line4">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line5">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line6">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line7">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line8">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line9">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line10">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line11">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line12">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line13">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line14">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line15">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line16">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line17">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line18">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line19">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line20">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line21">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line22">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line23">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line24">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line25">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line26">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line27">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line28">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line29">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line30">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line31">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line32">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line33">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line34">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line35">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line36">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line37">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line38">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line39">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line40">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line41">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line42">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line43">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line44">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line45">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line46">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line47">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line48">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line49">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line50">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line51">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line52">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line53">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line54">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line55">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line56">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line57">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line58">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line59">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line60">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line61">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line62">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line63">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line64">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line65">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line66">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line67">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line68">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line69">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line70">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line71">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line72">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line73">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line74">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line75">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line76">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line77">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line78">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line79">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line80">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line81">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line82">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line83">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line84">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line85">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line86">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="line87">
+        <LineStyle>
+          <color>#ff00ffff</color>
+          <width>1</width>
+        </LineStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>01 0800</name>
+        <styleUrl>#line1</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-01T08:00:00Z</begin>
+          <end>1944-07-01T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.725,15.1708333333333,0
+ 145.6,15.2,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>01 1200</name>
+        <styleUrl>#line2</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-01T12:00:00Z</begin>
+          <end>1944-07-01T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.6,15.2,0
+ 145.8375,15.1833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>01 2000</name>
+        <styleUrl>#line3</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-01T20:00:00Z</begin>
+          <end>1944-07-01T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.8375,15.1833333333333,0
+ 145.858333333333,15.1916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>02 0800</name>
+        <styleUrl>#line4</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-02T08:00:00Z</begin>
+          <end>1944-07-02T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.858333333333,15.1916666666667,0
+ 145.9125,15.1791666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>02 1200</name>
+        <styleUrl>#line5</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-02T12:00:00Z</begin>
+          <end>1944-07-02T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.9125,15.1791666666667,0
+ 145.2,15.5291666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>02 2000</name>
+        <styleUrl>#line6</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-02T20:00:00Z</begin>
+          <end>1944-07-02T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.2,15.5291666666667,0
+ 145.6875,15.1333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>03 0800</name>
+        <styleUrl>#line7</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-03T08:00:00Z</begin>
+          <end>1944-07-03T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.6875,15.1333333333333,0
+ 145.666666666667,15.1555555555556,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>03 1200</name>
+        <styleUrl>#line8</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-03T12:00:00Z</begin>
+          <end>1944-07-03T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.666666666667,15.1555555555556,0
+ 145.594444444444,15.3041666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>03 2000</name>
+        <styleUrl>#line9</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-03T20:00:00Z</begin>
+          <end>1944-07-03T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.594444444444,15.3041666666667,0
+ 145.677777777778,15.1666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>04 1200</name>
+        <styleUrl>#line10</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-04T12:00:00Z</begin>
+          <end>1944-07-04T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.677777777778,15.1666666666667,0
+ 145.722222222222,15.05,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>04 2000</name>
+        <styleUrl>#line11</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-04T20:00:00Z</begin>
+          <end>1944-07-04T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.722222222222,15.05,0
+ 145.704166666667,15.2166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>05 0800</name>
+        <styleUrl>#line12</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-05T08:00:00Z</begin>
+          <end>1944-07-05T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.704166666667,15.2166666666667,0
+ 145.95,15.3333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>05 1200</name>
+        <styleUrl>#line13</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-05T12:00:00Z</begin>
+          <end>1944-07-05T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.95,15.3333333333333,0
+ 145.916666666667,15.1333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>05 2000</name>
+        <styleUrl>#line14</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-05T20:00:00Z</begin>
+          <end>1944-07-05T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.916666666667,15.1333333333333,0
+ 145.908333333333,15.2583333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>06 0800</name>
+        <styleUrl>#line15</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-06T08:00:00Z</begin>
+          <end>1944-07-06T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.908333333333,15.2583333333333,0
+ 145.979166666667,15.2666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>06 1200</name>
+        <styleUrl>#line16</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-06T12:00:00Z</begin>
+          <end>1944-07-06T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.979166666667,15.2666666666667,0
+ 145.308333333333,15.5,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>06 2000</name>
+        <styleUrl>#line17</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-06T20:00:00Z</begin>
+          <end>1944-07-06T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.308333333333,15.5,0
+ 145.972222222222,15.1958333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>07 0800</name>
+        <styleUrl>#line18</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-07T08:00:00Z</begin>
+          <end>1944-07-07T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.972222222222,15.1958333333333,0
+ 145.716666666667,15.6166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>07 1200</name>
+        <styleUrl>#line19</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-07T12:00:00Z</begin>
+          <end>1944-07-07T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.716666666667,15.6166666666667,0
+ 145.691666666667,15.2944444444444,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>07 2000</name>
+        <styleUrl>#line20</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-07T20:00:00Z</begin>
+          <end>1944-07-07T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.691666666667,15.2944444444444,0
+ 145.7,15.2888888888889,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>08 0800</name>
+        <styleUrl>#line21</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-08T08:00:00Z</begin>
+          <end>1944-07-08T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.7,15.2888888888889,0
+ 145.729166666667,15.2791666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>08 1200</name>
+        <styleUrl>#line22</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-08T12:00:00Z</begin>
+          <end>1944-07-08T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.729166666667,15.2791666666667,0
+ 145.754166666667,15.2833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>08 2000</name>
+        <styleUrl>#line23</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-08T20:00:00Z</begin>
+          <end>1944-07-08T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.754166666667,15.2833333333333,0
+ 145.833333333333,15.2916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>09 0800</name>
+        <styleUrl>#line24</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-09T08:00:00Z</begin>
+          <end>1944-07-09T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.833333333333,15.2916666666667,0
+ 145.925,15.2666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>09 1200</name>
+        <styleUrl>#line25</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-09T12:00:00Z</begin>
+          <end>1944-07-09T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.925,15.2666666666667,0
+ 145.441666666667,15.225,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>09 2000</name>
+        <styleUrl>#line26</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-09T20:00:00Z</begin>
+          <end>1944-07-09T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.441666666667,15.225,0
+ 145.295833333333,15.2833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10 0800</name>
+        <styleUrl>#line27</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-10T08:00:00Z</begin>
+          <end>1944-07-10T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.295833333333,15.2833333333333,0
+ 145.708333333333,15.2916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10 1200</name>
+        <styleUrl>#line28</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-10T12:00:00Z</begin>
+          <end>1944-07-10T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.708333333333,15.2916666666667,0
+ 145.7,15.3041666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10 2000</name>
+        <styleUrl>#line29</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-10T20:00:00Z</begin>
+          <end>1944-07-10T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.7,15.3041666666667,0
+ 145.683333333333,15.1666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11 0800</name>
+        <styleUrl>#line30</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-11T08:00:00Z</begin>
+          <end>1944-07-11T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.683333333333,15.1666666666667,0
+ 145.929166666667,15.3416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11 2000</name>
+        <styleUrl>#line31</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-11T20:00:00Z</begin>
+          <end>1944-07-11T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.929166666667,15.3416666666667,0
+ 145.85,15.3833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12 0800</name>
+        <styleUrl>#line32</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-12T08:00:00Z</begin>
+          <end>1944-07-12T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.85,15.3833333333333,0
+ 145.883333333333,15.4,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12 1200</name>
+        <styleUrl>#line33</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-12T12:00:00Z</begin>
+          <end>1944-07-12T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.883333333333,15.4,0
+ 146.016666666667,15.4083333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12 2000</name>
+        <styleUrl>#line34</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-12T20:00:00Z</begin>
+          <end>1944-07-12T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>146.016666666667,15.4083333333333,0
+ 148.6,14.7916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13 0800</name>
+        <styleUrl>#line35</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-13T08:00:00Z</begin>
+          <end>1944-07-13T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>148.6,14.7916666666667,0
+ 149.616666666667,14.5944444444444,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13 1200</name>
+        <styleUrl>#line36</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-13T12:00:00Z</begin>
+          <end>1944-07-13T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>149.616666666667,14.5944444444444,0
+ 150.291666666667,15.0708333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13 2000</name>
+        <styleUrl>#line37</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-13T20:00:00Z</begin>
+          <end>1944-07-13T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>150.291666666667,15.0708333333333,0
+ 148.525,15.2666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14 0800</name>
+        <styleUrl>#line38</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-14T08:00:00Z</begin>
+          <end>1944-07-14T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>148.525,15.2666666666667,0
+ 149.358333333333,15.2333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14 1200</name>
+        <styleUrl>#line39</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-14T12:00:00Z</begin>
+          <end>1944-07-14T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>149.358333333333,15.2333333333333,0
+ 149.445833333333,15.1916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14 2000</name>
+        <styleUrl>#line40</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-14T20:00:00Z</begin>
+          <end>1944-07-14T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>149.445833333333,15.1916666666667,0
+ 145.583333333333,15.3333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>15 0800</name>
+        <styleUrl>#line41</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-15T08:00:00Z</begin>
+          <end>1944-07-15T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.583333333333,15.3333333333333,0
+ 145.547222222222,15.0791666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>15 2000</name>
+        <styleUrl>#line42</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-15T20:00:00Z</begin>
+          <end>1944-07-15T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.547222222222,15.0791666666667,0
+ 145.679166666667,15.1458333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16 0800</name>
+        <styleUrl>#line43</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-16T08:00:00Z</begin>
+          <end>1944-07-16T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.679166666667,15.1458333333333,0
+ 145.579166666667,15.0291666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16 1200</name>
+        <styleUrl>#line44</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-16T12:00:00Z</begin>
+          <end>1944-07-16T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.579166666667,15.0291666666667,0
+ 145.5625,15.0083333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16 2000</name>
+        <styleUrl>#line45</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-16T20:00:00Z</begin>
+          <end>1944-07-16T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.5625,15.0083333333333,0
+ 145.8,15.0916666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17 0800</name>
+        <styleUrl>#line46</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-17T08:00:00Z</begin>
+          <end>1944-07-17T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.8,15.0916666666667,0
+ 145.75,15.0375,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17 1200</name>
+        <styleUrl>#line47</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-17T12:00:00Z</begin>
+          <end>1944-07-17T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.75,15.0375,0
+ 145.55,15.075,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17 2000</name>
+        <styleUrl>#line48</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-17T20:00:00Z</begin>
+          <end>1944-07-17T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.55,15.075,0
+ 145.691666666667,15.2,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18 0800</name>
+        <styleUrl>#line49</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-18T08:00:00Z</begin>
+          <end>1944-07-18T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.691666666667,15.2,0
+ 145.633333333333,15.2291666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18 1200</name>
+        <styleUrl>#line50</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-18T12:00:00Z</begin>
+          <end>1944-07-18T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.633333333333,15.2291666666667,0
+ 145.733333333333,15.2958333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18 2000</name>
+        <styleUrl>#line51</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-18T20:00:00Z</begin>
+          <end>1944-07-18T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.733333333333,15.2958333333333,0
+ 145.729166666667,15.2416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>19 0800</name>
+        <styleUrl>#line52</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-19T08:00:00Z</begin>
+          <end>1944-07-19T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.729166666667,15.2416666666667,0
+ 145.495833333333,15.1875,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>19 1200</name>
+        <styleUrl>#line53</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-19T12:00:00Z</begin>
+          <end>1944-07-19T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.495833333333,15.1875,0
+ 145.75,15.1166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>19 2000</name>
+        <styleUrl>#line54</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-19T20:00:00Z</begin>
+          <end>1944-07-19T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.75,15.1166666666667,0
+ 145.754166666667,15.075,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>20 0800</name>
+        <styleUrl>#line55</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-20T08:00:00Z</begin>
+          <end>1944-07-20T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.754166666667,15.075,0
+ 145.688888888889,15.05,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>20 1200</name>
+        <styleUrl>#line56</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-20T12:00:00Z</begin>
+          <end>1944-07-20T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.688888888889,15.05,0
+ 145.3,15.2125,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>20 2000</name>
+        <styleUrl>#line57</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-20T20:00:00Z</begin>
+          <end>1944-07-20T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.3,15.2125,0
+ 144.9,13.5388888888889,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>21 0800</name>
+        <styleUrl>#line58</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-21T08:00:00Z</begin>
+          <end>1944-07-21T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>144.9,13.5388888888889,0
+ 144.9,13.55,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>21 1200</name>
+        <styleUrl>#line59</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-21T12:00:00Z</begin>
+          <end>1944-07-21T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>144.9,13.55,0
+ 144.470833333333,13.8833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>21 2000</name>
+        <styleUrl>#line60</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-21T20:00:00Z</begin>
+          <end>1944-07-21T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>144.470833333333,13.8833333333333,0
+ 145.85,15.15,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>22 0800</name>
+        <styleUrl>#line61</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-22T08:00:00Z</begin>
+          <end>1944-07-22T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.85,15.15,0
+ 145.683333333333,15.1666666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>22 1200</name>
+        <styleUrl>#line62</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-22T12:00:00Z</begin>
+          <end>1944-07-22T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.683333333333,15.1666666666667,0
+ 145.5,15.1833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>22 2000</name>
+        <styleUrl>#line63</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-22T20:00:00Z</begin>
+          <end>1944-07-22T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.5,15.1833333333333,0
+ 145.527777777778,15.1222222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>23 0800</name>
+        <styleUrl>#line64</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-23T08:00:00Z</begin>
+          <end>1944-07-23T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.527777777778,15.1222222222222,0
+ 145.525,15.1111111111111,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>23 1200</name>
+        <styleUrl>#line65</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-23T12:00:00Z</begin>
+          <end>1944-07-23T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.525,15.1111111111111,0
+ 145.466666666667,15.9833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>23 2000</name>
+        <styleUrl>#line66</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-23T20:00:00Z</begin>
+          <end>1944-07-23T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.466666666667,15.9833333333333,0
+ 145.533333333333,14.9944444444444,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>24 0800</name>
+        <styleUrl>#line67</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-24T08:00:00Z</begin>
+          <end>1944-07-24T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.533333333333,14.9944444444444,0
+ 145.516666666667,15,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>24 1200</name>
+        <styleUrl>#line68</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-24T12:00:00Z</begin>
+          <end>1944-07-24T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.516666666667,15,0
+ 145.516666666667,15.0041666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>24 2000</name>
+        <styleUrl>#line69</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-24T20:00:00Z</begin>
+          <end>1944-07-24T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.516666666667,15.0041666666667,0
+ 145.5,15,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>25 0800</name>
+        <styleUrl>#line70</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-25T08:00:00Z</begin>
+          <end>1944-07-25T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.5,15,0
+ 145.483333333333,15.0333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>25 1200</name>
+        <styleUrl>#line71</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-25T12:00:00Z</begin>
+          <end>1944-07-25T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.483333333333,15.0333333333333,0
+ 145.483333333333,15.05,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>25 2000</name>
+        <styleUrl>#line72</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-25T20:00:00Z</begin>
+          <end>1944-07-25T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.483333333333,15.05,0
+ 145.529166666667,15.0833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>26 0800</name>
+        <styleUrl>#line73</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-26T08:00:00Z</begin>
+          <end>1944-07-26T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.529166666667,15.0833333333333,0
+ 145.533333333333,15.0888888888889,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>26 1200</name>
+        <styleUrl>#line74</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-26T12:00:00Z</begin>
+          <end>1944-07-26T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.533333333333,15.0888888888889,0
+ 145.472222222222,15.0055555555556,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>26 2000</name>
+        <styleUrl>#line75</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-26T20:00:00Z</begin>
+          <end>1944-07-26T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.472222222222,15.0055555555556,0
+ 145.525,15.0083333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>27 0800</name>
+        <styleUrl>#line76</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-27T08:00:00Z</begin>
+          <end>1944-07-27T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.525,15.0083333333333,0
+ 145.525,15.0222222222222,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>27 1200</name>
+        <styleUrl>#line77</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-27T12:00:00Z</begin>
+          <end>1944-07-27T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.525,15.0222222222222,0
+ 145.572222222222,14.9625,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>27 2000</name>
+        <styleUrl>#line78</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-27T20:00:00Z</begin>
+          <end>1944-07-27T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.572222222222,14.9625,0
+ 145.816666666667,14.9333333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>28 0800</name>
+        <styleUrl>#line79</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-28T08:00:00Z</begin>
+          <end>1944-07-28T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.816666666667,14.9333333333333,0
+ 145.816666666667,14.8833333333333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>28 1200</name>
+        <styleUrl>#line80</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-28T12:00:00Z</begin>
+          <end>1944-07-28T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.816666666667,14.8833333333333,0
+ 145.75,14.9541666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>28 2000</name>
+        <styleUrl>#line81</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-28T20:00:00Z</begin>
+          <end>1944-07-28T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.75,14.9541666666667,0
+ 145.683333333333,15.15,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>29 0800</name>
+        <styleUrl>#line82</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-29T08:00:00Z</begin>
+          <end>1944-07-29T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.683333333333,15.15,0
+ 145.833333333333,14.95,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>29 1200</name>
+        <styleUrl>#line83</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-29T12:00:00Z</begin>
+          <end>1944-07-29T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.833333333333,14.95,0
+ 145.833333333333,15.2166666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>30 0800</name>
+        <styleUrl>#line84</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-30T08:00:00Z</begin>
+          <end>1944-07-30T08:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.833333333333,15.2166666666667,0
+ 145.683333333333,15.1875,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>30 1200</name>
+        <styleUrl>#line85</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-30T12:00:00Z</begin>
+          <end>1944-07-30T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.683333333333,15.1875,0
+ 145.7,15.0375,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>30 2000</name>
+        <styleUrl>#line86</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-30T20:00:00Z</begin>
+          <end>1944-07-30T20:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.7,15.0375,0
+ 145.716666666667,14.9,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>31 1200</name>
+        <styleUrl>#line87</styleUrl>
+        <TimeSpan>
+          <begin>1944-07-31T12:00:00Z</begin>
+          <end>1944-07-31T12:01:00Z</end>
+        </TimeSpan>
+        <LineString>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>145.716666666667,14.9,0
+ 145.495833333333,14.8416666666667,0</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
       <name>1944-08 Locations</name>
       <Style id="pnt1">
         <LabelStyle>
