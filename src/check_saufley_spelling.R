@@ -15,30 +15,24 @@ check_saufley_spelling <- function(path_to_xml, word_list, ship_names)
   X_descriptions <- unlist(lapply(xml2::xml_find_all(X, "//description"), xml2::xml_text))
   
   # Drop ship names in descriptions
-  for (i in seq_along(X_descriptions))
+  for (j in seq_along(ship_names$Ship))
   {
-    for (j in seq_along(ship_names$Ship))
+    ship_to_find <- paste0(ship_names$Ship[j], "[[:punct:][:space:]]")
+    X_descriptions <- gsub(ship_to_find, "", X_descriptions)
+    if (grepl("^USS", ship_to_find))
     {
-      ship_to_find <- paste0(ship_names$Ship[j], "[[:punct:][:space:]]")
-      X_descriptions[i] <- gsub(ship_to_find, "", X_descriptions[i])
-      if (grepl("^USS", ship_to_find))
-      {
-        ship_to_find <- gsub("^USS", "U.S.S.", ship_to_find)
-        X_descriptions[i] <- gsub(ship_to_find, "", X_descriptions[i])
-      } else if (grepl("^SS", ship_to_find))
-      {
-        ship_to_find <- gsub("^SS", "S.S.", ship_to_find)
-        X_descriptions[i] <- gsub(ship_to_find, "", X_descriptions[i])
-      }
+      ship_to_find <- gsub("^USS", "U.S.S.", ship_to_find)
+      X_descriptions <- gsub(ship_to_find, "", X_descriptions)
+    } else if (grepl("^SS", ship_to_find))
+    {
+      ship_to_find <- gsub("^SS", "S.S.", ship_to_find)
+      X_descriptions <- gsub(ship_to_find, "", X_descriptions)
     }
-  }
+  }  
   
   # Drop ordinal numbers
-  for (i in seq_along(X_descriptions))
-  {
-    X_descriptions[i] <- gsub("[0-9]+[t][h]", "", X_descriptions[i])
-    X_descriptions[i] <- gsub("[0-9]+[r][d]", "", X_descriptions[i])
-  }
+  X_descriptions <- gsub("[0-9]+[t][h]", "", X_descriptions)
+  X_descriptions <- gsub("[0-9]+[r][d]", "", X_descriptions)
   
   # Drop 's
   X_descriptions <- gsub("[']s", "", X_descriptions)

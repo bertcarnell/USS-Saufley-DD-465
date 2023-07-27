@@ -61,6 +61,10 @@ create_word_list <- function() return(c(
   "NPM", "depermed", "rebricking", "Enroute", "enroute", "despatch", "Despatch",
   "engined", "cancelled", "Jills", "Kates",
   "blackcats", "superheater", "deperming", "RDF", "Ambrose",
+  "Proj", "Fuze", "fuze", "Rept", "Wilco", "AAC", "HEE", "Sitrep",
+  "Halfbreed", "Lehigh", "Sunray", "Wildbeast", "Seahawks",
+  "Gayblade", "VOXPOP", "HET", "ack", "moonrise", "photostated",
+  "kts", "Tony", "spd", 
   # command terms
   #  CDD - Commander Destroyer Division
   #  CDS - Commander Destroyer Squadron

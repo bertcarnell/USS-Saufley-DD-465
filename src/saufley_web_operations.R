@@ -13,13 +13,19 @@ require(sp)
 require(dplyr)
 require(htmlwidgets)
 
-### Validate the XML
 source("src/validate_saufley_xml.R")
+source("src/check_saufley_spelling.R")
+source("src/CustomDictionary.R")
+source("src/War Report Utilities.R")
+source("src/create_saufley_maps.R")
+
+################################################################################
+## War Diaries
+
+### Validate the XML
 validate_saufley_xml("docs")
 
 ### Spell Check
-source("src/check_saufley_spelling.R")
-source("src/CustomDictionary.R")
 word_list <- create_word_list()
 ship_names <- read.csv("src/ShipNames.csv")
 check_saufley_spelling("docs", word_list, ship_names)
@@ -44,7 +50,61 @@ for (i in 2:length(temp))
 }
 
 ### Create Maps
-source("src/War Report Utilities.R")
-source("src/create_saufley_maps.R")
 create_saufley_maps("docs", file.path("src", "kml"), file.path("src", "leaflet"))
 
+################################################################################
+## After Actions
+
+word_list <- create_word_list()
+ship_names <- read.csv("src/ShipNames.csv")
+
+# read files
+html_filepath <- file.path("docs", "after_action_reports.html")
+X <- xml2::read_html(html_filepath)
+# extract descriptions
+x_p <- unlist(lapply(xml2::xml_find_all(X, "//p"), xml2::xml_text))
+x_td <- unlist(lapply(xml2::xml_find_all(X, "//td"), xml2::xml_text))
+x_th <- unlist(lapply(xml2::xml_find_all(X, "//th"), xml2::xml_text))
+x_u <- unlist(lapply(xml2::xml_find_all(X, "//u"), xml2::xml_text))
+x_li <- unlist(lapply(xml2::xml_find_all(X, "//li"), xml2::xml_text))
+
+X_descriptions <- c(x_p, x_td, x_th, x_u, x_li)
+
+# Drop ship names in descriptions
+for (j in seq_along(ship_names$Ship))
+{
+  ship_to_find <- paste0(ship_names$Ship[j], "[[:punct:][:space:]]")
+  X_descriptions <- gsub(ship_to_find, "", X_descriptions)
+  if (grepl("^USS", ship_to_find))
+  {
+    ship_to_find <- gsub("^USS", "U.S.S.", ship_to_find)
+    X_descriptions <- gsub(ship_to_find, "", X_descriptions)
+  } else if (grepl("^SS", ship_to_find))
+  {
+    ship_to_find <- gsub("^SS", "S.S.", ship_to_find)
+    X_descriptions <- gsub(ship_to_find, "", X_descriptions)
+  }
+}  
+
+# Drop ordinal numbers
+X_descriptions <- gsub("[0-9]+[t][h]", "", X_descriptions)
+X_descriptions <- gsub("[0-9]+[r][d]", "", X_descriptions)
+
+# Drop 's
+X_descriptions <- gsub("[']s", "", X_descriptions)
+
+# Drop xml tags
+X_descriptions <- gsub("[<][/]*[a-z]+[>]", "", X_descriptions)
+
+# Check Spelling with custom dictionary
+temp_spelling <- hunspell::hunspell(X_descriptions, format = "text", ignore = word_list)
+ind <- which(sapply(temp_spelling, length) > 0)
+if (length(ind) > 0)
+{
+  print(temp_spelling[ind])
+  cat("\n")
+  stop("Spelling Issues Found")
+} else
+{
+  print("No Spelling Issues Found")
+}
