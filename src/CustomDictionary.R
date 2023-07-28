@@ -6,7 +6,7 @@ create_word_list <- function() return(c(
   "Malinta", "Whangpoo", "Fatu", "Tinghai", "Bunji", "Chusan", "Lubang", "Shima", "Nansei",
   "Shoto", "Havannah", "Efate", "Hilliard", "Bonham", "Fila", "Leyte", "Tolosa",
   "Punubulu", "Tulagi", "Purvis", "Ulawa", "Tukituki", "Nguna", "Lelepa",
-  "Sealark", "SeaLark", "Shortlands", "Kiang", "CN", "Matson", "Ulithi", "Urushi",
+  "Sealark", "SeaLark", "Shortlands", "Shortland", "Kiang", "CN", "Matson", "Ulithi", "Urushi",
   "Guiuan", "Roadstead", "Surigao", "Morotai", "Balikpapan", "Tokong", "Sepinggang",
   "Manggar", "Amedee", "Ile", "Nou", "Dumbea", "Boulari", "Renard", "Savo", "Koli",
   "Lunga", "Espiritu", "Santo", "Kokumbona", "Tassafaronga", "Undeka", "Bungana",
@@ -24,7 +24,8 @@ create_word_list <- function() return(c(
   "Magicienne", "Naftan", "Gurguan", "Tinian", "Agingan", "Tanapag", "Clemente",
   "Ormoc", "Dinagat", "Manicani", "Hingatungan", "Lombrum", "Aitape", "Hollandia",
   "Hellgate", "Casco", "Placentia", "Argentia", "Stratford", "Haguman",
-  "Marpi",
+  "Marpi", "Vangunu", "Buajan", "Camotes", "Tatapuraka", 
+  "Namatanai", "Aslito", "Magicienne", "Blackett", "Enogai", "RANONGGA", "Castillejos",
   # Saufley
   "SAUFLEY", 
   # Ship abbreviations
@@ -45,8 +46,9 @@ create_word_list <- function() return(c(
   # ARD - Auxilliary Repair Dock
   # DDs - Destroyers
   # ABSD - Advanced Base Sectional Dock
+  # APC - Minesweeper Coastal
   "LSM", "FS", "MTB", "LST", "APD", "YMS", "DMS", "LCI", "LCV", "LCT", "LCS",
-  "PBY", "AMS", "TP", "ARD", "YF", "DDs", "YP", "YC", "ABSD",
+  "PBY", "AMS", "TP", "ARD", "YF", "DDs", "YP", "YC", "ABSD", "APC",
   # Ship terms
   # SPD - Smokeless Powder stabilized with Diphenolamine
   # DG - degaussing
@@ -64,7 +66,16 @@ create_word_list <- function() return(c(
   "Proj", "Fuze", "fuze", "Rept", "Wilco", "AAC", "HEE", "Sitrep",
   "Halfbreed", "Lehigh", "Sunray", "Wildbeast", "Seahawks",
   "Gayblade", "VOXPOP", "HET", "ack", "moonrise", "photostated",
-  "kts", "Tony", "spd", 
+  "kts", "Tony", "Tonys", "spd", "Aichi", "IFF", "PPI", "doppler", "DRT",
+  "fathometer", "differenced", "Beachmaster", "REB", "strato",
+  "conf", "ltr", "ComPhib", "PacFlt", "PhibFor", "ComPhibGroup",
+  "Unlocated", "synchro", "KCS", "PhibsPac", "SUPV", "OPR", "strake",
+  "GCT", "RBM", "TCS", "FB", "CinCPac", "DTY", "FDL", "BLO", "WINDAGE",
+  "CKI", "NLO", "QRVW", "Bldgs", "HEI", "Incen", "PJ", "PSE", "MINS",
+  "FOTO", "BUCKI", "TIU", "RCM", "TBL", "TBK", "modulater", "BG",
+  "shellman", "PATER", "RVW", "ADEES", "Nafutan", "Bettys",
+  "hydrographic", "overlayed", "prematured", "SFCP", "retuning",
+  "duplexing", "IGI", "occulting",
   # command terms
   #  CDD - Commander Destroyer Division
   #  CDS - Commander Destroyer Squadron
@@ -80,7 +91,7 @@ create_word_list <- function() return(c(
   "ROSENDAHL", "NEVILLE", "CONOLLY", "WR", "WASHBURNE", "HURFF", "MULKEY", 
   "Hanard", "COULLING", "Stalfa", "PAHL", "BLACKLEDGE", "REIFSNIDER", "DICKENSON",
   "MacAinsh", "Conniff", "Kianowski", "WADSWORTH", "Claxton", "Blandy", "HAYLER",
-  "OLDENDORF", "RUDDOCK", "MEE", "RUTTER", "MARQUART"
+  "OLDENDORF", "RUDDOCK", "MEE", "RUTTER", "MARQUART", "PEEBLES", "TAAFFE"
 ))
 
 # Radars

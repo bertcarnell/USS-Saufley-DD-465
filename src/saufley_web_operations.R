@@ -73,6 +73,8 @@ X_descriptions <- c(x_p, x_td, x_th, x_u, x_li)
 # Drop ship names in descriptions
 for (j in seq_along(ship_names$Ship))
 {
+  ship_to_find <- paste0(ship_names$Ship[j], "$")
+  X_descriptions <- gsub(ship_to_find, "", X_descriptions)
   ship_to_find <- paste0(ship_names$Ship[j], "[[:punct:][:space:]]")
   X_descriptions <- gsub(ship_to_find, "", X_descriptions)
   if (grepl("^USS", ship_to_find))
@@ -87,14 +89,25 @@ for (j in seq_along(ship_names$Ship))
 }  
 
 # Drop ordinal numbers
-X_descriptions <- gsub("[0-9]+[t][h]", "", X_descriptions)
-X_descriptions <- gsub("[0-9]+[r][d]", "", X_descriptions)
+X_descriptions <- gsub("[0-9]+[tT][hH]", "", X_descriptions)
+X_descriptions <- gsub("[0-9]+[rR][dD]", "", X_descriptions)
+X_descriptions <- gsub("[0-9]+[nN][dD]", "", X_descriptions)
 
-# Drop 's
-X_descriptions <- gsub("[']s", "", X_descriptions)
+# Drop 's and n't
+X_descriptions <- gsub("['][sS]", "", X_descriptions)
+X_descriptions <- gsub("[nN]['][tT]", "", X_descriptions)
 
 # Drop xml tags
 X_descriptions <- gsub("[<][/]*[a-z]+[>]", "", X_descriptions)
+
+# Drop Radio Sigals
+# "ZUG", "DLS", "DLYI", "DJLF", "TBU",
+# "IJA", "FYK", "VK", "GHE",  "WDI", "GKA", "BLO", "MF", "MBNH", "WQ",
+# "ICLN",
+X_descriptions <- gsub("[(][A-Z]+[)]", "", X_descriptions)
+X_descriptions <- gsub("BLO[-][0-9]+", "", X_descriptions)
+X_descriptions <- gsub(" BT[.]", "", X_descriptions)
+
 
 # Check Spelling with custom dictionary
 temp_spelling <- hunspell::hunspell(X_descriptions, format = "text", ignore = word_list)
@@ -108,3 +121,4 @@ if (length(ind) > 0)
 {
   print("No Spelling Issues Found")
 }
+
