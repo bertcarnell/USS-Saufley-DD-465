@@ -75,8 +75,9 @@
                                 <xsl:variable name="fullurl"><xsl:value-of select="concat($baseurl, $naidurl, '?objectPage=', $objectnum)"/></xsl:variable>
                                 <xsl:if test="items">
                                     <xsl:for-each select="items/item">
+                                        <xsl:variable name="datevar"><xsl:value-of select="date"/></xsl:variable>
                                         <!--<li><a href="{$fullfilename}" target="_blank" rel="noopener noreferrer"><xsl:value-of select="date"/></a></li>-->
-                                        <li><a href="{$fullurl}" target="_blank" rel="noopener noreferrer"><xsl:value-of select="date"/></a></li>
+                                        <li><a  id="{$datevar}" href="{$fullurl}" target="_blank" rel="noopener noreferrer"><xsl:value-of select="date"/></a></li>
                                         <div><xsl:value-of disable-output-escaping="yes" select="description"/></div>
                                         <p></p>
                                     </xsl:for-each>

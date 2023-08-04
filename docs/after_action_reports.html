@@ -20,14 +20,33 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
     <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>    
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        
     <style>
       .navbar {
         margin-bottom: 0;
         border-radius: 0;
       }
     </style>
+
+    <script>
+        // script to allow for switching from the index tab to any other tab
+        // also allows for a direct load of a tab from another page
+        function goToTab(where) {
+            console.log("going to " + where + " tab");
+            $('[data-bs-target="#' + where + '"]').tab('show');
+        }
+
+        $(document).ready(function() {
+            console.log("Document Ready");
+            var url = window.location.href;
+            if (url.indexOf("#") > 0) {
+                var requestedTab = url.substring(url.indexOf("#") + 1);
+                $('[data-bs-target="#' + requestedTab + '"]').tab('show');
+            }
+        });
+    </script>
+
     <title>USS Saufley (DD-465) After Action Reports</title>
   </head>
 
@@ -48,86 +67,134 @@
     <div class="container-fluid" style="padding-left:15px">
         <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item" role="presentation">
-                <button class="nav-link active" id="12Jul1943-tab" data-bs-toggle="tab" data-bs-target="#id12Jul1943" type="button" role="tab" aria-controls="contact" aria-selected="false">SB 12 Jul 43</button>
+                <button class="nav-link active" id="aaindex-tab" data-bs-toggle="tab" data-bs-target="#aaindex" type="button" role="tab" aria-controls="aaindex" aria-selected="true">Index</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="18Jul1943-tab" data-bs-toggle="tab" data-bs-target="#id18Jul1943" type="button" role="tab" aria-controls="home" aria-selected="true">18 Jul 43</button>
+                <button class="nav-link" id="8Jul1943-tab" data-bs-toggle="tab" data-bs-target="#id8Jul1943" type="button" role="tab" aria-controls="id8Jul1943" aria-selected="false">AS 8 Jul 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="15Aug1943-tab" data-bs-toggle="tab" data-bs-target="#id15Aug1943" type="button" role="tab" aria-controls="home" aria-selected="true">AA 15 Aug 43</button>
+                <button class="nav-link" id="12Jul1943-tab" data-bs-toggle="tab" data-bs-target="#id12Jul1943" type="button" role="tab" aria-controls="id12Jul1943" aria-selected="false">SB 12 Jul 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="16Aug1943-tab" data-bs-toggle="tab" data-bs-target="#id16Aug1943" type="button" role="tab" aria-controls="contact" aria-selected="false">16 Aug 43</button>
+                <button class="nav-link" id="18Jul1943-tab" data-bs-toggle="tab" data-bs-target="#id18Jul1943" type="button" role="tab" aria-controls="id18Jul1943" aria-selected="false">AS/AA 18 Jul 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="23Aug1943-tab" data-bs-toggle="tab" data-bs-target="#id23Aug1943" type="button" role="tab" aria-controls="contact" aria-selected="false">23 Aug 43</button>
+                <button class="nav-link" id="15Aug1943-tab" data-bs-toggle="tab" data-bs-target="#id15Aug1943" type="button" role="tab" aria-controls="id15Aug1943" aria-selected="false">AA 15 Aug 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="26Aug1943-tab" data-bs-toggle="tab" data-bs-target="#id26Aug1943" type="button" role="tab" aria-controls="contact" aria-selected="false">26 Aug 43</button>
+                <button class="nav-link" id="16Aug1943-tab" data-bs-toggle="tab" data-bs-target="#id16Aug1943" type="button" role="tab" aria-controls="id16Aug1943" aria-selected="false">AA 16 Aug 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="31Aug1943-tab" data-bs-toggle="tab" data-bs-target="#id31Aug1943" type="button" role="tab" aria-controls="contact" aria-selected="false">31 Aug 43</button>
+                <button class="nav-link" id="23Aug1943-tab" data-bs-toggle="tab" data-bs-target="#id23Aug1943" type="button" role="tab" aria-controls="id23Aug1943" aria-selected="false">AA 23 Aug 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="15Sep1943-tab" data-bs-toggle="tab" data-bs-target="#id15Sep1943" type="button" role="tab" aria-controls="contact" aria-selected="false">15 Sep 43</button>
+                <button class="nav-link" id="26Aug1943-tab" data-bs-toggle="tab" data-bs-target="#id26Aug1943" type="button" role="tab" aria-controls="id26Aug1943" aria-selected="false">AA 26 Aug 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="27Oct1943-tab" data-bs-toggle="tab" data-bs-target="#id27Oct1943" type="button" role="tab" aria-controls="contact" aria-selected="false">27 Oct 43</button>
+                <button class="nav-link" id="31Aug1943-tab" data-bs-toggle="tab" data-bs-target="#id31Aug1943" type="button" role="tab" aria-controls="id31Aug1943" aria-selected="false">AA 31 Aug 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="17Nov1943-tab" data-bs-toggle="tab" data-bs-target="#id17Nov1943" type="button" role="tab" aria-controls="profile" aria-selected="false">AA 17 Nov 43</button>
+                <button class="nav-link" id="15Sep1943-tab" data-bs-toggle="tab" data-bs-target="#id15Sep1943" type="button" role="tab" aria-controls="id15Sep1943" aria-selected="false">AS 15 Sep 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="14Feb1944-tab" data-bs-toggle="tab" data-bs-target="#id14Feb1944" type="button" role="tab" aria-controls="contact" aria-selected="false">AA 14 Feb 44</button>
+                <button class="nav-link" id="27Oct1943-tab" data-bs-toggle="tab" data-bs-target="#id27Oct1943" type="button" role="tab" aria-controls="id27Oct1943" aria-selected="false">AA 27 Oct 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="29Feb1944-tab" data-bs-toggle="tab" data-bs-target="#id29Feb1944" type="button" role="tab" aria-controls="contact" aria-selected="false">SB 29 Feb 44</button>
+                <button class="nav-link" id="17Nov1943-tab" data-bs-toggle="tab" data-bs-target="#id17Nov1943" type="button" role="tab" aria-controls="id17Nov1943" aria-selected="false">AA 17 Nov 43</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="11Jun1944-tab" data-bs-toggle="tab" data-bs-target="#id11Jun1944" type="button" role="tab" aria-controls="contact" aria-selected="false">SB 11 Jun 44</button>
+                <button class="nav-link" id="14Feb1944-tab" data-bs-toggle="tab" data-bs-target="#id14Feb1944" type="button" role="tab" aria-controls="id14Feb1944" aria-selected="false">AA 14 Feb 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="17Jun1944-tab" data-bs-toggle="tab" data-bs-target="#id17Jun1944" type="button" role="tab" aria-controls="contact" aria-selected="false">AA 17-26 Jun 44</button>
+                <button class="nav-link" id="29Feb1944-tab" data-bs-toggle="tab" data-bs-target="#id29Feb1944" type="button" role="tab" aria-controls="id29Feb1944" aria-selected="false">SB 29 Feb 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="16Jul1944-tab" data-bs-toggle="tab" data-bs-target="#id16Jul1944" type="button" role="tab" aria-controls="contact" aria-selected="false">SB 16 Jul 44</button>
+                <button class="nav-link" id="11Jun1944-tab" data-bs-toggle="tab" data-bs-target="#id11Jun1944" type="button" role="tab" aria-controls="id11Jun1944" aria-selected="false">SB 11 Jun 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="27Jul1944-tab" data-bs-toggle="tab" data-bs-target="#id27Jul1944" type="button" role="tab" aria-controls="contact" aria-selected="false">SB 27 Jul 44</button>
+                <button class="nav-link" id="17Jun1944-tab" data-bs-toggle="tab" data-bs-target="#id17Jun1944" type="button" role="tab" aria-controls="id17Jun1944" aria-selected="false">AA 17-26 Jun 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="22Nov1944-tab" data-bs-toggle="tab" data-bs-target="#id22Nov1944" type="button" role="tab" aria-controls="contact" aria-selected="false">AA 22 Nov 44</button>
+                <button class="nav-link" id="16Jul1944-tab" data-bs-toggle="tab" data-bs-target="#id16Jul1944" type="button" role="tab" aria-controls="id16Jul1944" aria-selected="false">SB 16 Jul 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="24Nov1944-tab" data-bs-toggle="tab" data-bs-target="#id24Nov1944" type="button" role="tab" aria-controls="contact" aria-selected="false">AA 24 Nov 44</button>
+                <button class="nav-link" id="27Jul1944-tab" data-bs-toggle="tab" data-bs-target="#id27Jul1944" type="button" role="tab" aria-controls="id27Jul1944" aria-selected="false">SB 27 Jul 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="27Nov1944-tab" data-bs-toggle="tab" data-bs-target="#id27Nov1944" type="button" role="tab" aria-controls="contact" aria-selected="false">SB + AS 27 Nov 44</button>
+                <button class="nav-link" id="22Nov1944-tab" data-bs-toggle="tab" data-bs-target="#id22Nov1944" type="button" role="tab" aria-controls="id22Nov1944" aria-selected="false">AA 22 Nov 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="27Nov1944-tab-2" data-bs-toggle="tab" data-bs-target="#id27Nov1944-2" type="button" role="tab" aria-controls="contact" aria-selected="false">AA 27 Nov 44</button>
+                <button class="nav-link" id="24Nov1944-tab" data-bs-toggle="tab" data-bs-target="#id24Nov1944" type="button" role="tab" aria-controls="id24Nov1944" aria-selected="false">AA 24 Nov 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="29Nov1944-tab" data-bs-toggle="tab" data-bs-target="#id29Nov1944" type="button" role="tab" aria-controls="contact" aria-selected="false">AA 29 Nov 44</button>
+                <button class="nav-link" id="27Nov1944-tab" data-bs-toggle="tab" data-bs-target="#id27Nov1944" type="button" role="tab" aria-controls="id27Nov1944" aria-selected="false">SB/AS 27 Nov 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="08Jan1945-tab" data-bs-toggle="tab" data-bs-target="#id08Jan1945" type="button" role="tab" aria-controls="profile" aria-selected="false">AA 8 Jan 45</button>
+                <button class="nav-link" id="27Nov1944-tab-2" data-bs-toggle="tab" data-bs-target="#id27Nov1944-2" type="button" role="tab" aria-controls="id27Nov1944-2" aria-selected="false">AA 27 Nov 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="1Feb1945-tab" data-bs-toggle="tab" data-bs-target="#id1Feb1945" type="button" role="tab" aria-controls="profile" aria-selected="false">1 Feb 45</button>
+                <button class="nav-link" id="29Nov1944-tab" data-bs-toggle="tab" data-bs-target="#id29Nov1944" type="button" role="tab" aria-controls="id29Nov1944" aria-selected="false">AA 29 Nov 44</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="10Mar1945-tab" data-bs-toggle="tab" data-bs-target="#id10Mar1945" type="button" role="tab" aria-controls="profile" aria-selected="false">10 Mar 45</button>
+                <button class="nav-link" id="08Jan1945-tab" data-bs-toggle="tab" data-bs-target="#id08Jan1945" type="button" role="tab" aria-controls="id08Jan1945" aria-selected="false">AA 8 Jan 45</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="16Mar1945-tab" data-bs-toggle="tab" data-bs-target="#id16Mar1945" type="button" role="tab" aria-controls="profile" aria-selected="false">16 Mar 45</button>
+                <button class="nav-link" id="1Feb1945-tab" data-bs-toggle="tab" data-bs-target="#id1Feb1945" type="button" role="tab" aria-controls="id1Feb1945" aria-selected="false">SB 1 Feb 45</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="23Jun1945-tab" data-bs-toggle="tab" data-bs-target="#id23Jun1945" type="button" role="tab" aria-controls="profile" aria-selected="false">23 Jun 45</button>
+                <button class="nav-link" id="10Mar1945-tab" data-bs-toggle="tab" data-bs-target="#id10Mar1945" type="button" role="tab" aria-controls="id10Mar1945" aria-selected="false">10 Mar 45</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="16Mar1945-tab" data-bs-toggle="tab" data-bs-target="#id16Mar1945" type="button" role="tab" aria-controls="id16Mar1945" aria-selected="false">SB 16 Mar 45</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="23Jun1945-tab" data-bs-toggle="tab" data-bs-target="#id23Jun1945" type="button" role="tab" aria-controls="id23Jun1945" aria-selected="false">SB 23 Jun 45</button>
             </li>
         </ul>
         <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="id15Aug1943" role="tabpanel" aria-labelledby="15Aug194-tab">
+            <div class="tab-pane fade show active" id="aaindex" role="tabpanel" aria-labelledby="aaindex-tab">
+                <div class="row">
+                    <h3>Index of Action Reports</h3>
+
+                    <ul>
+                        <li><a href="javascript:goToTab('id8Jul1943')">7/8/43 - Anti-Submarine (2052 7/8/43)</a></li>
+                        <li><a href="javascript:goToTab('id12Jul1943')">7/12/43 - Shore Bombardment of Munda (19670 7/12/43)</a></li>
+                        <li><a href="javascript:goToTab('id18Jul1943')">7/18/43 - Anti-Surface and Anti-Aircraft, off Kolombangara Island (686 7/19/43)</a></li>
+                        <li><a href="javascript:goToTab('id15Aug1943')">8/15/43 - Anti-Aircraft (254 8/24/43)</a></li>
+                        <li><a href="javascript:goToTab('id16Aug1943')">8/16 - 8/19/43 - Anti-Aircraft and Rescue, landing on Barakoma (255 8/24/43)</a></li>
+                        <li><a href="javascript:goToTab('id23Aug1943')">8/23/43 - Anti-Aircraft (256 8/28/43)</a></li>
+                        <li><a href="javascript:goToTab('id26Aug1943')">8/26/43 - Anti-Aircraft (260 9/2/43)</a></li>
+                        <li><a href="javascript:goToTab('id31Aug1943')">8/31/43 - Anti-Aircraft (259 9/2/43)</a></li>
+                        <li><a href="javascript:goToTab('id15Sep1943')">9/15/43 - Anti-Submarine, Occupation of Vella Lavella (264 9/18/43)</a></li>
+                        <li><a href="javascript:goToTab('id27Oct1943')">10/27/43 - Anti-Aircraft, Initial Landing on Treasury Island (0300 11/8/43)</a></li>
+                        <li><a href="javascript:goToTab('id17Nov1943')">11/17/43 - Anti-Aircraft, Empress Augusta Bay (0310 11/19/43)</a></li>
+                        <li><a href="javascript:goToTab('id14Feb1944')">2/14 - 2/15/44 - Anti-Aircraft, off Green Island (0366 2/16/44)</a></li>
+                        <li><a href="javascript:goToTab('id29Feb1944')">2/29 - 3/1/44 - Shore Bombardment of New Ireland Area (0375 3/2/44)</a></li>
+                        <li><a href="USS_Saufley_WarReports.xml#1944-03-15">Serial 0383 mentioned in 3/15/1944 War Diary</a></li>
+                        <li><a href="USS_Saufley_WarReports.xml#1944-04-07">Serial 0405 dated April 1944 mentioned in 4/7/1944 War Diary</a></li>
+                        <li><a href="javascript:goToTab('id11Jun1944')">6/11 - 7/9/44 - Shore Bombardment, Invasion of Saipan Island (0450 7/11/44)</a></li>
+                        <li><a href="javascript:goToTab('id17Jun1944')">6/17 - 6/26/44 - Anti-Aircraft, off Saipan Island (0451 7/7/44)</a></li>
+                        <li><a href="javascript:goToTab('id16Jul1944')">7/16 - 7/20/44 - Shore Bombardment, Tinian Island (0458 7/26/44)</a></li>
+                        <li><a href="javascript:goToTab('id27Jul1944')">7/27 - 8/5/44 - Shore Bombardment, Tinian IslandGo to History (0470 8/10/44)</a></li>
+                        <li><a href="javascript:goToTab('id22Nov1944')">11/22/44 - Anti-Aircraft, Surigao Straits (0564 12/9/44)</a></li>
+                        <li><a href="javascript:goToTab('id24Nov1944')">11/24/44 - Anti-Aircraft, Leyte Gulf (0560 12/9/44)</a></li>
+                        <li><a href="javascript:goToTab('id27Nov1944')">11/27 - 11/28/44 - Shore Bombardment and Anti-Submarine in Ormoc Bay, Leyte Island (0565 12/10/44)</a></li>
+                        <li><a href="javascript:goToTab('id27Nov1944-2')">11/27/44 - Anti-Aircraft, Leyte Gulf (0561 12/9/44)</a></li>
+                        <li><a href="javascript:goToTab('id29Nov1944')">11/29/44 - Anti-Aircraft, Leyte Gulf (0562 12/9/44)</a></li>
+                        <li><a href="USS_Saufley_WarReports.xml#1944-12-01">Serial 0576 dated 12/6/44 mentioned in 12/1/44 War Diary</a></li>
+                        <li><a href="javascript:goToTab('id08Jan1945')">1/8 - 1/12/45 - Anti-Aircraft, off Luzon Island (012 1/16/45)</a></li>
+                        <li><a href="javascript:goToTab('id1Feb1945')">2/1/45 - Anti-Shipping and Shore Bombardment, Luzon Island (033 2/1/45)</a></li>
+                        <li><a href="USS_Saufley_WarReports.xml#1945-02-25">Serial 070 dated 2/27/45 mentioned in 2/25/45 War Diary</a></li>
+                        <li><a href="USS_Saufley_WarReports.xml#1945-03-01">Serial 081 dated 3/2/45 mentioned in 3/1/45 War Diary</a></li>
+                        <li><a href="javascript:goToTab('id10Mar1945')">3/10 - 3/16/45 - Operations in support of Mindanao Island (0115 3/18/45)</a></li>
+                        <li><a href="javascript:goToTab('id16Mar1945')">3/16/45 - Shore Bombardment of Basilan Island (092 3/18/45)</a></li>
+                        <li><a href="USS_Saufley_WarReports.xml#1945-04-09">Serial 0145 dated 4/11/45 mentioned in 4/9/45 War Diary</a></li>
+                        <li><a href="javascript:goToTab('id23Jun1945')">6/23 - 7/19/45 - Shore Bombardment, Borneo (0451 7/19/45)</a></li>
+                        <li><a href="USS_Saufley_WarReports.xml#1945-07-10">Serial 0443 dated 7/11/45 mentioned in 7/10/45 War Diary</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="id15Aug1943" role="tabpanel" aria-labelledby="15Aug194-tab">
                 <div class="row">
                     <h3><a href="https://catalog.archives.gov/id/78153016">USS SAUFLEY - Rep Of AA Action, 8/15/43</a></h3>
                     <h4>AUG 24, 1943</h4>
@@ -615,7 +682,7 @@
                         operations.</p>
                     <p>2.  Bogies were picked up at 1900 on the 16th while
                         the SAUFLEY in company with the WALLER and PHILIP was proceeding
-                        to rendezvous with 1ST's off the RUSSEL ISLANDS. At 1910 commenced firing 5" battery while off CAFE ESPERANCE, GUADALCANAL.
+                        to rendezvous with LST's off the RUSSEL ISLANDS. At 1910 commenced firing 5" battery while off CAFE ESPERANCE, GUADALCANAL.
                         No results were observed. Contact considered doubtful. During
                         the night bogies were frequently reported but none came within
                         gun range.</p>
@@ -626,7 +693,7 @@
                         and LST's opened up with 20mm's. No results were observed. LST's
                         then got underway and the task group proceeded down GIZO STRAIT
                         at 9 knots, destroyers patrolling at 30 knots, laying smoke
-                        screens to cover LST'S. At 2142 & plane cane in low over the
+                        screens to cover LST'S. At 2142 a plane came in low over the
                         formation at high speed. Only the flames from his exhaust could
                         be seen and all ships opened up with 40 and 20mm's. The plane
                         seemed to be encompassed by tracers but he apparently was not
@@ -683,7 +750,7 @@
                         pulled out of their dives at between 400 and 1000 feet. About
                         8 - 10 planes participated in the raid.</p>
                     <p>6.  At 0855 Commander Destroyer Squadron TWENTY-TWO
-                        came aboard and the WAILER departed as bow damage from collision
+                        came aboard and the WALLER departed as bow damage from collision
                         limited her to 20 knots. At 1150 so radar reported bogies at 11
                         miles but they did not come in.</p>
                     <p>7.  At 1305 weather closed in and own fighter planes
@@ -701,7 +768,7 @@
                         appeared to be close. The plane was losing altitude end appeared
                         to be in trouble since it did not maneuver. Shortly after,
                         fighter coverage arrived and reported seeing the plane burning
-                        near south shore of KOLOMBANGARA. The please was an Aichi 99.</p>
+                        near south shore of KOLOMBANGARA. The plane was an Aichi 99.</p>
                     <p>8.  At 1600 the 40mm's opened fire on three planes coming 
                         in from southward low over hills of VELLA LAVELLA in a close
                         formation. Range about 3000 yards. The 5" battery opened fire
@@ -1648,7 +1715,7 @@
                     <div><u>12 March 1945</u></div>
                     <dl class="row">
                         <dt class="col-sm-2">0100</dt>
-                        <dd class="col-sm-10">Relieved USS THILIP in inner fire support sector
+                        <dd class="col-sm-10">Relieved USS PHILIP in inner fire support sector
                             North of Little Santa Cruz Island. During this
                             period drifting LCI's seriously embarrassed the
                             movements of this vessel in this narrow channel.</dd>
@@ -3402,7 +3469,7 @@
                         station in Fire Support Sector #3, southwest of Tinian Town and
                         to await target assignment from Naval Gunfire Liaison officer #81.</p>
 
-                    <p>The sea WAS calm and was accompanied by variable winds.
+                    <p>The sea was calm and was accompanied by variable winds.
                     Visibility varied with intermittent rain squalls throughout the night
                     and the following morning.</p>
 
@@ -5052,7 +5119,7 @@
                         stimulated interest among lookout personnel thereby promoting
                         greater efficiency.</p>
                     <p>During the air attack on 8 January radar interception analyzed
-                        as being produced by a Japanese air search ruder operating on a
+                        as being produced by a Japanese air search radar operating on a
                         frequency of 155 megacycles was detected. This, however, aid not
                         interfere with own ship's air search radar.</p>
                     <p>Coaching control on target by means of automatic bearing
@@ -5324,7 +5391,7 @@
 
                 <div class="row">
                     <p>1.  The SAUFLEY in company with USS RENSHAW, USS CONY, and
-                        Destroyer Division FORTY-ONE got underway from PURVIS DAY at
+                        Destroyer Division FORTY-ONE got underway from PURVIS BAY at
                         1540, 22 August 1943, to proceed up the slot and intercept one
                         Japanese heavy cruiser and three destroyers reported by our
                         aircraft to be off northwest tip of BOUGAINVILLE on course 160°,
@@ -5428,13 +5495,13 @@
                         1943, in accordance with Commander Task Force THIRTY-ONE'S
                         secret despatch 290040 of August, to proceed to BARAKOMA, VELLA
                         LAVELLA. Tank Group consisted of USS RENSHAW, USS CONY, USS DENT, USS MCKEAN
-                        and L3T's #398, 341 and 353. Commander Task Group, Captain W.
+                        and LST's #398, 341 and 353. Commander Task Group, Captain W.
                         R. COOKS, U.S. Navy, Commander Destroyer Squadron TWENTY-TWO,
                         was in the SAUFLEY.</p>
                     <p>2. At 1830 on the 30th just after sunset, bogies
                         were picked up at 12 miles bearing 350° (T). Destroyers commenced
                         making smoke and patrolling at 25 knots. At 1850 no bogies
-                        could be picked w and destroyers returned to normal screening.</p>
+                        could be picked up and destroyers returned to normal screening.</p>
                     <p>3. At 0145 on the 31st, five IGI's joined Task Group.
                         While in MUNDA STRAIT, at 0250, two bogies were picked up at 15
                         miles coming in from the south. Planes never did come in close
@@ -5498,7 +5565,7 @@
                         1445 a torpedo plane was reported over RANONGGA ISLAND on the
                         fighter circuit. other bogies were also reported but turned out
                         to be friendly.</p>
-                    <p>9. At 1934, while in MUNDA STRAIT, a bogie WAS picked
+                    <p>9. At 1934, while in MUNDA STRAIT, a bogie was picked
                         up at 42 miles, bearing 295 (T), closing rapidly. At 1945 bogie
                         was 11 miles, bearing 300°(T). At 1950 MUNDA Airfield opened up
                         with searchlights and antiaircraft fire. Plane was apparently a
@@ -5550,7 +5617,7 @@
                         withdrew apparently not having made contact with this group.</p>
                     <p>4. At 0320 bogie picked up on SC radar bearing 290 (T),
                         range 29 miles approaching formation. Set Condition I as bogie
-                        was closing rapidly. Bogie cane directly in toward the ships.
+                        was closing rapidly. Bogie came directly in toward the ships.
                         At 0340 commenced firing at a range of 2800 yards and bogie withdrew. 
                         At this time the bogie gave the correct emergency identification. 
                         "Cease Fire" was given just after plane dropped flares,
@@ -5575,7 +5642,7 @@
                         which aid no damage to any ships in group. At 0637 ceased making
                         smoke. Ships at this time were starting north through GIZO STRAIT.</p>
                     <p>7. During the remainder of the operation and during
-                        the return from BARAKOMA to KOKUMBONA, Task Group THIRTY-ORE point
+                        the return from BARAKOMA to KOKUMBONA, Task Group THIRTY-ONE point
                         SIX had several SC radar contacts but at no time aid bogies close
                         the formation.</p>
                 </div>
@@ -7438,6 +7505,224 @@
                         <tr><td>1232</td><td>Mogul</td><td>C-5</td><td>No further need of fire, thank you.</td></tr>
                         <tr><td>    </td><td>C-5</td><td>Mogul</td><td>Roger - Out.</td></tr>
                     </table>
+                </div>
+            </div>
+
+
+            <div class="tab-pane fade" id="id8Jul1943" role="tabpanel" aria-labelledby="8Jul1943-tab">
+                <div class="row">
+                    <h3><a href="https://catalog.archives.gov/id/134302284?objectPage=10">ACTION REPORT OF ATTACK ON JAPANESE SUBMARINE 8 JULY 1943</a></h3>
+                    <h4>8 July 1943</h4>
+                    <u>REPORT BY COMMANDING OFFICER:</u>
+                </div>
+        
+                <dl class="row">
+                    <dt class="col-sm-2">Enclosures:</dt>
+                    <dd class="col-sm-10">
+                        <ul class="list-unstyled">
+                            <li>(A) A detailed chronological record of events.</li>
+                            <li>(B) Dead Reckoning Trace.</li>
+                            <li>(C) Anti-submarine Action Report by Surface Ship (First Contact).</li>
+                            <li>(D) Sound Range Recorder Trace (First Contact).</li>
+                            <li>(E) Anti-Submarine Action Report by Surface Ship (Second Contact).</li>
+                            <li>(F) Sound Range Recorder Trace (Second Contact).</li>
+                        </ul>
+                    </dd>
+                </dl>
+
+                <div class="row">
+                    <p>
+                    1.  During the approach, after being directed to investigate,
+                    the ship went to General Quarters and preparations
+                    were made for torpedo, gun and depth charge attack.  Torpedoes
+                    were left at basic depth setting of ten (10) feet and medium
+                    speed.  Depth charges were set for a nine charge medium pattern
+                    (two hundred (200) feet).  Main battery director was put on target
+                    and commenced tracking immediately.  Control was directed to be
+                    prepared to illuminate with star shells from one gun when fire was
+                    opened.  Both SG and FD radars had good contacts.  Some uncertainty
+                    arose as to the nature of the target however because of the low
+                    speed and apparent erratic courses until about 0526.
+                    </p>
+                    <p>
+                    2.  In addition, the FD radar reported two targets in
+                    line and about one thousand (1000) yards apart.  The near target
+                    disappeared from the FD screen, however, at about five thousand
+                    (5000) yards and from then on both plot and CIC agreed on target
+                    course and speed.  The early stages of the CIC plot resembled
+                    that of a rain squall however.  This may have been due to inaccurate
+                    ranges and bearings at the extreme ranges first obtained for
+                    this type of target, or it may have been due to the submarine's
+                    lying to, or possibly to the presence of two or more targets.
+                    </p>
+                    <p>
+                    3.  When the range was about four thousand (4000) yards the
+                    target was seen directly ahead and indistinctly in binoculars
+                    from the bridge.  Since target speed was still low, the
+                    decision was made to stand on before opening fire in case the
+                    submarine was slow to diving and a ramming attack became possible.
+                    The target quickly became more distinct, probably due to the beginning
+                    of dawn, and at two thousand five hundred (2500) yards
+                    was clearly visible.  At that time (0533) the target was seen
+                    to be broadside on to us, still making very low speed, and high
+                    out of the water.  It appeared similar to the I-1 class except
+                    that no deck guns were observed.  His length was estimated as
+                    about three hundred (300) feet.
+                    </p>
+                    <p>
+                    4.  At that time it was believed that the submarine
+                    could not possibly fail to see us and therefore course was altered
+                    about 40 to the right and Main Battery and Torpedo Party told to
+                    stand by.  As soon as the after guns would bear orders were given
+                    to fire 5” and also a salvo of three (3) torpedoes.  Then the
+                    range had closed to about two thousand (2000) yards commenced
+                    firing with 20 and 40mm machine guns.  Eight (8) salvos of 5"
+                    were fired and seven (7) starshells.  The Commanding Officer gave
+                    "Cease fire torpedo battery" after the Torpedo Officer ordered
+                    “Fire three”.  The torpedoman on the ready switches was slow,
+                    however, and the third torpedo did not get off on the Torpedo
+                    Officer's command.  The torpedoman heard the Commanding
+                    Officer's "Cease fire" he failed to close his switch for the
+                    third torpedo.  Right after that the submarine submerged at a
+                    range of about twelve hundred (1200) yards, and about abeam.
+                    Gunfire was ceased and the rudder was then put hard left in an
+                    attempt to reach a position for dropping depth charges.  The close
+                    range and shock of gunfire as well as the 5" splashes prevented
+                    SG radar and CIC party from getting a clear radar plot and the
+                    high speed prevented getting any sound plot.  After getting the
+                    rudder over, however, the speed was reduced to eighteen (18) knots
+                    and echo ranging begun.
+                    </p>
+                    <p>
+                    5.  The 5" salvos were reported to straddle by the spotter
+                    although several were observed short from the bridge.  It was
+                    afterwards found the director pointer had been using his sight
+                    on the horizon until fire was opened but that the splashes
+                    prevented him from seeing clearly after that and it is believed
+                    that his pointing was erratic.  Hereafter full reliance will be
+                    placed on the stable element for night firing and laying by
+                    telescope will not be attempted unless stable element fails.
+                    </p>
+                    <p>
+                    6.  It is believed that the torpedoes probably missed
+                    due to their shallow setting and the fact that the submarine
+                    probably got beneath them just as they crossed the line.  All
+                    other factors in the setup were rechecked immediately after
+                    firing and no errors were found.  It is now believed that one tube
+                    mount should be put on twenty-five (25) feed basic depth setting
+                    and the other left on a shallow for future attacks of this type.
+                    Ordinarily on runs "Up the slot" from Guadalcanal it is believed
+                    that the most likely targets are destroyers and light transports
+                    and accordingly shallow depth settings are required.
+                    </p>
+                    <p>
+                    7.  After echo ranging was begun the target was finally
+                    picked up by sound gear on bearing 225 range one thousand (1000)
+                    yards.  The ship was brought right to the attack course, continuing
+                    the speed eighteen (18) knots.  On reaching that course it was
+                    found that the submarine had reversed course to give us a stern
+                    chase.  Range rate was about ten (10) knots.  The reversal of
+                    submarine course made it difficult to set a lead angle but it is
+                    believed that a correct approach was finally made because a large
+                    boil was observed in the water about fifty (50) feet off the
+                    starboard bow just before the depth charges were dropped.  The
+                    firing was done from the recorder using a five (5) second extra
+                    delay.  The depth charge pattern extended about one hundred (100)
+                    yards beyond the "boil" along the track.
+                    </p>
+                    <p>
+                    8.  After returning for a second attack, speed was
+                    reduced to fifteen (15) knots and contact was finally made at 0613 and
+                    a new run begun.  In this case the echoes were weaker than
+                    the first one and could not conclusively be said to be a submarine.
+                    </p>
+                    <p>
+                    9.  An attack was made however, as shown on the track
+                    chart and a second nine (9) charge pattern dropped.  One good echo was
+                    obtained dead aft at five hundred (500) yards about one minute
+                    after the last charge was dropped.  Thereafter no more contacts
+                    could be obtained.  The area was searched for twelve (12) hours
+                    by this ship as shown on the track chart.  At that time the
+                    SAUFLEY was relieved by the U.S.S. PHILIP and search continued
+                    for about seven (7) hours additional.
+                    </p>
+                    <p>
+                    10.  In view of the fact that the USS PHILIP also had SG
+                    Radar and made no contacts after dark it is believed that the
+                    submarine was hit by the first depth charge pattern and sunk.
+                    If it had been undamaged it is believed that it would have surfaced
+                    after dark and attempted to escape.  In that case it is believed
+                    that it would been picked up by the PHILIP's SG radar.
+                    </p>
+                    <p>
+                    11.  In future attacks of this sort a high speed
+                    direct approach will be made.  If no unusual motion of target is
+                    observed a pattern of three (3) torpedoes will be fired using
+                    curved fire ahead and a twenty-five (25) foot depth setting with
+                    magnetic exploder inoperative.  This permits a direct ramming
+                    approach in case the submarine does not submerge in time.  It is
+                    believed that gunfire is relatively ineffective at the longer
+                    ranges of 5000 - 6000 yards and at short ranges the turn to bring
+                    all guns to bear hampers a ramming approach.  In any event gunfire
+                    gives a very positive warning of the destroyer's presence
+                    and the submarine is sure to dive immediately if not hit on one
+                    of the early salvos.
+                    </p>
+                    <p>
+                    12.  In this case it is not believed that the Japanese
+                    listening gear was very effective since no action was taken by
+                    the submarine until a range of twenty-five hundred (2500) yards
+                    Was reached and gunfire begun.  It should be noted that the SAUFLEY
+                    did not echo range until after the submarine submerged.
+                    </p>
+                    <h3>ENCLOSURE(A) Chronological Record of Events.  Submarine Attack - 8 July 1943</h3>
+                    <div>Action Report: Chronological record of events.</div>
+                    <div>0515 SAUFLEY received orders from Commander Destroyer Squadron
+                    TWENTY TWO to investigate and report on surface radar
+                    contact reported by the USS CLEVELAND at 0510.</div>
+                    <div>0516 Changed course to 056 T, SAUFLEY contact bearing, range
+                    18000 yards. SAUFLEY speed 27 knots.</div>
+                    <div>0519 CIC commenced tracking, range 15000 yards.</div>
+                    <div>0521 CIC reported target course 130, slow moving target,
+                    probably submarine.</div>
+                    <div>0523 CIC reported target changing course to the right, course
+                    240, speed 7 knots.</div>
+                    <div>0523 Commenced steering directly toward target.</div>
+                    <div>0525 CIC reported target changing course to the left.</div>
+                    <div>0527 CIC reported target on course 140 at speed of 5 knots.</div>
+                    <div>0533 Changed course to the right to 100 T and commenced
+                    firing with main battery, range about 2300 yards bearing
+                    062 from CIC Plot.</div>
+                    <div>0534 Commenced firing with 20mm and 40mm guns, fired two
+                    torpedoes, range about 1600 bearing 055 from CIC Plot.
+                    SG radar lost contact.</div>
+                    <div>0535 Submarine submerging.</div>
+                    <div>0536 Ceased firing, changed course to the left and steadied
+                    on course 055.</div>
+                    <div>0540 Slowed to 18 knots.</div>
+                    <div>0544 Changed course to about 170 to pick up sound contact.</div>
+                    <div>0548 Picked up sound contact bearing 225 T, range 1000 yards.
+                    CIC commenced tracking.</div>
+                    <div>0550 Changed course to overtake submarine - stern chase.</div>
+                    <div>0552 CIC reported submarine course 280 T.</div>
+                    <div>0555 Control reported large "boil" in water about 50 feet
+                    on starboard bow.  Also observed from bridge.  First
+                    depth charges dropped about 15 seconds afterward.
+                    Last charge of pattern about 100 yards beyond "boil".</div>
+                    <div>0555 Dropped first 9 charge pattern Latitude 08-23-45 S.
+                    Longitude 158-53-00 E.</div>
+                    <div>0600 Slowed to 15 knots and changed course to 090 to regain
+                    contact.</div>
+                    <div>0613 Picked up second contact bearing 200, range 1400 yards.
+                    Weak echoes.</div>
+                    <div>0613 Changed course to contact bearing CIC.  Unable to plot
+                    course of due to fact echoes were weak and not consistent.</div>
+                    <div>0617 Dropped second 9 charge pattern Latitude 08-25-50,
+                    Longitude 158-55-00.</div>
+                    <div>0619 One definite echo obtained right astern, distant 500
+                    yards.  No other echoes could be obtained however.</div>
+                    <div>0623 Reversed course in attempt to regain contact.</div>
+                    <div>0634 Commenced searching area, unable to regain contact.</div>
                 </div>
             </div>
         </div>
