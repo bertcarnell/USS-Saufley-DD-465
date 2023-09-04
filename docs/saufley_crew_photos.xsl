@@ -47,9 +47,9 @@
             <div class="container-fluid">
                 <h4>Notes:</h4>
                 <ul>
-                    <li>According to Mark Larned in Uncommon Crew, these photographs were taken on Zamboanga, Mindanao, Philippines, March 15, 1945.  See pg 257 of Uncommon Crew.  According to the War Diary, Saufley was in the area on that date, but there is no indication that they were in port or anchored for the photos.</li>
+                    <li>According to Mark Larned in Uncommon Crew, these photographs were taken on Zamboanga, Mindanao, Philippines, March 15, 1945.  See pg 257 of Uncommon Crew.  According to the War Diary, Saufley was in the area on that date, but there was no annotation that photographs were being taken.</li>
                     <li>In Tin Can Man, EJ Jernigan credits photo 48 to Willis Norman and photo 25 to Orville Elliott</li>
-                    <li>Each photo in Robert Rettger's collection was numbered with a stamp on the reverse, likely from the photographer.  Some photos were annotated with the people in the photo by Robert E Rettgers, other descriptions come from various soruces.</li>
+                    <li>Each photo in Robert Rettgers' collection was numbered with a stamp on the reverse, likely from the photographer.  Some photos were annotated with the people in the photo by Robert E Rettgers, other descriptions come from various soruces.</li>
                     <li>If you see an error, can name someone pictured, or have a picture from this set of WWII pictures, please enter an issue <a href="https://github.com/bertcarnell/USS-Saufely-DD-465/issues">here</a></li>
                 </ul>
             </div>
