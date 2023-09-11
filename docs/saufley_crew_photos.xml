@@ -388,6 +388,18 @@
     <text>On leave either in Sydney 1943, or San Francisco/San Diego in 1944</text>
     <source>Robert Rettgers Personal Photos</source>
 </photo>
+<photo id="70">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Sydney+Australia+1943+Rettgers+Larned+Treat.jpg</url>
+    <title>Sydney 1943</title>
+    <text>John Larned, Marshall Treat, Robert Rettgers</text>
+    <source>Robert Rettgers Personal Photos, Uncommon Crew pg 258</source>
+</photo>
+<photo id="71">
+    <url>https://saufleyphotos.s3.us-east-2.amazonaws.com/wwiiphotos/Saufley_Battle_Record.jpg</url>
+    <title>USS Saufley Battle Record</title>
+    <text></text>
+    <source>Robert Rettgers Personal Photos</source>
+</photo>
 
 <!--
 <photo id="">
