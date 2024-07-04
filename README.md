@@ -1,4 +1,4 @@
-# USS Saufely (DD-465)
+# USS Saufley (DD-465)
 
 Research surrounding the WWII service of the USS Saufley (DD-465) and her crew.
 
@@ -14,5 +14,5 @@ Research surrounding the WWII service of the USS Saufley (DD-465) and her crew.
 
 ## Contribute
 
-If you have a photograph or information to contribute, please enter an [issue](https://github.com/bertcarnell/USS-Saufely-DD-465/issues).  As always, this is also an open source project, so pull requests are also encouraged.
+If you have a photograph or information to contribute, please enter an [issue](https://github.com/bertcarnell/USS-Saufley-DD-465/issues).  As always, this is also an open source project, so pull requests are also encouraged.
 
