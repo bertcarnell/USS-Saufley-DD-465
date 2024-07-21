@@ -2,7 +2,7 @@
 
 Research surrounding the WWII service of the USS Saufley (DD-465) and her crew.
 
-[Website](https://bertcarnell.github.io/USS-Saufely-DD-465/)
+[Website](https://bertcarnell.github.io/USS-Saufley-DD-465/)
 
 ## Major Components
 
